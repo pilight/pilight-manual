@@ -1,2 +1,3 @@
 # pilight-manual
-pilight collaborative manual
+
+*please notice that these manuals are not open source licensed*
