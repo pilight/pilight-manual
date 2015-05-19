@@ -4,21 +4,21 @@
  <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="125" meta:word-count="1156" meta:character-count="6759" meta:non-whitespace-character-count="5595"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">128693</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">23497</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">42256</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22809</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3016</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3203</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25594</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">140123</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">23495</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">22384</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">128693</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">42254</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">151500</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4418774</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4458535</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -329,7 +329,7 @@
    <style:text-properties fo:color="#000000" style:font-size-asian="10.5pt" style:shadow="none"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
-   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+   <style:text-properties style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
@@ -995,20 +995,6 @@
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
   </style:style>
-  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.463cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00034f41"/>
   </style:style>
@@ -1406,6 +1392,58 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -1512,13 +1550,13 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P140"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc368_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Devices<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc370_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc384_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Structure<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T64">Device Types</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc388_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Multiple IDs<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc390_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Multiple Protocols Per Device<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc392_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Overriding Protocol Settings<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P120"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc368_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Devices<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc370_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc384_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Structure<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T64">Device Types</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc388_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Multiple IDs<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc390_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Multiple Protocols Per Device<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc392_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Overriding Protocol Settings<text:tab/>5</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:h text:style-name="P57" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc370_870526104"/>Introduction<text:bookmark-end text:name="__RefHeading___Toc370_870526104"/></text:h>
@@ -1529,7 +1567,7 @@
    <text:p text:style-name="Text_20_body">If your specific brand / device is <text:span text:style-name="T95">not</text:span> listed, but <text:span text:style-name="Emphasis">pilight-receive</text:span> does show output, then contact us so we can add the device to the specific protocol supported brand list.</text:p>
    <text:p text:style-name="Text_20_body"/>
    <text:h text:style-name="P101" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc384_870526104"/>Structure<text:bookmark-end text:name="__RefHeading___Toc384_870526104"/></text:h>
-   <text:list xml:id="list5066762354906366270" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list8506075084530485782" text:style-name="Code_20_Numbering">
     <text:list-item>
      <text:p text:style-name="Code"><text:span text:style-name="T92">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
@@ -1584,7 +1622,7 @@
    </text:list>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="Emphasis"><text:span text:style-name="T64">Each device you want to </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">set-up</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> in pilight has its own entry. In this example we have </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">set-up</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> two devices. One GPIO connected Relay that turns the television on and off and </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">KlikAanKlikUit controlled </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64">bookShelveLight.</text:span></text:span></text:p>
    <text:p text:style-name="P42"><text:span text:style-name="Emphasis"><text:span text:style-name="T64">Whenever an action has been performed </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">or received</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> by pilight the registered device will update itself when necessary. So, would you in this example, turn the bookShelveLight </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">t</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64">o on with a KlikAanKlikUit remote, pilight will also record this, and change the status of the bookShelveLight to on. Of course, a receiver needs to be connected for this to work. Each device has it</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T68">s</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> own specific syntax but its basic properties remain the same. That is:</text:span></text:span></text:p>
-   <text:list xml:id="list7590471331991037578" text:style-name="L1">
+   <text:list xml:id="list4169575236841486994" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P131"><text:span text:style-name="Emphasis"><text:span text:style-name="T67">name</text:span></text:span></text:p>
     </text:list-item>
@@ -1633,7 +1671,7 @@
     </draw:frame>pilight can work with various device types. Each device type has different functionality and requirements, however, they sometimes use the same code characteristics. One example are the KlikAanKlikUit switches, dimmers, doorbells, and screens. When you run pilight-receive a KlikAanKlikUit code can show up like this:<text:line-break/>As you can see, a single KlikAanKlikUit <text:span text:style-name="T93">command</text:span> was interpreted as three different devices. You need to choose carefully which device actually sent <text:span text:style-name="T93">the</text:span> code to make sure how to define it in the device <text:span text:style-name="T93">set-up.</text:span> The difference is that a dimmer will have a slider and a<text:span text:style-name="T93">n</text:span> on/off button, a switch will just show an on/off button, and a screen will have momentary up/down buttons. Defining a screen as a dimmer <text:span text:style-name="T93">is possible but does not give you the ability to control the dimmer as a dimmer from the different GUIs.</text:span></text:p>
    <text:h text:style-name="P102" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc388_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Multiple IDs</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc388_870526104"/></text:h>
    <text:p text:style-name="Text_20_body">Each protocol needs to have at least one id defined so pilight knows what device has been controlled. However, it is possible that you have multiple KlikAanKlikUit remotes that control the same KlikAanKlikUit switch. In that case, you can define multiple id&apos;s to your devices. In case of a KlikAanKlikUit switch:</text:p>
-   <text:list xml:id="list114938017470813" text:continue-list="list5066762354906366270" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141906278050151" text:continue-list="list8506075084530485782" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code"><text:span text:style-name="T92">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
@@ -1680,7 +1718,7 @@
    <text:p text:style-name="Text_20_body">Whenever one of these id&apos;s have been received, pilight will update the device accordingly.</text:p>
    <text:h text:style-name="P63" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc390_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Multiple Protocols Per Device</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc390_870526104"/></text:h>
    <text:p text:style-name="Text_20_body">pilight supports multiple protocols per device. The new KlikAanKlikUit switches are backwards compatible with the old KlikAanKlikUit remotes. This means that pilight needs to check both protocols to know whether a device state was changed. In case of a KlikAanKlikUit dimmer, pilight needs to check three protocols. To add multiple protocols per device, the device must contain at least one ID for each protocol and all protocol values should be present. An example:</text:p>
-   <text:list xml:id="list114937439530088" text:continue-list="list114938017470813" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141906623335525" text:continue-list="list141906278050151" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code"><text:span text:style-name="T92">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
@@ -1729,7 +1767,7 @@
    </text:list>
    <text:p text:style-name="P43"/>
    <text:p text:style-name="P89">There are a few important steps when you use multiple protocols in a single device setup. </text:p>
-   <text:list xml:id="list2969756621134228857" text:style-name="L2">
+   <text:list xml:id="list719103316250795802" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P132">The kaku_dimmer and kaku_switch protocols both share the same id specifications, but the kaku_old protocol can only have an id <text:span text:style-name="T93">&lt;</text:span> 16 and a unit &lt; 33. The id set for the kaku_switch and kaku_dimmer is thereby not supported by the kaku_old protocol. There<text:span text:style-name="T95">for</text:span> an additional id must be <text:span text:style-name="T93">added</text:span> to match the requirements by kaku_old.</text:p>
     </text:list-item>
@@ -1743,7 +1781,7 @@
    <text:h text:style-name="P64" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc392_870526104"/>Overriding Protocol Settings<text:bookmark-end text:name="__RefHeading___Toc392_870526104"/></text:h>
    <text:p text:style-name="Text_20_body">Each protocol has <text:span text:style-name="T93">some </text:span>specific settings you can override in your device <text:span text:style-name="T93">set-up.</text:span> What these settings are, can be found in the protocols section <text:span text:style-name="T95">of this manual</text:span>. These settings can change the internal functioning of a protocol <text:span text:style-name="T93">or </text:span>the values a protocol can take. These settings are device specific.</text:p>
    <text:p text:style-name="Text_20_body">For example, we do <text:span text:style-name="T95">not</text:span> want to have our dimmer to go to a full dimlevel, because then it <text:span text:style-name="T93">i</text:span>s to bright. But we also do <text:span text:style-name="T93">no</text:span>t want it to go to its minimum dimlevel, because then it <text:span text:style-name="T93">i</text:span>s to dim. In that case, you can override the min<text:span text:style-name="T93">imum</text:span> and max<text:span text:style-name="T93">imum</text:span> values of the dimmer:</text:p>
-   <text:list xml:id="list114939315814589" text:continue-list="list114937439530088" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141906571264105" text:continue-list="list141906623335525" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code"><text:span text:style-name="T92">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
@@ -1785,7 +1823,6 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Of course, the maximum dimlevels can still be overriden by the KlikAanKlikUit remote, but pilight will make sure it cannot control the dimmers below or above these dimlevels within pilight.</text:p>
-   <text:p text:style-name="P42"/>
   </office:text>
  </office:body>
 </office:document>

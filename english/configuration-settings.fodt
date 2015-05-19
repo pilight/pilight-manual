@@ -4,21 +4,21 @@
  <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="188" meta:word-count="2155" meta:character-count="13480" meta:non-whitespace-character-count="11508"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">10583</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">250190</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">23497</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">16432</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21936</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3016</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3203</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">1771</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">251624</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">10583</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">23495</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">32967</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">250190</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">16431</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">272124</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">5825582</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5949109</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -329,7 +329,7 @@
    <style:text-properties fo:color="#000000" style:font-size-asian="10.5pt" style:shadow="none"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
-   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+   <style:text-properties style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
@@ -1242,128 +1242,110 @@
   <style:style style:name="P219" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00536698"/>
   </style:style>
-  <style:style style:name="P220" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P220" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00536698"/>
+  </style:style>
+  <style:style style:name="P221" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0044247e" officeooo:paragraph-rsid="0044247e"/>
   </style:style>
-  <style:style style:name="P221" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P222" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="004497a8" officeooo:paragraph-rsid="004497a8"/>
   </style:style>
-  <style:style style:name="P222" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0052f39d"/>
-  </style:style>
   <style:style style:name="P223" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="0052f39d"/>
   </style:style>
   <style:style style:name="P224" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00452416" officeooo:paragraph-rsid="00452416"/>
   </style:style>
   <style:style style:name="P225" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb"/>
+   <style:text-properties officeooo:rsid="00452416" officeooo:paragraph-rsid="00452416"/>
   </style:style>
   <style:style style:name="P226" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb"/>
+  </style:style>
+  <style:style style:name="P227" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:font-style="normal" officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P227" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P228" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:color="#d15151" officeooo:rsid="0044247e" officeooo:paragraph-rsid="00483351"/>
   </style:style>
-  <style:style style:name="P228" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+  <style:style style:name="P229" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="00483351" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P229" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+  <style:style style:name="P230" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="004fd3b8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P230" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+  <style:style style:name="P231" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="004a231f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P231" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+  <style:style style:name="P232" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="004b6726" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P232" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+  <style:style style:name="P233" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties fo:color="#d15151" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="00504cdb" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P233" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="00483351"/>
-  </style:style>
-  <style:style style:name="P234" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+  <style:style style:name="P234" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="00483351"/>
   </style:style>
   <style:style style:name="P235" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+   <style:text-properties officeooo:paragraph-rsid="00483351"/>
+  </style:style>
+  <style:style style:name="P236" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties officeooo:paragraph-rsid="004ca98c"/>
   </style:style>
-  <style:style style:name="P236" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P237" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="004ca98c"/>
-  </style:style>
-  <style:style style:name="P237" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
-   <style:text-properties officeooo:rsid="004ca98c" officeooo:paragraph-rsid="004ca98c"/>
   </style:style>
   <style:style style:name="P238" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="004ca98c" officeooo:paragraph-rsid="004ca98c"/>
   </style:style>
   <style:style style:name="P239" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="005228cf" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P240" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="0052f39d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="005228cf" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P241" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="0052a094" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="0052f39d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P242" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="0052a094" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P243" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="00536698" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P243" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P244" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.463cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P245" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P244" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P246" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P245" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:font-style="italic" officeooo:rsid="0044247e" officeooo:paragraph-rsid="0044247e" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P247" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P246" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:font-style="italic" officeooo:rsid="00452416" officeooo:paragraph-rsid="00452416" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P248" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P247" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:font-style="italic" officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P249" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P248" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:paragraph-rsid="004ca98c"/>
   </style:style>
-  <style:style style:name="P250" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P249" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="00470099" officeooo:paragraph-rsid="00470099"/>
   </style:style>
-  <style:style style:name="P251" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P250" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="004a231f" officeooo:paragraph-rsid="004a231f"/>
   </style:style>
-  <style:style style:name="P252" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P251" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="004a231f" officeooo:paragraph-rsid="004b6726"/>
   </style:style>
-  <style:style style:name="P253" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P252" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:rsid="004b6726" officeooo:paragraph-rsid="004b6726"/>
   </style:style>
-  <style:style style:name="P254" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P253" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P255" style:family="paragraph" style:parent-style-name="Contents_20_4">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="16.963cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00034f41"/>
@@ -1927,6 +1909,58 @@
     </style:columns>
    </style:section-properties>
   </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:columns fo:column-count="1" fo:column-gap="0cm"/>
@@ -2034,45 +2068,45 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P243"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc327_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Settings<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P244"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc329_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P244"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc331_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Core<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc333_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">port<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc335_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">standalone<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc339_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">pid-file<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc436_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-file<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc439_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-level<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc404_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">whitelist<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc432_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">stats-enable<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc434_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">watchdog-enable<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P244"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc343_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Module Paths<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc350_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">action-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">function-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">hardware-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">operator-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc358_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">protocol-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P244"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc406_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Webserver<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc408_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webgui-websockets<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc410_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-authentication<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc412_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-cache<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc414_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-enable<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc416_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-http-port<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc418_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-https-port<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc420_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-root<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc422_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-user<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P244"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc953_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Firmware<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc955_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-miso<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc957_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-mosi<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc959_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-reset<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc961_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-sck<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P244"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc963_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">SMTP<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc965_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-sender<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc967_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-user<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc969_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-password<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc971_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-host<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc973_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-port<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P244"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T121">M</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T121">iscellaneous</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P255"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc994_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">ntp-servers<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P171"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc327_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Settings<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc329_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc331_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Core<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc333_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">port<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc335_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">standalone<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc339_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">pid-file<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc436_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-file<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc439_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-level<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc404_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">whitelist<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc432_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">stats-enable<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc434_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">watchdog-enable<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc343_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Module Paths<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc350_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">action-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">function-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">hardware-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">operator-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc358_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">protocol-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc406_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Webserver<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc408_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webgui-websockets<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc410_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-authentication<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc412_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-cache<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc414_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-enable<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc416_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-http-port<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc418_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-https-port<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc420_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-root<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc422_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-user<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc953_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Firmware<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc955_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-miso<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc957_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-mosi<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc959_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-reset<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc961_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-sck<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc963_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">SMTP<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc965_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-sender<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc967_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-user<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc969_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-password<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc971_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-host<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc973_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-port<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T121">M</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T121">iscellaneous</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P206"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc994_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">ntp-servers<text:tab/>9</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="Text_20_body"/>
@@ -2082,7 +2116,7 @@
    <text:h text:style-name="P195" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc333_1192441429"/><text:span text:style-name="T169">p</text:span>ort<text:bookmark-end text:name="__RefHeading___Toc333_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie1">
     <text:p text:style-name="P54">Linux, *<text:span text:style-name="T174">BSD, and</text:span> Windows<text:line-break/>no default value</text:p>
-    <text:list xml:id="list9197197555901454090" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list5366317076269589696" text:style-name="Code_20_Numbering">
      <text:list-item>
       <text:p text:style-name="Code"><text:span text:style-name="T8">&quot;port&quot;</text:span>: <text:span text:style-name="T172">5000</text:span></text:p>
      </text:list-item>
@@ -2092,7 +2126,7 @@
    <text:h text:style-name="P196" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc335_1192441429"/>standalone<text:bookmark-end text:name="__RefHeading___Toc335_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie2">
     <text:p text:style-name="P57">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114919561429485" text:continue-list="list9197197555901454090" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733387927673" text:continue-list="list5366317076269589696" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="Code"><text:span text:style-name="T14">&quot;standalone&quot;</text:span><text:span text:style-name="T41">: 0</text:span></text:p>
      </text:list-item>
@@ -2102,7 +2136,7 @@
    <text:h text:style-name="P195" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc339_1192441429"/>pid-file<text:bookmark-end text:name="__RefHeading___Toc339_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie3">
     <text:p text:style-name="P55"><text:span text:style-name="T121">Linux </text:span><text:span text:style-name="T127">and</text:span><text:span text:style-name="T121"> *</text:span><text:span text:style-name="T127">BSD</text:span></text:p>
-    <text:list xml:id="list114918620465367" text:continue-list="list114919561429485" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732896773819" text:continue-list="list141733387927673" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P176"><text:span text:style-name="T13">&quot;</text:span><text:span text:style-name="T14">pid-file</text:span><text:span text:style-name="T13">&quot;</text:span><text:span text:style-name="T39">: </text:span><text:span text:style-name="T14">&quot;/var/run/pilight.pid&quot;</text:span></text:p>
      </text:list-item>
@@ -2112,12 +2146,12 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc436_1192441429"/>log-file<text:bookmark-end text:name="__RefHeading___Toc436_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie4">
     <text:p text:style-name="P55"><text:span text:style-name="T121">Linux </text:span><text:span text:style-name="T127">and </text:span><text:span text:style-name="T121">*</text:span><text:span text:style-name="T127">BSD</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T126">Windows</text:span></text:p>
-    <text:list xml:id="list114918254984837" text:continue-list="list114918620465367" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732343023723" text:continue-list="list141732896773819" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P183"><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T14">log-file</text:span><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T14">&quot;/var/log/pilight.log&quot;</text:span></text:p>
      </text:list-item>
      <text:list-item>
-      <text:p text:style-name="P234"><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T14">log-file</text:span><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T14">&quot;c:/pilight/pilight.log&quot;</text:span></text:p>
+      <text:p text:style-name="P235"><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T14">log-file</text:span><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T14">&quot;c:/pilight/pilight.log&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2125,7 +2159,7 @@
    <text:h text:style-name="P203" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc439_1192441429"/>log-<text:span text:style-name="T175">level</text:span><text:bookmark-end text:name="__RefHeading___Toc439_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie21">
     <text:p text:style-name="P56"><text:span text:style-name="T121">Linux, *</text:span><text:span text:style-name="T127">BSD, </text:span><text:span text:style-name="T128">and </text:span><text:span text:style-name="T126">Windows</text:span></text:p>
-    <text:list xml:id="list114918401749887" text:continue-list="list114918254984837" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732784706726" text:continue-list="list141732343023723" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P184"><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T14">log-</text:span><text:span text:style-name="T16">level</text:span><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T43">4</text:span></text:p>
      </text:list-item>
@@ -2135,9 +2169,9 @@
    <text:h text:style-name="P151" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc404_1192441429"/>whitelist<text:bookmark-end text:name="__RefHeading___Toc404_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie18">
     <text:p text:style-name="P58">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114919039697033" text:continue-list="list114918401749887" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732276152392" text:continue-list="list141732784706726" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P235"><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">whitelist</text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T41">: </text:span><text:span text:style-name="T43">[ </text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">*.*.*.*</text:span><text:span text:style-name="T14">&quot; </text:span><text:span text:style-name="T47">]</text:span></text:p>
+      <text:p text:style-name="P236"><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">whitelist</text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T41">: </text:span><text:span text:style-name="T43">[ </text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">*.*.*.*</text:span><text:span text:style-name="T14">&quot; </text:span><text:span text:style-name="T47">]</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2145,9 +2179,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc432_1192441429"/>stats-enable<text:bookmark-end text:name="__RefHeading___Toc432_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie19">
     <text:p text:style-name="P58">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114918295751324" text:continue-list="list114919039697033" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733296889642" text:continue-list="list141732276152392" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P235"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T19">stats-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T49">: </text:span><text:span text:style-name="T54">1</text:span></text:p>
+      <text:p text:style-name="P236"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T19">stats-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T49">: </text:span><text:span text:style-name="T54">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2155,9 +2189,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc434_1192441429"/>watchdog-enable<text:bookmark-end text:name="__RefHeading___Toc434_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie20">
     <text:p text:style-name="P58">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114919756677544" text:continue-list="list114918295751324" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733693226663" text:continue-list="list141733296889642" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P237"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T17">watchdog-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T49">: </text:span><text:span text:style-name="T53">1</text:span></text:p>
+      <text:p text:style-name="P238"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T17">watchdog-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T49">: </text:span><text:span text:style-name="T53">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2168,9 +2202,9 @@
    <text:h text:style-name="P196" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc350_1192441429"/>action-roo<text:span text:style-name="T170">t</text:span><text:bookmark-end text:name="__RefHeading___Toc350_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie5">
     <text:p text:style-name="P57">Linux and *BSD</text:p>
-    <text:list xml:id="list114919122511685" text:continue-list="list114919756677544" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733428018288" text:continue-list="list141733693226663" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P228"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">action-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/action&quot;</text:span></text:p>
+      <text:p text:style-name="P229"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">action-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/action&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2178,9 +2212,9 @@
    <text:h text:style-name="P196" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc352_1192441429"/>function-root<text:bookmark-end text:name="__RefHeading___Toc352_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie6">
     <text:p text:style-name="P57">Linux and *BSD</text:p>
-    <text:list xml:id="list114920026218700" text:continue-list="list114919122511685" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141734017599020" text:continue-list="list141733428018288" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P228"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">function-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/function&quot;</text:span></text:p>
+      <text:p text:style-name="P229"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">function-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/function&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2188,9 +2222,9 @@
    <text:h text:style-name="P196" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc354_1192441429"/>hardware-root<text:bookmark-end text:name="__RefHeading___Toc354_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie7">
     <text:p text:style-name="P57">Linux and *BSD</text:p>
-    <text:list xml:id="list114918521872079" text:continue-list="list114920026218700" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733385610796" text:continue-list="list141734017599020" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P228"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">hardware-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/hardware&quot;</text:span></text:p>
+      <text:p text:style-name="P229"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">hardware-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/hardware&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2198,9 +2232,9 @@
    <text:h text:style-name="P196" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc356_1192441429"/>operator-root<text:bookmark-end text:name="__RefHeading___Toc356_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie8">
     <text:p text:style-name="P57">Linux and *BSD</text:p>
-    <text:list xml:id="list114918516510445" text:continue-list="list114918521872079" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141734270559912" text:continue-list="list141733385610796" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P228"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">operator-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/operator&quot;</text:span></text:p>
+      <text:p text:style-name="P229"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">operator-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/operator&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2208,9 +2242,9 @@
    <text:h text:style-name="P196" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc358_1192441429"/>protocol-root<text:bookmark-end text:name="__RefHeading___Toc358_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie9">
     <text:p text:style-name="P57">Linux and *BSD</text:p>
-    <text:list xml:id="list114918999441205" text:continue-list="list114918516510445" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732570784904" text:continue-list="list141734270559912" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P228"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">protocol-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/protocol&quot;</text:span></text:p>
+      <text:p text:style-name="P229"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">protocol-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/protocol&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2220,9 +2254,9 @@
    <text:h text:style-name="P197" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc408_1192441429"/>webgui-<text:span text:style-name="T171">websockets</text:span><text:bookmark-end text:name="__RefHeading___Toc408_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie10">
     <text:p text:style-name="P57">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114918362946153" text:continue-list="list114918999441205" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733892495036" text:continue-list="list141732570784904" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P228"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">webgui-websockets</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">1</text:span></text:p>
+      <text:p text:style-name="P229"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">webgui-websockets</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T20">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2230,9 +2264,9 @@
    <text:h text:style-name="P199" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc410_1192441429"/>webserver-authentication<text:bookmark-end text:name="__RefHeading___Toc410_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie11">
     <text:p text:style-name="P61"><text:span text:style-name="T127">Linux, *BSD, and Windows</text:span><text:line-break/>no default value</text:p>
-    <text:list xml:id="list114919970956448" text:continue-list="list114918362946153" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733545943690" text:continue-list="list141733892495036" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P228"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">webserver-authentication</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T59">[ </text:span><text:span text:style-name="T20">&quot;username&quot;</text:span><text:span text:style-name="T59">, </text:span><text:span text:style-name="T20">&quot;password&quot;</text:span><text:span text:style-name="T59"> ]</text:span></text:p>
+      <text:p text:style-name="P229"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">webserver-authentication</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T59">[ </text:span><text:span text:style-name="T20">&quot;username&quot;</text:span><text:span text:style-name="T59">, </text:span><text:span text:style-name="T20">&quot;password&quot;</text:span><text:span text:style-name="T59"> ]</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2242,17 +2276,17 @@
      </draw:text-box>
     </draw:frame>By default, pilight can be controlled from <text:span text:style-name="T175">the </text:span>webGUI by anyone <text:span text:style-name="T172">that can access it. If you want to prevent this, you can secure the webGUI with a username and password. </text:span><text:span text:style-name="T43">The username should be in plain text, the password is SHA256 encrypted. Use </text:span><text:span text:style-name="T56">pilight-</text:span><text:span text:style-name="T58">sha256</text:span><text:span text:style-name="T43"> to create the encrypted password hash. Regular SHA256 encryption tools will not work because pilight </text:span><text:span text:style-name="T45">hashes</text:span><text:span text:style-name="T43"> the </text:span><text:span text:style-name="T46">password</text:span><text:span text:style-name="T43"> several thousand time.</text:span></text:p>
    <text:p text:style-name="P77">So if we want to use a username <text:span text:style-name="T111">user</text:span><text:span text:style-name="T136"> and password </text:span><text:span text:style-name="T117">admin</text:span><text:span text:style-name="T136"> the values should look like this:</text:span></text:p>
-   <text:list xml:id="list114918794703744" text:continue-list="list114919970956448" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141732341720408" text:continue-list="list141733545943690" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P229"><text:span text:style-name="T63">[ </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T25">user</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T63">, </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T26">4f32102debed8dabd87e88cf84c752ccb23a74b29f90b42edde05cbc7be41f80</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T63"> ]</text:span></text:p>
+     <text:p text:style-name="P230"><text:span text:style-name="T63">[ </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T25">user</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T63">, </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T26">4f32102debed8dabd87e88cf84c752ccb23a74b29f90b42edde05cbc7be41f80</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T63"> ]</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P200" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc412_1192441429"/>webserver-cache<text:bookmark-end text:name="__RefHeading___Toc412_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie12">
     <text:p text:style-name="P57">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114918260710212" text:continue-list="list114918794703744" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733420483699" text:continue-list="list141732341720408" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P230"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-cache</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">1</text:span></text:p>
+      <text:p text:style-name="P231"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-cache</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2260,9 +2294,9 @@
    <text:h text:style-name="P200" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc414_1192441429"/>webserver-enable<text:bookmark-end text:name="__RefHeading___Toc414_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie13">
     <text:p text:style-name="P57">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114919155599207" text:continue-list="list114918260710212" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732514915740" text:continue-list="list141733420483699" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P230"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-enable</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">1</text:span></text:p>
+      <text:p text:style-name="P231"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-enable</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2270,19 +2304,19 @@
    <text:h text:style-name="P200" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc416_1192441429"/>webserver-<text:span text:style-name="T174">http-</text:span>port<text:bookmark-end text:name="__RefHeading___Toc416_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie14">
     <text:p text:style-name="P57">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114919947364779" text:continue-list="list114919155599207" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732540446082" text:continue-list="list141732514915740" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P230"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">http-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">5001</text:span></text:p>
+      <text:p text:style-name="P231"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">http-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">5001</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="Text_20_body">The pilight <text:span text:style-name="T173">webserver runs by default on the non-standard port 5001. This is done to prevent interference with other webservers running on the default HTTP port 80. If you do want to run the webserver on port 80 or any other port, you can change this setting. The port specified must be a valid and unused port.</text:span></text:p>
-   <text:h text:style-name="P201" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc418_1192441429"/><text:soft-page-break/><text:span text:style-name="T174">w</text:span>ebserver-<text:span text:style-name="T174">https-</text:span>port<text:bookmark-end text:name="__RefHeading___Toc418_1192441429"/></text:h>
+   <text:h text:style-name="P201" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc418_1192441429"/><text:span text:style-name="T174">w</text:span>ebserver-<text:span text:style-name="T174">https-</text:span>port<text:bookmark-end text:name="__RefHeading___Toc418_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie16">
-    <text:p text:style-name="P61"><text:span text:style-name="T127">Linux, *BSD, and Windows</text:span><text:line-break/><text:span text:style-name="T174">not supported by default</text:span></text:p>
-    <text:list xml:id="list114920343686649" text:continue-list="list114919947364779" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P61"><text:soft-page-break/><text:span text:style-name="T127">Linux, *BSD, and Windows</text:span><text:line-break/><text:span text:style-name="T174">not supported by default</text:span></text:p>
+    <text:list xml:id="list141734224116586" text:continue-list="list141732540446082" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P231"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">https-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">500</text:span><text:span text:style-name="T61">2</text:span></text:p>
+      <text:p text:style-name="P232"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">https-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T60">500</text:span><text:span text:style-name="T61">2</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2290,9 +2324,9 @@
    <text:h text:style-name="P202" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc420_1192441429"/>webserver-root<text:bookmark-end text:name="__RefHeading___Toc420_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie15">
     <text:p text:style-name="P57">Linux, *BSD, and Windows</text:p>
-    <text:list xml:id="list114919845857601" text:continue-list="list114920343686649" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733739405022" text:continue-list="list141734224116586" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P231"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T8">&quot;/</text:span><text:span text:style-name="T22">usr/local/share/pilight/</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
+      <text:p text:style-name="P232"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T8">&quot;/</text:span><text:span text:style-name="T22">usr/local/share/pilight/</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2300,12 +2334,12 @@
    <text:h text:style-name="P202" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc422_1192441429"/>webserver-user<text:bookmark-end text:name="__RefHeading___Toc422_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie17">
     <text:p text:style-name="P61">Linux<text:line-break/>*<text:span text:style-name="T174">BSD</text:span></text:p>
-    <text:list xml:id="list114919778592369" text:continue-list="list114919845857601" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733575732557" text:continue-list="list141733739405022" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P231"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">user</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T22">www-root</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
+      <text:p text:style-name="P232"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">user</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T22">www-root</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
      </text:list-item>
      <text:list-item>
-      <text:p text:style-name="P231"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">user</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T22">www</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
+      <text:p text:style-name="P232"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">user</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T37">: </text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T22">www</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2316,9 +2350,9 @@
    <text:h text:style-name="P198" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc955_447746535"/>firmware-gpio-miso<text:bookmark-end text:name="__RefHeading___Toc955_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie22">
     <text:p text:style-name="P60">Linux and *BSD</text:p>
-    <text:list xml:id="list114918352844566" text:continue-list="list114919778592369" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733478176729" text:continue-list="list141733575732557" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P232"><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T28">firmware-gpio-miso</text:span><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T61">: </text:span><text:span text:style-name="T64">13</text:span></text:p>
+      <text:p text:style-name="P233"><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T28">firmware-gpio-miso</text:span><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T61">: </text:span><text:span text:style-name="T64">13</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2326,9 +2360,9 @@
    <text:h text:style-name="P198" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc957_447746535"/>firmware-gpio-mosi<text:bookmark-end text:name="__RefHeading___Toc957_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie23">
     <text:p text:style-name="P215">Linux and *BSD</text:p>
-    <text:list xml:id="list114919902908616" text:continue-list="list114918352844566" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733339260455" text:continue-list="list141733478176729" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P238"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-m</text:span><text:span text:style-name="T31">o</text:span><text:span text:style-name="T30">s</text:span><text:span text:style-name="T31">i</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T66">12</text:span></text:p>
+      <text:p text:style-name="P239"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-m</text:span><text:span text:style-name="T31">o</text:span><text:span text:style-name="T30">s</text:span><text:span text:style-name="T31">i</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T66">12</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2336,9 +2370,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc959_447746535"/>firmware-gpio-reset<text:bookmark-end text:name="__RefHeading___Toc959_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie24">
     <text:p text:style-name="P216">Linux and *BSD</text:p>
-    <text:list xml:id="list114918341846024" text:continue-list="list114919902908616" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732801918476" text:continue-list="list141733339260455" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P239"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">reset</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T66">1</text:span><text:span text:style-name="T67">0</text:span></text:p>
+      <text:p text:style-name="P240"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">reset</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T66">1</text:span><text:span text:style-name="T67">0</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2346,38 +2380,38 @@
    <text:h text:style-name="P198" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc961_447746535"/><text:span text:style-name="T180">f</text:span>irmware-gpio-sck<text:bookmark-end text:name="__RefHeading___Toc961_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie25">
     <text:p text:style-name="P216">Linux and *BSD</text:p>
-    <text:list xml:id="list114918271401215" text:continue-list="list114918341846024" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732763481648" text:continue-list="list141732801918476" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P239"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">sck</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T66">1</text:span><text:span text:style-name="T67">4</text:span></text:p>
+      <text:p text:style-name="P240"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">sck</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T66">1</text:span><text:span text:style-name="T67">4</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P42">This setting defines the GPIO pin to be used as <text:span text:style-name="T180">SCK</text:span>. Any valid GPIO for your platform can be used.</text:p>
    <text:h text:style-name="P150" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc963_447746535"/>SMTP<text:bookmark-end text:name="__RefHeading___Toc963_447746535"/></text:h>
    <text:p text:style-name="P80"><text:span text:style-name="T121">pilight has the capability to communicate with several types of mail servers. This offers pilight the possiblity to use for example mail actions inside our event rules, so email messages can be sent in case of a certain event. </text:span><text:span text:style-name="T132">Most users will have an email account from their internet hosting provider or free mail solutions can be used like gmail. I</text:span><text:span text:style-name="T133">n case of a (non-existing) gmail account named: </text:span><text:a xlink:type="simple" xlink:href="mailto:pilight@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T133">pilight@gmail.com</text:span></text:a><text:span text:style-name="T133"> with password: foobar, the SMTP settings should be configured like this:</text:span></text:p>
-   <text:list xml:id="list114920130781366" text:continue-list="list114918271401215" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141734002118419" text:continue-list="list141732763481648" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P240"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-sender</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">pilight</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T32">@</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">gmail</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T32">.com</text:span></text:a><text:span text:style-name="T29">&quot;,</text:span></text:p>
+     <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-sender</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">pilight</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T32">@</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">gmail</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T32">.com</text:span></text:a><text:span text:style-name="T29">&quot;,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P240"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">smtp.gmail.com</text:span><text:span text:style-name="T29">&quot;,</text:span></text:p>
+     <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">smtp.gmail.com</text:span><text:span text:style-name="T29">&quot;,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P240"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">port</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T68">465,</text:span></text:p>
+     <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">port</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T68">465,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P240"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">user</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilight@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">pilight@gmail.com</text:span></text:a><text:span text:style-name="T29">&quot;,</text:span></text:p>
+     <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">user</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilight@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">pilight@gmail.com</text:span></text:a><text:span text:style-name="T29">&quot;,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P240"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">foobar</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+     <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">foobar</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P198" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc965_447746535"/><text:span text:style-name="T181">s</text:span>mtp-sender<text:bookmark-end text:name="__RefHeading___Toc965_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie26">
     <text:p text:style-name="P218"><text:span text:style-name="T178">Linux, *BSD, </text:span><text:span text:style-name="T179">and Windows<text:line-break/>no default value</text:span></text:p>
-    <text:list xml:id="list114920300519248" text:continue-list="list114920130781366" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733652161596" text:continue-list="list141734002118419" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-sender</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P242"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-sender</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P82"/>
@@ -2386,9 +2420,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc967_447746535"/>smtp-user<text:bookmark-end text:name="__RefHeading___Toc967_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie27">
     <text:p text:style-name="P218"><text:span text:style-name="T178">Linux, *BSD, </text:span><text:span text:style-name="T179">and Windows<text:line-break/>no default value</text:span></text:p>
-    <text:list xml:id="list114920007683272" text:continue-list="list114920300519248" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733661436337" text:continue-list="list141733652161596" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-user</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P242"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-user</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P82"/>
@@ -2397,9 +2431,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc969_447746535"/>smtp-password<text:bookmark-end text:name="__RefHeading___Toc969_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie28">
     <text:p text:style-name="P218"><text:span text:style-name="T178">Linux, *BSD, </text:span><text:span text:style-name="T179">and Windows<text:line-break/>no default value</text:span></text:p>
-    <text:list xml:id="list114919363666655" text:continue-list="list114920007683272" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733658620275" text:continue-list="list141733661436337" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">...</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P242"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">...</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P84"/>
@@ -2408,9 +2442,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc971_447746535"/>smtp-host<text:bookmark-end text:name="__RefHeading___Toc971_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie29">
     <text:p text:style-name="P218"><text:span text:style-name="T178">Linux, *BSD, </text:span><text:span text:style-name="T179">and Windows<text:line-break/>no default value</text:span></text:p>
-    <text:list xml:id="list114920039372048" text:continue-list="list114919363666655" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141734006617627" text:continue-list="list141733658620275" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;<text:line-break/></text:span></text:p>
+      <text:p text:style-name="P242"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;<text:line-break/></text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
@@ -2418,9 +2452,9 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc973_447746535"/>smtp-port<text:bookmark-end text:name="__RefHeading___Toc973_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie30">
     <text:p text:style-name="P218"><text:span text:style-name="T178">Linux, *BSD, </text:span><text:span text:style-name="T179">and Windows<text:line-break/>no default value</text:span></text:p>
-    <text:list xml:id="list114919181848272" text:continue-list="list114920039372048" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141733954344444" text:continue-list="list141734006617627" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P241"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P242"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P82"/>
@@ -2430,14 +2464,15 @@
    <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc994_447746535"/><text:span text:style-name="Emphasis">ntp-servers</text:span><text:bookmark-end text:name="__RefHeading___Toc994_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie31">
     <text:p text:style-name="P219"><text:span text:style-name="T178">Linux, *BSD, </text:span><text:span text:style-name="T179">and Windows<text:line-break/>no default value</text:span></text:p>
-    <text:list xml:id="list114918858919517" text:continue-list="list114919181848272" text:style-name="Code_20_Numbering">
+    <text:list xml:id="list141732279957179" text:continue-list="list141733954344444" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P242"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">ntp-servers</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T69">[ </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">eu.pool.ntp.org</text:span><text:span text:style-name="T29">&quot;, &quot;</text:span><text:span text:style-name="T34">uk.pool.ntp.org</text:span><text:span text:style-name="T29">&quot; </text:span><text:span text:style-name="T69">]</text:span><text:span text:style-name="T29"> </text:span></text:p>
+      <text:p text:style-name="P243"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">ntp-servers</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T65">: </text:span><text:span text:style-name="T69">[ </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">eu.pool.ntp.org</text:span><text:span text:style-name="T29">&quot;, &quot;</text:span><text:span text:style-name="T34">uk.pool.ntp.org</text:span><text:span text:style-name="T29">&quot; </text:span><text:span text:style-name="T69">]</text:span><text:span text:style-name="T29"> </text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P83"/>
    </text:section>
    <text:p text:style-name="P81"><text:span text:style-name="Emphasis"><text:span text:style-name="T133">One important feature of any automation setup is the ability to trigger time based actions. However, these events greatly rely on a correct date and time. Problems occur when the system time is not set to the correct time (for our specific timezone). </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T134">This can happen on systems like the Raspberry Pi which does not have a </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T141">RTC</text:span></text:span><text:span text:style-name="Emphasis"> </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T134">that allows it to keep track of time when turned off. To overcome this problem pilight has the ability to retrieve the correct time by synchronizing with </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T141">NTP</text:span></text:span><text:span text:style-name="Emphasis"> </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T134">servers. You can pick any server from </text:span></text:span><text:a xlink:type="simple" xlink:href="http://www.pool.ntp.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Emphasis"><text:span text:style-name="T134">http://www.pool.ntp.org/</text:span></text:span></text:a><text:span text:style-name="Emphasis"><text:span text:style-name="T134">. Any number of servers can be added to the ntp-servers list. pilight will first try to synchronize with the first server. If this fails it will try the second server etc. It will continue this process until an actual response </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T135">was</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T134"> received.</text:span></text:span></text:p>
+   <text:p text:style-name="P81"><text:span text:style-name="Emphasis"><text:span text:style-name="T134"/></text:span></text:p>
   </office:text>
  </office:body>
 </office:document>

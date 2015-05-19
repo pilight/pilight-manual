@@ -4,21 +4,21 @@
  <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="94" meta:word-count="2045" meta:character-count="10844" meta:non-whitespace-character-count="8788"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">104352</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">23497</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">16432</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21936</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">2517</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3380</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">1771</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">105459</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">23495</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">22384</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">104352</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">16431</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">126286</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3731223</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3842253</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -125,6 +125,7 @@
   <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-adornments="Standaard" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="NSimSun" svg:font-family="NSimSun" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-adornments="Standaard" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Mangal" svg:font-family="Mangal" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -328,7 +329,7 @@
    <style:text-properties fo:color="#000000" style:font-size-asian="10.5pt" style:shadow="none"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
-   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+   <style:text-properties style:font-name="Liberation Sans1" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
@@ -700,35 +701,14 @@
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering"/>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.463cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00335d24" officeooo:paragraph-rsid="00335d24"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties fo:language="en" fo:country="GB"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" officeooo:paragraph-rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:color="#000000"/>
@@ -961,6 +941,58 @@
     <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-bullet>
   </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -1067,18 +1099,18 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1340_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Eventing<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1342_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3033_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Rule Parsing<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3035_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Basic Structure<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">True or False<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">AND and OR<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Hooks<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc945_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Operators<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc947_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Devices<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc949_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Functions<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3037_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Actions<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1348_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Optimalizations<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1340_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Eventing<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1342_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3033_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Rule Parsing<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P21"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3035_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Basic Structure<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P21"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">True or False<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P21"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">AND and OR<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P21"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Hooks<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc945_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Operators<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc947_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Devices<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc949_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Functions<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3037_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Actions<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1348_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Optimalizations<text:tab/>5</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:h text:style-name="P29" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1342_1085664404"/>Introduction<text:bookmark-end text:name="__RefHeading___Toc1342_1085664404"/></text:h>
@@ -1088,7 +1120,7 @@
    <text:p text:style-name="P4">There are few things to consider before starting with pilight rules. When you better understand how pilight parses the rules, you can write really efficient and advanced rules.</text:p>
    <text:h text:style-name="P25" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3035_673823619"/>Basic Structure<text:bookmark-end text:name="__RefHeading___Toc3035_673823619"/></text:h>
    <text:p text:style-name="P7">All rules basic<text:span text:style-name="T36">al</text:span>ly consist of the same structure:</text:p>
-   <text:list xml:id="list8847225445117125688" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list5795709575732171600" text:style-name="Code_20_Numbering">
     <text:list-item>
      <text:p text:style-name="P38">IF ... THEN ...</text:p>
     </text:list-item>
@@ -1096,7 +1128,7 @@
    <text:p text:style-name="P13">A rule always start with the IF, followed by the rule logic, and is closed by a THEN. All actions are put after the THEN. </text:p>
    <text:h text:style-name="P20" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc352_1420391157"/>True or False<text:bookmark-end text:name="__RefHeading___Toc352_1420391157"/></text:h>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T38">Let </text:span><text:span text:style-name="T49">us</text:span><text:span text:style-name="T38"> start with how </text:span><text:span text:style-name="T37">pilight </text:span><text:span text:style-name="T38">handles succeeding or failing conditions. pilight </text:span><text:span text:style-name="T37">converts </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T39">each logical mathematical and logical step into a </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T42">true</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T39"> or </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T42">false</text:span></text:span><text:span text:style-name="T37">. </text:span><text:span text:style-name="T38">The final condition must be true before triggering an action. </text:span><text:span text:style-name="T37">If the final result is false, the action is skipped. </text:span><text:span text:style-name="T38">These two examples will both succeed:</text:span></text:p>
-   <text:list xml:id="list114914006918647" text:continue-list="list8847225445117125688" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706856016721" text:continue-list="list5795709575732171600" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="T43">IF (1 == 1) == True THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T43"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T51">[SUCCEEDS]</text:span></text:span></text:p>
     </text:list-item>
@@ -1105,7 +1137,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P5">These two examples will both fail:</text:p>
-   <text:list xml:id="list114914808996729" text:continue-list="list114914006918647" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706542036654" text:continue-list="list141706856016721" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code"><text:span text:style-name="T38">IF (1 == 0) IS True THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T43"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T14">[FAIL</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">S]</text:span></text:span></text:p>
     </text:list-item>
@@ -1115,7 +1147,7 @@
    </text:list>
    <text:h text:style-name="P26" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc354_1420391157"/>AND and OR<text:bookmark-end text:name="__RefHeading___Toc354_1420391157"/></text:h>
    <text:p text:style-name="P6">In the first examples we only used one condition <text:span text:style-name="T33">but this</text:span> does <text:span text:style-name="T54">no</text:span>t allow us to make very advanced and flexible rules. Therefor we need to be able to combine several conditions in a single rule. This is possible by combining them with AND and OR operators. Let <text:span text:style-name="T54">us</text:span> take a look at some basic examples:</text:p>
-   <text:list xml:id="list114914544129392" text:continue-list="list114914808996729" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141705789289689" text:continue-list="list141706542036654" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="T37">IF </text:span><text:span text:style-name="T50">1 == 1</text:span><text:span text:style-name="T37"> AND </text:span><text:span text:style-name="T52">1</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T50">==</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T50">2</text:span><text:span text:style-name="T37"> THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T37">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T43"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T14">[FAIL</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">S]</text:span></text:span></text:p>
     </text:list-item>
@@ -1138,7 +1170,7 @@
    <text:p text:style-name="P6">In the first two examples only a single AND and OR operator <text:span text:style-name="T33">is</text:span> used. In the <text:span text:style-name="T13">rest of the</text:span> examples we see multiple AND and OR operators. <text:span text:style-name="T13">It is good to know that pilight evaluates these rules from left to right and only parses as much as necessary. In these examples only the green parts are actually evaluated and the red parts are skipped. In rule one we use an AND operator. This means that both conditions have to succeed for the rule to succeed, therefor, pilight has to evaluate both conditions. In the second rule we use the OR operator. This means that either one of the two conditions has to succeed for the whole rule to succeed. In this case, the first condition already succeeded so pilight knows it does not have to parse anything else and skips right to the action. The same logic as in rule two can be seen in rule four. This rule starts with an OR statement that already succeeds so the subsequent AND conditions do not have to be evaluated. In rule five we see that pilight parses the first condition which fails and because this condition was part of an AND operator we don&apos;t have to evaluate the second condition. pilight does evaluate the last condition because it can change the final outcome of rule five. The same happens in rule six. The first two conditions as part of the AND operator succeed so we don&apos;t have to evaluate the last condition.</text:span></text:p>
    <text:h text:style-name="P27" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc356_1420391157"/>Hooks<text:bookmark-end text:name="__RefHeading___Toc356_1420391157"/></text:h>
    <text:p text:style-name="P8">As we saw in our first examples, hooks can be used inside pilight rules. This can be usefull to better structure and combine the various conditions of our rules. Let <text:span text:style-name="T54">u</text:span>s create even more complex rules and see how hooks can change the outcome of a rule <text:span text:style-name="T33">without changing the conditions</text:span>.</text:p>
-   <text:list xml:id="list114914057946065" text:continue-list="list114914544129392" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141707540495214" text:continue-list="list141705789289689" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T51">[SUCCEEDS]</text:span></text:span></text:p>
     </text:list-item>
@@ -1147,14 +1179,14 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9">Although all conditions in these rules are the same, the final outcome differs because we started to use hooks. This happens because we explicitly told pilight in the second rule that we want to evaluate <text:span text:style-name="T33">the </text:span>two OR parts in one final AND. In the first rule, we just <text:span text:style-name="T33">had</text:span> one single OR, a single AND, and a single OR again. pilight allows you to nest hooks in a unlimited way:</text:p>
-   <text:list xml:id="list114914149420619" text:continue-list="list114914057946065" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141705803484309" text:continue-list="list141707540495214" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">((</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T52">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T51">[SUCCEEDS]</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P18" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc945_614593705"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T40">Operators</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc945_614593705"/></text:h>
    <text:p text:style-name="P11">Various mathematical operators can be used to do calculations inside our rules. A list of these operators can be found further on in this manual. Let <text:span text:style-name="T54">u</text:span>s just show some basic self-explanatory examples:</text:p>
-   <text:list xml:id="list114913488713810" text:continue-list="list114914149420619" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706437747753" text:continue-list="list141705803484309" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T44">IF 1 + 1 == 2 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T6">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T20"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T51">[SUCCEEDS]</text:span></text:span></text:p>
     </text:list-item>
@@ -1170,19 +1202,19 @@
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc947_614593705"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T40">Devices</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc947_614593705"/></text:h>
    <text:p text:style-name="P1"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T40">pilight rules are quite useless if we ca</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T41">nno</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T40">t work with </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T45">live</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46"> data. This live data comes from our devices. So let </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">u</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">s say we have a switch called </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T45">switch</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">and we use this configured device to </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">create a rule like this:</text:span></text:span></text:p>
-   <text:list xml:id="list114913220422936" text:continue-list="list114913488713810" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706857998647" text:continue-list="list141706437747753" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">IF switch.state IS on THEN ...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T40">Depending on the actual state of the switch </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">this rule will succeed or fail. Let </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">u</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">s now use a dimmer device called </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T45">dimmer</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">.</text:span></text:span></text:p>
-   <text:list xml:id="list114915018932117" text:continue-list="list114913220422936" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706115504695" text:continue-list="list141706857998647" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">IF dimmer.dimlevel &gt; 10 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T21">...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P1"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">Again, this rule will succeed or fail depending on the actual dimlevel of the </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">configured</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46"> dimmer device. These two examples can of course be combined:</text:span></text:span></text:p>
-   <text:list xml:id="list114915108329782" text:continue-list="list114915018932117" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141707042590277" text:continue-list="list141706115504695" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46">IF switch.state IS on AND dimmer.dimlevel &gt; 10 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T21">...</text:span></text:span></text:p>
     </text:list-item>
@@ -1190,7 +1222,7 @@
    <text:p text:style-name="P11">As you can also see, the fields (<text:span text:style-name="T26">state</text:span> or <text:span text:style-name="T26">dimlevel</text:span>) we can use depends on the device we are using inside our rules. <text:span text:style-name="T33">A switch does not have a </text:span><text:span text:style-name="T27">dimlevel</text:span><text:span text:style-name="T33"> field but a dimmer does have a </text:span><text:span text:style-name="T27">state</text:span><text:span text:style-name="T33"> field.</text:span></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc949_614593705"/>Functions<text:bookmark-end text:name="__RefHeading___Toc949_614593705"/></text:h>
    <text:p text:style-name="P7">In some cases, standard operators limit us in writing our rules. For example, calculating with time is a hideous task considering that hours do n<text:span text:style-name="T54">o</text:span>t go above 24, minute and seconds d<text:span text:style-name="T54">o</text:span> <text:span text:style-name="T54">no</text:span>t go above 60, and there are no negative numbers. Other functionality like randomization are also not possible in the standard event operators. A simple example:</text:p>
-   <text:list xml:id="list114913631394903" text:continue-list="list114915108329782" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141707601314081" text:continue-list="list141707042590277" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="T2">IF datetime.hour == RANDOM(21, 2</text:span><text:span text:style-name="T7">3</text:span><text:span text:style-name="T2">) THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">...</text:span></text:span></text:p>
     </text:list-item>
@@ -1199,7 +1231,7 @@
    <text:p text:style-name="P7"/>
    <text:h text:style-name="P18" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3037_673823619"/>Actions<text:bookmark-end text:name="__RefHeading___Toc3037_673823619"/></text:h>
    <text:p text:style-name="P7">Actions are the final goal of our rules. <text:span text:style-name="T36">These actions tell pilight what should happen when certain conditions have been met. A rule can contain unlimited number of actions and each action can trigger an unlimited number of devices. First two examples of basic actions triggering a switch called </text:span><text:span text:style-name="T28">lamp </text:span><text:span text:style-name="T31">and a dimmer called </text:span><text:span text:style-name="T28">ambiantLight</text:span><text:span text:style-name="T36">:</text:span></text:p>
-   <text:list xml:id="list114915099585277" text:continue-list="list114913631394903" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141705970882092" text:continue-list="list141707601314081" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="T1">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">...</text:span></text:span><text:span text:style-name="T1"> THEN switch DEVICE lamp TO on</text:span></text:p>
     </text:list-item>
@@ -1208,19 +1240,19 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13">Both actions only trigger a single device. However, if we wanted to trigger both device to just on we can combine them in a single action:</text:p>
-   <text:list xml:id="list114913778538713" text:continue-list="list114915099585277" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141707246319504" text:continue-list="list141705970882092" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="T1">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">...</text:span></text:span><text:span text:style-name="T1"> THEN switch DEVICE lamp AND ambientLight TO on</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13">As we can see here, the switch action takes at least the DEVICE and TO parameters. In case of the switch action, several values (as in devices) can be combined by separating them with ANDs. We can also combine <text:span text:style-name="T30">dim and switch action would we </text:span>want to switch the <text:span text:style-name="T26">lamp</text:span><text:span text:style-name="T30"> to on and dim the </text:span><text:span text:style-name="T26">ambientLight</text:span><text:span text:style-name="T30"> to dimlevel 10 based on the same condition:</text:span></text:p>
-   <text:list xml:id="list114915003070141" text:continue-list="list114913778538713" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141707262554125" text:continue-list="list141707246319504" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="T10">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">...</text:span></text:span><text:span text:style-name="T10"> THEN switch DEVICE lamp TO on AND dim DEVICE ambientLight TO 10</text:span><text:span text:style-name="T11">|</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13"><text:span text:style-name="T30">We can combine an unlimited number of actions like this. Again we see that we use the AND to combine several actions </text:span><text:span text:style-name="T32">and the AND. We can also switch several devices across several action in a single rule. Let&apos;s say we have a relay connected to our television set called </text:span><text:span text:style-name="T29">television</text:span><text:span text:style-name="T32"> that we want to turn on as well.</text:span></text:p>
-   <text:list xml:id="list114913778112436" text:continue-list="list114915003070141" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141707600595167" text:continue-list="list141707262554125" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="T32">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">...</text:span></text:span><text:span text:style-name="T32"> THEN switch DEVICE lamp AND television TO on AND dim DEVICE ambientLight TO 10</text:span></text:p>
     </text:list-item>
@@ -1228,56 +1260,56 @@
    <text:p text:style-name="P14"/>
    <text:h text:style-name="P19" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1348_1085664404"/>Optimalizations<text:bookmark-end text:name="__RefHeading___Toc1348_1085664404"/></text:h>
    <text:p text:style-name="P2">Although pilight is extremely fast in evaluating event rules, simple steps can be made to further improve the performance of <text:span text:style-name="T33">your</text:span> <text:span text:style-name="T33">events</text:span>. A rule is actually nothing more then several evaluations of <text:span text:style-name="T33">conditions</text:span>. Let&apos;s see how we can optimize time based events. E.g.</text:p>
-   <text:list xml:id="list114913806038496" text:continue-list="list114913778112436" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706080184885" text:continue-list="list141707600595167" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">IF datetime.hour == 23 AND datetime.minute == 0 AND datetime.second == 0 THEN ...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P2">To optimize this rule, we need to check how many times a specific condition is evaluated. Rules containing datetime values will be evaluated each second. So each part has a certain chance to be true each day based on a evaluation each second:</text:p>
-   <text:list xml:id="list4105759905052170453" text:style-name="L1">
+   <text:list xml:id="list625146140251575322" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P43">Hour is 23 3600 times a day (60 minutes * 60 seconds). </text:p>
+     <text:p text:style-name="P39">Hour is 23 3600 times a day (60 minutes * 60 seconds). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P43">Minute is 0 1440 times a day (24 hours * 60 seconds). </text:p>
+     <text:p text:style-name="P39">Minute is 0 1440 times a day (24 hours * 60 seconds). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P43">Second is 0 1440 times a day (24 hours * 60 minutes). </text:p>
+     <text:p text:style-name="P39">Second is 0 1440 times a day (24 hours * 60 minutes). </text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P2">So in the above rule, the first step evaluates true 3600 times, the second step 1 times, and the last step also 1 time. Let <text:span text:style-name="T54">us</text:span> see what happens when we change the rule:</text:p>
-   <text:list xml:id="list114913337641761" text:continue-list="list114913806038496" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141705692535691" text:continue-list="list141706080184885" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">IF datetime.second == 0 AND datetime.minute == 0 AND datetime.hour == 23 THEN ...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P2">In this case, the first step is evaluates true 1440 times, the second step 1 times, and the last step also 1 time. So we can conclude that the first rule triggers 3602 evaluations and the last rule only 1442. So by simply shifting the conditions, we can increase the performance of a single rule.</text:p>
    <text:p text:style-name="P2">Let&apos;s take another example. In this case we trigger an event based on the sunset time. Let&apos;s use the sunset time of 19:00 and assume we turn off the christmass tree at 0:00 each day.</text:p>
-   <text:list xml:id="list114913173176276" text:continue-list="list114913337641761" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706632889790" text:continue-list="list141705692535691" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P38"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T37">IF ((sunriseset.sunset == (datetime.hour + (datetime.minute / 100)) AND christmasstree.state IS off) AND datetime.second == 0) THEN switch DEVICE christmasstree TO on</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P2">Again, the time that each evaluation is true each day based on an evaluation each second:</text:p>
-   <text:list xml:id="list3596901006840899989" text:style-name="L2">
+   <text:list xml:id="list1053845946548268823" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P44">Sunset is 19:00 60 times a day (60 seconds). </text:p>
+     <text:p text:style-name="P40">Sunset is 19:00 60 times a day (60 seconds). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Hour is 19 3600 times a day (60 minutes * 60 seconds). </text:p>
+     <text:p text:style-name="P40">Hour is 19 3600 times a day (60 minutes * 60 seconds). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Minute is 0 1440 times a day (24 hours * 60 seconds). </text:p>
+     <text:p text:style-name="P40">Minute is 0 1440 times a day (24 hours * 60 seconds). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Second is 0 1440 times a day (24 hours * 60 minutes). </text:p>
+     <text:p text:style-name="P40">Second is 0 1440 times a day (24 hours * 60 minutes). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">State is off for 68400 times a day (19 hours * 60 minutes * 60 seconds). </text:p>
+     <text:p text:style-name="P40">State is off for 68400 times a day (19 hours * 60 minutes * 60 seconds). </text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P12">So in the above rule, the first step evaluates true 60 times, the second step 60 times, and the last step only 1 time. Although this rule uses not much evaluations for it to trigger, the first evaluation does take several math formulas to solve. Let&apos;s again see what happens when we change the rule:</text:p>
-   <text:list xml:id="list114913118542219" text:continue-list="list114913173176276" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list141706189354995" text:continue-list="list141706632889790" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T37">IF ((datetime.second == 0 AND sunriseset.sunset == (datetime.hour + (datetime.minute / 100))) AND christmasstree.state IS off) THEN switch DEVICE christmasstreeTO on</text:span></text:span></text:p>
     </text:list-item>
