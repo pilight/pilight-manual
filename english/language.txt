@@ -1,0 +1,17 @@
+maintitle|pilight manual
+openmenu|Move your mouse to the left to open the menu 
+pdfdownload|Download source pdf
+pdfgenerated|Page last generated on 
+top|Top
+january|January
+februari|Februari
+march|March
+april|April
+may|May
+june|June
+july|July
+august|August
+september|septembe
+october|October
+november|November
+december|December
