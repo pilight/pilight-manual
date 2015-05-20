@@ -11,7 +11,7 @@ may|May
 june|June
 july|July
 august|August
-september|septembe
+september|September
 october|October
 november|November
 december|December
