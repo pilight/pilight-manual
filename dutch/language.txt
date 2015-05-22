@@ -1,0 +1,17 @@
+maintitle|pilight handleiding
+openmenu|Beweeg je muis naar links om het menu te openen
+pdfdownload|Download bron pdf
+pdfgenerated|Pagina voor het laatst gegenereerd op
+top|Naar boven
+january|Januari
+februari|Februari
+march|Maart
+april|April
+may|Mei
+june|Juni
+july|Juli
+august|Augustus
+september|September
+october|Oktober
+november|November
+december|December

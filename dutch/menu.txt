@@ -1,0 +1,17 @@
+1|
+2|Over pilight|over-pilight
+3|Installatie|installatie
+4|Configuratie
+	4.1|Voorbeeld|configuratie
+	4.2|Apparaten (Devices)|configuratie-devices
+	4.3|Regels (Rules)|configuratie-rules
+	4.4|GUI|configuratie-gui
+	4.5|Instellingen (Settings)|configuratie-settings
+	4.6|Hardware|configuratie-hardware
+	4.7|Register (Registry)|configuratie-registry
+5|Eventing|eventing
+6|AdHoc-Netwerk|adhoc-netwerk
+7|
+8|Sitemap|sitemap
+9|
+10|Over de handleiding|over-de-handleiding

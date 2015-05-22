@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="125" meta:word-count="1155" meta:character-count="6751" meta:non-whitespace-character-count="5588"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="127" meta:word-count="1160" meta:character-count="7300" meta:non-whitespace-character-count="6137"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">51435</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">68924</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">23682</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">49505</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21989</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9876</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">64401</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9229</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">66019</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">51435</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">23680</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">73819</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">68924</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">49504</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">90911</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4556979</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4614782</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -137,11 +137,11 @@
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="nl" fo:country="NL" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
    <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="nl" fo:country="NL" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:default-style>
   <style:default-style style:family="table">
    <style:table-properties table:border-model="collapsing"/>
@@ -967,33 +967,79 @@
    <style:text-properties officeooo:paragraph-rsid="00384f76"/>
   </style:style>
   <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:paragraph-rsid="00384f76"/>
+   <style:text-properties officeooo:paragraph-rsid="0044dbef"/>
   </style:style>
-  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0039f5ee"/>
+  </style:style>
+  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="00466a7e"/>
+  </style:style>
+  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0044dbef" officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties officeooo:rsid="0044dbef" officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0044dbef" officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
   </style:style>
-  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00384f76"/>
+  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0044dbef" officeooo:paragraph-rsid="0044dbef"/>
   </style:style>
-  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76" officeooo:paragraph-rsid="00384f76"/>
+  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00466a7e" officeooo:paragraph-rsid="00466a7e"/>
   </style:style>
-  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
-  </style:style>
-  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0039f5ee" officeooo:paragraph-rsid="0039f5ee"/>
-  </style:style>
-  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00384f76" officeooo:paragraph-rsid="00384f76"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0044dbef" officeooo:paragraph-rsid="0044dbef"/>
   </style:style>
-  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
+   <style:text-properties officeooo:paragraph-rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="P148" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P149" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P150" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.463cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P151" style:family="paragraph" style:parent-style-name="Notice">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00034f41"/>
@@ -1134,157 +1180,205 @@
    <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties fo:color="#33ff99"/>
+   <style:text-properties fo:color="#ffffff" fo:language="nl" fo:country="NL"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties fo:color="#33ff99" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#33ff99"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8"/>
+   <style:text-properties fo:color="#33ff99" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB"/>
+   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties officeooo:rsid="002bd75e"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="002bd75e"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="002d482f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00335d24" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="002d482f" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00345b93" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00335d24" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00345b93" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0044dbef" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00335d24" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00335d24" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00432c20" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="004588b3" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties officeooo:rsid="002d482f"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00432c20" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties officeooo:rsid="00319e73"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0044dbef" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties officeooo:rsid="0032e547"/>
+   <style:text-properties officeooo:rsid="002d482f"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties officeooo:rsid="00335d24"/>
+   <style:text-properties officeooo:rsid="00319e73"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:text-properties officeooo:rsid="0032e547"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
+   <style:text-properties officeooo:rsid="00335d24"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
   </style:style>
   <style:style style:name="T84" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
   </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T87" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T88" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547"/>
   </style:style>
   <style:style style:name="T89" style:family="text">
-   <style:text-properties officeooo:rsid="003792a9"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983"/>
   </style:style>
   <style:style style:name="T90" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76"/>
   </style:style>
   <style:style style:name="T91" style:family="text">
-   <style:text-properties officeooo:rsid="00362983"/>
+   <style:text-properties officeooo:rsid="003792a9"/>
   </style:style>
   <style:style style:name="T92" style:family="text">
-   <style:text-properties officeooo:rsid="00384f76"/>
+   <style:text-properties style:font-name="Liberation Mono2"/>
   </style:style>
   <style:style style:name="T93" style:family="text">
-   <style:text-properties fo:color="#3333ff"/>
+   <style:text-properties officeooo:rsid="00362983"/>
   </style:style>
   <style:style style:name="T94" style:family="text">
-   <style:text-properties officeooo:rsid="0039f5ee"/>
+   <style:text-properties officeooo:rsid="00384f76"/>
   </style:style>
   <style:style style:name="T95" style:family="text">
-   <style:text-properties officeooo:rsid="003e698d"/>
+   <style:text-properties fo:color="#3333ff"/>
   </style:style>
   <style:style style:name="T96" style:family="text">
-   <style:text-properties officeooo:rsid="00432c20"/>
+   <style:text-properties officeooo:rsid="0039f5ee"/>
   </style:style>
   <style:style style:name="T97" style:family="text">
-   <style:text-properties officeooo:rsid="004588b3"/>
+   <style:text-properties officeooo:rsid="003e698d"/>
+  </style:style>
+  <style:style style:name="T98" style:family="text">
+   <style:text-properties officeooo:rsid="00432c20"/>
+  </style:style>
+  <style:style style:name="T99" style:family="text">
+   <style:text-properties officeooo:rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="T100" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="T101" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T102" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T103" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="0044dbef" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T104" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="00466a7e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T105" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T106" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0044dbef" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T107" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="0044dbef" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T108" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00384f76"/>
+  </style:style>
+  <style:style style:name="T109" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0044dbef" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T110" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="italic" officeooo:rsid="0044dbef" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T111" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="italic" style:text-underline-style="none" officeooo:rsid="0044dbef" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T112" style:family="text">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0044dbef"/>
+  </style:style>
+  <style:style style:name="T113" style:family="text">
+   <style:text-properties officeooo:rsid="00466a7e"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Terminal">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" loext:rel-width-rel="paragraph"/>
@@ -1398,6 +1492,162 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.635cm" fo:text-indent="-0.635cm" fo:margin-left="0.635cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.635cm" fo:text-indent="-0.635cm" fo:margin-left="0.635cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -1418,7 +1668,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
-   <text:h text:style-name="P73" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc368_870526104"/><text:span text:style-name="T87">D</text:span><text:span text:style-name="T88">evices</text:span><text:bookmark-end text:name="__RefHeading___Toc368_870526104"/></text:h>
+   <text:h text:style-name="P141" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc368_870526104"/><text:span text:style-name="T94">A</text:span>pparaten<text:bookmark-end text:name="__RefHeading___Toc368_870526104"/></text:h>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Inhoudsopgave1">
     <text:table-of-content-source text:outline-level="10" text:index-scope="chapter">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -1504,279 +1754,289 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P120"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc368_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Devices<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc370_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc384_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Structure<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T64">Device Types</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc388_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Multiple IDs<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc390_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Multiple Protocols Per Device<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P127"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc392_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Overriding Protocol Settings<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P149"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc368_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Apparaten<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P150"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc370_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introductie<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P150"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc384_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Structuur<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P150"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T66">Apparaat</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T66"> Types</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc386_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P150"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc388_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Meerdere IDs<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P150"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc390_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Meerdere protocollen per apparaat<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P150"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc392_870526104" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Protocol instellingen overschrijven<text:tab/>5</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P57" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc370_870526104"/>Introduction<text:bookmark-end text:name="__RefHeading___Toc370_870526104"/></text:h>
-   <text:p text:style-name="Notice"><text:span text:style-name="T92">T</text:span>his page will only explain the device <text:span text:style-name="T92">set-up</text:span> <text:span text:style-name="T92">basics </text:span>with some protocols as an example. To see the full list of supported protocols and their respect<text:span text:style-name="T95">ive</text:span> syntax <text:span text:style-name="T96">read the protocol pages of this manual.</text:span></text:p>
-   <text:p text:style-name="P44">pilight can be ran with or without a fixed devices <text:span text:style-name="T96">set-up.</text:span> The advantage of a fixed device <text:span text:style-name="T96">set-up</text:span> is that pilight can use them in events and for external clients such as the built-in <text:span text:style-name="T92">webGUI</text:span>. Status updates will automatically be updated just <text:span text:style-name="T92">like</text:span> <text:span text:style-name="T92">information from </text:span>weather information.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T92">T</text:span>he protocol names outputted by <text:span text:style-name="Emphasis">pilight-receive</text:span> are n<text:span text:style-name="T92">o</text:span>t (always) the same as the protocols used in the device setup. The reason for this, is that various brands use the same underlying protocol. The <text:span text:style-name="Emphasis">arctech_switch</text:span> protocol is used by at least <text:span text:style-name="T92">five</text:span> different brands. So there is the same underlying protocol for each of these brands.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T92">1.<text:tab/>Check the</text:span> brand of the device you want to define in the device <text:span text:style-name="T96">set-up.</text:span><text:line-break/><text:span text:style-name="T92">2.<text:tab/></text:span>Check if your device is recognize<text:span text:style-name="Emphasis"> </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T69">in</text:span></text:span> <text:span text:style-name="Emphasis">pilight-receive.<text:line-break/></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">3.<text:tab/></text:span></text:span>Check <text:span text:style-name="T97">the protocol pages</text:span> to see if your device is listed <text:span text:style-name="T92">and what</text:span> the device syntax is.</text:p>
-   <text:p text:style-name="Text_20_body">If your specific brand / device is <text:span text:style-name="T96">not</text:span> listed, but <text:span text:style-name="Emphasis">pilight-receive</text:span> does show output, then contact us so we can add the device to the specific protocol supported brand list.</text:p>
-   <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="P101" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc384_870526104"/>Structure<text:bookmark-end text:name="__RefHeading___Toc384_870526104"/></text:h>
-   <text:list xml:id="list8103476985781808966" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P143" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc370_870526104"/>Introductie<text:bookmark-end text:name="__RefHeading___Toc370_870526104"/></text:h>
+   <text:p text:style-name="P151"><text:span text:style-name="T99">Deze pagina zal een basis uitleg legen over het configureren van apparaten aan de hand van een aantal protocollen. Voor een volledige lijst aan ondersteunde protocollen en hun respectievelijke syntax, kijk naar naar de protocollen gedeelte van deze handleiding.</text:span></text:p>
+   <text:p text:style-name="P134"><text:span text:style-name="T99">pilight kan gedraaid worden zonder vooraf geconfigureerde apparaten. Het voordeel van het wel configuren van apparaten is dat je ze dan kan gebruiken in </text:span><text:span text:style-name="T62">events</text:span><text:span text:style-name="T71"> of kan bedienen via bijvoorbeeld de geïntegreerde webGUI. Ook zullen status updates automatisch opgeslagen worden net als weerstation informatie.</text:span></text:p>
+   <text:p text:style-name="P137"><text:span text:style-name="T103">De protocol namen die te zien zijn in </text:span><text:span text:style-name="T110">pilight-receive </text:span><text:span text:style-name="T103">komen niet (altijd) overeen met de protocol namen die gebruikt worden in de apparaten configuratie. De reden hiervoor is dat verschillende merken hetzelfde protocol gebruiken. Het </text:span><text:span text:style-name="T110">arctech_switch</text:span><text:span text:style-name="T103"> protocol wordt gebruikt door tenminste vijf verschillende merken. </text:span></text:p>
+   <text:list xml:id="list6109907521237686497" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="T93">&quot;devices&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P140"><text:span text:style-name="T101">Achterhaal eerst het merk apparaat dat je probeert te configure</text:span><text:span text:style-name="T104">re</text:span><text:span text:style-name="T101">n.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:span text:style-name="T93">&quot;television&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P140"><text:span text:style-name="T101">Kijk of dat apparaat wordt herkent door pilight.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T93">&quot;relay&quot;</text:span> ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: [{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;gpio&quot;</text:span>: 3</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>}],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;state&quot;</text:span>: <text:span text:style-name="T93">&quot;off&quot;</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:span text:style-name="T93">&quot;bookShelveLight&quot;</text:span>: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T93">&quot;kaku_switch&quot;</text:span> ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: [{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: 123456,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;unit&quot;</text:span>: 1</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>}],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;state&quot;</text:span>: <text:span text:style-name="T93">&quot;off&quot;</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="Code">}</text:p>
+     <text:p text:style-name="P138"><text:span text:style-name="T103">Kijk in de protocol pagina of je apparaat erbij staat en wat de respectievelijke syntax is.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="Emphasis"><text:span text:style-name="T64">Each device you want to </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">set-up</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> in pilight has its own entry. In this example we have </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">set-up</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> two devices. One GPIO connected Relay that turns the television on and off and </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">KlikAanKlikUit controlled </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64">bookShelveLight.</text:span></text:span></text:p>
-   <text:p text:style-name="P42"><text:span text:style-name="Emphasis"><text:span text:style-name="T64">Whenever an action has been performed </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">or received</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> by pilight the registered device will update itself when necessary. So, would you in this example, turn the bookShelveLight </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T67">t</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64">o on with a KlikAanKlikUit remote, pilight will also record this, and change the status of the bookShelveLight to on. Of course, a receiver needs to be connected for this to work. Each device has it</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T68">s</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T64"> own specific syntax but its basic properties remain the same. That is:</text:span></text:span></text:p>
-   <text:list xml:id="list5407403403926541346" text:style-name="L1">
+   <text:p text:style-name="P137"><text:span text:style-name="T112">Als het specifieke merk / apparaat niet in de lijst staat, maar je apparaat wordt wel door pilight herkent, laat dit dan aan ons weten zodat we het apparaat alsnog kunnen toevoegen aan de lijst van ondersteunde merken.</text:span></text:p>
+   <text:p text:style-name="P132"/>
+   <text:h text:style-name="P146" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc384_870526104"/>Structuur<text:bookmark-end text:name="__RefHeading___Toc384_870526104"/></text:h>
+   <text:list xml:id="list8129035472305678137" text:style-name="Code_20_Numbering">
     <text:list-item>
-     <text:p text:style-name="P131"><text:span text:style-name="Emphasis"><text:span text:style-name="T67">name</text:span></text:span></text:p>
+     <text:p text:style-name="P148"><text:span text:style-name="T95">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P131"><text:span text:style-name="Emphasis"><text:span text:style-name="T67">protocol</text:span></text:span></text:p>
+     <text:p text:style-name="P148"><text:tab/><text:span text:style-name="T95">&quot;television&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P131"><text:span text:style-name="Emphasis"><text:span text:style-name="T67">id</text:span></text:span></text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T95">&quot;relay&quot;</text:span> ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: [{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;gpio&quot;</text:span>: 3</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>}],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;state&quot;</text:span>: <text:span text:style-name="T95">&quot;off&quot;</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:span text:style-name="T95">&quot;bookShelveLight&quot;</text:span>: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T95">&quot;kaku_switch&quot;</text:span> ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: [{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: 123456,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;unit&quot;</text:span>: 1</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>}],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;state&quot;</text:span>: <text:span text:style-name="T95">&quot;off&quot;</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P148">}</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P130"><text:span text:style-name="Emphasis"><text:span text:style-name="T67">To know the syntax of the specific protocol you want to use you can refer to the protocols description </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T68">found in the protocol section of this manual.</text:span></text:span></text:p>
-   <text:h text:style-name="P97" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc386_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T63">Device Types</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc386_870526104"/></text:h>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.958cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
+   <text:p text:style-name="P137"><text:span text:style-name="Emphasis"><text:span text:style-name="T103">Elk apparaat dat je wil configureren wordt op zichzelf toegevoegd aan het </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T110">devices</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T103"> onderdeel van de </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T104">configuratie.</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T103"> In dit voorbeeld worden er twee apparaten geconfigureerd. Een aan de GPIO aangesloten Relais om de </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T110">television</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T103"> mee aan en uit te zetten en een via KlikAanKlikUit bedienbaar </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T110">bookShelveLight</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T103">.</text:span></text:span></text:p>
+   <text:p text:style-name="P137"><text:span text:style-name="Emphasis"><text:span text:style-name="T103">Zodra er een actie is uitgevoerd of ontvangen van of op een van deze apparaten dan zal pilight deze status ook bijwerken. Zou je dus in dit voorbeeld de </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T111">bookShelveLight</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T107"> handmatig aanzetten met een KlikAanKlikUit afstandsbediening, dan zal pilight dit ook oppikken, en de status van de </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T111">bookShelveLight </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T107">op aan zetten. Je moet hiervoor natuurlijk wel een ontvanger hebben aangesloten. In de basis heeft elk apparaat een vast aantal velden die moeten worden geconfigureerd:</text:span></text:span></text:p>
+   <text:list xml:id="list8412944960486576770" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P131"><text:span text:style-name="Emphasis"><text:span text:style-name="T110">name</text:span></text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P131"><text:span text:style-name="Emphasis"><text:span text:style-name="T110">protocol</text:span></text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P131"><text:span text:style-name="Emphasis"><text:span text:style-name="T110">id</text:span></text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P137"><text:span text:style-name="Emphasis"><text:span text:style-name="T102">D</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T103">e syn</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T103">tax van elk specifieke protocol staat beschreven in de protocollen sectie van deze handlei</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T103">ding.</text:span></text:span></text:p>
+   <text:h text:style-name="P97" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc386_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T106">Apparaat</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T105"> Types</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc386_870526104"/></text:h>
+   <text:p text:style-name="P134"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="2.381cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35">{</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;protocol&quot;: &quot;arctech_switches&quot;,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;code&quot;: {</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;id&quot;: 100,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;unit&quot;: 15,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;state&quot;: off</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>},</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;repeat&quot;: 1,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35">}</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35">{</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;protocol&quot;: &quot;arctech_dimmers&quot;,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;code&quot;: {</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;id&quot;: 100,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;unit&quot;: 15,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;state&quot;: off</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>},</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;repeat&quot;: 1,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35">}</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35">{</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;protocol&quot;: &quot;arctech_screens&quot;,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;code&quot;: {</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;id&quot;: 100,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;unit&quot;: 15,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/><text:tab/>&quot;state&quot;: up</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>},</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35"><text:tab/>&quot;repeat&quot;: 1,</text:span></text:span></text:p>
-      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T35">}</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47">{</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;protocol&quot;: &quot;arctech_switches&quot;,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;code&quot;: {</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;id&quot;: 100,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;unit&quot;: 15,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;state&quot;: off</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>},</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;repeat&quot;: 1,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47">}</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47">{</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;protocol&quot;: &quot;arctech_dimmers&quot;,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;code&quot;: {</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;id&quot;: 100,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;unit&quot;: 15,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;state&quot;: off</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>},</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;repeat&quot;: 1,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47">}</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47">{</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;protocol&quot;: &quot;arctech_screens&quot;,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;code&quot;: {</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;id&quot;: 100,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;unit&quot;: 15,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/><text:tab/>&quot;state&quot;: up</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>},</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47"><text:tab/>&quot;repeat&quot;: 1,</text:span></text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Character_5f_20_5f_style"><text:span text:style-name="T47">}</text:span></text:span></text:p>
      </draw:text-box>
-    </draw:frame>pilight can work with various device types. Each device type has different functionality and requirements, however, they sometimes use the same code characteristics. One example are the KlikAanKlikUit switches, dimmers, doorbells, and screens. <text:span text:style-name="T97">In pilight</text:span> a KlikAanKlikUit code can show up like this:<text:line-break/>As you can see, a single KlikAanKlikUit <text:span text:style-name="T94">command</text:span> was interpreted as three different devices. You need to choose carefully which device actually sent <text:span text:style-name="T94">the</text:span> code to make sure how to define it in the device <text:span text:style-name="T94">set-up.</text:span> The difference is that a dimmer will have a slider and a<text:span text:style-name="T94">n</text:span> on/off button, a switch will just show an on/off button, and a screen will have momentary up/down buttons. Defining a screen as a dimmer <text:span text:style-name="T94">is possible but does not give you the ability to control the dimmer as a dimmer from the different GUIs.</text:span></text:p>
-   <text:h text:style-name="P102" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc388_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Multiple IDs</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc388_870526104"/></text:h>
-   <text:p text:style-name="Text_20_body">Each protocol needs to have at least one id defined so pilight knows what device has been controlled. However, it is possible that you have multiple KlikAanKlikUit remotes that control the same KlikAanKlikUit switch. In that case, you can define multiple id&apos;s to your devices. In case of a KlikAanKlikUit switch:</text:p>
-   <text:list xml:id="list94659109670944" text:continue-list="list8103476985781808966" text:style-name="Code_20_Numbering">
+    </draw:frame><text:span text:style-name="T99">pilight ondersteund een groot aantal type apparaten. Elk apparaat heeft zijn eigen functionaliteit en vereisten, maar soms gebruiken ze in de basis dezelfde onderliggende code . Een voorbeeld is de KlikAanKlikUit schakelaars, dimmers, deurbel, en rolluiken. In pilight kan deze KlikAanKlikUit code als volgt opgepikt worden:</text:span><text:line-break/><text:span text:style-name="T99">Zoals je kunt zien wordt een enkele KlikAanKlikUit commando opgepikt als drie soorten apparaten. Je dient zelf goed na te gaan welk apparaat daadwerkelijk het commando verzond om te weten hoe je hem in de apparaten set-up configureert. Een dimmer zal bijvoorbeeld een schuif hebben én een aan/uit knop, een schakelaar heeft alleen een aan/uit knop en een rolluik heeft twee omhoog/omlaag moment schakelaars. Je dimmer configureren als een rolluik is mogelijk, maar geeft je niet de mogelijkheden om je dimmer als een dimmer te bedienen vanuit de verschillende GUIs.</text:span></text:p>
+   <text:h text:style-name="P147" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc388_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T109">Meerdere IDs</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc388_870526104"/></text:h>
+   <text:p text:style-name="P134"><text:span text:style-name="T99">Elk protocol dient tenminste een ID te hebben zodat pilight weet welk apparaat er is bediend. Het is echter ook mogelijk dat je meerdere KlikAanKlikUit afstandsbedieningen hebt die dezelfde KlikAanKlikUit schakelaar bedienen. In dat geval kan je meerdere IDs aan je apparaat koppelen. In geval van de KlikAanKlikUit schakelaar:</text:span></text:p>
+   <text:list xml:id="list101659875608668" text:continue-list="list8129035472305678137" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="T93">&quot;devices&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P148"><text:span text:style-name="T95">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:span text:style-name="T93">&quot;bookShelveLight&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:span text:style-name="T95">&quot;bookShelveLight&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T93">&quot;kaku_switch&quot; </text:span>],</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T95">&quot;kaku_switch&quot; </text:span>],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: [{</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: [{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: 1234,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: 1234,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;unit&quot;</text:span>: 0</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;unit&quot;</text:span>: 0</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>},</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>{</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;:</text:span> 2345,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;:</text:span> 2345,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;unit&quot;</text:span>: 1</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;unit&quot;</text:span>: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>}],</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>}],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;state&quot;</text:span>: <text:span text:style-name="T93">&quot;off&quot;</text:span></text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;state&quot;</text:span>: <text:span text:style-name="T95">&quot;off&quot;</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/>}</text:p>
+     <text:p text:style-name="P148"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code">}</text:p>
+     <text:p text:style-name="P148">}</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body">Whenever one of these id&apos;s have been received, pilight will update the device accordingly.</text:p>
-   <text:h text:style-name="P63" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc390_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Multiple Protocols Per Device</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc390_870526104"/></text:h>
-   <text:p text:style-name="Text_20_body">pilight supports multiple protocols per device. The new KlikAanKlikUit switches are backwards compatible with the old KlikAanKlikUit remotes. This means that pilight needs to check both protocols to know whether a device state was changed. In case of a KlikAanKlikUit dimmer, pilight needs to check three protocols. To add multiple protocols per device, the device must contain at least one ID for each protocol and all protocol values should be present. An example:</text:p>
-   <text:list xml:id="list94660443305852" text:continue-list="list94659109670944" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P137"><text:span text:style-name="T112">Als een status update vanuit een van deze IDs zal worden ontvangen dan werkt pilight de status van het apparaat bij.</text:span></text:p>
+   <text:h text:style-name="P63" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc390_870526104"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T109">Meerdere protocollen per apparaat</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc390_870526104"/></text:h>
+   <text:p text:style-name="P137"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T109">pilight ondersteund het definiëren van meerdere protocollen per apparaat. De oude KlikAanKlikUit afstandsbedieningen kunnen bijvoorbeeld ook de nieuwe schakelaars bedienen. Dit betekent dat pilight beide protocollen moet ontvangen om te weten of de status van de schakelaar is verandert. Als er een KlikAanKlikUit dimmer wordt gebruikt, dan moet pilight drie protocollen nagaan. Als je meerdere protocollen per apparaat wil toevoegen, dan moet elk protocol een valide ID bevatten.</text:span></text:span></text:p>
+   <text:list xml:id="list101660341579864" text:continue-list="list101659875608668" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="T93">&quot;devices&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P148"><text:span text:style-name="T95">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:span text:style-name="T93">&quot;bookShelveLight&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:span text:style-name="T95">&quot;bookShelveLight&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T93">&quot;kaku_dimmer&quot;</text:span>, <text:span text:style-name="T93">&quot;kaku_switch&quot;</text:span>, <text:span text:style-name="T93">&quot;kaku_old&quot;</text:span> ],</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T95">&quot;kaku_dimmer&quot;</text:span>, <text:span text:style-name="T95">&quot;kaku_switch&quot;</text:span>, <text:span text:style-name="T95">&quot;kaku_old&quot;</text:span> ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: [{</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: [{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: 123456,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: 123456,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;unit&quot;</text:span>: 1</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;unit&quot;</text:span>: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>},</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>{</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: 10,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: 10,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;unit&quot;</text:span>: 5</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;unit&quot;</text:span>: 5</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>}],</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>}],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;state&quot;</text:span>: <text:span text:style-name="T93">&quot;off&quot;</text:span>,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;state&quot;</text:span>: <text:span text:style-name="T95">&quot;off&quot;</text:span>,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;dimlevel&quot;</text:span>: 10</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;dimlevel&quot;</text:span>: 10</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/>}</text:p>
+     <text:p text:style-name="P148"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code">}</text:p>
+     <text:p text:style-name="P148">}</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P89">There are a few important steps when you use multiple protocols in a single device setup. </text:p>
-   <text:list xml:id="list5542558991827255670" text:style-name="L2">
+   <text:p text:style-name="P133"/>
+   <text:p text:style-name="P139">Er zijn een aantal belangrijke stappen die je dient te volgen als je meerdere protocollen per apparaat toevoegt.</text:p>
+   <text:list xml:id="list3615049630926463357" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P132">The kaku_dimmer and kaku_switch protocols both share the same id specifications, but the kaku_old protocol can only have an id <text:span text:style-name="T94">&lt;</text:span> 16 and a unit &lt; 33. The id set for the kaku_switch and kaku_dimmer is thereby not supported by the kaku_old protocol. There<text:span text:style-name="T96">for</text:span> an additional id must be <text:span text:style-name="T94">added</text:span> to match the requirements by kaku_old.</text:p>
+     <text:p text:style-name="P135"><text:span text:style-name="T99">De kaku_dimmer en kaku_switch protocollen hebben dezelfde ID specificaties, maar de kaku_old niet. kaku_old kan alleen ID codes hebben &lt; 16 en unit code &lt; 33. De IDs van de kaku_switch en kaku_dimmer worden daarom niet ondersteund door het kaku_old protocol. Een aanvullende ID moet daarom toegevoegd worden volgende de eisen van kaku_old.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P132">Because we have a dimmer and switch protocol combined we must have a dimlevel and state value present in the device.</text:p>
+     <text:p text:style-name="P135"><text:span text:style-name="T99">Aangezien we een dimmer en een schakelaar combineren is het van belang dat we een dimlevel en een state toevoegen aan het apparaat.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P132">The kaku_dimmer is the first protocol defined. This is important, because pilight will now interpret this device as a dimmer instead of a switch. Would the kaku_dimmer protocol be defined as second or third protocol, then the device would be interpreted as a switch.</text:p>
+     <text:p text:style-name="P135"><text:span text:style-name="T99">De kaku_dimmer wordt als eerste gedefinieerd. Dit is belangrijk, omdat pilight het gehele apparaat nu als een dimmer zal beschouwen in plaats van een schakelaar. Als de kaku_dimmer als tweede of derde protocol zou zijn gedefinieerd, dan zou pilight het apparaat beschouwen als schakelaar.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P64" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc392_870526104"/>Overriding Protocol Settings<text:bookmark-end text:name="__RefHeading___Toc392_870526104"/></text:h>
-   <text:p text:style-name="Text_20_body">Each protocol has <text:span text:style-name="T94">some </text:span>specific settings you can override in your device <text:span text:style-name="T94">set-up.</text:span> What these settings are, can be found in the protocols section <text:span text:style-name="T96">of this manual</text:span>. These settings can change the internal functioning of a protocol <text:span text:style-name="T94">or </text:span>the values a protocol can take. These settings are device specific.</text:p>
-   <text:p text:style-name="Text_20_body">For example, we do <text:span text:style-name="T96">not</text:span> want to have our dimmer to go to a full dimlevel, because then it <text:span text:style-name="T94">i</text:span>s to bright. But we also do <text:span text:style-name="T94">no</text:span>t want it to go to its minimum dimlevel, because then it <text:span text:style-name="T94">i</text:span>s to dim. In that case, you can override the min<text:span text:style-name="T94">imum</text:span> and max<text:span text:style-name="T94">imum</text:span> values of the dimmer:</text:p>
-   <text:list xml:id="list94660430611236" text:continue-list="list94660443305852" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P144" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc392_870526104"/>Protocol instellingen overschrijven<text:bookmark-end text:name="__RefHeading___Toc392_870526104"/></text:h>
+   <text:p text:style-name="P136"><text:span text:style-name="T113">Elk protocol heeft een aantal specifieke instellingen die over te schrijven zijn vanuit de apparaten set-up. Wat deze specifieke instellingen zijn per protocol is te lezen in de protocol sectie van deze handleiding. Deze instellingen kunnen de interne werken van een protocol veranderen of de waardes die een protocol kan hebben limiteren. Deze instellingen zijn sterk protocol afhankelijk.</text:span></text:p>
+   <text:p text:style-name="P136"><text:span text:style-name="T113">Een voorbeeld, we willen niet dat onze dimmer naar zijn volledige dim niveau kan gaan, omdat hij dan te fel is. We willen ook niet dat hij tot zijn laagste dim niveau kan gaan, omdat hij dan te zwak brandt. In dat geval overschrijven we het minimum en maximum niveau van de dimmer:</text:span></text:p>
+   <text:list xml:id="list101659361154383" text:continue-list="list101660341579864" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="T93">&quot;devices&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P148"><text:span text:style-name="T95">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:span text:style-name="T93">&quot;bookShelveLight&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:span text:style-name="T95">&quot;bookShelveLight&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T93">&quot;kaku_dimmer&quot; </text:span>],</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T95">&quot;kaku_dimmer&quot; </text:span>],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: [{</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: [{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: 1234,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;id&quot;</text:span>: 1234,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;unit&quot;</text:span>: 1</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T95">&quot;unit&quot;</text:span>: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/>}],</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/>}],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;state&quot;</text:span>: <text:span text:style-name="T93">&quot;on&quot;</text:span>,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;state&quot;</text:span>: <text:span text:style-name="T95">&quot;on&quot;</text:span>,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;dimlevel&quot;</text:span>: 3,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;dimlevel&quot;</text:span>: 3,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;dimlevel-minimum&quot;</text:span>: 3,</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;dimlevel-minimum&quot;</text:span>: 3,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;dimlevel-maximum&quot;</text:span>: 10</text:p>
+     <text:p text:style-name="P148"><text:tab/><text:tab/><text:span text:style-name="T95">&quot;dimlevel-maximum&quot;</text:span>: 10</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:tab/>}</text:p>
+     <text:p text:style-name="P148"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code">}</text:p>
+     <text:p text:style-name="P148">}</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body">Of course, the maximum dimlevels can still be overriden by the KlikAanKlikUit remote, but pilight will make sure it cannot control the dimmers below or above these dimlevels within pilight.</text:p>
+   <text:p text:style-name="P136"><text:span text:style-name="T113">De KlikAanKlikUit afstandsbedieningen kunnen natuurlijk het dim niveau wel instellen buiten deze limieten, pilight zal er echter weigeren om deze dim niveaus op te slaan of om de lampen buiten deze limieten te bedienen.</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
