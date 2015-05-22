@@ -1,10 +1,10 @@
 maintitle|pilight manual
-openmenu|Move your mouse to the left to open the menu 
+openmenu|Move here to open menu
 pdfdownload|Download source pdf
 pdfgenerated|Page last generated on 
 top|Top
 january|January
-februari|Februari
+februari|February
 march|March
 april|April
 may|May
