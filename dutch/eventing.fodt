@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="94" meta:word-count="2123" meta:character-count="12152" meta:non-whitespace-character-count="10017"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="106" meta:word-count="2370" meta:character-count="13752" meta:non-whitespace-character-count="11382"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">23682</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">42123</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22809</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">2611</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11830</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">3380</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">23680</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">22384</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">42122</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22807</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4256220</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4265413</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -575,224 +575,145 @@
    <style:text-properties officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="002d482f"/>
-  </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="0032e547"/>
-  </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00300c13"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547" officeooo:paragraph-rsid="0032e547"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002b886c" officeooo:paragraph-rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002b886c" officeooo:paragraph-rsid="002f66a7"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="002bd75e"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e" officeooo:paragraph-rsid="002bd75e"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="002919b0"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00335d24" officeooo:paragraph-rsid="00335d24"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" officeooo:paragraph-rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="00335d24"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00300c13"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00300c13"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.463cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547" officeooo:paragraph-rsid="0032e547"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002b886c" officeooo:paragraph-rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00289ca6"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="0032e547"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0032e547" officeooo:paragraph-rsid="0040f1dc"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="00345b93" officeooo:paragraph-rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0040f1dc"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="002919b0"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003aee0a"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003ca18d"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003df1ab" officeooo:paragraph-rsid="003df1ab"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003f1db7" officeooo:paragraph-rsid="003f1db7"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003f1db7" officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="0040f1dc"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="00335d24"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0040f1dc"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="003df1ab"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0040f1dc"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="0040f1dc"/>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00423158" officeooo:paragraph-rsid="00423158"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="0040f1dc"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="002919b0"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0040f1dc"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="00423158" officeooo:paragraph-rsid="00423158" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="004115c5" officeooo:paragraph-rsid="004115c5"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00423158" officeooo:paragraph-rsid="00423158"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003aee0a" officeooo:paragraph-rsid="003aee0a"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003df1ab" officeooo:paragraph-rsid="003df1ab"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="0040f1dc"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0040f1dc"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="00300c13"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0040f1dc"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" officeooo:paragraph-rsid="0040f1dc"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="004115c5" officeooo:paragraph-rsid="004115c5" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="00289ca6"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003df1ab" officeooo:paragraph-rsid="003df1ab"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003df1ab" officeooo:paragraph-rsid="003df1ab"/>
   </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003f1db7" officeooo:paragraph-rsid="003f1db7"/>
   </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering"/>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering"/>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="00423158" officeooo:paragraph-rsid="00423158" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.463cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
@@ -800,340 +721,196 @@
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties fo:color="#000000"/>
-  </style:style>
-  <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB" officeooo:rsid="002b886c" fo:background-color="transparent" loext:char-shading-value="0"/>
-  </style:style>
-  <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
-  </style:style>
-  <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
-  </style:style>
-  <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB" officeooo:rsid="0032e547"/>
-  </style:style>
-  <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" officeooo:rsid="00368e33" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="T13" style:family="text">
+  <style:style style:name="T2" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" officeooo:rsid="002b886c"/>
   </style:style>
-  <style:style style:name="T14" style:family="text">
+  <style:style style:name="T3" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" officeooo:rsid="002b886c" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
-  <style:style style:name="T15" style:family="text">
+  <style:style style:name="T4" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
-  <style:style style:name="T16" style:family="text">
+  <style:style style:name="T5" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" officeooo:rsid="002bd75e"/>
   </style:style>
-  <style:style style:name="T17" style:family="text">
+  <style:style style:name="T6" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T18" style:family="text">
+  <style:style style:name="T7" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T19" style:family="text">
+  <style:style style:name="T8" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T20" style:family="text">
+  <style:style style:name="T9" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="00368e33" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T21" style:family="text">
+  <style:style style:name="T10" style:family="text">
    <style:text-properties fo:color="#000000" fo:language="nl" fo:country="NL" officeooo:rsid="0032e547"/>
   </style:style>
-  <style:style style:name="T22" style:family="text">
-   <style:text-properties officeooo:rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="T23" style:family="text">
-   <style:text-properties officeooo:rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="T24" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
-  </style:style>
-  <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="T26" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="T27" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
-  </style:style>
-  <style:style style:name="T28" style:family="text">
+  <style:style style:name="T11" style:family="text">
    <style:text-properties fo:color="#ff3333" fo:language="nl" fo:country="NL" officeooo:rsid="00289ca6"/>
   </style:style>
-  <style:style style:name="T29" style:family="text">
+  <style:style style:name="T12" style:family="text">
    <style:text-properties fo:color="#ff3333" fo:language="nl" fo:country="NL" officeooo:rsid="002b886c"/>
   </style:style>
-  <style:style style:name="T30" style:family="text">
+  <style:style style:name="T13" style:family="text">
    <style:text-properties fo:color="#ff3333" fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8"/>
   </style:style>
-  <style:style style:name="T31" style:family="text">
+  <style:style style:name="T14" style:family="text">
    <style:text-properties fo:color="#ff3333" fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
-  <style:style style:name="T32" style:family="text">
+  <style:style style:name="T15" style:family="text">
    <style:text-properties fo:color="#ff3333" fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
-  <style:style style:name="T33" style:family="text">
+  <style:style style:name="T16" style:family="text">
    <style:text-properties fo:color="#ff3333" fo:language="nl" fo:country="NL" officeooo:rsid="003f1db7"/>
   </style:style>
-  <style:style style:name="T34" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="T35" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
-  </style:style>
-  <style:style style:name="T36" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
-  </style:style>
-  <style:style style:name="T37" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T38" style:family="text">
+  <style:style style:name="T17" style:family="text">
    <style:text-properties fo:color="#ffffff" fo:language="nl" fo:country="NL" officeooo:rsid="002b886c"/>
   </style:style>
-  <style:style style:name="T39" style:family="text">
+  <style:style style:name="T18" style:family="text">
    <style:text-properties fo:color="#ffffff" fo:language="nl" fo:country="NL" officeooo:rsid="002bd75e"/>
   </style:style>
-  <style:style style:name="T40" style:family="text">
+  <style:style style:name="T19" style:family="text">
    <style:text-properties fo:color="#ffffff" fo:language="nl" fo:country="NL" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
-  <style:style style:name="T41" style:family="text">
+  <style:style style:name="T20" style:family="text">
    <style:text-properties fo:color="#ffffff" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T42" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="T43" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="T44" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="T45" style:family="text">
+  <style:style style:name="T21" style:family="text">
    <style:text-properties fo:color="#33ff99" fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="T46" style:family="text">
+  <style:style style:name="T22" style:family="text">
    <style:text-properties fo:color="#33ff99" fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8"/>
   </style:style>
-  <style:style style:name="T47" style:family="text">
+  <style:style style:name="T23" style:family="text">
    <style:text-properties fo:color="#33ff99" fo:language="nl" fo:country="NL" officeooo:rsid="002b886c"/>
   </style:style>
-  <style:style style:name="T48" style:family="text">
-   <style:text-properties officeooo:rsid="002bd75e"/>
-  </style:style>
-  <style:style style:name="T49" style:family="text">
+  <style:style style:name="T24" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="002d482f" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00335d24" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T52" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00345b93" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T53" style:family="text">
+  <style:style style:name="T25" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="003aee0a" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T54" style:family="text">
+  <style:style style:name="T26" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="003ca18d" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T55" style:family="text">
+  <style:style style:name="T27" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="003df1ab" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T56" style:family="text">
+  <style:style style:name="T28" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="0040f1dc" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T57" style:family="text">
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="004115c5" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="none" officeooo:rsid="004115c5" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T58" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00335d24" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="T60" style:family="text">
+  <style:style style:name="T32" style:family="text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="003aee0a" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T61" style:family="text">
+  <style:style style:name="T33" style:family="text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="003ca18d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T62" style:family="text">
+  <style:style style:name="T34" style:family="text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="003df1ab" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T63" style:family="text">
+  <style:style style:name="T35" style:family="text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="0040f1dc" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T64" style:family="text">
-   <style:text-properties officeooo:rsid="002d482f"/>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00423158" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T65" style:family="text">
-   <style:text-properties officeooo:rsid="00319e73"/>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="004115c5" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T66" style:family="text">
-   <style:text-properties officeooo:rsid="0032e547"/>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004115c5" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T67" style:family="text">
-   <style:text-properties officeooo:rsid="00335d24"/>
-  </style:style>
-  <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="T70" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T71" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T72" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="0037ba58" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T73" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T74" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
-  </style:style>
-  <style:style style:name="T75" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
-  </style:style>
-  <style:style style:name="T76" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T77" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T78" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T79" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0037ba58" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T80" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0037ba58"/>
-  </style:style>
-  <style:style style:name="T81" style:family="text">
-   <style:text-properties fo:color="#00cc33" fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="T82" style:family="text">
-   <style:text-properties fo:color="#00cc33" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
-  </style:style>
-  <style:style style:name="T83" style:family="text">
-   <style:text-properties fo:color="#00cc33" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
-  </style:style>
-  <style:style style:name="T84" style:family="text">
-   <style:text-properties fo:color="#00cc33" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
-  </style:style>
-  <style:style style:name="T85" style:family="text">
+  <style:style style:name="T39" style:family="text">
    <style:text-properties fo:color="#00cc33" fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="T86" style:family="text">
+  <style:style style:name="T40" style:family="text">
    <style:text-properties fo:color="#00cc33" fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8"/>
   </style:style>
-  <style:style style:name="T87" style:family="text">
+  <style:style style:name="T41" style:family="text">
    <style:text-properties fo:color="#00cc33" fo:language="nl" fo:country="NL" officeooo:rsid="002b886c"/>
   </style:style>
-  <style:style style:name="T88" style:family="text">
+  <style:style style:name="T42" style:family="text">
    <style:text-properties fo:color="#00cc33" fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
-  <style:style style:name="T89" style:family="text">
+  <style:style style:name="T43" style:family="text">
    <style:text-properties fo:color="#00cc33" fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
-  <style:style style:name="T90" style:family="text">
+  <style:style style:name="T44" style:family="text">
    <style:text-properties fo:color="#00cc33" fo:language="nl" fo:country="NL" officeooo:rsid="003f1db7"/>
   </style:style>
-  <style:style style:name="T91" style:family="text">
+  <style:style style:name="T45" style:family="text">
    <style:text-properties fo:color="#00cc33" fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc"/>
   </style:style>
-  <style:style style:name="T92" style:family="text">
-   <style:text-properties officeooo:rsid="0037ba58"/>
-  </style:style>
-  <style:style style:name="T93" style:family="text">
+  <style:style style:name="T46" style:family="text">
    <style:text-properties officeooo:rsid="003aee0a"/>
   </style:style>
-  <style:style style:name="T94" style:family="text">
+  <style:style style:name="T47" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="T95" style:family="text">
+  <style:style style:name="T48" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00298cd8"/>
   </style:style>
-  <style:style style:name="T96" style:family="text">
+  <style:style style:name="T49" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T97" style:family="text">
+  <style:style style:name="T50" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T98" style:family="text">
+  <style:style style:name="T51" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="003df1ab" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T99" style:family="text">
+  <style:style style:name="T52" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0040f1dc" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T100" style:family="text">
+  <style:style style:name="T53" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T101" style:family="text">
+  <style:style style:name="T54" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00289ca6"/>
   </style:style>
-  <style:style style:name="T102" style:family="text">
+  <style:style style:name="T55" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="002bd75e"/>
   </style:style>
-  <style:style style:name="T103" style:family="text">
+  <style:style style:name="T56" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0040f1dc" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T104" style:family="text">
+  <style:style style:name="T57" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T105" style:family="text">
+  <style:style style:name="T58" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0040f1dc" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T106" style:family="text">
+  <style:style style:name="T59" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T107" style:family="text">
+  <style:style style:name="T60" style:family="text">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003df1ab"/>
   </style:style>
-  <style:style style:name="T108" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003f1db7"/>
-  </style:style>
-  <style:style style:name="T109" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0040f1dc"/>
-  </style:style>
-  <style:style style:name="T110" style:family="text">
+  <style:style style:name="T61" style:family="text">
    <style:text-properties officeooo:rsid="003df1ab"/>
   </style:style>
-  <style:style style:name="T111" style:family="text">
+  <style:style style:name="T62" style:family="text">
    <style:text-properties officeooo:rsid="003f1db7"/>
   </style:style>
-  <style:style style:name="T112" style:family="text">
+  <style:style style:name="T63" style:family="text">
    <style:text-properties officeooo:rsid="0040f1dc"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties officeooo:rsid="004115c5"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -1224,7 +1001,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
-   <text:h text:style-name="P57" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1340_1085664404"/>Eventing<text:bookmark-end text:name="__RefHeading___Toc1340_1085664404"/></text:h>
+   <text:h text:style-name="P34" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1340_1085664404"/>Eventing<text:bookmark-end text:name="__RefHeading___Toc1340_1085664404"/></text:h>
    <text:table-of-content text:style-name="Sect1" text:name="Inhoudsopgave1">
     <text:table-of-content-source text:outline-level="10" text:index-scope="chapter">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -1310,222 +1087,249 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P64"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1340_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Eventing<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1342_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introductie<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3033_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Regel verwerking<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3035_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Basis structuur<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Waar of Onwaar<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">AND en OR<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Haakjes<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc945_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Operatoren<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc947_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Apparaten<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc949_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Functies<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3037_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Acties<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1348_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Optimalisaties<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1340_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Eventing<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1342_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introductie<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3033_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Regel verwerking<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3035_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Basis structuur<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Waar of Onwaar<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">AND en OR<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1420391157" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Haakjes<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc945_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Operatoren<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc947_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Apparaten<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc949_614593705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Functies<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3037_673823619" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Acties<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3208_979603231" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Parameters van apparaten gebruiken<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1348_1085664404" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Optimalisaties<text:tab/>5</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P51" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1342_1085664404"/>Introductie<text:bookmark-end text:name="__RefHeading___Toc1342_1085664404"/></text:h>
-   <text:p text:style-name="P38"><text:span text:style-name="T93">De pilight </text:span><text:span text:style-name="T53">eventing</text:span><text:span text:style-name="T60"> functionaliteit maakt het mogelijk om je huis te automatiseren door het schrijven van </text:span><text:span text:style-name="T53">event</text:span><text:span text:style-name="T60"> regels. De regels vertellen pilight wat er moet gebeuren op een bepaalde tijd of bij een bepaalde gebeurtenis. pilight </text:span><text:span text:style-name="T53">event </text:span><text:span text:style-name="T60">regels volgen de standaard mathematische conventies en omdat je gebruik kunt maken van een oneindige hoeveelheid haakjes, kunnen deze regels erg geavanceerd worden, maar zijn ze tevens ook erg flexibel.</text:span></text:p>
-   <text:p text:style-name="P39"><text:span text:style-name="T93">Zoals met alles binnen pilight, is de </text:span><text:span text:style-name="T53">eventing </text:span><text:span text:style-name="T60">functionaliteit volledig modulair. Dit betekent dat de </text:span><text:span text:style-name="T61">operatoren, acties en functies allemaal makkelijk uit te breiden externe modules zijn. Ontwikkelaars en gebruike</text:span><text:span text:style-name="T62">rs</text:span><text:span text:style-name="T61"> hoeven niet aan de basis van de </text:span><text:span text:style-name="T54">eventing</text:span><text:span text:style-name="T61"> functionaliteit te komen om aanvullende functionaliteit toe te voegen.</text:span></text:p>
-   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3033_673823619"/>Regel verwerking<text:bookmark-end text:name="__RefHeading___Toc3033_673823619"/></text:h>
-   <text:p text:style-name="P31"><text:span text:style-name="T110">Er zijn een aantal dingen die goed zijn om te weten zodra je aan de slag gaat met pilight</text:span><text:span text:style-name="T55"> event </text:span><text:span text:style-name="T62">regels.</text:span><text:span text:style-name="T110"> Als je beter begrijpt hoe pilight de regels verwerkt, dan wordt het ook makkelijker om efficiëntere en meer geavanceerde regels te schrijven</text:span>.</text:p>
-   <text:h text:style-name="P59" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3035_673823619"/>Basis structuur<text:bookmark-end text:name="__RefHeading___Toc3035_673823619"/></text:h>
-   <text:p text:style-name="P40">In de basis volgens de regels allemaal dezelfde structuur:</text:p>
-   <text:list xml:id="list2527663414788875302" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1342_1085664404"/>Introductie<text:bookmark-end text:name="__RefHeading___Toc1342_1085664404"/></text:h>
+   <text:p text:style-name="P6"><text:span text:style-name="T46">De pilight </text:span><text:span text:style-name="T25">eventing</text:span><text:span text:style-name="T32"> functionaliteit maakt het mogelijk om je huis te automatiseren door het schrijven van </text:span><text:span text:style-name="T25">event</text:span><text:span text:style-name="T32"> regels. De regels vertellen pilight wat er moet gebeuren op een bepaalde tijd of bij een bepaalde gebeurtenis. pilight </text:span><text:span text:style-name="T25">event </text:span><text:span text:style-name="T32">regels volgen de standaard mathematische conventies en omdat je gebruik kunt maken van een oneindige hoeveelheid haakjes, kunnen deze regels erg geavanceerd worden, maar zijn ze tevens ook erg flexibel.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T46">Zoals met alles binnen pilight, is de </text:span><text:span text:style-name="T25">eventing </text:span><text:span text:style-name="T32">functionaliteit volledig modulair. Dit betekent dat de </text:span><text:span text:style-name="T33">operatoren, acties en functies allemaal makkelijk uit te breiden externe modules zijn. Ontwikkelaars en gebruike</text:span><text:span text:style-name="T34">rs</text:span><text:span text:style-name="T33"> hoeven niet aan de basis van de </text:span><text:span text:style-name="T26">eventing</text:span><text:span text:style-name="T33"> functionaliteit te komen om aanvullende functionaliteit toe te voegen.</text:span></text:p>
+   <text:h text:style-name="P28" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3033_673823619"/>Regel verwerking<text:bookmark-end text:name="__RefHeading___Toc3033_673823619"/></text:h>
+   <text:p text:style-name="P3"><text:span text:style-name="T61">Er zijn een aantal dingen die goed zijn om te weten zodra je aan de slag gaat met pilight</text:span><text:span text:style-name="T27"> event </text:span><text:span text:style-name="T34">regels.</text:span><text:span text:style-name="T61"> Als je beter begrijpt hoe pilight de regels verwerkt, dan wordt het ook makkelijker om efficiëntere en meer geavanceerde regels te schrijven</text:span>.</text:p>
+   <text:h text:style-name="P35" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3035_673823619"/>Basis structuur<text:bookmark-end text:name="__RefHeading___Toc3035_673823619"/></text:h>
+   <text:p text:style-name="P8">In de basis volgens de regels allemaal dezelfde structuur:</text:p>
+   <text:list xml:id="list5895691839083764890" text:style-name="Code_20_Numbering">
     <text:list-item>
-     <text:p text:style-name="P63">IF ... THEN ...</text:p>
+     <text:p text:style-name="P41">IF ... THEN ...</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P40">Een regel start altijd met een IF, gevolgd door de logica van de regel en wordt afgesloten door een THEN. Alle acties worden achter de THEN geplaatst.</text:p>
-   <text:h text:style-name="P60" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc352_1420391157"/>Waar of Onwaar<text:bookmark-end text:name="__RefHeading___Toc352_1420391157"/></text:h>
-   <text:p text:style-name="P48"><text:span text:style-name="T95">L</text:span><text:span text:style-name="T107">aten we beginnen met hoe pilight omgaat met slagende of falende condities. </text:span><text:span text:style-name="T95">pilight </text:span><text:span text:style-name="T107">zet alle mathematische en logische stappen om in </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T100">true</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T96"> </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T98">(waar) </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T96">o</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T98">f</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T96"> </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T100">false </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T98">(onwaar)</text:span></text:span><text:span text:style-name="T94">. </text:span><text:span text:style-name="T107">Als de uiteindelijk uitkomst van een regel waar is dan zal de actie worden uitgevoerd. </text:span><text:span text:style-name="T108">Als de uiteindelijke uitkomst van een regel onwaar is dan zal actie overgeslagen worden. Deze twee voorbeelden zullen beide slagen:</text:span></text:p>
-   <text:list xml:id="list104518121397869" text:continue-list="list2527663414788875302" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P8">Een regel start altijd met een IF, gevolgd door de logica van de regel en wordt afgesloten door een THEN. Alle acties worden achter de THEN geplaatst.</text:p>
+   <text:h text:style-name="P37" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc352_1420391157"/>Waar of Onwaar<text:bookmark-end text:name="__RefHeading___Toc352_1420391157"/></text:h>
+   <text:p text:style-name="P15"><text:span text:style-name="T48">Laten we beginnen met hoe pilight omgaat met slagende of falende condities. pilight zet alle mathematische en logische stappen om in </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T53">true</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T49"> </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T51">(waar) </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T49">o</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T51">f</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T49"> </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T53">false </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T51">(onwaar)</text:span></text:span><text:span text:style-name="T47">. </text:span><text:span text:style-name="T60">Als de uiteindelijk uitkomst van een regel waar is dan zal de actie worden uitgevoerd. Als de uiteindelijke uitkomst van een regel onwaar is dan zal actie overgeslagen worden. Deze twee voorbeelden zullen beide slagen:</text:span></text:p>
+   <text:list xml:id="list150709329974134" text:continue-list="list5895691839083764890" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="T101">IF (1 == 1) == True THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T101"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T90">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T54">IF (1 == 1) == True THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T54"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T44">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="T101">IF (1 == 1) != False THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T101"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T90">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T54">IF (1 == 1) != False THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T54"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T44">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P41">Deze twee voorbeelden zullen beide falen:</text:p>
-   <text:list xml:id="list104516914774496" text:continue-list="list104518121397869" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P9">Deze twee voorbeelden zullen beide falen:</text:p>
+   <text:list xml:id="list150709694109366" text:continue-list="list150709329974134" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="T95">IF (1 == 0) IS True THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T101"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T28">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T33">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29">]</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="T48">IF (1 == 0) IS True THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T54"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="T101">IF (1 != 1) IS False THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T101"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T28">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T33">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29">]</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="T54">IF (1 != 1) IS False THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T54"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">]</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P58" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc354_1420391157"/>AND <text:span text:style-name="T111">en</text:span> OR<text:bookmark-end text:name="__RefHeading___Toc354_1420391157"/></text:h>
-   <text:p text:style-name="P42">In het eerste voorbeeld zagen we dat er gebruik werd gemaakt van enkele condition. Enkele condities geven ons echter niet de mogelijkheid om geavanceerde en flexibele regels te schrijven. Daarvoor moeten we verschillende condities kunnen combineren in een enkele regel. Dit is mogelijk door gebruik te maken van AND (en) en OR (of) operatoren. Laten we eerst een paar simpele voorbeelden bekijken:</text:p>
-   <text:list xml:id="list104518165730972" text:continue-list="list104516914774496" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P36" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc354_1420391157"/>AND <text:span text:style-name="T62">en</text:span> OR<text:bookmark-end text:name="__RefHeading___Toc354_1420391157"/></text:h>
+   <text:p text:style-name="P10">In het eerste voorbeeld zagen we dat er gebruik werd gemaakt van enkele condition. Enkele condities geven ons echter niet de mogelijkheid om geavanceerde en flexibele regels te schrijven. Daarvoor moeten we verschillende condities kunnen combineren in een enkele regel. Dit is mogelijk door gebruik te maken van AND (en) en OR (of) operatoren. Laten we eerst een paar simpele voorbeelden bekijken:</text:p>
+   <text:list xml:id="list150710947546738" text:continue-list="list150709694109366" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="T94">IF </text:span><text:span text:style-name="T85">1 == 1</text:span><text:span text:style-name="T94"> AND </text:span><text:span text:style-name="T87">1</text:span><text:span text:style-name="T45"> </text:span><text:span text:style-name="T85">==</text:span><text:span text:style-name="T45"> </text:span><text:span text:style-name="T85">2</text:span><text:span text:style-name="T94"> THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T94">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T101"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T28">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T33">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T47">IF </text:span><text:span text:style-name="T39">1 == 1</text:span><text:span text:style-name="T47"> AND </text:span><text:span text:style-name="T41">1</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T39">==</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T39">2</text:span><text:span text:style-name="T47"> THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T54"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95">IF </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> OR </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> THEN ...<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T90">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48">IF </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> OR </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> THEN ...<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T44">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95">IF </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> OR </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> AND </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T33">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48">IF </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> OR </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> AND </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T90">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T23"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T23"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T44">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95">IF </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> AND </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> OR </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T46"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"> THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T95"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T33">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48">IF </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> AND </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> OR </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"> THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T48"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T90">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"> </text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T23"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T23"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T23"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T23"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T44">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"> </text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P41">In de eerste twee voorbeelden zien we dat er een enkele AND en een enkele OR is gebruikt. In de overige voorbeelden zien we meerdere ANDs en ORs. Het is goed om te weten dat pilight deze regel van links naar rechts evalueert en daarbij niet meer doet dan nodig. In de voorbeelden worden de groene gedeeltes daadwerkelijk geëvalueerd, de rode gedeeltes worden overgeslagen. In de eerste regel zien we een enkele AND operator. Dit betekent dat beide condities moeten slagen om de gehele regel te laten slagen. pilight moet dus beide condities evalueren. In de tweede regel zien we een enkele OR operator. Dit betekent dat een van beide condities moet slagen om de hele regel te laten slagen. Aangezien de eerste condities slaagd hoeft pilight niet ook de tweede condities te evalueren en dus wordt deze overslagen. De actie zou ik dit geval gelijk na het evalueren van het eerste gedeelte uitgevoerd worden. Hetzelfde is te zien in regel vier. Deze regel start met een OR operator waarvan de eerste conditie slaagt. De daaropvolgende AND operator wordt daarom niet meer geëvalueerd. In regel vijf zien we dat de eerste conditie faalt. Aangezien deze eerste conditie onderdeel uitmaakte van een AND operator hoeven we de tweede conditie niet meer te evalueren. Deze kan de uitkomst van de AND operator toch niet meer veranderen. pilight zal wel de laatste conditie evalueren, omdat deze nog wel invloed kan hebben op de uitkomst van regel vijf. Hetzelfde zien we gebeuren in regel zes. Aangezien de eerste twee condities (als onderdeel van de AND) slagen hoeven we de laatste conditie niet meer te evalueren.</text:p>
-   <text:h text:style-name="P61" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc356_1420391157"/>Haakjes<text:bookmark-end text:name="__RefHeading___Toc356_1420391157"/></text:h>
-   <text:p text:style-name="P41">Zoals we in het eerste voorbeeld zagen kan er in pilight regels gebruik gemaakt worden van haakjes. Dit kan handig zijn voor het beter structureren van je regel en voor het combiner<text:span text:style-name="T112">e</text:span>n van verschillende condities. Laten we kijken naar een wat geavanceerdere regel en hoe haakjes de uitkomst van deze regel kan veranderen zonder iets aan de condities te doen.</text:p>
-   <text:list xml:id="list104516424492266" text:continue-list="list104518165730972" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P9">In de eerste twee voorbeelden zien we dat er een enkele AND en een enkele OR is gebruikt. In de overige voorbeelden zien we meerdere ANDs en ORs. Het is goed om te weten dat pilight deze regel van links naar rechts evalueert en daarbij niet meer doet dan nodig. In de voorbeelden worden de groene gedeeltes daadwerkelijk geëvalueerd, de rode gedeeltes worden overgeslagen. In de eerste regel zien we een enkele AND operator. Dit betekent dat beide condities moeten slagen om de gehele regel te laten slagen. pilight moet dus beide condities evalueren. In de tweede regel zien we een enkele OR operator. Dit betekent dat een van beide condities moet slagen om de hele regel te laten slagen. Aangezien de eerste condities slaagd hoeft pilight niet ook de tweede condities te evalueren en dus wordt deze overslagen. De actie zou ik dit geval gelijk na het evalueren van het eerste gedeelte uitgevoerd worden. Hetzelfde is te zien in regel vier. Deze regel start met een OR operator waarvan de eerste conditie slaagt. De daaropvolgende AND operator wordt daarom niet meer geëvalueerd. In regel vijf zien we dat de eerste conditie faalt. Aangezien deze eerste conditie onderdeel uitmaakte van een AND operator hoeven we de tweede conditie niet meer te evalueren. Deze kan de uitkomst van de AND operator toch niet meer veranderen. pilight zal wel de laatste conditie evalueren, omdat deze nog wel invloed kan hebben op de uitkomst van regel vijf. Hetzelfde zien we gebeuren in regel zes. Aangezien de eerste twee condities (als onderdeel van de AND) slagen hoeven we de laatste conditie niet meer te evalueren.</text:p>
+   <text:h text:style-name="P38" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc356_1420391157"/>Haakjes<text:bookmark-end text:name="__RefHeading___Toc356_1420391157"/></text:h>
+   <text:p text:style-name="P9">Zoals we in het eerste voorbeeld zagen kan er in pilight regels gebruik gemaakt worden van haakjes. Dit kan handig zijn voor het beter structureren van je regel en voor het combiner<text:span text:style-name="T63">e</text:span>n van verschillende condities. Laten we kijken naar een wat geavanceerdere regel en hoe haakjes de uitkomst van deze regel kan veranderen zonder iets aan de condities te doen.</text:p>
+   <text:list xml:id="list150710969433938" text:continue-list="list150710947546738" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T90">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T44">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">(</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">(</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T14">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T33">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T30">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">(</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">(</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">]</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43">Ondanks dat alle condities in deze regels hetzelfde zijn gebleven is de uiteindelijke uitkomst door het gebruik van haakjes toch verschillend. Dit komt omdat we expliciet tegen pilight hebben gezegd dat we de eerste twee OR condities willen evalueren als onderdeel van de uiteindelijke AND. In de eerste regel hadden we gewoon een enkele OR, een enkele AND en een enkele OR. pilight geeft je de mogelijkheid om oneindig veel haakjes te gebruiken:</text:p>
-   <text:list xml:id="list104518160529601" text:continue-list="list104516424492266" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P11">Ondanks dat alle condities in deze regels hetzelfde zijn gebleven is de uiteindelijke uitkomst door het gebruik van haakjes toch verschillend. Dit komt omdat we expliciet tegen pilight hebben gezegd dat we de eerste twee OR condities willen evalueren als onderdeel van de uiteindelijke AND. In de eerste regel hadden we gewoon een enkele OR, een enkele AND en een enkele OR. pilight geeft je de mogelijkheid om oneindig veel haakjes te gebruiken:</text:p>
+   <text:list xml:id="list150710969207298" text:continue-list="list150710969433938" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">((</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T87">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T29"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T91">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">((</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1 == 2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">AND</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">2 == 3</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">)</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">OR</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">1 == 1</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T45">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc945_614593705"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T97">Operator</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T99">en</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc945_614593705"/></text:h>
-   <text:p text:style-name="P44">Verschillende mathematische operatoren kunnen gebruikt worden om berekeningen in onze regels op te nemen. A lijst van deze operatoren kan gevonden worden verderop in deze handleiding. Hier laten we een aantal voor de hand liggende voorbeelden zien:</text:p>
-   <text:list xml:id="list104518135432822" text:continue-list="list104518160529601" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc945_614593705"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T50">Operator</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T52">en</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc945_614593705"/></text:h>
+   <text:p text:style-name="P12">Verschillende mathematische operatoren kunnen gebruikt worden om berekeningen in onze regels op te nemen. A lijst van deze operatoren kan gevonden worden verderop in deze handleiding. Hier laten we een aantal voor de hand liggende voorbeelden zien:</text:p>
+   <text:list xml:id="list150709480563102" text:continue-list="list150710969207298" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T102">IF 1 + 1 == 2 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T39"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T91">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T86">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T55">IF 1 + 1 == 2 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T45">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">%</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">0</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T88">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T89">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T88">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">IF</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">%</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">2</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">==</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">0</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">THEN</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T42">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T43">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T42">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">IF 1 &lt; 10 THEN ...<text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T88">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T89">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T88">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">IF 1 &lt; 10 THEN ...<text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T42">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T43">SLAAGT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T42">]</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">IF 10 / 2 == 4 THEN ...<text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T40"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T31">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T32">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T31">]</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">IF 10 / 2 == 4 THEN ...<text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T19"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T14">[</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T15">FAALT</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T14">]</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc947_614593705"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T99">Apparaten</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc947_614593705"/></text:h>
-   <text:p text:style-name="P49"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T99">pilight zijn vrij nutteloos wanneer we niet met </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T105">echte data </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T99">werken. Dit data kan aangeleverd worden door de apparaten in en rond ons huis. Stel nu dat we een schakelaar hebben geconfigureerd genaamd </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T103">switch </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T105">en we aan de hand van deze schakelaar een regel willen maken</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T104">:</text:span></text:span></text:p>
-   <text:list xml:id="list104517641363721" text:continue-list="list104518135432822" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P31" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc947_614593705"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T52">Apparaten</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc947_614593705"/></text:h>
+   <text:p text:style-name="P16"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T52">pilight zijn vrij nutteloos wanneer we niet met </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58">echte data </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T52">werken. Dit data kan aangeleverd worden door de apparaten in en rond ons huis. Stel nu dat we een schakelaar hebben geconfigureerd genaamd </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">switch </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58">en we aan de hand van deze schakelaar een regel willen maken</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T57">:</text:span></text:span></text:p>
+   <text:list xml:id="list150709556923436" text:continue-list="list150709480563102" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">IF switch.state IS on THEN ...</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">IF switch.state IS on THEN ...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P49"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T99">Afhankelijk van de daadwerkelijke status van de schakelaar zal deze regel slagen of falen. Laten we hetzelfde eens doen met een geconfigureerde dimmer genaamd </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T103">dimmer</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T105">:</text:span></text:span></text:p>
-   <text:list xml:id="list104517655637547" text:continue-list="list104517641363721" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P16"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T52">Afhankelijk van de daadwerkelijke status van de schakelaar zal deze regel slagen of falen. Laten we hetzelfde eens doen met een geconfigureerde dimmer genaamd </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">dimmer</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58">:</text:span></text:span></text:p>
+   <text:list xml:id="list150711092297565" text:continue-list="list150709556923436" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T104">IF dimmer.dimlevel &gt; 10 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">...</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T57">IF dimmer.dimlevel &gt; 10 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T20">...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P1"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T105">Opnieuw, deze regel zal falen of slagen afhankelijk van het daadwerkelijke dim niveau van de dimmer. </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T104"><text:s/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T105">Beide voorbeelden kunnen natuurlijk ook gecombineerd worden:</text:span></text:span></text:p>
-   <text:list xml:id="list104517798668205" text:continue-list="list104517655637547" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P1"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58">Opnieuw, deze regel zal falen of slagen afhankelijk van het daadwerkelijke dim niveau van de dimmer. </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T57"><text:s/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58">Beide voorbeelden kunnen natuurlijk ook gecombineerd worden:</text:span></text:span></text:p>
+   <text:list xml:id="list150709553231770" text:continue-list="list150711092297565" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T104">IF switch.state IS on AND dimmer.dimlevel &gt; 10 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T41">...</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T57">IF switch.state IS on AND dimmer.dimlevel &gt; 10 THEN </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T20">...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P46"><text:span text:style-name="T112">Zoals je ziet kunnen is het afhankelijk van het apparaat welke velden (</text:span><text:span text:style-name="T56">state </text:span><text:span text:style-name="T63">of </text:span><text:span text:style-name="T56">dimlevel</text:span><text:span text:style-name="T63">) </text:span><text:span text:style-name="T112">we kunnen gebruiken. Een schakelaar heeft geen </text:span><text:span text:style-name="T56">dimlevel</text:span><text:span text:style-name="T63"> veld, maar een dimmer heeft wel een </text:span><text:span text:style-name="T56">state</text:span><text:span text:style-name="T63"> veld.</text:span></text:p>
-   <text:h text:style-name="P56" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc949_614593705"/>Functies<text:bookmark-end text:name="__RefHeading___Toc949_614593705"/></text:h>
-   <text:p text:style-name="P50"><text:span text:style-name="T109">I</text:span><text:span text:style-name="T94">n sommige gevallen voldoende standaard operatoren niet voor wat we in onze regel willen bereiken. Het rekenen met tijd is bijvoorbeeld een moeilijke opgave aangezien er maar 24 uren zijn en 60 minuten en seconden. Ook zijn er geen negatieve nummers. Ook is er niet mogelijke om een willekeurig nummer te genereren met de standaard operatoren. Deze meer geavanceerde functionaliteit is toegevoegd in de vorm van functies. Een simpel voorbeeld:</text:span></text:p>
-   <text:list xml:id="list104517537893822" text:continue-list="list104517798668205" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P14"><text:span text:style-name="T63">Zoals je ziet kunnen is het afhankelijk van het apparaat welke velden (</text:span><text:span text:style-name="T28">state </text:span><text:span text:style-name="T35">of </text:span><text:span text:style-name="T28">dimlevel</text:span><text:span text:style-name="T35">) </text:span><text:span text:style-name="T63">we kunnen gebruiken. Een schakelaar heeft geen </text:span><text:span text:style-name="T28">dimlevel</text:span><text:span text:style-name="T35"> veld, maar een dimmer heeft wel een </text:span><text:span text:style-name="T28">state</text:span><text:span text:style-name="T35"> veld.</text:span></text:p>
+   <text:h text:style-name="P32" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc949_614593705"/>Functies<text:bookmark-end text:name="__RefHeading___Toc949_614593705"/></text:h>
+   <text:p text:style-name="P11">In sommige gevallen voldoende standaard operatoren niet voor wat we in onze regel willen bereiken. Het rekenen met tijd is bijvoorbeeld een moeilijke opgave aangezien er maar 24 uren zijn en 60 minuten en seconden. Ook zijn er geen negatieve nummers. Ook is er niet mogelijke om een willekeurig nummer te genereren met de standaard operatoren. Deze meer geavanceerde functionaliteit is toegevoegd in de vorm van functies. Een simpel voorbeeld:</text:p>
+   <text:list xml:id="list150709804315645" text:continue-list="list150709553231770" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="T12">IF datetime.hour == RANDOM(21, 2</text:span><text:span text:style-name="T21">3</text:span><text:span text:style-name="T12">) THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">...</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T1">IF datetime.hour == RANDOM(21, 2</text:span><text:span text:style-name="T10">3</text:span><text:span text:style-name="T1">) THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P32"><text:span text:style-name="T112">Zoals je kiest zien gebruiken we in dit voorbeeld de RANDOM functie om te kijken of het uur ofwel 20, ofwel 21, ofwel 23 is. Dit maakt het mogelijk om acties uit te voeren of willekeurige momenten van de dag.</text:span></text:p>
-   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3037_673823619"/>Acties<text:bookmark-end text:name="__RefHeading___Toc3037_673823619"/></text:h>
-   <text:p text:style-name="P32"><text:span text:style-name="T112">Acties zijn het doel van onze regels. Deze vertellen pilight wat er moet gebeuren wanneer er aan een bepaalde conditie is voldaan. A regel kan een oneindig aantal acties bevatten en elke actie kan oneindig veel apparaten bedienen. Twee voorbeelden met een schakelaar genaamd </text:span><text:span text:style-name="T56">lamp</text:span><text:span text:style-name="T63"> en een dimmer genaamd </text:span><text:span text:style-name="T56">ambientLight:</text:span></text:p>
-   <text:list xml:id="list104517516363403" text:continue-list="list104517537893822" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P11">Zoals je kiest zien gebruiken we in dit voorbeeld de RANDOM functie om te kijken of het uur ofwel 20, ofwel 21, ofwel 23 is. Dit maakt het mogelijk om acties uit te voeren of willekeurige momenten van de dag.</text:p>
+   <text:h text:style-name="P29" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3037_673823619"/>Acties<text:bookmark-end text:name="__RefHeading___Toc3037_673823619"/></text:h>
+   <text:p text:style-name="P4"><text:span text:style-name="T63">Acties zijn het doel van onze regels. Deze vertellen pilight wat er moet gebeuren wanneer er aan een bepaalde conditie is voldaan. A regel kan een oneindig aantal acties bevatten en elke actie kan oneindig veel apparaten bedienen. Twee voorbeelden met een schakelaar genaamd </text:span><text:span text:style-name="T28">lamp</text:span><text:span text:style-name="T35"> en een dimmer genaamd </text:span><text:span text:style-name="T28">ambientLight:</text:span></text:p>
+   <text:list xml:id="list150709340279843" text:continue-list="list150709804315645" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="T12">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">...</text:span></text:span><text:span text:style-name="T12"> THEN switch DEVICE lamp TO on</text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T1">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">...</text:span></text:span><text:span text:style-name="T1"> THEN switch DEVICE lamp TO on</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="T12">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">... </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">THEN dim DEVICE ambientLight TO 10</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T1">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">... </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T6">THEN dim DEVICE ambientLight TO 10</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P45">Beide acties bedienen maar een enkel apparaat. We kunnen beide acties echter ook samenvoegen tot een enkele actie:</text:p>
-   <text:list xml:id="list104516855836661" text:continue-list="list104517516363403" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P13">Beide acties bedienen maar een enkel apparaat. We kunnen beide acties echter ook samenvoegen tot een enkele actie:</text:p>
+   <text:list xml:id="list150710027771843" text:continue-list="list150709340279843" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="T12">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">...</text:span></text:span><text:span text:style-name="T12"> THEN switch DEVICE lamp AND ambientLight TO on</text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T1">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">...</text:span></text:span><text:span text:style-name="T1"> THEN switch DEVICE lamp AND ambientLight TO on</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43">Zoals je kunt zien moet er in de <text:span text:style-name="T49">switch</text:span><text:span text:style-name="T57"> actie tenminste een DEVICE en een TO parameter worden gebruikt. In het geval van een </text:span><text:span text:style-name="T49">switch</text:span><text:span text:style-name="T57"> actie, kunnen verschillende apparaten gecombineerd worden door gebruik te maken van ANDs. We kunnen echter ook verschillende soorten acties combineren. Stel nu dat we de schakelaar </text:span><text:span text:style-name="T49">lamp</text:span><text:span text:style-name="T57"> willen aanzetten en de dimmer </text:span><text:span text:style-name="T49">ambientLight </text:span><text:span text:style-name="T57">naar dim niveau 10 willen zetten in een regel.</text:span></text:p>
-   <text:list xml:id="list104516846937203" text:continue-list="list104516855836661" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P11">Zoals je kunt zien moet er in de <text:span text:style-name="T24">switch</text:span><text:span text:style-name="T31"> actie tenminste een DEVICE en een TO parameter worden gebruikt. In het geval van een </text:span><text:span text:style-name="T24">switch</text:span><text:span text:style-name="T31"> actie, kunnen verschillende apparaten gecombineerd worden door gebruik te maken van ANDs. We kunnen echter ook verschillende soorten acties combineren. Stel nu dat we de schakelaar </text:span><text:span text:style-name="T24">lamp</text:span><text:span text:style-name="T31"> willen aanzetten en de dimmer </text:span><text:span text:style-name="T24">ambientLight </text:span><text:span text:style-name="T31">naar dim niveau 10 willen zetten in een regel.</text:span></text:p>
+   <text:list xml:id="list150710602115762" text:continue-list="list150710027771843" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="T19">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">...</text:span></text:span><text:span text:style-name="T19"> THEN switch DEVICE lamp TO on AND dim DEVICE ambientLight TO 10</text:span><text:span text:style-name="T20">|</text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T8">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">...</text:span></text:span><text:span text:style-name="T8"> THEN switch DEVICE lamp TO on AND dim DEVICE ambientLight TO 10</text:span><text:span text:style-name="T9">|</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43"><text:span text:style-name="T57">Op deze manier kunnen acties in de oneindigheid gecombineerd worden. Opnieuw zien we dat de AND wordt gebruikt om verschillende acties te combineren. We kunnen verschillende apparaten in verschillende acties onderbrengen in een enkele regel. Stel nu dat we ook een relais willen schakelen verbonden met onze televisie genaamd </text:span><text:span text:style-name="T49">televison:</text:span></text:p>
-   <text:list xml:id="list104517964805790" text:continue-list="list104516846937203" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P11"><text:span text:style-name="T31">Op deze manier kunnen acties in de oneindigheid gecombineerd worden. Opnieuw zien we dat de AND wordt gebruikt om verschillende acties te combineren. We kunnen verschillende apparaten in verschillende acties onderbrengen in een enkele regel. Stel nu dat we ook een relais willen schakelen verbonden met onze televisie genaamd </text:span><text:span text:style-name="T24">televison:</text:span></text:p>
+   <text:list xml:id="list150710783828786" text:continue-list="list150710602115762" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="T106">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">...</text:span></text:span><text:span text:style-name="T106"> THEN switch DEVICE lamp AND television TO on AND dim DEVICE ambientLight TO 10</text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T59">IF </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">...</text:span></text:span><text:span text:style-name="T59"> THEN switch DEVICE lamp AND television TO on AND dim DEVICE ambientLight TO 10</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P33"/>
-   <text:h text:style-name="P55" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1348_1085664404"/>Optimali<text:span text:style-name="T112">s</text:span>ati<text:span text:style-name="T112">es</text:span><text:bookmark-end text:name="__RefHeading___Toc1348_1085664404"/></text:h>
-   <text:p text:style-name="P47"><text:span text:style-name="T112">Ondanks dat pilight regels ontzettend snel evalueert, kunnen er simpele stappen genomen worden om de prestaties verder te verbeteren. Een regel is niks meer dan meerdere condities die onafhankelijk geëvalueerd dienen te worden. Laten we eens kijken hoe we tijd gebaseerde e</text:span><text:span text:style-name="T56">vents</text:span><text:span text:style-name="T63"> verder kunnen optimaliseren:</text:span></text:p>
-   <text:list xml:id="list104516415302123" text:continue-list="list104517964805790" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P33" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3208_979603231"/>Parameters van apparaten gebruiken<text:bookmark-end text:name="__RefHeading___Toc3208_979603231"/></text:h>
+   <text:p text:style-name="P25">De parameters die bij de geconfigureerde apparaten horen kunnen vrijwel overal in de <text:span text:style-name="T24">event</text:span><text:span text:style-name="T31"> regels gebruikt worden. Laten we aan de hand van een aantal voorbeelden bekijken hoe dit werkt:</text:span></text:p>
+   <text:list xml:id="list150710642002520" text:continue-numbering="true" text:style-name="Code_20_Numbering">
+    <text:list-item>
+     <text:p text:style-name="P40">IF 1 == 1 THEN dim DEVICE dimmer TO dimmerMax.dimlevel FOR dimmerDuration.dimlevel</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P25">In dit voorbeeld gebruiken we drie dimmers. Een dimmer genaamd <text:span text:style-name="T24">dimmer</text:span><text:span text:style-name="T31"> die we uiteindelijk willen dimmen en twee dimmers die pilight vertellen hoe deze actie uitgevoerd dient te worden. De </text:span><text:span text:style-name="T24">dimmerMax</text:span><text:span text:style-name="T31"> vertelt pilight welk dim niveau de dimmer zou moeten aannemen. De dimmerMax vertelt pilight hoe lang het moet doen voordat hij dit dim niveau bereikt. Een tweede voorbeeld:</text:span></text:p>
+   <text:list xml:id="list150709880046653" text:continue-list="list150710642002520" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">IF datetime.hour == 23 AND datetime.minute == 0 AND datetime.second == 0 THEN ...</text:span></text:span></text:p>
+     <text:p text:style-name="P42">IF 1 == 1 THEN switch DEVICE lamp1 TO lamp2.state</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43">Om deze regel te optimaliseren moeten we nagaan hoe vaak verschillende condities worden geëvalueerd. Regels met datum/tijd waardes worden elke seconde geëvalueerd. Dus elke gedeelte heeft een bepaalde aantal keren waarop hij waar kan zijn per dag wanneer we uitgaan van evaluaties elke seconde.</text:p>
-   <text:list xml:id="list5106890912281588086" text:style-name="L1">
-    <text:list-item>
-     <text:p text:style-name="P34"><text:span text:style-name="T112">Hour </text:span>is 23 3600 <text:span text:style-name="T112">keer per dag </text:span>(60 <text:span text:style-name="T112">minuten</text:span> * 60 <text:span text:style-name="T112">seconden</text:span>). </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P34"><text:span text:style-name="T112">Minute</text:span> is 0 1440 <text:span text:style-name="T112">keer per dag</text:span> (24 <text:span text:style-name="T112">uren</text:span> * 60 <text:span text:style-name="T112">seconde</text:span>). </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P34"><text:span text:style-name="T112">Second</text:span> is 0 1440 <text:span text:style-name="T112">keer per dag</text:span> (24 <text:span text:style-name="T112">uren </text:span>* 60 <text:span text:style-name="T112">minuten</text:span>). </text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P30"><text:span text:style-name="T112">In de bovenstaande regel is de eerste conditie waar 3600 keren, de tweede conditie één keer en de laatste conditie ook één keer. Laten we kijken wat er gebeurd als we de regel aanpassen.</text:span></text:p>
-   <text:list xml:id="list104516207731805" text:continue-list="list104516415302123" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P26"><text:span text:style-name="T37">In dit voorbeeld schakelen </text:span><text:span text:style-name="T29">lamp1 </text:span><text:span text:style-name="T38">naar dezelfde stand als </text:span><text:span text:style-name="T30">lamp2</text:span><text:span text:style-name="T38">.</text:span></text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T64">Deze parameters kunnen ook in functies gebruikt worden:</text:span></text:p>
+   <text:list xml:id="list150710324305234" text:continue-list="list150709880046653" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">IF datetime.second == 0 AND datetime.minute == 0 AND datetime.hour == 23 THEN ...</text:span></text:span></text:p>
+     <text:p text:style-name="P42">IF RANDOM(randomLow.dimlevel, randomHigh.dimlevel) == 10 THEN switch DEVICE lamp1 TO on</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P47"><text:span text:style-name="T112">Nu zal de eerste stap 1440 keren waar zijn, de tweede stap één keer en de laatste stap ook één keer. Waar de eerste regel 3602 keer volledig werd geëvalueerd is dat bij de tweede regel nog maar 1442 keer. Door het veranderen van de volgordes van onze condities, kunnen we de prestaties van een enkele regel vergroten.</text:span></text:p>
-   <text:p text:style-name="P30"><text:span text:style-name="T112">Laten we een tweede voorbeeld bekijken</text:span>. <text:span text:style-name="T112">Nu willen we een actie uitvoeren gebaseerd op de zonsopkomst. In dit geval is de zonsopkomst om 19:00 en we willen de </text:span><text:span text:style-name="T63">kerstboom om 0:00 weer uitzetten.</text:span></text:p>
-   <text:list xml:id="list104516775387798" text:continue-list="list104516207731805" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P25"><text:span text:style-name="T31">In dit voorbeeld gebruiken we twee dimmers genaamd </text:span><text:span text:style-name="T24">randomLow</text:span><text:span text:style-name="T31"> en </text:span><text:span text:style-name="T24">randonHigh</text:span><text:span text:style-name="T31"> om dynamisch de mogelijke waarde van de RANDOM functie te veranderen. Een uitgebreidere en geavanceerd voorbeeld:</text:span></text:p>
+   <text:list xml:id="list150709821702456" text:continue-list="list150710324305234" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P62"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T94">IF ((sunriseset.sunset == (datetime.hour + (datetime.minute / 100)) AND christmasstree.state IS off) AND datetime.second == 0) THEN switch DEVICE christmasstree TO on</text:span></text:span></text:p>
+     <text:p text:style-name="P40"><text:span text:style-name="T31">IF sunriseset.sunset == DATE_FORMAT(DATE_ADD(datetime, +1 HOUR), \&quot;%Y-%m-%d %H:%M:%S\&quot;, %H.%M) THEN </text:span><text:span text:style-name="T36">switch DEVICE lamp1 TO on</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43">Opnieuw kijken we hoe vaak een bepaalde regel waar is gebaserd op een evaluatie per seconde.</text:p>
-   <text:list xml:id="list7200268847249858307" text:style-name="L2">
-    <text:list-item>
-     <text:p text:style-name="P35">Sunset is 19:00 60 <text:span text:style-name="T112">keer per dag</text:span> (60 <text:span text:style-name="T112">seconde</text:span>). </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P35">Hour is 19 3600 <text:span text:style-name="T112">keer per dag</text:span> (60 <text:span text:style-name="T112">minuten</text:span> * 60 <text:span text:style-name="T112">seconden</text:span>). </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P36">Minute is 0 1440 <text:span text:style-name="T112">keer per dag</text:span> (24 <text:span text:style-name="T112">uren</text:span> * 60 <text:span text:style-name="T112">seconden</text:span>). </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P36">Second is 0 1440 <text:span text:style-name="T112">keer per dag</text:span> (24 <text:span text:style-name="T112">uren</text:span> * 60 <text:span text:style-name="T112">minuten</text:span>). </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P36">State is off <text:span text:style-name="T112">voor</text:span> 68400 <text:span text:style-name="T112">keren per dag</text:span> (19 <text:span text:style-name="T112">uren</text:span> * 60 <text:span text:style-name="T112">minuten</text:span> * 60 <text:span text:style-name="T112">seconden</text:span>). </text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P37"><text:span text:style-name="T112">Dus in de bovenstaande regel zal de eerste stap 60 keer per dag waar zijn, de tweede stap ook 60 keer en de laatste stap maar één keer. <text:s/>Ondanks dat deze regel maar weinig evaluaties kent gebruiken we toch een aantal mathematische evaluaties in het eerste gedeelte. Laten we kijken wat er gebeurd als we de regel veranderen:</text:span></text:p>
-   <text:list xml:id="list104517724982506" text:continue-list="list104516775387798" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P17"><text:span text:style-name="T37">In dit geval gebruiken we een datetime apparaat genaamd </text:span><text:span text:style-name="T29">datetime </text:span><text:span text:style-name="T37">als invoer voor de DATE_ADD functie en de uitkomst van de DATE_ADD functie wordt weer gebruikt als de invoer voor de DATE_FORMAT functie. Deze voorbeelden geven een idee van hoe we de parameters van onze apparaten kunnen gebruiken in onze </text:span><text:span text:style-name="T29">event</text:span><text:span text:style-name="T37"> regels.</text:span></text:p>
+   <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1348_1085664404"/>Optimali<text:span text:style-name="T63">s</text:span>ati<text:span text:style-name="T63">es</text:span><text:bookmark-end text:name="__RefHeading___Toc1348_1085664404"/></text:h>
+   <text:p text:style-name="P5"><text:span text:style-name="T63">Ondanks dat pilight regels ontzettend snel evalueert, kunnen er simpele stappen genomen worden om de prestaties verder te verbeteren. Een regel is niks meer dan meerdere condities die onafhankelijk geëvalueerd dienen te worden. Laten we eens kijken hoe we tijd gebaseerde e</text:span><text:span text:style-name="T28">vents</text:span><text:span text:style-name="T35"> verder kunnen optimaliseren:</text:span></text:p>
+   <text:list xml:id="list150710360015239" text:continue-list="list150709821702456" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T94">IF ((datetime.second == 0 AND sunriseset.sunset == (datetime.hour + (datetime.minute / 100))) AND christmasstree.state IS off) THEN switch DEVICE christmasstree TO on</text:span></text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">IF datetime.hour == 23 AND datetime.minute == 0 AND datetime.second == 0 THEN ...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P47"><text:span text:style-name="T112">In dit geval zal de eerste conditie waar zijn </text:span>1440 <text:span text:style-name="T112">keren</text:span>, <text:span text:style-name="T112">de tweede conditie </text:span>60 <text:span text:style-name="T112">keren en de laatste maar één keer. Dus bij het verplaatsen van de condities wordt de prestatie van deze regel slechter. De eerste versie had maar 121 evaluaties nodig en de tweede regel 1501. Ondanks dat de eerste regel verschillende mathematische logica bevatte is hij wel 14 keer zo efficiënt.</text:span></text:p>
-   <text:p text:style-name="P47"><text:soft-page-break/><text:span text:style-name="T112">Als je je pilight regels dus verder wilt optimalizeren is het goed als je kijken naar de volgorde van je condities. Deze volgorde veranderen kan het evalueren van de regels sneller maken.</text:span></text:p>
+   <text:p text:style-name="P11">Om deze regel te optimaliseren moeten we nagaan hoe vaak verschillende condities worden geëvalueerd. Regels met datum/tijd waardes worden elke seconde geëvalueerd. Dus elke gedeelte heeft een bepaalde aantal keren waarop hij waar kan zijn per dag wanneer we uitgaan van evaluaties elke seconde.</text:p>
+   <text:list xml:id="list6190460810476094097" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P21"><text:span text:style-name="T63">Hour </text:span>is 23 3600 <text:span text:style-name="T63">keer per dag </text:span>(60 <text:span text:style-name="T63">minuten</text:span> * 60 <text:span text:style-name="T63">seconden</text:span>). </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P21"><text:span text:style-name="T63">Minute</text:span> is 0 1440 <text:span text:style-name="T63">keer per dag</text:span> (24 <text:span text:style-name="T63">uren</text:span> * 60 <text:span text:style-name="T63">seconde</text:span>). </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P21"><text:span text:style-name="T63">Second</text:span> is 0 1440 <text:span text:style-name="T63">keer per dag</text:span> (24 <text:span text:style-name="T63">uren </text:span>* 60 <text:span text:style-name="T63">minuten</text:span>). </text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P18">In de bovenstaande regel is de eerste conditie waar 3600 keren, de tweede conditie één keer en de laatste conditie ook één keer. Laten we kijken wat er gebeurd als we de regel aanpassen.</text:p>
+   <text:list xml:id="list150710832300733" text:continue-list="list150710360015239" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">IF datetime.second == 0 AND datetime.minute == 0 AND datetime.hour == 23 THEN ...</text:span></text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P11">Nu zal de eerste stap 1440 keren waar zijn, de tweede stap één keer en de laatste stap ook één keer. Waar de eerste regel 3602 keer volledig werd geëvalueerd is dat bij de tweede regel nog maar 1442 keer. Door het veranderen van de volgordes van onze condities, kunnen we de prestaties van een enkele regel <text:soft-page-break/>vergroten.</text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T63">Laten we een tweede voorbeeld bekijken</text:span>. <text:span text:style-name="T63">Nu willen we een actie uitvoeren gebaseerd op de zonsopkomst. In dit geval is de zonsopkomst om 19:00 en we willen de </text:span><text:span text:style-name="T35">kerstboom om 0:00 weer uitzetten.</text:span></text:p>
+   <text:list xml:id="list150710394500622" text:continue-list="list150710832300733" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47">IF ((sunriseset.sunset == (datetime.hour + (datetime.minute / 100)) AND christmasstree.state IS off) AND datetime.second == 0) THEN switch DEVICE christmasstree TO on</text:span></text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P11">Opnieuw kijken we hoe vaak een bepaalde regel waar is gebaserd op een evaluatie per seconde.</text:p>
+   <text:list xml:id="list7625092366592730488" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P22">Sunset is 19:00 60 <text:span text:style-name="T63">keer per dag</text:span> (60 <text:span text:style-name="T63">seconde</text:span>). </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P22">Hour is 19 3600 <text:span text:style-name="T63">keer per dag</text:span> (60 <text:span text:style-name="T63">minuten</text:span> * 60 <text:span text:style-name="T63">seconden</text:span>). </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23">Minute is 0 1440 <text:span text:style-name="T63">keer per dag</text:span> (24 <text:span text:style-name="T63">uren</text:span> * 60 <text:span text:style-name="T63">seconden</text:span>). </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23">Second is 0 1440 <text:span text:style-name="T63">keer per dag</text:span> (24 <text:span text:style-name="T63">uren</text:span> * 60 <text:span text:style-name="T63">minuten</text:span>). </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23">State is off <text:span text:style-name="T63">voor</text:span> 68400 <text:span text:style-name="T63">keren per dag</text:span> (19 <text:span text:style-name="T63">uren</text:span> * 60 <text:span text:style-name="T63">minuten</text:span> * 60 <text:span text:style-name="T63">seconden</text:span>). </text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P20">Dus in de bovenstaande regel zal de eerste stap 60 keer per dag waar zijn, de tweede stap ook 60 keer en de laatste stap maar één keer. <text:s/>Ondanks dat deze regel maar weinig evaluaties kent gebruiken we toch een aantal mathematische evaluaties in het eerste gedeelte. Laten we kijken wat er gebeurd als we de regel veranderen:</text:p>
+   <text:list xml:id="list150709061529829" text:continue-list="list150710394500622" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47">IF ((datetime.second == 0 AND sunriseset.sunset == (datetime.hour + (datetime.minute / 100))) AND christmasstree.state IS off) THEN switch DEVICE christmasstree TO on</text:span></text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P5"><text:span text:style-name="T63">In dit geval zal de eerste conditie waar zijn </text:span>1440 <text:span text:style-name="T63">keren</text:span>, <text:span text:style-name="T63">de tweede conditie </text:span>60 <text:span text:style-name="T63">keren en de laatste maar één keer. Dus bij het verplaatsen van de condities wordt de prestatie van deze regel slechter. De eerste versie had maar 121 evaluaties nodig en de tweede regel 1501. Ondanks dat de eerste regel verschillende mathematische logica bevatte is hij wel 14 keer zo efficiënt.</text:span></text:p>
+   <text:p text:style-name="P11">Als je je pilight regels dus verder wilt optimalizeren is het goed als je kijken naar de volgorde van je condities. Deze volgorde veranderen kan het evalueren van de regels sneller maken.</text:p>
   </office:text>
  </office:body>
 </office:document>
