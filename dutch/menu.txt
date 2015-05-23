@@ -2,13 +2,13 @@
 2|Over pilight|about-pilight
 3|Installatie|installation
 4|Configuratie
-	4.1|Voorbeeld|configuration
-	4.2|Apparaten (Devices)|configuration-devices
-	4.3|Regels (Rules)|configuration-rules
-	4.4|GUI|configuration-gui
-	4.5|Instellingen (Settings)|configuration-settings
-	4.6|Hardware|configuration-hardware
-	4.7|Register (Registry)|configuration-registry
+	4.1|Apparaten (Devices)|configuration-devices
+	4.2|Regels (Rules)|configuration-rules
+	4.3|GUI|configuration-gui
+	4.4|Instellingen (Settings)|configuration-settings
+	4.5|Hardware|configuration-hardware
+	4.6|Register (Registry)|configuration-registry
+	4.7|Voorbeeld|configuration
 5|Eventing|eventing
 6|AdHoc-Netwerk|adhoc-network
 7|

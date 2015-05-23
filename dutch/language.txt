@@ -4,7 +4,7 @@ pdfdownload|Download bron pdf
 pdfgenerated|Pagina voor het laatst gegenereerd op
 top|Naar boven
 january|Januari
-februari|Februari
+february|Februari
 march|Maart
 april|April
 may|Mei
