@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="3" meta:paragraph-count="65" meta:word-count="576" meta:character-count="3879" meta:non-whitespace-character-count="3402"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="3" meta:paragraph-count="65" meta:word-count="576" meta:character-count="3894" meta:non-whitespace-character-count="3417"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">1270</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">16432</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21936</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">23497</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8752</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">7599</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">1270</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11573</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">12307</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">17701</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21934</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">23495</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22384</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3595259</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3628342</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -730,63 +730,49 @@
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Notice">
    <style:text-properties fo:color="#ffffff"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="003439d8" officeooo:paragraph-rsid="003439d8"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties fo:font-weight="normal" officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties officeooo:paragraph-rsid="00375d36"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00085391"/>
@@ -1097,58 +1083,6 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
-  <text:list-style style:name="L5">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -1255,21 +1189,21 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1018_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installation<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P61"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1020_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Linux Debian Based<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P61"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1022_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Windows 7 and up<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P61"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1024_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">OpenWRT Router<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P61"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1026_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Manually Compiled Version<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1018_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Installation<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P26"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1020_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Linux Debian Based<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P26"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1022_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Windows 7 and up<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P26"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1024_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">OpenWRT Router<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P26"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1026_2062514288" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Manually Compiled Version<text:tab/>3</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P37" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1020_2062514288"/><text:span text:style-name="T25">Linux Debian Based</text:span><text:bookmark-end text:name="__RefHeading___Toc1020_2062514288"/></text:h>
+   <text:h text:style-name="P36" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1020_2062514288"/>Linux Debian Based<text:bookmark-end text:name="__RefHeading___Toc1020_2062514288"/></text:h>
    <text:p text:style-name="P9"><text:span text:style-name="T16">Install pilight by using the </text:span>apt repository <text:span text:style-name="T16">in Debian / Ubuntu based distributions.</text:span></text:p>
-   <text:list xml:id="list7548706056606066053" text:style-name="L1">
+   <text:list xml:id="list8650375516707584348" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P51">Login to your computer.</text:p>
+     <text:p text:style-name="P46">Login to your computer.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="0.799cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="0">
+     <text:p text:style-name="P46"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="0.799cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="0">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="Terminal">pi@pilight:~# sudo su</text:p>
         <text:p text:style-name="Terminal">Password:</text:p>
@@ -1277,44 +1211,44 @@
       </draw:frame>Make sure you are running as root. Run the following command an<text:span text:style-name="T27">d</text:span> use your own password.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="1.884cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="1">
+     <text:p text:style-name="P46"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="1.884cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="1">
        <draw:text-box fo:min-height="0.4cm">
-        <text:p text:style-name="P33">pi@pilight:~# <text:span text:style-name="T16">echo </text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="Source_20_Text">deb http://apt.pilight.org/ stable main</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">&gt; /etc/apt/sources.list.d/pilight</text:span></text:span></text:p>
+        <text:p text:style-name="P59">pi@pilight:~# <text:span text:style-name="T16">echo </text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="Source_20_Text">deb http://apt.pilight.org/ stable main</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">&gt; /etc/apt/sources.list.d/pilight.list</text:span></text:span></text:p>
        </draw:text-box>
       </draw:frame>Add the apt repository to the apt sources list:</text:p>
-     <text:p text:style-name="P53"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="1.81cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="14">
+     <text:p text:style-name="P48"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="1.81cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="14">
        <draw:text-box fo:min-height="0.4cm">
-        <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text">root@pilight:~# </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">echo </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text">deb http://apt.pilight.org/ </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">development</text:span></text:span><text:span text:style-name="Source_20_Text"> main</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">&gt;&gt; /etc/apt/sources.list.d/pilight</text:span></text:span></text:p>
-        <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text">root@pilight:~# </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">echo </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text">deb http://apt.pilight.org/ </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">nightly</text:span></text:span><text:span text:style-name="Source_20_Text"> main</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">&gt;&gt; /etc/apt/sources.list.d/pilight</text:span></text:span></text:p>
+        <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text">root@pilight:~# </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">echo </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text">deb http://apt.pilight.org/ </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">development</text:span></text:span><text:span text:style-name="Source_20_Text"> main</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">&gt;&gt; /etc/apt/sources.list.d/pilight.list</text:span></text:span></text:p>
+        <text:p text:style-name="P59"><text:span text:style-name="Source_20_Text">root@pilight:~# </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">echo </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text">deb http://apt.pilight.org/ </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">nightly</text:span></text:span><text:span text:style-name="Source_20_Text"> main</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">&gt;&gt; /etc/apt/sources.list.d/pilight.list</text:span></text:span></text:p>
        </draw:text-box>
       </draw:frame>If you want to install the developmental or nightly version of pilight then also add:</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51">pilight uses a signed repository. This means packages get validated before installation. So, to safely download and install pilight packages <text:span text:style-name="T27">the</text:span> <text:span text:style-name="T27">pilight key needs to be installed</text:span>.</text:p>
+     <text:p text:style-name="P46">pilight uses a signed repository. This means packages get validated before installation. So, to safely download and install pilight packages <text:span text:style-name="T27">the</text:span> <text:span text:style-name="T27">pilight key needs to be installed</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="2">
+     <text:p text:style-name="P46"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="2">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">root@pilight:~# wget -O - http://apt.pilight.org/pilight.key | apt-key add -</text:span></text:p>
        </draw:text-box>
       </draw:frame>Now update the apt package list:</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="3">
+     <text:p text:style-name="P46"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="3">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">root@pilight:~# </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">apt-get update</text:span></text:span></text:p>
        </draw:text-box>
       </draw:frame>And install pilight</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="4">
+     <text:p text:style-name="P46"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="4">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">root@pilight:~# </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">apt-get install pilight</text:span></text:span></text:p>
        </draw:text-box>
       </draw:frame>When no errors are shown, pilight will be installed and automatically started at boot time. To manually start pilight:</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P51"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="5">
+     <text:p text:style-name="P46"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="5">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">root@pilight:~# </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">service pilight start</text:span></text:span></text:p>
        </draw:text-box>
@@ -1327,57 +1261,57 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:h text:style-name="P24" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1022_2062514288"/>Windows 7 and up<text:bookmark-end text:name="__RefHeading___Toc1022_2062514288"/></text:h>
-   <text:list xml:id="list5868857004751794468" text:style-name="L2">
+   <text:list xml:id="list2235719826261627721" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P54"><text:span text:style-name="T25">Go to </text:span><text:a xlink:type="simple" xlink:href="http://download.pilight.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T25">http://download.pilight.org</text:span></text:a><text:span text:style-name="T25">.</text:span></text:p>
+     <text:p text:style-name="P49"><text:span text:style-name="T25">Go to </text:span><text:a xlink:type="simple" xlink:href="http://download.pilight.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T25">http://download.pilight.org</text:span></text:a><text:span text:style-name="T25">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55">Download the latest Windows executable called pilight-vX.0-win32.exe. Run it to install pilight.</text:p>
+     <text:p text:style-name="P50">Download the latest Windows executable called pilight-vX.0-win32.exe. Run it to install pilight.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P54"><text:span text:style-name="T25">By default pilight will install into to </text:span><text:span text:style-name="T21">c:\pilight\</text:span><text:span text:style-name="T23">.</text:span></text:p>
+     <text:p text:style-name="P49"><text:span text:style-name="T25">By default pilight will install into to </text:span><text:span text:style-name="T21">c:\pilight\</text:span><text:span text:style-name="T23">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55">A default configuration can also be found in that folder.</text:p>
+     <text:p text:style-name="P50">A default configuration can also be found in that folder.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55">If you want to use the pilight USB nano you can use the pilight-usb-nano.hex found in the default folder.</text:p>
+     <text:p text:style-name="P50">If you want to use the pilight USB nano you can use the pilight-usb-nano.hex found in the default folder.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P36" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1024_2062514288"/>OpenWRT Router<text:bookmark-end text:name="__RefHeading___Toc1024_2062514288"/></text:h>
-   <text:list xml:id="list1886650391051864694" text:style-name="L3">
+   <text:list xml:id="list3437325877406315840" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P56">When using OpenWRT you are assumed also to know how to login to your router with SSH.</text:p>
+     <text:p text:style-name="P51">When using OpenWRT you are assumed also to know how to login to your router with SSH.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56">Go to <text:a xlink:type="simple" xlink:href="http://download.pilight.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://download.pilight.org</text:a>.</text:p>
+     <text:p text:style-name="P51">Go to <text:a xlink:type="simple" xlink:href="http://download.pilight.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://download.pilight.org</text:a>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56">Download the latest pilight OpenWRT compilation called pilight-Atheros-AR9132-vX.0.tar.gz.</text:p>
+     <text:p text:style-name="P51">Download the latest pilight OpenWRT compilation called pilight-Atheros-AR9132-vX.0.tar.gz.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56">Unpack this file like this:</text:p>
+     <text:p text:style-name="P51">Unpack this file like this:</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56"><draw:frame draw:style-name="fr1" draw:name="Frame14" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="13">
+     <text:p text:style-name="P51"><draw:frame draw:style-name="fr1" draw:name="Frame14" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.09cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="13">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T25">root</text:span></text:span><text:span text:style-name="Source_20_Text">@</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T25">OpenWrt</text:span></text:span><text:span text:style-name="Source_20_Text">:~# <text:s/></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T25">tar -zxvf pilight-Atheros-AR9132-vX.0.tar.gz -C /</text:span></text:span></text:p>
        </draw:text-box>
       </draw:frame>The OpenWRT package only contains pilight-daemon to save space.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56">A default configuration is put into <text:span text:style-name="T20">/etc/pilight/config.json</text:span><text:span text:style-name="T22">.</text:span></text:p>
+     <text:p text:style-name="P51">A default configuration is put into <text:span text:style-name="T20">/etc/pilight/config.json</text:span><text:span text:style-name="T22">.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13"/>
    <text:h text:style-name="P22" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1026_2062514288"/>Manually Compiled Version<text:bookmark-end text:name="__RefHeading___Toc1026_2062514288"/></text:h>
    <text:p text:style-name="P8">Manually compiling pilight is also a possibility. Use this method is you are not using a Debian-based or a *BSD based operating system.</text:p>
-   <text:list xml:id="list6206961963103731958" text:style-name="L4">
+   <text:list xml:id="list1657296167252566802" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P52">Login to your computer.</text:p>
+     <text:p text:style-name="P47">Login to your computer.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52"><draw:frame draw:style-name="fr1" draw:name="Frame9" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="0.799cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="7">
+     <text:p text:style-name="P47"><draw:frame draw:style-name="fr1" draw:name="Frame9" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="0.799cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="7">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="Terminal">pi@pilight:~# sudo su</text:p>
         <text:p text:style-name="Terminal">Password:</text:p>
@@ -1385,38 +1319,38 @@
       </draw:frame>Make sure you are running as root. Run the following command an use your own password.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52">Install all packages needed for manually compiling pilight. The best way to do this depends on your operating system. The packages needed for Debian are:</text:p>
+     <text:p text:style-name="P47">Install all packages needed for manually compiling pilight. The best way to do this depends on your operating system. The packages needed for Debian are:</text:p>
     </text:list-item>
    </text:list>
    <text:section text:style-name="Sect2" text:name="Sectie1">
-    <text:list xml:id="list141641045915592" text:continue-numbering="true" text:style-name="L4">
+    <text:list xml:id="list222807625365311" text:continue-numbering="true" text:style-name="L4">
      <text:list-item>
       <text:list>
        <text:list-item>
-        <text:p text:style-name="P52">build-essential</text:p>
+        <text:p text:style-name="P47">build-essential</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">cmake</text:p>
+        <text:p text:style-name="P47">cmake</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">git</text:p>
+        <text:p text:style-name="P47">git</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">dialog</text:p>
+        <text:p text:style-name="P47">dialog</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">libunwind-dev</text:p>
+        <text:p text:style-name="P47">libunwind-dev</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">libpcap-dev</text:p>
+        <text:p text:style-name="P47">libpcap-dev</text:p>
        </text:list-item>
       </text:list>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:list xml:id="list141640723540743" text:continue-numbering="true" text:style-name="L4">
+   <text:list xml:id="list222808946326102" text:continue-numbering="true" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P52"><draw:frame draw:style-name="fr1" draw:name="Frame10" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="0.707cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="8">
+     <text:p text:style-name="P47"><draw:frame draw:style-name="fr1" draw:name="Frame10" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="0.707cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="8">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">root@pilight:~# git clone --depth 5 -b [branch] https://github.com/pilight/pilight.git</text:span></text:p>
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">root@pilight:~# cd pilight</text:span></text:p>
@@ -1424,17 +1358,17 @@
       </draw:frame>Then download the pilight source code from the pilight github:</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52">Replace the [branch] with either <text:span text:style-name="T20">master</text:span><text:span text:style-name="T22"> for the latest </text:span><text:span text:style-name="T24">stable</text:span><text:span text:style-name="T22"> version. This version is exactly the same as the stable version available through the apt repository. Or use </text:span><text:span text:style-name="T20">development</text:span><text:span text:style-name="T22"> for the very latest developmental build. A nightly pilight version is automatically generated each night and also available through the pilight nightly apt repository.</text:span></text:p>
+     <text:p text:style-name="P47">Replace the [branch] with either <text:span text:style-name="T20">master</text:span><text:span text:style-name="T22"> for the latest </text:span><text:span text:style-name="T24">stable</text:span><text:span text:style-name="T22"> version. This version is exactly the same as the stable version available through the apt repository. Or use </text:span><text:span text:style-name="T20">development</text:span><text:span text:style-name="T22"> for the very latest developmental build. A nightly pilight version is automatically generated each night and also available through the pilight nightly apt repository.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P58"><draw:frame draw:style-name="fr1" draw:name="Frame11" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="1.836cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="9">
+     <text:p text:style-name="P53"><draw:frame draw:style-name="fr1" draw:name="Frame11" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="1.836cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="9">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T25">root@pilight</text:span></text:span><text:span text:style-name="Source_20_Text">:~</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">/pilight# chmod +x setup.sh<text:line-break/>root@pilight:~/pilight# ./setup.sh</text:span></text:span></text:p>
        </draw:text-box>
       </draw:frame>pilight can be compiled with various built-in features which can be included or exlcuded. This is done through a menu driven program. This program will also automatically compile and install pilight:</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P57"><draw:frame draw:style-name="fr2" draw:name="Afbeelding1" text:anchor-type="paragraph" svg:y="1.037cm" svg:width="17.247cm" svg:height="6.659cm" draw:z-index="10"><draw:image>
+     <text:p text:style-name="P52"><draw:frame draw:style-name="fr2" draw:name="Afbeelding1" text:anchor-type="paragraph" svg:y="1.037cm" svg:width="17.247cm" svg:height="6.659cm" draw:z-index="10"><draw:image>
         <office:binary-data>Qk3+ORYAAAAAAIoAAAB8AAAAywMAAHcBAAABACAAAAAAAHQ5FgAAAAAAAAAAAAAAAAAAAAAA
          /wAAAAD/AAAAAP8AAAAA/0JHUnMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApGU0/6RlNP+kZTT/pGU0/6RlNP+kZTT/
@@ -28415,10 +28349,10 @@
       </draw:frame>When you are thrown back into the command prompt without error(s), pilight has been installed succesfully. It will also install a default configuration in <text:span text:style-name="T20">/etc/pilight/config.json</text:span><text:span text:style-name="T26">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P59">Make sure to run the following command after installation:</text:p>
+     <text:p text:style-name="P54">Make sure to run the following command after installation:</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P59"><draw:frame draw:style-name="fr1" draw:name="Frame12" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.095cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="11">
+     <text:p text:style-name="P54"><draw:frame draw:style-name="fr1" draw:name="Frame12" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="-0.095cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="11">
        <draw:text-box fo:min-height="0.4cm">
         <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T25">root@pilight</text:span></text:span><text:span text:style-name="Source_20_Text">:~</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">/pilight# ldconfig</text:span></text:span></text:p>
        </draw:text-box>
