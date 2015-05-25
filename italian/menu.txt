@@ -1,0 +1,17 @@
+1|
+2|Informazioni su pilight|about-pilight
+3|Installazione|installation
+4|Configurazine
+	4.1|Dispositivi (Devices)|configuration-devices
+	4.2|Regole (Rules)|configuration-rules
+	4.3|GUI|configuration-gui
+	4.4|Impostazioni (Settings)|configuration-settings
+	4.5|Hardware|configuration-hardware
+	4.6|Registry|configuration-registry
+	4.7|Esempio|configuration
+5|Eventing|eventing
+6|Rete Ad-Hoc|adhoc-network
+7|
+8|Sitemap|sitemap
+9|
+10|Informazioni sul manuale|about-manual
