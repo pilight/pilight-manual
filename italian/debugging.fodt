@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.4.1$Windows_x86 LibreOffice_project/bc356b2f991740509f321d70e4512a6a54c5f243</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="113" meta:word-count="1175" meta:character-count="8385" meta:non-whitespace-character-count="7226"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="113" meta:word-count="1175" meta:character-count="8385" meta:non-whitespace-character-count="7226"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32704</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">15083</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">42071</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22809</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">13875</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">18117</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">40446</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">32703</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">15081</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">42069</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22807</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -38,6 +38,7 @@
    <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
@@ -58,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4394768</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4493146</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -131,14 +132,14 @@
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="graphic">
-   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="3mm" draw:shadow-offset-y="3mm" draw:start-line-spacing-horizontal="2.83mm" draw:start-line-spacing-vertical="2.83mm" draw:end-line-spacing-horizontal="2.83mm" draw:end-line-spacing-vertical="2.83mm" style:flow-with-text="false"/>
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="it" fo:country="IT" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="12.51mm" style:writing-mode="page"/>
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="it" fo:country="IT" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -154,14 +155,14 @@
    <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-style-name="Standaard" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-weight="normal" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
-   <style:paragraph-properties fo:margin-top="4.23mm" fo:margin-bottom="2.12mm" loext:contextual-spacing="false" fo:padding="0.49mm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:shadow="none" fo:keep-with-next="always">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:padding="0.049cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt solid #000000" style:shadow="none" fo:keep-with-next="always">
     <style:tab-stops/>
     <style:drop-cap/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-style-name="Standaard" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="normal" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Mangal" style:font-family-complex="Mangal" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="2.5mm" loext:contextual-spacing="false" fo:line-height="125%" style:page-number="auto">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="false" fo:line-height="125%" style:page-number="auto">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-style-name="Standaard" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="10.5pt"/>
@@ -170,7 +171,7 @@
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
   </style:style>
   <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties fo:margin-top="2.12mm" fo:margin-bottom="2.12mm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Mangal1" style:font-family-complex="Mangal" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
@@ -178,40 +179,40 @@
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
   </style:style>
   <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
-   <style:paragraph-properties fo:margin-top="4.23mm" fo:margin-bottom="2.12mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#d15151" fo:font-size="130%" fo:font-weight="normal" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
-   <style:paragraph-properties fo:margin-top="3.53mm" fo:margin-bottom="2.12mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="115%" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
-   <style:paragraph-properties fo:margin-top="2.47mm" fo:margin-bottom="2.12mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.247cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="101%" fo:font-weight="normal" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
-   <style:paragraph-properties fo:margin-left="10mm" fo:margin-right="10mm" fo:margin-top="0mm" fo:margin-bottom="4.99mm" loext:contextual-spacing="false" fo:text-indent="0mm" style:auto-text-indent="false"/>
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
   </style:style>
   <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
-   <style:paragraph-properties fo:margin-top="1.06mm" fo:margin-bottom="2.12mm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="Text" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
   <style:style style:name="Code" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:list-style-name="Code_20_Numbering" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="2.5mm" loext:contextual-spacing="true" fo:line-height="100%" fo:keep-together="auto" style:page-number="auto" fo:background-color="#ffffff" fo:padding="0.49mm" fo:border-left="0.06pt solid #66cc00" fo:border-right="none" fo:border-top="none" fo:border-bottom="none" style:shadow="none" fo:keep-with-next="auto" text:number-lines="true" text:line-number="1">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="true" fo:line-height="100%" fo:keep-together="auto" style:page-number="auto" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border-left="0.06pt solid #66cc00" fo:border-right="none" fo:border-top="none" fo:border-bottom="none" style:shadow="none" fo:keep-with-next="auto" text:number-lines="true" text:line-number="1">
     <style:tab-stops>
-     <style:tab-stop style:position="7.5mm"/>
-     <style:tab-stop style:position="12.51mm"/>
-     <style:tab-stop style:position="17.5mm"/>
-     <style:tab-stop style:position="22.51mm"/>
-     <style:tab-stop style:position="27.5mm"/>
-     <style:tab-stop style:position="32.51mm"/>
+     <style:tab-stop style:position="0.75cm"/>
+     <style:tab-stop style:position="1.251cm"/>
+     <style:tab-stop style:position="1.75cm"/>
+     <style:tab-stop style:position="2.251cm"/>
+     <style:tab-stop style:position="2.75cm"/>
+     <style:tab-stop style:position="3.251cm"/>
     </style:tab-stops>
-    <style:background-image/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-style-name="Standaard" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-weight="normal" style:font-size-asian="10.5pt"/>
   </style:style>
@@ -228,93 +229,93 @@
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Text_20_body_20_indent" style:display-name="Text body indent" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="text">
-   <style:paragraph-properties fo:margin-left="4.99mm" fo:margin-right="0mm" fo:text-indent="0mm" style:auto-text-indent="false"/>
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
   </style:style>
   <style:style style:name="Terminal" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:list-style-name="" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="2.5mm" loext:contextual-spacing="true" fo:line-height="100%" fo:keep-together="always" style:page-number="auto" fo:padding="0.49mm" fo:border-left="0.06pt solid #ffffff" fo:border-right="none" fo:border-top="none" fo:border-bottom="none" style:shadow="none" fo:keep-with-next="always" text:number-lines="false" text:line-number="1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="true" fo:line-height="100%" fo:keep-together="always" style:page-number="auto" fo:padding="0.049cm" fo:border-left="0.06pt solid #ffffff" fo:border-right="none" fo:border-top="none" fo:border-bottom="none" style:shadow="none" fo:keep-with-next="always" text:number-lines="false" text:line-number="1">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#ffffff" style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-style-name="Standaard" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-weight="normal" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
-   <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:text-indent="0mm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:text-indent="0mm" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="170mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="4.99mm" fo:margin-right="0mm" fo:text-indent="0mm" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="165.01mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="9.98mm" fo:margin-right="0mm" fo:text-indent="0mm" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="0.998cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="160.02mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="16.002cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="naamloos1" style:family="paragraph" style:parent-style-name="Terminal" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="2.5mm" fo:margin-bottom="2.5mm" loext:contextual-spacing="true" style:page-number="auto"/>
+   <style:paragraph-properties fo:margin-top="0.25cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="true" style:page-number="auto"/>
    <style:text-properties style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text">
-   <style:paragraph-properties fo:margin-top="2.12mm" fo:margin-bottom="2.12mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="95%" fo:font-style="italic" fo:font-weight="normal" style:font-size-asian="95%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="95%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
-   <style:paragraph-properties fo:margin-top="2.12mm" fo:margin-bottom="1.06mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
-   <style:paragraph-properties fo:margin-top="1.06mm" fo:margin-bottom="1.06mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="85%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
-   <style:paragraph-properties fo:margin-top="1.06mm" fo:margin-bottom="1.06mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="80%" fo:font-weight="bold" style:font-size-asian="80%" style:font-weight-asian="bold" style:font-size-complex="80%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_8" style:display-name="Heading 8" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="8" style:class="text">
-   <style:paragraph-properties fo:margin-top="1.06mm" fo:margin-bottom="1.06mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="80%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="80%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="80%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_9" style:display-name="Heading 9" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="9" style:class="text">
-   <style:paragraph-properties fo:margin-top="1.06mm" fo:margin-bottom="1.06mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_10" style:display-name="Heading 10" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="10" style:class="text">
-   <style:paragraph-properties fo:margin-top="1.06mm" fo:margin-bottom="1.06mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="14.98mm" fo:margin-right="0mm" fo:text-indent="0mm" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="1.498cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="169.63mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="16.963cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="19.97mm" fo:margin-right="0mm" fo:text-indent="0mm" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="1.997cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="164.64mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="16.464cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
-   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="0mm" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties style:font-name="Liberation Mono2" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="NSimSun" style:font-family-asian="NSimSun" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono2" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="Notice" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
-   <style:paragraph-properties fo:margin-left="2.5mm" fo:margin-right="2.5mm" fo:margin-top="0mm" fo:margin-bottom="0mm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0mm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="#d15151" fo:padding="1.99mm" fo:border="0.06pt solid #000000" style:shadow="none" style:join-border="false">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#d15151" draw:opacity="100%"/>
+   <style:paragraph-properties fo:margin-left="0.25cm" fo:margin-right="0.25cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="#d15151" fo:padding="0.199cm" fo:border="0.06pt solid #000000" style:shadow="none" style:join-border="false">
     <style:tab-stops/>
-    <style:background-image/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#ffffff" fo:font-size="11pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10.5pt"/>
   </style:style>
@@ -344,234 +345,233 @@
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Graphics" style:family="graphic">
-   <style:graphic-properties text:anchor-type="paragraph" svg:x="0mm" svg:y="0mm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
   </style:style>
   <style:style style:name="Frame" style:family="graphic">
-   <style:graphic-properties text:anchor-type="paragraph" svg:x="0mm" svg:y="0mm" fo:margin-left="1.99mm" fo:margin-right="1.99mm" fo:margin-top="1.99mm" fo:margin-bottom="1.99mm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0mm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.199cm" fo:margin-right="0.199cm" fo:margin-top="0.199cm" fo:margin-bottom="0.199cm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
   </style:style>
   <style:style style:name="OLE" style:family="graphic">
-   <style:graphic-properties text:anchor-type="paragraph" svg:x="0mm" svg:y="0mm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
   </style:style>
   <style:style style:name="Terminal" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties svg:width="184.61mm" style:rel-width="100%" fo:min-height="0.41mm" text:anchor-type="paragraph" svg:x="0mm" svg:y="0mm" fo:margin-left="2.5mm" fo:margin-right="2.5mm" fo:margin-top="2.5mm" fo:margin-bottom="2.5mm" style:wrap="none" style:vertical-pos="middle" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="#000000" style:background-transparency="0%" draw:fill="solid" loext:rel-width-rel="paragraph">
-    <style:background-image/>
-    <style:columns fo:column-count="1" fo:column-gap="0mm"/>
+   <style:graphic-properties svg:width="18.461cm" style:rel-width="100%" fo:min-height="0.041cm" text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.25cm" fo:margin-right="0.25cm" fo:margin-top="0.25cm" fo:margin-bottom="0.25cm" style:wrap="none" style:vertical-pos="middle" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="#000000" style:background-transparency="0%" draw:fill="solid" draw:fill-color="#000000" draw:opacity="100%" loext:rel-width-rel="paragraph">
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
    </style:graphic-properties>
   </style:style>
   <style:style style:name="Watermark" style:family="graphic">
-   <style:graphic-properties text:anchor-type="page" svg:x="0mm" svg:y="0mm" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="middle" style:vertical-rel="page" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+   <style:graphic-properties text:anchor-type="page" svg:x="0cm" svg:y="0cm" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="middle" style:vertical-rel="page" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62mm" fo:text-indent="-7.62mm" fo:margin-left="7.62mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.762cm" fo:text-indent="-0.762cm" fo:margin-left="0.762cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="2" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16mm" fo:text-indent="-10.16mm" fo:margin-left="10.16mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.016cm" fo:text-indent="-1.016cm" fo:margin-left="1.016cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="3" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="12.7mm" fo:text-indent="-12.7mm" fo:margin-left="12.7mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-1.27cm" fo:margin-left="1.27cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="4" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="15.24mm" fo:text-indent="-15.24mm" fo:margin-left="15.24mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.524cm" fo:text-indent="-1.524cm" fo:margin-left="1.524cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="5" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="17.78mm" fo:text-indent="-17.78mm" fo:margin-left="17.78mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.778cm" fo:text-indent="-1.778cm" fo:margin-left="1.778cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="6" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="20.32mm" fo:text-indent="-20.32mm" fo:margin-left="20.32mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.032cm" fo:text-indent="-2.032cm" fo:margin-left="2.032cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="7" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="22.86mm" fo:text-indent="-22.86mm" fo:margin-left="22.86mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.286cm" fo:text-indent="-2.286cm" fo:margin-left="2.286cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="8" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="25.4mm" fo:text-indent="-25.4mm" fo:margin-left="25.4mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-2.54cm" fo:margin-left="2.54cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="9" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="27.94mm" fo:text-indent="-27.94mm" fo:margin-left="27.94mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.794cm" fo:text-indent="-2.794cm" fo:margin-left="2.794cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
    <text:outline-level-style text:level="10" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="30.48mm" fo:text-indent="-30.48mm" fo:margin-left="30.48mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.048cm" fo:text-indent="-3.048cm" fo:margin-left="3.048cm"/>
     </style:list-level-properties>
    </text:outline-level-style>
   </text:outline-style>
   <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
    <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.99mm" fo:text-indent="-4.99mm" fo:margin-left="4.99mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.499cm" fo:text-indent="-0.499cm" fo:margin-left="0.499cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10mm" fo:text-indent="-4.99mm" fo:margin-left="10mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1cm" fo:text-indent="-0.499cm" fo:margin-left="1cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="14.99mm" fo:text-indent="-4.99mm" fo:margin-left="14.99mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.499cm" fo:text-indent="-0.499cm" fo:margin-left="1.499cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="20mm" fo:text-indent="-4.99mm" fo:margin-left="20mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2cm" fo:text-indent="-0.499cm" fo:margin-left="2cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="24.99mm" fo:text-indent="-4.99mm" fo:margin-left="24.99mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.499cm" fo:text-indent="-0.499cm" fo:margin-left="2.499cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="30mm" fo:text-indent="-4.99mm" fo:margin-left="30mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3cm" fo:text-indent="-0.499cm" fo:margin-left="3cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="35mm" fo:text-indent="-4.99mm" fo:margin-left="35mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.5cm" fo:text-indent="-0.499cm" fo:margin-left="3.5cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="40.01mm" fo:text-indent="-4.99mm" fo:margin-left="40.01mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.001cm" fo:text-indent="-0.499cm" fo:margin-left="4.001cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="45mm" fo:text-indent="-4.99mm" fo:margin-left="45mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.5cm" fo:text-indent="-0.499cm" fo:margin-left="4.5cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="50.01mm" fo:text-indent="-4.99mm" fo:margin-left="50.01mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.001cm" fo:text-indent="-0.499cm" fo:margin-left="5.001cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
   <text:list-style style:name="Code_20_Numbering" style:display-name="Code Numbering" text:consecutive-numbering="true">
    <text:list-level-style-number text:level="1" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="12.7mm" fo:text-indent="-6.35mm" fo:margin-left="12.7mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="2" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="19.05mm" fo:text-indent="-6.35mm" fo:margin-left="19.05mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="3" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="25.4mm" fo:text-indent="-6.35mm" fo:margin-left="25.4mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="4" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="31.75mm" fo:text-indent="-6.35mm" fo:margin-left="31.75mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="5" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="38.1mm" fo:text-indent="-6.35mm" fo:margin-left="38.1mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="6" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="44.45mm" fo:text-indent="-6.35mm" fo:margin-left="44.45mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="7" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="50.8mm" fo:text-indent="-6.35mm" fo:margin-left="50.8mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="8" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="57.15mm" fo:text-indent="-6.35mm" fo:margin-left="57.15mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="9" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="63.5mm" fo:text-indent="-6.35mm" fo:margin-left="63.5mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="10" text:style-name="Character_5f_20_5f_style" style:num-suffix=" " style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="69.85mm" fo:text-indent="-6.35mm" fo:margin-left="69.85mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
   <text:list-style style:name="Terminal_20_Numbering" style:display-name="Terminal Numbering">
    <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="12.7mm" fo:text-indent="-6.35mm" fo:margin-left="12.7mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="19.05mm" fo:text-indent="-6.35mm" fo:margin-left="19.05mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="25.4mm" fo:text-indent="-6.35mm" fo:margin-left="25.4mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="31.75mm" fo:text-indent="-6.35mm" fo:margin-left="31.75mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="38.1mm" fo:text-indent="-6.35mm" fo:margin-left="38.1mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="44.45mm" fo:text-indent="-6.35mm" fo:margin-left="44.45mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="50.8mm" fo:text-indent="-6.35mm" fo:margin-left="50.8mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="57.15mm" fo:text-indent="-6.35mm" fo:margin-left="57.15mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="63.5mm" fo:text-indent="-6.35mm" fo:margin-left="63.5mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix=" " style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="69.85mm" fo:text-indent="-6.35mm" fo:margin-left="69.85mm"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
   <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
-  <text:linenumbering-configuration text:number-lines="false" text:offset="4.99mm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Text_20_body">
@@ -673,187 +673,184 @@
    <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00430333" officeooo:paragraph-rsid="00430333"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00405c48" officeooo:paragraph-rsid="00405c48"/>
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00412fa2" officeooo:paragraph-rsid="00412fa2"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="00405c48"/>
+   <style:text-properties officeooo:rsid="00405c48" officeooo:paragraph-rsid="00405c48"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="00405c48"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
+   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
+   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
+   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
   <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
   <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="bold" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="184.61mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="179.62mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Image">
-   <style:text-properties officeooo:paragraph-rsid="000de7a4"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Image">
-   <style:text-properties officeooo:paragraph-rsid="00225b8a"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties officeooo:paragraph-rsid="00277635"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties officeooo:paragraph-rsid="0009fbca"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties officeooo:paragraph-rsid="002f513f"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Terminal">
-   <style:text-properties fo:language="it" fo:country="IT"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00034f41"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="00271496"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
-  </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
-  </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Notice">
-   <style:text-properties fo:color="#ffffff"/>
-  </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:paragraph-rsid="003f6939"/>
-  </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:paragraph-rsid="003ffcd7"/>
-  </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="003ffcd7" officeooo:paragraph-rsid="003ffcd7"/>
-  </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00405c48" officeooo:paragraph-rsid="00405c48"/>
-  </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00412fa2" officeooo:paragraph-rsid="00412fa2"/>
-  </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="bold" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Image">
+   <style:text-properties officeooo:paragraph-rsid="000de7a4"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Image">
+   <style:text-properties officeooo:paragraph-rsid="00225b8a"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties officeooo:paragraph-rsid="00277635"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties officeooo:paragraph-rsid="0009fbca"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties officeooo:paragraph-rsid="002f513f"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties fo:language="en" fo:country="GB"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Terminal">
+   <style:text-properties fo:language="it" fo:country="IT"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00034f41"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="00271496"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="en" fo:country="GB"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Notice">
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="003f6939"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="003ffcd7"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="003ffcd7" officeooo:paragraph-rsid="003ffcd7"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="normal" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00085391"/>
@@ -1024,21 +1021,24 @@
    <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="normal" officeooo:rsid="003ffcd7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="003e599c"/>
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-weight="normal" officeooo:rsid="003e599c" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="003f6939"/>
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="003e599c"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00405c48"/>
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="003f6939"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties officeooo:rsid="003e599c"/>
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00405c48"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties officeooo:rsid="00412fa2"/>
+   <style:text-properties officeooo:rsid="003e599c"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
+   <style:text-properties officeooo:rsid="00412fa2"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
    <style:text-properties officeooo:rsid="00430333"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Terminal">
@@ -1046,76 +1046,76 @@
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
-    <style:columns fo:column-count="1" fo:column-gap="0mm"/>
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
    </style:section-properties>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="7.48mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="19.95mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="32.42mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="44.89mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="57.36mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="69.83mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="82.3mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="94.78mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="107.25mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="119.72mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
   </text:list-style>
   <text:list-style style:name="L2">
    <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="7.48mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="19.95mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="32.42mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="44.89mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="57.36mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="69.83mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="82.3mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="94.78mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="107.25mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
    <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="119.72mm" text:min-label-width="4.99mm"/>
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-number>
   </text:list-style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="210.01mm" fo:page-height="297mm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="12.7mm" fo:margin-bottom="12.7mm" fo:margin-left="12.7mm" fo:margin-right="12.7mm" style:writing-mode="lr-tb" style:footnote-max-height="0mm">
-    <style:footnote-sep style:width="0.18mm" style:distance-before-sep="1.01mm" style:distance-after-sep="1.01mm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
    <style:footer-style/>
@@ -1133,7 +1133,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1113_1834773180"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T53">Debugging</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc1113_1834773180"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1113_1834773180"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T54">Debugging</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc1113_1834773180"/></text:h>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Inhoudsopgave1">
     <text:table-of-content-source text:outline-level="10">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -1219,165 +1219,165 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P48"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1113_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Debugging<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1115_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduzione<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1117_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Prerequisiti<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1119_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Come riconoscere un bug?<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1121_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Come eseguire il debug?<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1113_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Debugging<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P50"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1115_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduzione<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P50"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1117_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Prerequisiti<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P50"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1119_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Come riconoscere un bug?<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P50"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1121_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Come eseguire il debug?<text:tab/>2</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1115_1834773180"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T53">Introdu</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T57">zione</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc1115_1834773180"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1115_1834773180"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T54">Introdu</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T57">zione</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc1115_1834773180"/></text:h>
    <text:p text:style-name="P27">pilight è un prodotto sviluppato da una comunità in crescita. Grazie al suo carattere open source, sviluppatori da tutto il mondo possono contribuire al codice. Anche se tutti gli sviluppatori cercano di scrivere un codice senza errori (bug), non è sempre possibile per gli sviluppatori di pilight controllare tutti i possibili sbagli che possono essere fatti. Soprattutto perché non tutti hanno a disposizione ogni tipo di hardware per un test.</text:p>
-   <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1117_1834773180"/>Prerequisi<text:span text:style-name="T60">ti</text:span><text:bookmark-end text:name="__RefHeading___Toc1117_1834773180"/></text:h>
+   <text:h text:style-name="P84" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1117_1834773180"/>Prerequisi<text:span text:style-name="T61">ti</text:span><text:bookmark-end text:name="__RefHeading___Toc1117_1834773180"/></text:h>
    <text:p text:style-name="P28">Se siete arrivati su questa pagina, avete probabilmente riscontrato un bug nel codice pilight o notato che le cose non funzionano come dovrebbero. Prima di continuare la lettura, considerate quanto segue.</text:p>
    <text:p text:style-name="P28">In primo luogo, pilight offre un codice con diverse fasi di stabilità:</text:p>
-   <text:list xml:id="list2244691784818797863" text:style-name="L1">
+   <text:list xml:id="list4401361613949560697" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P80"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">Stable repository apt e github master branch</text:span></text:span><text:span text:style-name="T53"><text:line-break/></text:span><text:span text:style-name="T58">Questo codice è stato testato come funzionante senza bug per diverse settimane da parte degli sviluppatori e da una grande comunità. Se vengono trovati dei bug in questa versione di pilight, il problema sarà probabilmente già stato risolto nel codice della versione development.</text:span></text:p>
+     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">Stable repository apt e github master branch</text:span></text:span><text:span text:style-name="T53"><text:line-break/></text:span><text:span text:style-name="T59">Questo codice è stato testato come funzionante senza bug per diverse settimane da parte degli sviluppatori e da una grande comunità. Se vengono trovati dei bug in questa versione di pilight, il problema sarà probabilmente già stato risolto nel codice della versione development.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">Nightly apt repository e github development branch</text:span></text:span><text:span text:style-name="T54"><text:line-break/></text:span><text:span text:style-name="T56">Questo codice contiene sempre le ultime funzionalità e correzioni. Esso viene aggiornato più volte alla settimana. Tuttavia, ciò significa anche che non tutti i bugs sono già stati riscontrati quando un utente inizia ad usarlo.</text:span></text:p>
+     <text:p text:style-name="P82"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">Nightly apt repository e github development branch</text:span></text:span><text:span text:style-name="T54"><text:line-break/></text:span><text:span text:style-name="T56">Questo codice contiene sempre le ultime funzionalità e correzioni. Esso viene aggiornato più volte alla settimana. Tuttavia, ciò significa anche che non tutti i bugs sono già stati riscontrati quando un utente inizia ad usarlo.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">In secondo luogo, questa pagina è fatta per gli utenti che utilizzano developmental github branch. Questo tutorial presuppone quanto segue:</text:p>
-   <text:list xml:id="list4739889733197594456" text:style-name="L2">
+   <text:list xml:id="list2852017266062195852" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P82">Siete consapevoli della distinzione tra bugs e cambiamenti nelle funzionalità di pilight.</text:p>
+     <text:p text:style-name="P83">Siete consapevoli della distinzione tra bugs e cambiamenti nelle funzionalità di pilight.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82">Avete letto tutti i messaggi di commit su GitHub per essere sicuri che quello che avete incontrato è davvero un bug e non una funzionalità modificata.</text:p>
+     <text:p text:style-name="P83">Avete letto tutti i messaggi di commit su GitHub per essere sicuri che quello che avete incontrato è davvero un bug e non una funzionalità modificata.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82">Avete abbastanza esperienza con il vostro sistema operativo.</text:p>
+     <text:p text:style-name="P83">Avete abbastanza esperienza con il vostro sistema operativo.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82">Avete la pazienza per aiutare a trovare il problema.</text:p>
+     <text:p text:style-name="P83">Avete la pazienza per aiutare a trovare il problema.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82">Avete qualche conoscenza di programmazione (e del linguaggio C).</text:p>
+     <text:p text:style-name="P83">Avete qualche conoscenza di programmazione (e del linguaggio C).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82">Sapete riconoscere un evidente bug del codice.</text:p>
+     <text:p text:style-name="P83">Sapete riconoscere un evidente bug del codice.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82">Siete in grado di compilare manualmente pilight così ch e il debug sia possibile. Le versioni compilate automaticamente non supportano il debug come descritto qui.</text:p>
+     <text:p text:style-name="P83">Siete in grado di compilare manualmente pilight così ch e il debug sia possibile. Le versioni compilate automaticamente non supportano il debug come descritto qui.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P47" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1119_1834773180"/><text:span text:style-name="T60">Come riconoscere un</text:span> <text:span text:style-name="T60">b</text:span>ug?<text:bookmark-end text:name="__RefHeading___Toc1119_1834773180"/></text:h>
+   <text:h text:style-name="P85" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1119_1834773180"/><text:span text:style-name="T61">Come riconoscere un</text:span> <text:span text:style-name="T61">b</text:span>ug?<text:bookmark-end text:name="__RefHeading___Toc1119_1834773180"/></text:h>
    <text:p text:style-name="P29">I due bug più frequenti sono problemi di memoria o errori di segmentazione. Un bug di memoria è simile a questo:</text:p>
-   <text:p text:style-name="P29"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0mm" svg:y="-0.95mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="0">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">* glibc detected ./pilight-daemon: double free or corruption (!logfile): 0x0000000000c6ed50 **</text:p>
+   <text:p text:style-name="P29"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="-0.095cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">* glibc detected ./pilight-daemon: double free or corruption (!logfile): 0x0000000000c6ed50 **</text:p>
      </draw:text-box>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="0mm" svg:y="23.95mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="6">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">pi@raspberrypi ~/pilight $ sudo service pilight start</text:p>
-      <text:p text:style-name="P59">[....] Starting : pilightSegmentation fault</text:p>
-      <text:p text:style-name="P59">failed!</text:p>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="0cm" svg:y="2.395cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="6">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">pi@raspberrypi ~/pilight $ sudo service pilight start</text:p>
+      <text:p text:style-name="P60">[....] Starting : pilightSegmentation fault</text:p>
+      <text:p text:style-name="P60">failed!</text:p>
      </draw:text-box>
     </draw:frame>In questo caso il messaggio significa che il logfile è stato liberato due volte. Un errore di segmentazione si presenta così:</text:p>
    <text:p text:style-name="P29">Questo messaggio significa che vi è stato un errore generale in pilight così che non può essere avviato correttamente.</text:p>
-   <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1121_1834773180"/><text:span text:style-name="T60">Come eseguire il</text:span> <text:span text:style-name="T60">d</text:span>ebug?<text:bookmark-end text:name="__RefHeading___Toc1121_1834773180"/></text:h>
-   <text:p text:style-name="P29"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0mm" svg:y="25.77mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="1">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">pi@pilight:~&gt; sudo su</text:p>
-      <text:p text:style-name="P59">root@pilight:~# gdb --<text:span text:style-name="T52">args </text:span>pilight-daemon -<text:span text:style-name="T52">D</text:span></text:p>
-      <text:p text:style-name="P59">GNU gdb (GDB) 7.4.1-debian</text:p>
-      <text:p text:style-name="P59">Copyright (C) 2012 Free Software Foundation, Inc.</text:p>
-      <text:p text:style-name="P59">License GPLv3+: GNU GPL version 3 or later &lt;http://gnu.org/licenses/gpl.html&gt;</text:p>
-      <text:p text:style-name="P59">This is free software: you are free to change and redistribute it.</text:p>
-      <text:p text:style-name="P59">There is NO WARRANTY, to the extent permitted by law. <text:s/>Type &quot;show copying&quot;</text:p>
-      <text:p text:style-name="P59">and &quot;show warranty&quot; for details.</text:p>
-      <text:p text:style-name="P59">This GDB was configured as &quot;arm-linux-gnueabihf&quot;.</text:p>
-      <text:p text:style-name="P59">For bug reporting instructions, please see:</text:p>
-      <text:p text:style-name="P59">&lt;http://www.gnu.org/software/gdb/bugs/&gt;...</text:p>
-      <text:p text:style-name="P59">Reading symbols from /usr/local/sbin/pilight-daemon...done.</text:p>
-      <text:p text:style-name="P59">(gdb)</text:p>
-      <text:p text:style-name="P59">Make sure you start pilight-daemon without any arguments. There are added in gdb itself like this:</text:p>
-      <text:p text:style-name="P59">(gdb) run</text:p>
-      <text:p text:style-name="P59">Starting program: /usr/local/sbin/pilight-daemon -D</text:p>
-      <text:p text:style-name="P59">[Thread debugging using libthread_db enabled]</text:p>
-      <text:p text:style-name="P59">Using host libthread_db library &quot;/lib/arm-linux-gnueabihf/libthread_db.so.1&quot;.</text:p>
-      <text:p text:style-name="P59">[Jan 18 16:23:33:657363] pilight-daemon: DEBUG: ssdp sent search</text:p>
-      <text:p text:style-name="P59">[Jan 18 16:23:33:701618] pilight-daemon: NOTICE: no pilight daemon found, daemonizing</text:p>
-      <text:p text:style-name="P59">[Jan 18 16:23:33:718878] pilight-daemon: DEBUG: -- start parsed config file --</text:p>
+   <text:h text:style-name="P84" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1121_1834773180"/><text:span text:style-name="T61">Come eseguire il</text:span> <text:span text:style-name="T61">d</text:span>ebug?<text:bookmark-end text:name="__RefHeading___Toc1121_1834773180"/></text:h>
+   <text:p text:style-name="P29"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0cm" svg:y="2.577cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="1">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">pi@pilight:~&gt; sudo su</text:p>
+      <text:p text:style-name="P60">root@pilight:~# gdb --<text:span text:style-name="T52">args </text:span>pilight-daemon -<text:span text:style-name="T52">D</text:span></text:p>
+      <text:p text:style-name="P60">GNU gdb (GDB) 7.4.1-debian</text:p>
+      <text:p text:style-name="P60">Copyright (C) 2012 Free Software Foundation, Inc.</text:p>
+      <text:p text:style-name="P60">License GPLv3+: GNU GPL version 3 or later &lt;http://gnu.org/licenses/gpl.html&gt;</text:p>
+      <text:p text:style-name="P60">This is free software: you are free to change and redistribute it.</text:p>
+      <text:p text:style-name="P60">There is NO WARRANTY, to the extent permitted by law. <text:s/>Type &quot;show copying&quot;</text:p>
+      <text:p text:style-name="P60">and &quot;show warranty&quot; for details.</text:p>
+      <text:p text:style-name="P60">This GDB was configured as &quot;arm-linux-gnueabihf&quot;.</text:p>
+      <text:p text:style-name="P60">For bug reporting instructions, please see:</text:p>
+      <text:p text:style-name="P60">&lt;http://www.gnu.org/software/gdb/bugs/&gt;...</text:p>
+      <text:p text:style-name="P60">Reading symbols from /usr/local/sbin/pilight-daemon...done.</text:p>
+      <text:p text:style-name="P60">(gdb)</text:p>
+      <text:p text:style-name="P60">Make sure you start pilight-daemon without any arguments. There are added in gdb itself like this:</text:p>
+      <text:p text:style-name="P60">(gdb) run</text:p>
+      <text:p text:style-name="P60">Starting program: /usr/local/sbin/pilight-daemon -D</text:p>
+      <text:p text:style-name="P60">[Thread debugging using libthread_db enabled]</text:p>
+      <text:p text:style-name="P60">Using host libthread_db library &quot;/lib/arm-linux-gnueabihf/libthread_db.so.1&quot;.</text:p>
+      <text:p text:style-name="P60">[Jan 18 16:23:33:657363] pilight-daemon: DEBUG: ssdp sent search</text:p>
+      <text:p text:style-name="P60">[Jan 18 16:23:33:701618] pilight-daemon: NOTICE: no pilight daemon found, daemonizing</text:p>
+      <text:p text:style-name="P60">[Jan 18 16:23:33:718878] pilight-daemon: DEBUG: -- start parsed config file --</text:p>
      </draw:text-box>
     </draw:frame>Per eseguire il debug del codice C, si usa il Debugger GNU, chiamato anche gdb. Questo programma viene eseguito assieme a pilight senza alcun problema di prestazioni, ma quando pilight si blocca, ci permette di individuare la linea specifica cui si è verificato l&apos;errore. Quindi prima di tutto, assicuratevi di aver installato gdb. Questo è il modo per avviare gdb assieme a pilight:</text:p>
-   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0mm" svg:y="106.01mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="7">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">*** glibc detected *** /usr/local/sbin/pilight-daemon: double free or corruption (fasttop): 0x000369d8 ***</text:p>
-      <text:p text:style-name="P59">[New Thread 0xb228c470 (LWP 26235)]</text:p>
-      <text:p text:style-name="P59">Program received signal SIGABRT, Aborted.</text:p>
-      <text:p text:style-name="P59">[Switching to Thread 0xb4d7d470 (LWP 26230)]</text:p>
-      <text:p text:style-name="P59">0xb6dddbfc in __GI_raise (sig=6) at ../nptl/sysdeps/unix/sysv/linux/raise.c:67</text:p>
-      <text:p text:style-name="P59">67 <text:s text:c="5"/>../nptl/sysdeps/unix/sysv/linux/raise.c: No such file or directory.</text:p>
-      <text:p text:style-name="P59">(gdb)</text:p>
+   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0cm" svg:y="10.601cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="7">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">*** glibc detected *** /usr/local/sbin/pilight-daemon: double free or corruption (fasttop): 0x000369d8 ***</text:p>
+      <text:p text:style-name="P60">[New Thread 0xb228c470 (LWP 26235)]</text:p>
+      <text:p text:style-name="P60">Program received signal SIGABRT, Aborted.</text:p>
+      <text:p text:style-name="P60">[Switching to Thread 0xb4d7d470 (LWP 26230)]</text:p>
+      <text:p text:style-name="P60">0xb6dddbfc in __GI_raise (sig=6) at ../nptl/sysdeps/unix/sysv/linux/raise.c:67</text:p>
+      <text:p text:style-name="P60">67 <text:s text:c="5"/>../nptl/sysdeps/unix/sysv/linux/raise.c: No such file or directory.</text:p>
+      <text:p text:style-name="P60">(gdb)</text:p>
      </draw:text-box>
     </draw:frame>Ora pilight si avvia come si sarebbe avviato normalmente. Basta lasciarlo funzionare in questo modo fino a quando si blocca o tentare di riprodurre il blocco. Se si blocca, si vedrà qualcosa di simile a questo:</text:p>
    <text:p text:style-name="P30">Di nuovo, si vede il prompt (gdb) che vi permette di digitare nuovi comandi.</text:p>
-   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="0mm" svg:y="7.14mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="2">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">(gdb) backtrace</text:p>
-      <text:p text:style-name="P59">#0 <text:s/>0xb6dddbfc in __GI_raise (sig=6)</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>at ../nptl/sysdeps/unix/sysv/linux/raise.c:67</text:p>
-      <text:p text:style-name="P59">#1 <text:s/>0xb6de197c in __GI_abort () at abort.c:92</text:p>
-      <text:p text:style-name="P59">#2 <text:s/>0xb6e15cf8 in __libc_message (do_abort=2,</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>fmt=0xb6ec78d0 &quot;*** glibc detected *** %s: %s: 0x%s ***\n&quot;)</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>at ../sysdeps/unix/sysv/linux/libc_fatal.c:189</text:p>
-      <text:p text:style-name="P59">#3 <text:s/>0xb6e20584 in malloc_printerr (action=3,</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>str=0xb6ec7a6c &quot;double free or corruption (fasttop)&quot;, ptr=&lt;optimized out&gt;)</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>at malloc.c:6283</text:p>
-      <text:p text:style-name="P59">#4 <text:s/>0xb6e24e00 in __GI___libc_free (mem=&lt;optimized out&gt;) at malloc.c:3738</text:p>
-      <text:p text:style-name="P59">#5 <text:s/>0x0000b5d8 in broadcast (param=&lt;optimized out&gt;) at daemon.c:260</text:p>
-      <text:p text:style-name="P59">#6 <text:s/>0xb6ee6bfc in start_thread (arg=0xb4d7d470) at pthread_create.c:306</text:p>
-      <text:p text:style-name="P59">#7 <text:s/>0xb6e7b758 in ?? ()</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
-      <text:p text:style-name="P59"><text:s text:c="3"/>from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
-      <text:p text:style-name="P59">#8 <text:s/>0xb6e7b758 in ?? ()</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
-      <text:p text:style-name="P59"><text:s text:c="3"/>from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
-      <text:p text:style-name="P59">Backtrace stopped: previous frame identical to this frame (corrupt stack?)</text:p>
-      <text:p text:style-name="P59">(gdb)</text:p>
+   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="0cm" svg:y="0.714cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="2">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">(gdb) backtrace</text:p>
+      <text:p text:style-name="P60">#0 <text:s/>0xb6dddbfc in __GI_raise (sig=6)</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>at ../nptl/sysdeps/unix/sysv/linux/raise.c:67</text:p>
+      <text:p text:style-name="P60">#1 <text:s/>0xb6de197c in __GI_abort () at abort.c:92</text:p>
+      <text:p text:style-name="P60">#2 <text:s/>0xb6e15cf8 in __libc_message (do_abort=2,</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>fmt=0xb6ec78d0 &quot;*** glibc detected *** %s: %s: 0x%s ***\n&quot;)</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>at ../sysdeps/unix/sysv/linux/libc_fatal.c:189</text:p>
+      <text:p text:style-name="P60">#3 <text:s/>0xb6e20584 in malloc_printerr (action=3,</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>str=0xb6ec7a6c &quot;double free or corruption (fasttop)&quot;, ptr=&lt;optimized out&gt;)</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>at malloc.c:6283</text:p>
+      <text:p text:style-name="P60">#4 <text:s/>0xb6e24e00 in __GI___libc_free (mem=&lt;optimized out&gt;) at malloc.c:3738</text:p>
+      <text:p text:style-name="P60">#5 <text:s/>0x0000b5d8 in broadcast (param=&lt;optimized out&gt;) at daemon.c:260</text:p>
+      <text:p text:style-name="P60">#6 <text:s/>0xb6ee6bfc in start_thread (arg=0xb4d7d470) at pthread_create.c:306</text:p>
+      <text:p text:style-name="P60">#7 <text:s/>0xb6e7b758 in ?? ()</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
+      <text:p text:style-name="P60"><text:s text:c="3"/>from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
+      <text:p text:style-name="P60">#8 <text:s/>0xb6e7b758 in ?? ()</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
+      <text:p text:style-name="P60"><text:s text:c="3"/>from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
+      <text:p text:style-name="P60">Backtrace stopped: previous frame identical to this frame (corrupt stack?)</text:p>
+      <text:p text:style-name="P60">(gdb)</text:p>
      </draw:text-box>
     </draw:frame><text:soft-page-break/>Il primo passo è quello di ottenere un backtrace di tutte le funzioni chiamate quando si è verificato l&apos;arresto:</text:p>
    <text:p text:style-name="P30">Copiare li contenuto di questa schermata in modo che possa essere comunicato sul forum.</text:p>
-   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="0mm" svg:y="23.92mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="3">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">(gdb) frame 8</text:p>
-      <text:p text:style-name="P59">#8 <text:s/>0xb6e7b758 in ?? ()</text:p>
-      <text:p text:style-name="P59"><text:s text:c="4"/>at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
-      <text:p text:style-name="P59"><text:s text:c="3"/>from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
-      <text:p text:style-name="P59">116 <text:s text:c="4"/>../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S: No such file or directory.</text:p>
-      <text:p text:style-name="P59">This doesn&apos;t tell us anything useful. So we continue to the previous frame.</text:p>
-      <text:p text:style-name="P59">(gdb) frame 7</text:p>
-      <text:p text:style-name="P59">#7&amp;nbsp; 0xb6e7b758 in ?? ()</text:p>
-      <text:p text:style-name="P59">&amp;nbsp;&amp;nbsp;&amp;nbsp; at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
-      <text:p text:style-name="P59">&amp;nbsp;&amp;nbsp; from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
-      <text:p text:style-name="P59">116&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S: No such file or directory.</text:p>
-      <text:p text:style-name="P59">Still no useful information here.</text:p>
-      <text:p text:style-name="P59">(gdb) frame 6</text:p>
-      <text:p text:style-name="P59">#6 <text:s/>0xb6ee6bfc in start_thread (arg=0xb4d7d470) at pthread_create.c:306</text:p>
-      <text:p text:style-name="P59">306 <text:s text:c="4"/>pthread_create.c: No such file or directory.</text:p>
-      <text:p text:style-name="P59">Nope.</text:p>
-      <text:p text:style-name="P59">(gdb) frame 5</text:p>
-      <text:p text:style-name="P59">#5 <text:s/>0x0000b5d8 in broadcast (param=&lt;optimized out&gt;) at daemon.c:260</text:p>
-      <text:p text:style-name="P59">260 <text:s text:c="36"/>json_delete(jret);</text:p>
+   <text:p text:style-name="P30"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="0cm" svg:y="2.392cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="3">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">(gdb) frame 8</text:p>
+      <text:p text:style-name="P60">#8 <text:s/>0xb6e7b758 in ?? ()</text:p>
+      <text:p text:style-name="P60"><text:s text:c="4"/>at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
+      <text:p text:style-name="P60"><text:s text:c="3"/>from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
+      <text:p text:style-name="P60">116 <text:s text:c="4"/>../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S: No such file or directory.</text:p>
+      <text:p text:style-name="P60">This doesn&apos;t tell us anything useful. So we continue to the previous frame.</text:p>
+      <text:p text:style-name="P60">(gdb) frame 7</text:p>
+      <text:p text:style-name="P60">#7&amp;nbsp; 0xb6e7b758 in ?? ()</text:p>
+      <text:p text:style-name="P60">&amp;nbsp;&amp;nbsp;&amp;nbsp; at ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S:116</text:p>
+      <text:p text:style-name="P60">&amp;nbsp;&amp;nbsp; from /lib/arm-linux-gnueabihf/libc.so.6</text:p>
+      <text:p text:style-name="P60">116&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ../ports/sysdeps/unix/sysv/linux/arm/nptl/../clone.S: No such file or directory.</text:p>
+      <text:p text:style-name="P60">Still no useful information here.</text:p>
+      <text:p text:style-name="P60">(gdb) frame 6</text:p>
+      <text:p text:style-name="P60">#6 <text:s/>0xb6ee6bfc in start_thread (arg=0xb4d7d470) at pthread_create.c:306</text:p>
+      <text:p text:style-name="P60">306 <text:s text:c="4"/>pthread_create.c: No such file or directory.</text:p>
+      <text:p text:style-name="P60">Nope.</text:p>
+      <text:p text:style-name="P60">(gdb) frame 5</text:p>
+      <text:p text:style-name="P60">#5 <text:s/>0x0000b5d8 in broadcast (param=&lt;optimized out&gt;) at daemon.c:260</text:p>
+      <text:p text:style-name="P60">260 <text:s text:c="36"/>json_delete(jret);</text:p>
      </draw:text-box>
     </draw:frame>Il secondo passo consiste nell&apos;individuare la linea esatta che ha causato il crash. Questo può essere fatto ingrandendo ogni parte di ogni funzione relativa a questo problema. Lavoriamo a ritroso partendo dalla fine verso l&apos;inizio. Per ingrandire una funzione si usa il comando frame # in cui # è sostituito da uno dei numeri che si vedono in backtrace. Come detto in precedenza, iniziamo dalla fine:</text:p>
-   <text:p text:style-name="P84"><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="paragraph" svg:x="0mm" svg:y="104.97mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="4">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">(gdb) frame 4</text:p>
-      <text:p text:style-name="P59">#4 <text:s/>0xb6e24e00 in __GI___libc_free (mem=&lt;optimized out&gt;) at malloc.c:3738</text:p>
-      <text:p text:style-name="P59">3738 <text:s text:c="3"/>malloc.c: No such file or directory.</text:p>
+   <text:p text:style-name="P33"><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="paragraph" svg:x="0cm" svg:y="10.497cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="4">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">(gdb) frame 4</text:p>
+      <text:p text:style-name="P60">#4 <text:s/>0xb6e24e00 in __GI___libc_free (mem=&lt;optimized out&gt;) at malloc.c:3738</text:p>
+      <text:p text:style-name="P60">3738 <text:s text:c="3"/>malloc.c: No such file or directory.</text:p>
      </draw:text-box>
     </draw:frame>Sì, finalmente qualcosa legata a pilight. Come potete vedere, la linea in conflitto si trova in daemon.c nella funzione broadcast alla linea 260. Il comando che ha prodotto il crash è json_delete. Anche se ora sappiamo che questa è la linea che causa il crash, il bug effettivo potrebbe essere ovunque.</text:p>
-   <text:p text:style-name="P31"><text:span text:style-name="T61">Pertanto continuiamo fino all&apos;ultimo frame relativo a pilight</text:span>.</text:p>
+   <text:p text:style-name="P31"><text:span text:style-name="T62">Pertanto continuiamo fino all&apos;ultimo frame relativo a pilight</text:span>.</text:p>
    <text:p text:style-name="P32">Nessuna informazione utile nel frame 4. Così, frame 5 è l&apos;unico frame interessante. Assicurarsi di copiare i frame informativi della schermata in modo che possano essere utilizzati più tardi in un post sul forum.</text:p>
-   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:x="0mm" svg:y="7.13mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="5">
-     <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P59">(gdb) q</text:p>
+   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:x="0cm" svg:y="0.713cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="5">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P60">(gdb) q</text:p>
      </draw:text-box>
-    </draw:frame><text:soft-page-break/><text:span text:style-name="T62">Per uscire</text:span>:</text:p>
+    </draw:frame><text:soft-page-break/><text:span text:style-name="T63">Per uscire</text:span>:</text:p>
    <text:p text:style-name="P32">Come si è visto, questo modo di debug rende molto più facile trovare il codice difettoso. gdb vi dirà la linea esatta in cui si è verificato il bug così che può essere più facilmente rintracciato e risolto.</text:p>
   </office:text>
  </office:body>
