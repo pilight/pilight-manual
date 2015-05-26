@@ -1,0 +1,4 @@
+#English country name - Country name in own language - Language abbreviation - Country Abbreviation
+english|English|en|gb
+italian|Italiano|it|it
+dutch|Nederlands|nl|nl
