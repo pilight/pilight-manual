@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="237" meta:word-count="1684" meta:character-count="10182" meta:non-whitespace-character-count="8519"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="237" meta:word-count="1684" meta:character-count="10182" meta:non-whitespace-character-count="8519"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">190288</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">23497</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21565</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">2517</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3380</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9708</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">169236</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">190288</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">23495</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">22384</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">211852</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4041249</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4106637</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -643,252 +643,235 @@
    <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003bc4cb"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003a1967"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
+   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
+   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="000de7a4"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="00225b8a"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00277635"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="002f513f"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties fo:language="nl" fo:country="NL"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00034f41"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:rsid="00034f41"/>
   </style:style>
   <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
   </style:style>
   <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="00271496"/>
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
+   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
   </style:style>
   <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:paragraph-rsid="00271496"/>
   </style:style>
   <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
+   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
   </style:style>
   <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Notice">
-   <style:text-properties fo:color="#ffffff"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" fo:font-style="normal" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Notice">
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
+  </style:style>
   <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
+   <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:paragraph-properties fo:break-before="page"/>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
   <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003bc4cb" officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
   </style:style>
   <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003bc4cb"/>
-  </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00085391"/>
@@ -1266,7 +1249,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
-   <text:h text:style-name="P67" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc154_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">API</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc154_547078094"/></text:h>
+   <text:h text:style-name="P69" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc154_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">API</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc154_547078094"/></text:h>
    <text:table-of-content text:style-name="Sect1" text:name="Inhoudsopgave1">
     <text:table-of-content-source text:outline-level="10" text:index-scope="chapter">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -1352,733 +1335,733 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P95"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc154_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">API<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc156_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Identificatie<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc158_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Opties<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc160_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Acties<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc162_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Webserver<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc164_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Heartbeat<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc166_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Buffer groottes<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc154_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">API<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc156_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Identificatie<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc158_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Opties<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc160_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Acties<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc162_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Webserver<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc164_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Heartbeat<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc166_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Buffer groottes<text:tab/>8</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc156_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">Identificatie</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc156_547078094"/></text:h>
-   <text:p text:style-name="P23">Alle programma&apos;s communiceren met elkaar door gebruik te maken van JSON objecten. Het normale identificatie proces verloopt als volgt:</text:p>
-   <text:list xml:id="list2798563041741745324" text:style-name="L1">
+   <text:h text:style-name="P55" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc156_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">Identificatie</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc156_547078094"/></text:h>
+   <text:p text:style-name="P24">Alle programma&apos;s communiceren met elkaar door gebruik te maken van JSON objecten. Het normale identificatie proces verloopt als volgt:</text:p>
+   <text:list xml:id="list4415584757375215055" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P79"><text:span text:style-name="Emphasis"><text:span text:style-name="T49">Maak verbinding met de </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T52">pilight-daemon</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T49"> door gebruik te maken van de ip en poort. De poort die pilight gebruikt is ofwel willekeurig gekozen ofwel de poort die ingesteld is in de pilight instellingen.</text:span></text:span></text:p>
+     <text:p text:style-name="P72"><text:span text:style-name="Emphasis"><text:span text:style-name="T49">Maak verbinding met de </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T52">pilight-daemon</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T49"> door gebruik te maken van de ip en poort. De poort die pilight gebruikt is ofwel willekeurig gekozen ofwel de poort die ingesteld is in de pilight instellingen.</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P79"><text:span text:style-name="T48">De </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T49"> wacht totdat de client zichzelf geïdentificeerd heeft door het volgende JSON object te zenden:</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list8689368352172736479" text:style-name="Code_20_Numbering">
-    <text:list-item>
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:s text:c="4"/>&quot;action&quot;: &quot;identify&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
+     <text:p text:style-name="P72"><text:span text:style-name="T48">De </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T49"> wacht totdat de client zichzelf geïdentificeerd heeft door het volgende JSON object te zenden:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list121134991365476" text:continue-list="list2798563041741745324" text:style-name="L1">
+   <text:list xml:id="list8064753530227918988" text:style-name="Code_20_Numbering">
     <text:list-item>
-     <text:p text:style-name="P76"><text:span text:style-name="T45">Een client kan aanvullende verschillende opties meesturen met dit identificatie object. De </text:span><text:span text:style-name="T29">pilight-daemon</text:span><text:span text:style-name="T35"> weet dan welke mate van communicatie de client wenst. Een JSON identificatie object me alle opties ziet er als volgt uit:</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121133918527123" text:continue-list="list8689368352172736479" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;options&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;core&quot;: 1,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;receiver&quot;: 1,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;config&quot;: 1,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;forward&quot;: 0</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;media&quot;: &quot;all&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list4737371310577285168" text:style-name="L2">
-    <text:list-item>
-     <text:p text:style-name="P72">De daemon zal na elke actie een van de twee volgende status reacties terugsturen. Hiermee is te achterhalen of een actie slaagde of faalde:</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134262565766" text:continue-list="list121133918527123" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;status&quot;: &quot;success&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P22"/>
-   <text:list xml:id="list121134190109222" text:continue-list="list121134262565766" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;status&quot;: &quot;failure&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P37" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc158_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">Opties</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc158_547078094"/></text:h>
-   <text:p text:style-name="P23">De identificatie opties vertellen de daemon welke mate van communicatie we willen opzetten.</text:p>
-   <text:list xml:id="list5804373102473135952" text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">r</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">eceive</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">r</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55"><text:line-break/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">Zodra de </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T54">receiver</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T50"> optie actief is, dan zal de daemon alle ontvangen or verzonden codes doorsturen naar de client. Een paar voorbeelden:</text:span></text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134377666788" text:continue-list="list121134190109222" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;origin&quot;: &quot;receiver&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;code&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;code&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P61">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121135578566329" text:continue-list="list5804373102473135952" text:style-name="L3">
-    <text:list-header>
-     <text:p text:style-name="P77"><text:line-break/><text:span text:style-name="T45">Het </text:span><text:span text:style-name="T29">origin </text:span><text:span text:style-name="T35">veld in </text:span><text:span text:style-name="T45">het ontvangen JSON object geeft aan of het hier daadwerkelijk om een extern ontvangen code gaat, of om een code door pilight zelf verzonden.</text:span></text:p>
-    </text:list-header>
-    <text:list-item>
-     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">c</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">onfi</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">g</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer de </text:span><text:span text:style-name="T52">config </text:span><text:span text:style-name="T49">optie actief is, dal zal de daemon alle configuratie updates communiceren. Een voorbeeld:</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134605752805" text:continue-list="list121134377666788" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;origin&quot;: &quot;config&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;devices&quot;: [ &quot;mainlight&quot; ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;values&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134693945582" text:continue-list="list121135578566329" text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P80"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">core</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer de </text:span><text:span text:style-name="T52">core </text:span><text:span text:style-name="T49">optie actief is, dan zal pilight alle core informatie doorsturen.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P80"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">stats</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer de </text:span><text:span text:style-name="T52">stats </text:span><text:span text:style-name="T49">optie actief is, dan zal pilight alle RAM en CPU statistieken doorsturen.</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134268028416" text:continue-list="list121134605752805" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;origin&quot;: &quot;core&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;values&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;cpu&quot;: 0.07822473698105643,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;ram&quot;: 0.1535397936955158</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;type&quot;: -1,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134961577073" text:continue-list="list121134693945582" text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P80"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">forward</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer </text:span><text:span text:style-name="T49">de </text:span><text:span text:style-name="T52">forward </text:span><text:span text:style-name="T49">optie actief is, dan zal al het inkomende (valide) socket verkeer doorgestuurd worden naar de client.</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P21"><text:soft-page-break/><text:span text:style-name="T48">De </text:span><text:span text:style-name="T52">uuid </text:span><text:span text:style-name="T49">optie is bedoeld om de daemon te laten weten wat het unique UUID van de client is.</text:span></text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T49">De </text:span><text:span text:style-name="T52">media </text:span><text:span text:style-name="T49">optie is bedoeld om de daemon te vertellen welke informatie er doorgestuurd moet worden gebaseerd op het specifieke medium van de client. Zoals in de GUI configuratie te lezen is, kan een gebruiker verschillende GUIs maken voor verschillende media. De huidige ondersteunde GUIs zijn: </text:span><text:span text:style-name="T52">all, web, mobile </text:span><text:span text:style-name="T49">en </text:span><text:span text:style-name="T52">desktop</text:span><text:span text:style-name="T49">. Als je je client als een van deze GUIs aanmeld, dan zal pilight alleen de apparaten, GUI elementen, configuratie updates en event regels doorsturen die betrekking hebben op die GUI zonder alle andere informatie. Dit scheelt wat aanvullende filtering aan de client zijde.</text:span></text:p>
-   <text:p text:style-name="P78">Alle opties kunnen aangepast worden terwijl de communicatie al is opgezet. De daemon zal het zenden van bepaalde informatie stoppen of starten. Om bepaalde opties aan of uit te zetten, dient het identificatie object nogmaals gestuurd te worden. Een voorbeeld:</text:p>
-   <text:list xml:id="list121135927120576" text:continue-list="list121134268028416" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;options&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;stats&quot;: 1,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc160_547078094"/>Acties<text:bookmark-end text:name="__RefHeading___Toc160_547078094"/></text:h>
-   <text:p text:style-name="P23">Zoals we eerder al zagen in het identificatie proces, kan pilight verschillende acties uitvoeren. De eerste actie die we tegenkomen is de identificatie. De volgende lijst bevat alle acties die de daemon kan uitvoeren. De daemon zal opnieuw een success of failure terugsturen zodat de client kan nagaan of een actie succesvol is uitgevoerd of niet.</text:p>
-   <text:list xml:id="list1241882008220907053" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P83"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">send</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Als je met de client een bepaalde code van een bepaalde protocol wil versturen, dan kan je de send actie gebruiken. Een sent actie wordt aangevuld met de volgende informatie:</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134549484108" text:continue-list="list121135927120576" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;send&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;code&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;kaku_switch&quot; ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134543274943" text:continue-list="list1241882008220907053" text:style-name="L4">
-    <text:list-header>
-     <text:p text:style-name="P83"><text:span text:style-name="T48">De informatie die je hier ziet zijn vrijwel gelijk aan de argumenten die gebruikt worden bij </text:span><text:span text:style-name="T52">pilight-send</text:span><text:span text:style-name="T49">. Als een bepaald argument een waarde behoeft, dan wordt deze toegevoegd in het object (zoals bij </text:span><text:span text:style-name="T52">id </text:span><text:span text:style-name="T49">en </text:span><text:span text:style-name="T52">unit</text:span><text:span text:style-name="T49">). Als een bepaald argument geen waarde behoeft, dan zal deze standaard 1 worden (zoals bij </text:span><text:span text:style-name="T52">off</text:span><text:span text:style-name="T49">). De </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T49"> zal controleren of de verzonden informatie valide is en dit via een success of failure laten weten.</text:span></text:p>
-    </text:list-header>
-   </text:list>
-   <text:p text:style-name="P22"/>
-   <text:list xml:id="list121135495493472" text:continue-numbering="true" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P84"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">control</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">De control actie wordt gebruik om apparaten te bedienen aan de hand van hun geregistreerde IDs. De </text:span><text:span text:style-name="T51">pilight-daemon</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T48">zal controleren of de verzonden waarden valide zijn en dit laten weten via een success of failure.</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121135255880236" text:continue-list="list121134549484108" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;control&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;code&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;device&quot;: &quot;mainlight&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;values&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;dimlevel&quot;: 10</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134758881754" text:continue-list="list121135495493472" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P82"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">registry</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Het pilight register kan bediend worden via de register API. Het register is een handige opslag oplossing binnen pilight. Ontwikkelaars kunnen informatie in dit register opslaan zodat het later weer op te halen is. Het register </text:span><text:span text:style-name="T49">accepteert drie soorten acties:</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T46">set</text:span></text:span><text:span text:style-name="T46">, </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T46">get</text:span></text:span><text:span text:style-name="T46">, </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T46">remove</text:span></text:span><text:span text:style-name="T46">. </text:span><text:span text:style-name="T48">De syntax voor elk van deze acties is:</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134354868112" text:continue-list="list121135255880236" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;type&quot;: &quot;set&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;value&quot;: &quot;6.0&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P22"/>
-   <text:list xml:id="list121134758591552" text:continue-list="list121134354868112" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;type&quot;: &quot;get&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P22"/>
-   <text:list xml:id="list121136019019273" text:continue-list="list121134758591552" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;type&quot;: &quot;remove&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121134009129249" text:continue-list="list121134758881754" text:style-name="L4">
-    <text:list-header>
-     <text:p text:style-name="P73">Het antwoord op een get actie is als volgt:</text:p>
-    </text:list-header>
-   </text:list>
-   <text:list xml:id="list121134286476769" text:continue-list="list121136019019273" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;value&quot;: &quot;6.0&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121135133722554" text:continue-list="list121134009129249" text:style-name="L4">
-    <text:list-header>
-     <text:p text:style-name="P73">Weer ervan bewust dat het register alleen JSON strings en nummers kan opslaan.</text:p>
-    </text:list-header>
-    <text:list-item>
-     <text:p text:style-name="P84"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">request config</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Via de request config kan de client de gehele configuratie opvragen bij de pilight daemon:</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121135125069883" text:continue-list="list121134286476769" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;action&quot;: &quot;request config&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121133949799697" text:continue-list="list121135133722554" text:style-name="L4">
-    <text:list-header>
-     <text:p text:style-name="P82"><text:span text:style-name="T48">Na dit commando zal de </text:span><text:span text:style-name="T52">pilight-daemon </text:span><text:span text:style-name="T49">de volledige configuratie meesturen zoals deze ook intern wordt gebruikt.</text:span></text:p>
-    </text:list-header>
-   </text:list>
-   <text:list xml:id="list121134763067912" text:continue-list="list121135125069883" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;devices&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;<text:span text:style-name="T38">tv</text:span>&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;uuid&quot;: &quot;0000-00-00-07-646b93&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;origin&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;relay&quot; ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;id&quot;: [{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;gpio&quot;: 3</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>}],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;default&quot;: &quot;off&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;rules&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;<text:span text:style-name="T38">tvswitch</text:span>&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;rule&quot;: &quot;IF <text:span text:style-name="T38">tv</text:span>.state IS on THEN switch DEVICE <text:span text:style-name="T38">tv</text:span> TO off&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;active&quot;: 1</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;gui&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;television&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;type&quot;: 4,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;order&quot;: 1,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;name&quot;: &quot;<text:span text:style-name="T38">tv</text:span>&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;group&quot;: [ &quot;<text:span text:style-name="T38">Living</text:span>&quot; ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;media&quot;: [ &quot;all&quot; ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;readonly&quot;: 0</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;settings&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;log-level&quot;: 4,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;pid-file&quot;: &quot;/var/run/pilight.pid&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;log-file&quot;: &quot;/var/log/pilight.log&quot;,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;webserver-enable&quot;: 1,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;webserver-http-port&quot;: 5001,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;webserver-cache&quot;: 0,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;webserver-root&quot;: &quot;/usr/local/share/pilight&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;hardware&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;433gpio&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;sender&quot;: 0,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>},</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;registry&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;pilight&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>&quot;version&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;current&quot;: &quot;6.0&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46"/></text:span></text:p>
-   <text:list xml:id="list121135842813729" text:continue-list="list121133949799697" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">request values</text:span></text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list121135389976439" text:continue-list="list121134763067912" text:style-name="Code_20_Numbering">
-    <text:list-item text:start-value="1">
      <text:p text:style-name="P62">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;request <text:span text:style-name="T45">values</text:span>&quot;</text:p>
+     <text:p text:style-name="P62"><text:s text:c="4"/>&quot;action&quot;: &quot;identify&quot;</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P62">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list121135591209754" text:continue-list="list121135842813729" text:style-name="L4">
-    <text:list-header>
-     <text:p text:style-name="P74">pilight probeert het ontwikkelen van externe apps zo makkelijk mogelijk te maken. Dit betekent dat de GUI alleen data bevat die nodig is voor het opmaken van de GUI elementen. Het nadeel is dat je op die manier niet de waarden van elk element kan achterhalen. Om dit te verhelpen kan de GUI alle waarden van alle apparaten in een keer opvragen. De teruggestuurde data is hetzelfde als je doorkrijgt via de config optie, maar dan nu voor alle apparaten tegelijk. Een voorbeeld:</text:p>
-    </text:list-header>
+   <text:list xml:id="list121716664244425" text:continue-list="list4415584757375215055" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P73"><text:span text:style-name="T45">Een client kan aanvullende verschillende opties meesturen met dit identificatie object. De </text:span><text:span text:style-name="T29">pilight-daemon</text:span><text:span text:style-name="T35"> weet dan welke mate van communicatie de client wenst. Een JSON identificatie object me alle opties ziet er als volgt uit:</text:span></text:p>
+    </text:list-item>
    </text:list>
-   <text:list xml:id="list121134710492882" text:continue-list="list121135389976439" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list121715239333384" text:continue-list="list8064753530227918988" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P60">[{</text:p>
+     <text:p text:style-name="P62">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;type&quot;: 4,</text:p>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;devices&quot;: [ &quot;<text:span text:style-name="T38">tv</text:span>&quot; ],</text:p>
+     <text:p text:style-name="P62"><text:tab/>&quot;options&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;values&quot;: {</text:p>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;core&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;receiver&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;config&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;forward&quot;: 0</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60">},</text:p>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60">{</text:p>
+     <text:p text:style-name="P62"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;type&quot;: 1,</text:p>
+     <text:p text:style-name="P62"><text:tab/>&quot;media&quot;: &quot;all&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;devices&quot;: [ &quot;bookShelfLight&quot; ],</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>&quot;values&quot;: {</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60"><text:tab/>}</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P60">}]</text:p>
+     <text:p text:style-name="P62">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list121134130260474" text:continue-list="list121135591209754" text:style-name="L4">
+   <text:list xml:id="list5705565289083415882" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P74">De daemon zal na elke actie een van de twee volgende status reacties terugsturen. Hiermee is te achterhalen of een actie slaagde of faalde:</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715677756306" text:continue-list="list121715239333384" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;status&quot;: &quot;success&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P22"/>
+   <text:list xml:id="list121714768196557" text:continue-list="list121715677756306" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;status&quot;: &quot;failure&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P39" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc158_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">Opties</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc158_547078094"/></text:h>
+   <text:p text:style-name="P24">De identificatie opties vertellen de daemon welke mate van communicatie we willen opzetten.</text:p>
+   <text:list xml:id="list8909847103589508303" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P80"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">r</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">eceive</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">r</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55"><text:line-break/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">Zodra de </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T54">receiver</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T50"> optie actief is, dan zal de daemon alle ontvangen or verzonden codes doorsturen naar de client. Een paar voorbeelden:</text:span></text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121716710511377" text:continue-list="list121714768196557" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;origin&quot;: &quot;receiver&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;code&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;code&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P63">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715111507397" text:continue-list="list8909847103589508303" text:style-name="L3">
     <text:list-header>
-     <text:p text:style-name="P73">Weer ervan bewust dat gelijk na het request values object, pilight het versie object stuurt. Het is aan de GUIs of je deze informatie wel of niet verwerken.</text:p>
+     <text:p text:style-name="P78"><text:line-break/><text:span text:style-name="T45">Het </text:span><text:span text:style-name="T29">origin </text:span><text:span text:style-name="T35">veld in </text:span><text:span text:style-name="T45">het ontvangen JSON object geeft aan of het hier daadwerkelijk om een extern ontvangen code gaat, of om een code door pilight zelf verzonden.</text:span></text:p>
+    </text:list-header>
+    <text:list-item>
+     <text:p text:style-name="P80"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">c</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">onfi</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">g</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer de </text:span><text:span text:style-name="T52">config </text:span><text:span text:style-name="T49">optie actief is, dal zal de daemon alle configuratie updates communiceren. Een voorbeeld:</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715923970869" text:continue-list="list121716710511377" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;origin&quot;: &quot;config&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;devices&quot;: [ &quot;mainlight&quot; ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;values&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715363783979" text:continue-list="list121715111507397" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P79"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">core</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer de </text:span><text:span text:style-name="T52">core </text:span><text:span text:style-name="T49">optie actief is, dan zal pilight alle core informatie doorsturen.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P79"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">stats</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer de </text:span><text:span text:style-name="T52">stats </text:span><text:span text:style-name="T49">optie actief is, dan zal pilight alle RAM en CPU statistieken doorsturen.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715994758931" text:continue-list="list121715923970869" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;origin&quot;: &quot;core&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;values&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;cpu&quot;: 0.07822473698105643,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;ram&quot;: 0.1535397936955158</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;type&quot;: -1,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121716051667608" text:continue-list="list121715363783979" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P79"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">forward</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Wanneer </text:span><text:span text:style-name="T49">de </text:span><text:span text:style-name="T52">forward </text:span><text:span text:style-name="T49">optie actief is, dan zal al het inkomende (valide) socket verkeer doorgestuurd worden naar de client.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P21"><text:soft-page-break/><text:span text:style-name="T48">De </text:span><text:span text:style-name="T52">uuid </text:span><text:span text:style-name="T49">optie is bedoeld om de daemon te laten weten wat het unique UUID van de client is.</text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T49">De </text:span><text:span text:style-name="T52">media </text:span><text:span text:style-name="T49">optie is bedoeld om de daemon te vertellen welke informatie er doorgestuurd moet worden gebaseerd op het specifieke medium van de client. Zoals in de GUI configuratie te lezen is, kan een gebruiker verschillende GUIs maken voor verschillende media. De huidige ondersteunde GUIs zijn: </text:span><text:span text:style-name="T52">all, web, mobile </text:span><text:span text:style-name="T49">en </text:span><text:span text:style-name="T52">desktop</text:span><text:span text:style-name="T49">. Als je je client als een van deze GUIs aanmeld, dan zal pilight alleen de apparaten, GUI elementen, configuratie updates en event regels doorsturen die betrekking hebben op die GUI zonder alle andere informatie. Dit scheelt wat aanvullende filtering aan de client zijde.</text:span></text:p>
+   <text:p text:style-name="P27">Alle opties kunnen aangepast worden terwijl de communicatie al is opgezet. De daemon zal het zenden van bepaalde informatie stoppen of starten. Om bepaalde opties aan of uit te zetten, dient het identificatie object nogmaals gestuurd te worden. Een voorbeeld:</text:p>
+   <text:list xml:id="list121715222067095" text:continue-list="list121715994758931" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;options&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;stats&quot;: 1,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P56" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc160_547078094"/>Acties<text:bookmark-end text:name="__RefHeading___Toc160_547078094"/></text:h>
+   <text:p text:style-name="P24">Zoals we eerder al zagen in het identificatie proces, kan pilight verschillende acties uitvoeren. De eerste actie die we tegenkomen is de identificatie. De volgende lijst bevat alle acties die de daemon kan uitvoeren. De daemon zal opnieuw een success of failure terugsturen zodat de client kan nagaan of een actie succesvol is uitgevoerd of niet.</text:p>
+   <text:list xml:id="list9051808656499149630" text:style-name="L4">
+    <text:list-item>
+     <text:p text:style-name="P82"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">send</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Als je met de client een bepaalde code van een bepaalde protocol wil versturen, dan kan je de send actie gebruiken. Een sent actie wordt aangevuld met de volgende informatie:</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715984975568" text:continue-list="list121715222067095" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;send&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;code&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;kaku_switch&quot; ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121714625508275" text:continue-list="list9051808656499149630" text:style-name="L4">
+    <text:list-header>
+     <text:p text:style-name="P82"><text:span text:style-name="T48">De informatie die je hier ziet zijn vrijwel gelijk aan de argumenten die gebruikt worden bij </text:span><text:span text:style-name="T52">pilight-send</text:span><text:span text:style-name="T49">. Als een bepaald argument een waarde behoeft, dan wordt deze toegevoegd in het object (zoals bij </text:span><text:span text:style-name="T52">id </text:span><text:span text:style-name="T49">en </text:span><text:span text:style-name="T52">unit</text:span><text:span text:style-name="T49">). Als een bepaald argument geen waarde behoeft, dan zal deze standaard 1 worden (zoals bij </text:span><text:span text:style-name="T52">off</text:span><text:span text:style-name="T49">). De </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T49"> zal controleren of de verzonden informatie valide is en dit via een success of failure laten weten.</text:span></text:p>
     </text:list-header>
    </text:list>
-   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc162_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">Webserver</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc162_547078094"/></text:h>
-   <text:p text:style-name="P70">De webserver heeft een aantal speciale pagina&apos;s:</text:p>
-   <text:list xml:id="list5087871745611840441" text:style-name="L5">
+   <text:p text:style-name="P22"/>
+   <text:list xml:id="list121715722917310" text:continue-numbering="true" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P75">De config pagina laat het laatste configuratie JSON object zien.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P75">De values pagina laat de laatste waarden van alle apparaten zien.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P75"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.274cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
-       <draw:text-box fo:min-height="0.041cm">
-        <text:p text:style-name="P48">send%3F%7B%0A%09%22action%22%3A%20%22control%22%2C%0A%09%22code%22%3A%20%7B%0A%09%09%22device%22%3A%20%22mainlight%22%2C%0A%09%09%22state%22%3A%20%22on%22%2C%0A%09%09%22values%22%3A%20%7B%0A%09%09%09%22dimlevel%22%3A%20%2210%22%0A%09%09%7D%0A%09%7D%0A%7D</text:p>
-       </draw:text-box>
-      </draw:frame>De send pagina kan gebruikt worden om apparaten mee te bedienen. Om dit te gebruiken dien je de send pagina op te roepen met een url-encoded send of registry object als argument.</text:p>
+     <text:p text:style-name="P83"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">control</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">De control actie wordt gebruik om apparaten te bedienen aan de hand van hun geregistreerde IDs. De </text:span><text:span text:style-name="T51">pilight-daemon</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T48">zal controleren of de verzonden waarden valide zijn en dit laten weten via een success of failure.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P23">Dit zal een send object versturen zoals eerder al is beschreven.</text:p>
+   <text:list xml:id="list121716489705134" text:continue-list="list121715984975568" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;control&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;code&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;device&quot;: &quot;mainlight&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;values&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;dimlevel&quot;: 10</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715859335975" text:continue-list="list121715722917310" text:style-name="L4">
+    <text:list-item>
+     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">registry</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Het pilight register kan bediend worden via de register API. Het register is een handige opslag oplossing binnen pilight. Ontwikkelaars kunnen informatie in dit register opslaan zodat het later weer op te halen is. Het register </text:span><text:span text:style-name="T49">accepteert drie soorten acties:</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T46">set</text:span></text:span><text:span text:style-name="T46">, </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T46">get</text:span></text:span><text:span text:style-name="T46">, </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T46">remove</text:span></text:span><text:span text:style-name="T46">. </text:span><text:span text:style-name="T48">De syntax voor elk van deze acties is:</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121716042755187" text:continue-list="list121716489705134" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;type&quot;: &quot;set&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;value&quot;: &quot;6.0&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P22"/>
+   <text:list xml:id="list121715736979806" text:continue-list="list121716042755187" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;type&quot;: &quot;get&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P22"/>
+   <text:list xml:id="list121715411320493" text:continue-list="list121715736979806" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;type&quot;: &quot;remove&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121716214267118" text:continue-list="list121715859335975" text:style-name="L4">
+    <text:list-header>
+     <text:p text:style-name="P75">Het antwoord op een get actie is als volgt:</text:p>
+    </text:list-header>
+   </text:list>
+   <text:list xml:id="list121716582783957" text:continue-list="list121715411320493" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;value&quot;: &quot;6.0&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715075010662" text:continue-list="list121716214267118" text:style-name="L4">
+    <text:list-header>
+     <text:p text:style-name="P75">Weer ervan bewust dat het register alleen JSON strings en nummers kan opslaan.</text:p>
+    </text:list-header>
+    <text:list-item>
+     <text:p text:style-name="P83"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">request config</text:span></text:span><text:span text:style-name="T46"><text:line-break/></text:span><text:span text:style-name="T48">Via de request config kan de client de gehele configuratie opvragen bij de pilight daemon:</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121716210656904" text:continue-list="list121716582783957" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;action&quot;: &quot;request config&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715989886298" text:continue-list="list121715075010662" text:style-name="L4">
+    <text:list-header>
+     <text:p text:style-name="P81"><text:span text:style-name="T48">Na dit commando zal de </text:span><text:span text:style-name="T52">pilight-daemon </text:span><text:span text:style-name="T49">de volledige configuratie meesturen zoals deze ook intern wordt gebruikt.</text:span></text:p>
+    </text:list-header>
+   </text:list>
+   <text:list xml:id="list121715167430932" text:continue-list="list121716210656904" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;devices&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;<text:span text:style-name="T38">tv</text:span>&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;uuid&quot;: &quot;0000-00-00-07-646b93&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;origin&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;relay&quot; ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;id&quot;: [{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;gpio&quot;: 3</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>}],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;default&quot;: &quot;off&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;rules&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;<text:span text:style-name="T38">tvswitch</text:span>&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;rule&quot;: &quot;IF <text:span text:style-name="T38">tv</text:span>.state IS on THEN switch DEVICE <text:span text:style-name="T38">tv</text:span> TO off&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;active&quot;: 1</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;gui&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;television&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;type&quot;: 4,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;order&quot;: 1,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;name&quot;: &quot;<text:span text:style-name="T38">tv</text:span>&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;group&quot;: [ &quot;<text:span text:style-name="T38">Living</text:span>&quot; ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;media&quot;: [ &quot;all&quot; ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;readonly&quot;: 0</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;settings&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;log-level&quot;: 4,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;pid-file&quot;: &quot;/var/run/pilight.pid&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;log-file&quot;: &quot;/var/log/pilight.log&quot;,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;webserver-enable&quot;: 1,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;webserver-http-port&quot;: 5001,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;webserver-cache&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;webserver-root&quot;: &quot;/usr/local/share/pilight&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;hardware&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;433gpio&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;sender&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;registry&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;pilight&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>&quot;version&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;current&quot;: &quot;6.0&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T46"/></text:span></text:p>
+   <text:list xml:id="list121716493489562" text:continue-list="list121715989886298" text:style-name="L4">
+    <text:list-item>
+     <text:p text:style-name="P84"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">request values</text:span></text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121714951801742" text:continue-list="list121715167430932" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P64">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P64"><text:tab/>&quot;action&quot;: &quot;request <text:span text:style-name="T45">values</text:span>&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P64">}</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121715527037204" text:continue-list="list121716493489562" text:style-name="L4">
+    <text:list-header>
+     <text:p text:style-name="P76">pilight probeert het ontwikkelen van externe apps zo makkelijk mogelijk te maken. Dit betekent dat de GUI alleen data bevat die nodig is voor het opmaken van de GUI elementen. Het nadeel is dat je op die manier niet de waarden van elk element kan achterhalen. Om dit te verhelpen kan de GUI alle waarden van alle apparaten in een keer opvragen. De teruggestuurde data is hetzelfde als je doorkrijgt via de config optie, maar dan nu voor alle apparaten tegelijk. Een voorbeeld:</text:p>
+    </text:list-header>
+   </text:list>
+   <text:list xml:id="list121716210512090" text:continue-list="list121714951801742" text:style-name="Code_20_Numbering">
+    <text:list-item text:start-value="1">
+     <text:p text:style-name="P62">[{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;type&quot;: 4,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;devices&quot;: [ &quot;<text:span text:style-name="T38">tv</text:span>&quot; ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;values&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">},</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;type&quot;: 1,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;devices&quot;: [ &quot;bookShelfLight&quot; ],</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>&quot;values&quot;: {</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62"><text:tab/>}</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">}]</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list121714782442783" text:continue-list="list121715527037204" text:style-name="L4">
+    <text:list-header>
+     <text:p text:style-name="P75">Weer ervan bewust dat gelijk na het request values object, pilight het versie object stuurt. Het is aan de GUIs of je deze informatie wel of niet verwerken.</text:p>
+    </text:list-header>
+   </text:list>
+   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc162_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">Webserver</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc162_547078094"/></text:h>
+   <text:p text:style-name="P23">De webserver heeft een aantal speciale pagina&apos;s:</text:p>
+   <text:list xml:id="list2770184096303223029" text:style-name="L5">
+    <text:list-item>
+     <text:p text:style-name="P77">De config pagina laat het laatste configuratie JSON object zien.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P77">De values pagina laat de laatste waarden van alle apparaten zien.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P77">De send pagina kan gebruikt worden om apparaten mee te bedienen. Om dit te gebruiken dien je de send pagina op te roepen met een url-encoded send of registry object als argument.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P24"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="-0.076cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
+     <draw:text-box fo:min-height="0.041cm">
+      <text:p text:style-name="P50">send%3F%7B%0A%09%22action%22%3A%20%22control%22%2C%0A%09%22code%22%3A%20%7B%0A%09%09%22device%22%3A%20%22mainlight%22%2C%0A%09%09%22state%22%3A%20%22on%22%2C%0A%09%09%22values%22%3A%20%7B%0A%09%09%09%22dimlevel%22%3A%20%2210%22%0A%09%09%7D%0A%09%7D%0A%7D</text:p>
+     </draw:text-box>
+    </draw:frame>Dit zal een send object versturen zoals eerder al is beschreven.</text:p>
    <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.819cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="1">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="P48">http://x.x.x.x:5001/config?media=all</text:p>
+      <text:p text:style-name="P50">http://x.x.x.x:5001/config?media=all</text:p>
      </draw:text-box>
     </draw:frame><text:span text:style-name="T48">De values en config pagina&apos;s zullen alleen de waardes laten zien die van toepassing zijn op het geconfigureerde </text:span><text:span text:style-name="T52">web </text:span><text:span text:style-name="T48">GUI type. Om informatie op te vragen voor andere GUI types, gebruik dan het </text:span><text:span text:style-name="T52">media</text:span><text:span text:style-name="T49"> argument.</text:span></text:p>
-   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc164_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">Heartbeat</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc164_547078094"/></text:h>
-   <text:p text:style-name="P19"><text:span text:style-name="T48">Een speciale functie van de </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T48"> is de </text:span><text:span text:style-name="T52">heartbeat</text:span><text:span text:style-name="T49">.</text:span><text:span text:style-name="T52"> </text:span><text:span text:style-name="T49">De heartbeat is bedoeld om te controleren of er nog verbinding is met de </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T49">. Zodra de client een </text:span><text:span text:style-name="T42">&quot;</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T43">HEART\n&quot;</text:span></text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T48">verstuurd, dan zal de </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T53">pilight-</text:span></text:span><text:soft-page-break/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T53">daemon</text:span></text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T48">antwoorden met een</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T44">&quot;</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T44">BEAT\n&quot;</text:span></text:span><text:span text:style-name="T46">. </text:span><text:span text:style-name="T48">Dit is de enige keer dat er geen JSON object wordt verstuurd.</text:span></text:p>
-   <text:h text:style-name="P36" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc166_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">Buffer </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">groottes</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc166_547078094"/></text:h>
-   <text:p text:style-name="P24"><text:span text:style-name="T45">pilight stuurt alle data in stukken van 1024 bits. Als de data kleiner is dan 1024 bits, dan is alle data in een keer verstuurd. Als de data groter is dan 1024 bits, dan weet je dat de data in meerdere stukken is verdeeld en dus een onderdeel van een grotere geheel is. In dat laatste geval dien je de data te blijven ontvangen totdat je de einde van de data tegenkomt. Op dit moment bestaat deze uit twee </text:span><text:span text:style-name="T29">newlines</text:span> <text:span text:style-name="T39">&quot;\n\n&quot;</text:span>.</text:p>
-   <text:p text:style-name="P24"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.256cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="2">
+   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc164_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">Heartbeat</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc164_547078094"/></text:h>
+   <text:p text:style-name="P19"><text:span text:style-name="T48">Een speciale functie van de </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T48"> is de </text:span><text:span text:style-name="T52">heartbeat</text:span><text:span text:style-name="T49">.</text:span><text:span text:style-name="T52"> </text:span><text:span text:style-name="T49">De heartbeat is bedoeld om te controleren of er nog verbinding is met de </text:span><text:span text:style-name="T52">pilight-daemon</text:span><text:span text:style-name="T49">. Zodra de client een </text:span><text:span text:style-name="T42">&quot;</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T43">HEART\n&quot;</text:span></text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T48">verstuurd, dan zal de </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T53">pilight-daemon</text:span></text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T48">antwoorden met een</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T44">&quot;</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T44">BEAT\n&quot;</text:span></text:span><text:span text:style-name="T46">. </text:span><text:span text:style-name="T48">Dit is de enige keer dat er geen JSON object wordt verstuurd.</text:span></text:p>
+   <text:h text:style-name="P38" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc166_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">Buffer </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">groottes</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc166_547078094"/></text:h>
+   <text:p text:style-name="P25"><text:span text:style-name="T45">pilight stuurt alle data in stukken van 1024 bits. Als de data kleiner is dan 1024 bits, dan is alle data in een keer verstuurd. Als de data groter is dan 1024 bits, dan weet je dat de data in meerdere stukken is verdeeld en dus een onderdeel van een grotere geheel is. In dat laatste geval dien je de data te blijven ontvangen totdat je de einde van de data tegenkomt. Op dit moment bestaat deze uit twee </text:span><text:span text:style-name="T29">newlines</text:span> <text:span text:style-name="T39">&quot;\n\n&quot;</text:span>.</text:p>
+   <text:p text:style-name="P25"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.256cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="2">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="P48">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
-      <text:p text:style-name="P48">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
-      <text:p text:style-name="P48">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
+      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
+      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
+      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
      </draw:text-box>
     </draw:frame><text:span text:style-name="T45">Als meerdere stukken data gebuffered zijn, dan kan je ze ook uit elkaar halen via deze </text:span><text:span text:style-name="T29">newline</text:span><text:span text:style-name="T35"> karakters.</text:span> <text:span text:style-name="T45">Een voorbeeld:</text:span></text:p>
-   <text:p text:style-name="P70">Zoals je hier ziet, wilde pilight eigenlijk drie berichten sturen, maar de TCP sockets heeft ze samengevoegd.</text:p>
+   <text:p text:style-name="P23">Zoals je hier ziet, wilde pilight eigenlijk drie berichten sturen, maar de TCP sockets heeft ze samengevoegd.</text:p>
    <text:p text:style-name="P22"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.836cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="3">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="P48">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
-      <text:p text:style-name="P48">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
-      <text:p text:style-name="P48">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
+      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
+      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
+      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
      </draw:text-box>
     </draw:frame><text:span text:style-name="T45">De pilight </text:span><text:span text:style-name="T29">socket_read </text:span><text:span text:style-name="T35">functie verwerkt deze socket communcatie automatisch. Het weet wanneer data is gesplitst in kleinere stukken of wanneer er meerdere berichten zijn samengevoegd. pilight zal samengevoegde berichten automatisch splitsen door gebruik te maken van een enkele </text:span><text:span text:style-name="T29">newline</text:span><text:span text:style-name="T35">:</text:span></text:p>
   </office:text>

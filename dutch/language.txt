@@ -1,6 +1,6 @@
 maintitle|pilight handleiding
 openmenu|Beweeg je muis naar links om het menu te openen
-updating|De handleiding wordt bijgewerkt. Herlaad de pagina over 5 minuten.
+updating|De handleiding wordt bijgewerkt. Herlaad de pagina over enkele seconden.
 pdfdownload|Download bron pdf
 pdfgenerated|Pagina voor het laatst gegenereerd op
 top|Naar boven
