@@ -11,7 +11,8 @@
 	4.7|Esempio|configuration
 5|Eventing|eventing
 6|Rete Ad-Hoc|adhoc-network
-7|
-8|Sitemap|sitemap
-9|
-10|Informazioni sul manuale|about-manual
+7|API|unstranslated
+8|
+9|Sitemap|sitemap
+10|
+11|Informazioni sul manuale|about-manual
