@@ -11,8 +11,11 @@
 	4.7|Example|configuration
 5|Eventing|eventing
 6|AdHoc-Network|adhoc-network
-7|API|api
-8|
-9|Sitemap|sitemap
-10|
-11|About the Manual|about-manual
+7|
+8|Development|
+8.1|API|api
+8.2|Debugging|debugging
+9|
+10|Sitemap|sitemap
+11|
+12|About the Manual|about-manual
