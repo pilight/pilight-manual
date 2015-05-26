@@ -1,7 +1,7 @@
 maintitle|Manuale pilight
-updating|Il manuale è in fase di aggiornamento. Si prega di aggiornare in 5 minuti.
+updating|Il manuale è in fase di aggiornamento. Si prega di ricaricare fra 5 minuti.
 openmenu|Muovi qui per aprire il menu
-pdfdownload|Scarica la sorgente PDF
+pdfdownload|Scarica il documento in PDF
 pdfgenerated|Pagina generata il 
 top|Su
 january|Gennaio
