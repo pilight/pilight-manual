@@ -1,6 +1,6 @@
 maintitle|pilight manual
 openmenu|Move here to open menu
-updating|The manual is being updated. Please refresh in 5 minutes.
+updating|The manual is being updated. Please refresh in a few seconds.
 pdfdownload|Download source pdf
 pdfgenerated|Page last generated on 
 top|Top
