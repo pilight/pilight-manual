@@ -1216,7 +1216,7 @@
      <text:p text:style-name="P39"><text:span text:style-name="T1">IF datetime.hour == RANDOM(21, 2</text:span><text:span text:style-name="T10">3</text:span><text:span text:style-name="T1">) THEN </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">...</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11">Zoals je kiest zien gebruiken we in dit voorbeeld de RANDOM functie om te kijken of het uur ofwel 20, ofwel 21, ofwel 23 is. Dit maakt het mogelijk om acties uit te voeren of willekeurige momenten van de dag.</text:p>
+   <text:p text:style-name="P11">Zoals je kunt zien gebruiken we in dit voorbeeld de RANDOM functie om te kijken of het uur ofwel 21, ofwel 22, ofwel 23 is. Dit maakt het mogelijk om acties uit te voeren of willekeurige momenten van de dag.</text:p>
    <text:h text:style-name="P29" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3037_673823619"/>Acties<text:bookmark-end text:name="__RefHeading___Toc3037_673823619"/></text:h>
    <text:p text:style-name="P4"><text:span text:style-name="T63">Acties zijn het doel van onze regels. Deze vertellen pilight wat er moet gebeuren wanneer er aan een bepaalde conditie is voldaan. A regel kan een oneindig aantal acties bevatten en elke actie kan oneindig veel apparaten bedienen. Twee voorbeelden met een schakelaar genaamd </text:span><text:span text:style-name="T28">lamp</text:span><text:span text:style-name="T35"> en een dimmer genaamd </text:span><text:span text:style-name="T28">ambientLight:</text:span></text:p>
    <text:list xml:id="list150709340279843" text:continue-list="list150709804315645" text:style-name="Code_20_Numbering">
@@ -1298,13 +1298,13 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P11">Nu zal de eerste stap 1440 keren waar zijn, de tweede stap één keer en de laatste stap ook één keer. Waar de eerste regel 3602 keer volledig werd geëvalueerd is dat bij de tweede regel nog maar 1442 keer. Door het veranderen van de volgordes van onze condities, kunnen we de prestaties van een enkele regel <text:soft-page-break/>vergroten.</text:p>
-   <text:p text:style-name="P2"><text:span text:style-name="T63">Laten we een tweede voorbeeld bekijken</text:span>. <text:span text:style-name="T63">Nu willen we een actie uitvoeren gebaseerd op de zonsopkomst. In dit geval is de zonsopkomst om 19:00 en we willen de </text:span><text:span text:style-name="T35">kerstboom om 0:00 weer uitzetten.</text:span></text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T63">Laten we een tweede voorbeeld bekijken</text:span>. <text:span text:style-name="T63">Nu willen we een actie uitvoeren gebaseerd op de zonsondergang. In dit geval is de zonsondergang om 19:00 en we willen de </text:span><text:span text:style-name="T35">kerstboom om 0:00 weer uitzetten.</text:span></text:p>
    <text:list xml:id="list150710394500622" text:continue-list="list150710832300733" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P39"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T47">IF ((sunriseset.sunset == (datetime.hour + (datetime.minute / 100)) AND christmasstree.state IS off) AND datetime.second == 0) THEN switch DEVICE christmasstree TO on</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11">Opnieuw kijken we hoe vaak een bepaalde regel waar is gebaserd op een evaluatie per seconde.</text:p>
+   <text:p text:style-name="P11">Opnieuw kijken we hoe vaak een bepaalde regel waar is, gebaseerd op een evaluatie per seconde.</text:p>
    <text:list xml:id="list7625092366592730488" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P22">Sunset is 19:00 60 <text:span text:style-name="T63">keer per dag</text:span> (60 <text:span text:style-name="T63">seconde</text:span>). </text:p>
