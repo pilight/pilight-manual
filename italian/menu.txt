@@ -1,7 +1,7 @@
 1|
 2|Informazioni su pilight|about-pilight
 3|Installazione|installation
-4|Configurazine
+4|Configurazione
 	4.1|Dispositivi (Devices)|configuration-devices
 	4.2|Regole (Rules)|configuration-rules
 	4.3|GUI|configuration-gui
