@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="112" meta:word-count="1161" meta:character-count="7858" meta:non-whitespace-character-count="6712"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.7.2$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="110" meta:word-count="1144" meta:character-count="7755" meta:non-whitespace-character-count="6624"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">98425</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">78740</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">42071</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22809</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">24132</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">25825</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">15718</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">39816</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">17267</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">94296</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">98425</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">42069</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">121232</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">78740</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">24130</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">104563</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -28,86 +28,85 @@
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
    <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">lQ7+/0Nhbm9uIE1YODcwIHNlcmllcyBQcmludGVyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ2Fub24gTVg4NzAgc2VyaWVzIFByaW50ZXIAAAAAAAAWAAEAtg0AAAAAAgAEAAhSAAAEdAAAM1ROVwYAQwBhAG4AbwBuACAATQBYADgANwAwACAAcwBlAHIAaQBlAHMAIABQAHIAaQBuAHQAZQByAAAAAAAAAAAAAAAAAAEECAzcANQMA9+BAwEACQCaCzQIZAABAAsB/v8CAAIAAAABAAEAQQA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAwAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAANQMAABCSkRNCAwAAAAAAADYCAAAxwAAAMcAAAAAAAAAAAAAAAEAAAAIUgAABHQAAPQBAABUAQAAYE8AABxwAAD0AQAAVAEAAGBPAAAccAAACFIAAAR0AAD0AQAAVAEAAFQBAAD0AQAAYE8AABxwAAD0AQAAVAEAAFQBAAD0AQAA9AEAAFQBAABUAQAA9AEAAGBPAAAccAAALAEsARgAQwBPAE4AQwBFAFAAVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWAG8AbwByAGIAZQBlAGwAZAAgADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8JwAALgAAAAAAAABkAAAARgAAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAwAAAAMAAAAAAAAAAwABAAAAAAAAAAAAAAAAAAAAAAAAAAIAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAkAAwAAAAMAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAwAAAAsBAAAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAACAAAAAQAAAAAAAAABAAAAAAAAAAAAAABkAAAACQAAAAhSAAAEdAAAAAAAAAkAAAAIUgAABHQAAAAAAAACAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACTAAAAAAAAAAAAAABACgAAAQAAAAEAAAAfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA//8AAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAD//wAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACFIAAAR0AAAAAAAAAQAAAH8AAAB/AAAAfwAAAH8AAAABAAAAAQAAAAAAAAAAAAAA5wMAAP8AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAALAQAAAQAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAAAAAAAAAAADnAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAADAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoAwAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEMAYQBuAG8AbgAgAE0AWAA4ADcAMAAgAHMAZQByAGkAZQBzACAAUAByAGkAbgB0AGUAcgAAAAAAAAAAAAAAAAABBAgM3ADUDAPfgQMBAAkAmgs0CGQAAQALAf7/AgACAAAAAQABAEEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAMAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABXPFoMEgBDT01QQVRfRFVQTEVYX01PREUPAERVUExFWF9MT05HRURHRQ==</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3960964</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Canon MX870 series Printer</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="Rsid" config:type="int">4044447</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">iAH+/0hQcDIwNTVkbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUHAyMDU1ZG4AAAAAAAAAAAAAAAAAAAAAAAAWAAMArgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBwMjA1NWRuCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HPp2055dn</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -203,7 +202,6 @@
   </style:style>
   <style:style style:name="Text" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
   <style:style style:name="Code" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:list-style-name="Code_20_Numbering" style:master-page-name="">
-   <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="true" fo:line-height="100%" fo:keep-together="auto" style:page-number="auto" fo:background-color="#ffffff" fo:padding="0.049cm" fo:border-left="0.06pt solid #66cc00" fo:border-right="none" fo:border-top="none" fo:border-bottom="none" style:shadow="none" fo:keep-with-next="auto" text:number-lines="true" text:line-number="1">
     <style:tab-stops>
      <style:tab-stop style:position="0.75cm"/>
@@ -213,6 +211,7 @@
      <style:tab-stop style:position="2.75cm"/>
      <style:tab-stop style:position="3.251cm"/>
     </style:tab-stops>
+    <style:background-image/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-style-name="Standaard" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-weight="normal" style:font-size-asian="10.5pt"/>
   </style:style>
@@ -313,9 +312,9 @@
    <style:text-properties style:font-name="Liberation Mono2" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="NSimSun" style:font-family-asian="NSimSun" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono2" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="Notice" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
-   <style:graphic-properties draw:fill="solid" draw:fill-color="#d15151" draw:opacity="100%"/>
    <style:paragraph-properties fo:margin-left="0.25cm" fo:margin-right="0.25cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="#d15151" fo:padding="0.199cm" fo:border="0.06pt solid #000000" style:shadow="none" style:join-border="false">
     <style:tab-stops/>
+    <style:background-image/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#ffffff" fo:font-size="11pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10.5pt"/>
   </style:style>
@@ -354,7 +353,8 @@
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
   </style:style>
   <style:style style:name="Terminal" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties svg:width="18.461cm" style:rel-width="100%" fo:min-height="0.041cm" text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.25cm" fo:margin-right="0.25cm" fo:margin-top="0.25cm" fo:margin-bottom="0.25cm" style:wrap="none" style:vertical-pos="middle" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="#000000" style:background-transparency="0%" draw:fill="solid" draw:fill-color="#000000" draw:opacity="100%" loext:rel-width-rel="paragraph">
+   <style:graphic-properties svg:width="18.461cm" style:rel-width="100%" fo:min-height="0.041cm" text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.25cm" fo:margin-right="0.25cm" fo:margin-top="0.25cm" fo:margin-bottom="0.25cm" style:wrap="none" style:vertical-pos="middle" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="#000000" style:background-transparency="0%" draw:fill="solid" loext:rel-width-rel="paragraph">
+    <style:background-image/>
     <style:columns fo:column-count="1" fo:column-gap="0cm"/>
    </style:graphic-properties>
   </style:style>
@@ -692,113 +692,123 @@
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:font-weight="bold" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="000de7a4"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="00225b8a"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00277635"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="002f513f"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00034f41"/>
   </style:style>
   <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:rsid="00034f41"/>
   </style:style>
   <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="00271496"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Notice">
-   <style:text-properties fo:color="#ffffff"/>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="00271496"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="en" fo:country="GB"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Notice">
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="003db69f"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:font-weight="normal" officeooo:rsid="003b3b95" officeooo:paragraph-rsid="003b3b95" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
@@ -875,88 +885,94 @@
    <style:text-properties fo:font-weight="normal" officeooo:rsid="003b3b95" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties officeooo:rsid="0032ac7d"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="003db69f" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00360203" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00360203" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="00360203"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="0037f680"/>
+   <style:text-properties officeooo:rsid="00360203"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="003a1967"/>
+   <style:text-properties officeooo:rsid="0037f680"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2"/>
+   <style:text-properties officeooo:rsid="003a1967"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB"/>
+   <style:text-properties style:font-name="Liberation Mono2"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a1967"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a1967"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003bc4cb" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003bc4cb" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003bc4cb"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties officeooo:rsid="003b3b95"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003bc4cb"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
+   <style:text-properties officeooo:rsid="003b3b95"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
    <style:text-properties officeooo:rsid="003c60c8"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="003db69f"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Terminal">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" loext:rel-width-rel="paragraph"/>
@@ -1136,51 +1152,51 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1113_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Debugging<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1115_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1117_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Prerequisites<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1119_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">How to Recognize a Bug?<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1121_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">How to Debug?<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1113_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Debugging<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1115_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduction<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1117_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Prerequisites<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1119_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">How to Recognize a Bug?<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1121_1834773180" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">How to Debug?<text:tab/>2</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1115_1834773180"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T47">Introduction</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc1115_1834773180"/></text:h>
-   <text:p text:style-name="Text_20_body">pilight is a product developed by a growing community. Due to its Open Source character, developers around the world can contribute code. <text:span text:style-name="T51">Although</text:span> all developers try to write bug free code, it is <text:span text:style-name="T51">not</text:span> always possible for the developers of pilight to check for every possible mistake that can be made. Especially, because not everyone has every hardware available for testing.</text:p>
-   <text:h text:style-name="P69" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1117_1834773180"/>Prerequisites<text:bookmark-end text:name="__RefHeading___Toc1117_1834773180"/></text:h>
-   <text:p text:style-name="Text_20_body">If you found this page, you probably encountered a bug in the pilight code or noticed that things are <text:span text:style-name="T51">not</text:span> working as they should be. Before you continue reading, consider the following.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1115_1834773180"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T48">Introduction</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc1115_1834773180"/></text:h>
+   <text:p text:style-name="Text_20_body">pilight is a product developed by a growing community. Due to its Open Source character, developers around the world can contribute code. <text:span text:style-name="T52">Although</text:span> all developers try to write bug free code, it is <text:span text:style-name="T52">not</text:span> always possible for the developers of pilight to check for every possible mistake that can be made. Especially, because not everyone has every hardware available for testing.</text:p>
+   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1117_1834773180"/>Prerequisites<text:bookmark-end text:name="__RefHeading___Toc1117_1834773180"/></text:h>
+   <text:p text:style-name="Text_20_body">If you found this page, you probably encountered a bug in the pilight code or noticed that things are <text:span text:style-name="T52">not</text:span> working as they should be. Before you continue reading, consider the following.</text:p>
    <text:p text:style-name="Text_20_body">First, pilight offers code in several stages of stability:</text:p>
-   <text:list xml:id="list4835169178047539946" text:style-name="L1">
+   <text:list xml:id="list4948255457858303536" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P66"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">Stable apt repository and github </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">master </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">branch</text:span></text:span><text:line-break/>This code has been tested to work without bugs for various weeks by the developer and a large community. If bugs are found in this version of pilight, the problem probably already has been fixed in the developmental code.</text:p>
+     <text:p text:style-name="P68"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">Stable apt repository and </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T25">GitHub</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22"> </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">master </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">branch</text:span></text:span><text:line-break/>This code has been tested to work without bugs for various weeks by the developer and a large community. If bugs are found in this version of pilight, the problem <text:span text:style-name="T54">has </text:span>probably already been fixed in the developmental code.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P66"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Nightly</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22"> apt repository </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">and github development branch</text:span></text:span><text:span text:style-name="T22"><text:line-break/>This code always contains the very latest features and fixes.</text:span> It is updated several times a week. However, this also means that not all bugs are already encountered when a user starts to use it.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Text_20_body">Second, this page is made for those users using the developmental github branch. This tutorial assumes the following:</text:p>
-   <text:list xml:id="list260708998480809741" text:style-name="L2">
-    <text:list-item>
-     <text:p text:style-name="P67">You are aware of the distinction between bugs and changes in the pilight functionality.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P67">You have read the github commit messages to be sure that what you have encountered is indeed a bug and not a changed functionality.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P67">You have enough experience working with your operating system.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P67">You have the patience to help finding the problem.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P67">You have some knowledge about programming (and the C language).</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P67">You know when to recognize a clear code bug.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P68">You are able to manually compile pilight so debugging is possible. <text:span text:style-name="T52">The automatically compiled versions do not support debugging as described here.</text:span></text:p>
+     <text:p text:style-name="P68"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Nightly</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22"> apt repository </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">and </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T25">GitHub</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24"> development branch</text:span></text:span><text:span text:style-name="T22"><text:line-break/>This code always contains the very latest features and fixes.</text:span> It is updated several times a week. However, this also means that not all bugs are already encountered when a user starts to use it.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P70" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1119_1834773180"/>How to Recognize a Bug?<text:bookmark-end text:name="__RefHeading___Toc1119_1834773180"/></text:h>
+   <text:p text:style-name="Text_20_body">Second, this page is made for those users using the developmental <text:span text:style-name="T54">GitHub</text:span> branch. This tutorial assumes the following:</text:p>
+   <text:list xml:id="list2394914096131213574" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P69">You are aware of the distinction between bugs and changes in the pilight functionality.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P69">You have read the <text:span text:style-name="T54">GitHub</text:span> commit messages to be sure that what you have encountered is indeed a bug and not a changed functionality.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P69">You have enough experience working with your operating system.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P69">You have the patience to help finding the problem.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P69">You have some knowledge about programming (and the C language).</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P69">You know when to recognize a clear code bug.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P70">You are able to manually compile pilight so debugging is possible. <text:span text:style-name="T53">The automatically compiled versions do not support debugging as described here.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P36" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1119_1834773180"/>How to Recognize a Bug?<text:bookmark-end text:name="__RefHeading___Toc1119_1834773180"/></text:h>
    <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.27cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
      <draw:text-box fo:min-height="0.041cm">
       <text:p text:style-name="Terminal">* glibc detected ./pilight-daemon: double free or corruption (!logfile): 0x0000000000c6ed50 **</text:p>
@@ -1193,12 +1209,12 @@
       <text:p text:style-name="Terminal">failed!</text:p>
      </draw:text-box>
     </draw:frame>This message means in this case that the variable logfile was freed twice. A segmentation fault looks like this:</text:p>
-   <text:p text:style-name="Text_20_body">This message means there has been a general error in which pilight <text:span text:style-name="T52">so it cannot be started properly.</text:span></text:p>
-   <text:h text:style-name="P69" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1121_1834773180"/>How to <text:span text:style-name="T51">D</text:span>ebug?<text:bookmark-end text:name="__RefHeading___Toc1121_1834773180"/></text:h>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.831cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="2">
+   <text:p text:style-name="Text_20_body">This message means there has been a general error in which pilight <text:span text:style-name="T53">so it cannot be started properly.</text:span></text:p>
+   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1121_1834773180"/>How to <text:span text:style-name="T52">D</text:span>ebug?<text:bookmark-end text:name="__RefHeading___Toc1121_1834773180"/></text:h>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.831cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="7">
      <draw:text-box fo:min-height="0.041cm">
       <text:p text:style-name="Terminal">pi@pilight:~&gt; sudo su</text:p>
-      <text:p text:style-name="Terminal">root@pilight:~# gdb --<text:span text:style-name="T52">args </text:span>pilight-daemon -<text:span text:style-name="T52">D</text:span></text:p>
+      <text:p text:style-name="Terminal">root@pilight:~# gdb --<text:span text:style-name="T53">args </text:span>pilight-daemon -<text:span text:style-name="T53">D</text:span></text:p>
       <text:p text:style-name="Terminal">GNU gdb (GDB) 7.4.1-debian</text:p>
       <text:p text:style-name="Terminal">Copyright (C) 2012 Free Software Foundation, Inc.</text:p>
       <text:p text:style-name="Terminal">License GPLv3+: GNU GPL version 3 or later &lt;http://gnu.org/licenses/gpl.html&gt;</text:p>
@@ -1209,8 +1225,6 @@
       <text:p text:style-name="Terminal">For bug reporting instructions, please see:</text:p>
       <text:p text:style-name="Terminal">&lt;http://www.gnu.org/software/gdb/bugs/&gt;...</text:p>
       <text:p text:style-name="Terminal">Reading symbols from /usr/local/sbin/pilight-daemon...done.</text:p>
-      <text:p text:style-name="Terminal">(gdb)</text:p>
-      <text:p text:style-name="Terminal">Make sure you start pilight-daemon without any arguments. There are added in gdb itself like this:</text:p>
       <text:p text:style-name="Terminal">(gdb) run</text:p>
       <text:p text:style-name="Terminal">Starting program: /usr/local/sbin/pilight-daemon -D</text:p>
       <text:p text:style-name="Terminal">[Thread debugging using libthread_db enabled]</text:p>
@@ -1219,8 +1233,9 @@
       <text:p text:style-name="Terminal">[Jan 18 16:23:33:701618] pilight-daemon: NOTICE: no pilight daemon found, daemonizing</text:p>
       <text:p text:style-name="Terminal">[Jan 18 16:23:33:718878] pilight-daemon: DEBUG: -- start parsed config file --</text:p>
      </draw:text-box>
-    </draw:frame>To debug C code, the GNU Debugger is used, also called gdb. This program will run next to pilight without any performance issue, but when pilight crashes, it allows us to track the specific line <text:span text:style-name="T51">where</text:span> the error <text:span text:style-name="T51">occurred.</text:span> So first of all, make sure you have gdb installed. This is how you start gdb together with pilight:</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0cm" svg:y="10.352cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="3">
+    </draw:frame>To debug C code, the GNU Debugger is used, also called gdb. This program will run next to pilight without any performance issue, but when pilight crashes, it allows us to track the specific line <text:span text:style-name="T52">where</text:span> the error <text:span text:style-name="T52">occurred.</text:span> So first of all, make sure you have gdb installed. This is how you start gdb together with pilight:</text:p>
+   <text:p text:style-name="P71">Now pilight will start as it you would have started it normally. Just let it run like this until it crashes or try to invoke the crash. If it crash<text:span text:style-name="T52">es</text:span>, you will see something like this:</text:p>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0cm" svg:y="0.025cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="2">
      <draw:text-box fo:min-height="0.041cm">
       <text:p text:style-name="Terminal">*** glibc detected *** /usr/local/sbin/pilight-daemon: double free or corruption (fasttop): 0x000369d8 ***</text:p>
       <text:p text:style-name="Terminal">[New Thread 0xb228c470 (LWP 26235)]</text:p>
@@ -1230,10 +1245,9 @@
       <text:p text:style-name="Terminal">67 <text:s text:c="5"/>../nptl/sysdeps/unix/sysv/linux/raise.c: No such file or directory.</text:p>
       <text:p text:style-name="Terminal">(gdb)</text:p>
      </draw:text-box>
-    </draw:frame>Now pilight will start as it you would have started it normally. Just let it run like this until it crashes or try to invoke the crash. If it crash<text:span text:style-name="T51">es</text:span>, you will see something like this:</text:p>
-   <text:p text:style-name="Text_20_body">Again, you see the <text:span text:style-name="Strong_20_Emphasis">(gdb)</text:span> prompt that allows you to type new commands.</text:p>
+    </draw:frame>Again, you see the <text:span text:style-name="Strong_20_Emphasis">(gdb)</text:span> prompt that allows you to type new commands.</text:p>
    <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="P24"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="0cm" svg:y="0.714cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="4">
+   <text:p text:style-name="P24"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="0cm" svg:y="0.714cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="3">
      <draw:text-box fo:min-height="0.041cm">
       <text:p text:style-name="Terminal">(gdb) backtrace</text:p>
       <text:p text:style-name="Terminal">#0 <text:s/>0xb6dddbfc in __GI_raise (sig=6)</text:p>
@@ -1257,9 +1271,9 @@
       <text:p text:style-name="Terminal">Backtrace stopped: previous frame identical to this frame (corrupt stack?)</text:p>
       <text:p text:style-name="Terminal">(gdb)</text:p>
      </draw:text-box>
-    </draw:frame>The first step is to get a <text:span text:style-name="Strong_20_Emphasis">backtrace</text:span> of all functions called when this crash <text:span text:style-name="T51">occurred</text:span>:</text:p>
+    </draw:frame>The first step is to get a <text:span text:style-name="Strong_20_Emphasis">backtrace</text:span> of all functions called when this crash <text:span text:style-name="T52">occurred</text:span>:</text:p>
    <text:p text:style-name="Text_20_body">Copy this output so it can be communicated on the forum.</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="0cm" svg:y="2.392cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="5">
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="0cm" svg:y="2.392cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="4">
      <draw:text-box fo:min-height="0.041cm">
       <text:p text:style-name="Terminal">(gdb) frame 8</text:p>
       <text:p text:style-name="Terminal">#8 <text:s/>0xb6e7b758 in ?? ()</text:p>
@@ -1282,20 +1296,20 @@
       <text:p text:style-name="Terminal">260 <text:s text:c="36"/>json_delete(jret);</text:p>
      </draw:text-box>
     </draw:frame>The second step is to look for the exact line causing this crash. This can be done by zooming into each part of each function related to this bug. We start at the end and work our way to the beginning. To zoom into a function the command <text:span text:style-name="Strong_20_Emphasis">frame #</text:span> is used in which the # is replaced by one of the numbers you see in the backtrace. As said earlier, we will start at the end:</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="paragraph" svg:x="0cm" svg:y="10.497cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="6">
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="paragraph" svg:x="0cm" svg:y="10.497cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="5">
      <draw:text-box fo:min-height="0.041cm">
       <text:p text:style-name="Terminal">(gdb) frame 4</text:p>
       <text:p text:style-name="Terminal">#4 <text:s/>0xb6e24e00 in __GI___libc_free (mem=&lt;optimized out&gt;) at malloc.c:3738</text:p>
       <text:p text:style-name="Terminal">3738 <text:s text:c="3"/>malloc.c: No such file or directory.</text:p>
      </draw:text-box>
-    </draw:frame>Yes, finally something related to pilight. As you can see here, the conflicting line can be found in daemon.c in the function broadcast at line 260. The actual command that leaded to the crash was json_delete. Although we now know that this was the line causing the crash, the actual bug could lay <text:span text:style-name="T51">elsewhere.</text:span> Therefore we continue until the last pilight related frame.</text:p>
+    </draw:frame>Yes, finally something related to pilight. As you can see here, the conflicting line can be found in daemon.c in the function broadcast at line 260. The actual command that leaded to the crash was json_delete. Although we now know that this was the line causing the crash, the actual bug could lay <text:span text:style-name="T52">elsewhere.</text:span> Therefore we continue until the last pilight related frame.</text:p>
    <text:p text:style-name="Text_20_body">No useful information in frame 4. So, frame 5 was the only interesting frame here. Make sure to copy the output of the informative frames so it can be used in a forum post later on.</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:x="0cm" svg:y="0.713cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="7">
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:x="0cm" svg:y="0.713cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="6">
      <draw:text-box fo:min-height="0.041cm">
       <text:p text:style-name="Terminal">(gdb) q</text:p>
      </draw:text-box>
     </draw:frame><text:soft-page-break/>To exit:</text:p>
-   <text:p text:style-name="Text_20_body">As you might have seen, this way of debugging makes it a lot easier to track bugging code. gdb will tell you the exact line on which the bug <text:span text:style-name="T51">occurred</text:span> to in can be easier tracked down and fixed.</text:p>
+   <text:p text:style-name="Text_20_body">As you might have seen, this way of debugging makes it a lot easier to track bugging code. gdb will tell you the exact line on which the bug <text:span text:style-name="T52">occurred</text:span> to in can be easier tracked down and fixed.</text:p>
   </office:text>
  </office:body>
 </office:document>
