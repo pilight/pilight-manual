@@ -1291,10 +1291,10 @@
     <text:list-item>
      <text:p text:style-name="P45"><draw:frame draw:style-name="fr1" draw:name="Frame10" text:anchor-type="paragraph" svg:x="13.85mm" svg:y="7.07mm" svg:width="156.92mm" style:rel-width="85%" draw:z-index="7">
        <draw:text-box fo:min-height="4mm">
-        <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T20">root@pilight:~# git clone --depth 5 -b [branch] https://github.com/pilight/pilight.git</text:span></text:span></text:p>
+        <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T20">root@pilight:~# git clone --depth 5 -b [branch] https://www.github.com/pilight/pilight.git</text:span></text:span></text:p>
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T20">root@pilight:~# cd pilight</text:span></text:span></text:p>
        </draw:text-box>
-      </draw:frame>Poi scaricare il codice sorgente pilight dal github pilight:</text:p>
+      </draw:frame>Poi scaricare il codice sorgente pilight dal GitHub pilight:</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P45"><text:span text:style-name="T7">Sostituire [branch] con </text:span><text:span text:style-name="T6">master</text:span><text:span text:style-name="T7"> per l&apos;ultima versione stabile. Questa versione è esattamente la stessa della versione stabile disponibile </text:span><text:span text:style-name="T8">nel </text:span><text:span text:style-name="T7">repository apt. Oppure utilizzare </text:span><text:span text:style-name="T6">development</text:span><text:span text:style-name="T7"> per le build di più recente sviluppo. Una versione pilight nightly viene generata automaticamente ogni notte e è anche disponibile attraverso il repository apt pilight nightly.</text:span></text:p>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="237" meta:word-count="1591" meta:character-count="10032" meta:non-whitespace-character-count="8458"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="237" meta:word-count="1591" meta:character-count="10035" meta:non-whitespace-character-count="8462"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">174413</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">23497</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">2517</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">182979</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11867</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">173800</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">174413</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">23495</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">22384</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">196797</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4660130</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4730474</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -831,62 +831,62 @@
   <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Notice">
    <style:text-properties fo:color="#ffffff"/>
   </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="003a1967" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="003bc255" officeooo:paragraph-rsid="003bc255"/>
   </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="003bc255" officeooo:paragraph-rsid="003bc255"/>
   </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:paragraph-rsid="003d34ac"/>
   </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:paragraph-rsid="003e7bca"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:paragraph-rsid="003f492a"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="003f492a" officeooo:paragraph-rsid="003f492a"/>
   </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="0040f93b" officeooo:paragraph-rsid="0040f93b"/>
   </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:rsid="00424e4b" officeooo:paragraph-rsid="00424e4b"/>
   </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:rsid="00424e4b" officeooo:paragraph-rsid="00424e4b"/>
   </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:rsid="00441a67" officeooo:paragraph-rsid="00441a67"/>
   </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003f492a"/>
   </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0040f93b"/>
   </style:style>
-  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="003a1967" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -1389,15 +1389,15 @@
    </text:table-of-content>
    <text:h text:style-name="P61" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc156_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Identifica</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T25">zione</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc156_547078094"/></text:h>
    <text:p text:style-name="P24">Tutti i programmi comunicano tra loro utilizzando oggetti JSON. Il processo di identificazione normale è il seguente:</text:p>
-   <text:list xml:id="list810454485088210774" text:style-name="L1">
+   <text:list xml:id="list5057471030497084640" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P84">Si connette a pilight-daemon utilizzando l&apos;ip e la porta di pilight. Il numero della porta alla quale pilight è in esecuzione è un numero scelto a caso o un numero fisso come configurato nelle impostazioni di pilight.</text:p>
+     <text:p text:style-name="P79">Si connette a pilight-daemon utilizzando l&apos;ip e la porta di pilight. Il numero della porta alla quale pilight è in esecuzione è un numero scelto a caso o un numero fisso come configurato nelle impostazioni di pilight.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84">Il pilight-daemon attende che il client si identifichi inviando il seguente oggetto JSON:</text:p>
+     <text:p text:style-name="P79">Il pilight-daemon attende che il client si identifichi inviando il seguente oggetto JSON:</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list2530924686451201270" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list6957274373971543178" text:style-name="Code_20_Numbering">
     <text:list-item>
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1408,12 +1408,12 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228775899984" text:continue-list="list810454485088210774" text:style-name="L1">
+   <text:list xml:id="list185436299951544" text:continue-list="list5057471030497084640" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P84">Inoltre, un client può inviare alcune opzioni per indicare al daemon quale livello di comunicazione vuole impostare. Un&apos;identificazione JSON completa si presenta così:</text:p>
+     <text:p text:style-name="P79">Inoltre, un client può inviare alcune opzioni per indicare al daemon quale livello di comunicazione vuole impostare. Un&apos;identificazione JSON completa si presenta così:</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228081539618" text:continue-list="list2530924686451201270" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435778764675" text:continue-list="list6957274373971543178" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1448,12 +1448,12 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list2341972009550227078" text:style-name="L2">
+   <text:list xml:id="list849687793810576973" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P85">Dopo ogni action, il daemon invierà una delle seguenti due risposte di stato che indicano il successo o l&apos;insuccesso.</text:p>
+     <text:p text:style-name="P80">Dopo ogni action, il daemon invierà una delle seguenti due risposte di stato che indicano il successo o l&apos;insuccesso:</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228894495595" text:continue-list="list144228081539618" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185436137136840" text:continue-list="list185435778764675" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1465,7 +1465,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"/>
-   <text:list xml:id="list144229275591680" text:continue-list="list144228894495595" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435406378235" text:continue-list="list185436137136840" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1478,12 +1478,12 @@
    </text:list>
    <text:h text:style-name="P46" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc158_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Op</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T25">zioni</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc158_547078094"/></text:h>
    <text:p text:style-name="P24">Le opzioni di identificazione definiscono l&apos;impostazione della comunicazione tra il daemon e il client.</text:p>
-   <text:list xml:id="list5568242328835205298" text:style-name="L3">
+   <text:list xml:id="list5511794430284194992" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">receiver</text:span></text:span><text:line-break/><text:span text:style-name="T61">Quando è impostata l&apos;opzione receiver, il demone inoltra i codici ricevuti o inviati al cliente. Un esempio:</text:span></text:p>
+     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">receiver</text:span></text:span><text:line-break/><text:span text:style-name="T61">Quando è impostata l&apos;opzione receiver, il demone inoltra i codici ricevuti o inviati al cliente. Un esempio:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144229547331620" text:continue-list="list144229275591680" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435980955954" text:continue-list="list185435406378235" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1539,15 +1539,15 @@
      <text:p text:style-name="P71">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144229426847946" text:continue-list="list5568242328835205298" text:style-name="L3">
+   <text:list xml:id="list185436084509957" text:continue-list="list5511794430284194992" text:style-name="L3">
     <text:list-header>
-     <text:p text:style-name="P86"><text:line-break/><text:span text:style-name="T62">Nei messaggi JSON ricevuti, origin indica se è stato ricevuto un messaggio <text:s/>dall&apos;esterno o se un codice è stato inviato da pilight stesso.</text:span></text:p>
+     <text:p text:style-name="P81"><text:line-break/><text:span text:style-name="T62">Nei messaggi JSON ricevuti, origin indica se è stato ricevuto un messaggio <text:s/>dall&apos;esterno o se un codice è stato inviato da pilight stesso.</text:span></text:p>
     </text:list-header>
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">config</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione config, il daemon comunicherà tutti gli aggiornamenti di configurazione. Per esempio:</text:span></text:p>
+     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">config</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione config, il daemon comunicherà tutti gli aggiornamenti di configurazione. Per esempio:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228203783158" text:continue-list="list144229547331620" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435421483176" text:continue-list="list185435980955954" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1570,15 +1570,15 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144229337970067" text:continue-list="list144229426847946" text:style-name="L3">
+   <text:list xml:id="list185435825220082" text:continue-list="list185436084509957" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">core</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione core, il daemon comunicherà le informazioni sul core di pilight.</text:span></text:p>
+     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">core</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione core, il daemon comunicherà le informazioni sul core di pilight.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">stats</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione stats, il daemon comunicherà le statistiche RAM e CPU.</text:span></text:p>
+     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">stats</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione stats, il daemon comunicherà le statistiche RAM e CPU.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228725301159" text:continue-list="list144228203783158" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185436915798168" text:continue-list="list185435421483176" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1607,16 +1607,16 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144229544351794" text:continue-list="list144229337970067" text:style-name="L3">
+   <text:list xml:id="list185436611162081" text:continue-list="list185435825220082" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">forward</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione forward, tutti i dati del socket (validi) sarnno inoltrati al client.</text:span></text:p>
+     <text:p text:style-name="P81"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">forward</text:span></text:span><text:line-break/><text:span text:style-name="T62">Quando è impostata l&apos;opzione forward, tutti i dati del socket (validi) sarnno inoltrati al client.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="P41">L&apos;impostazione uuid è destinata al client per inviare il suo UUID univoco.</text:p>
    <text:p text:style-name="P27">L&apos;impostazione media viene utilizzato per indicare al daemon quale informazione viene inviate in base al supporto specifico. Come si può leggere nella configurazione GUI, un utente può creare diverse interfacce grafiche basate su diversi dispositivi. I tipi di GUI attualmente supportati sono all, web, mobile, e desktop. Se si definisce il client come uno di quei tipi di GUI, pilight invierà solo dispositivi, elementi GUI, aggiornamenti di configurazione e le regole che si applicano al tipo GUI specificata, tralasciando il resto. Pertanto, non c&apos;è bisogno di fare alcuna analisi aggiuntiva dal lato client.</text:p>
    <text:p text:style-name="P27">Queste opzioni possono essere aggiornate al volo, mentre il client è in esecuzione. Il demone avvia o interrompere l&apos;invio di messaggi specifici. Per aggiornare queste opzioni, basta inviare un&apos;altra richiesta di identificazione. Un <text:s/>esempio di oggetto identificazione:</text:p>
-   <text:list xml:id="list144228244871027" text:continue-list="list144228725301159" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185436857982320" text:continue-list="list185436915798168" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1644,12 +1644,12 @@
    </text:list>
    <text:h text:style-name="P64" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc160_547078094"/><text:span text:style-name="T65">Azioni (</text:span>Actions<text:span text:style-name="T65">)</text:span><text:bookmark-end text:name="__RefHeading___Toc160_547078094"/></text:h>
    <text:p text:style-name="P27">Come abbiamo visto nel processo di identificazione, pilight in grado di trattare diverse actions. La prima action che incontriamo è l&apos;action di identificazione. Il seguente elenco contiene tutte le actions possibili che il daemon in grado di gestire. Anche in questo caso, il demone risponderà a tutte le azioni con successo o fallimento in modo che il client può verificare se l&apos;azione sia riuscita.</text:p>
-   <text:list xml:id="list1823867975496971798" text:style-name="L4">
+   <text:list xml:id="list5965768930902299626" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P87"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">send</text:span></text:span><text:line-break/><text:span text:style-name="T63">Nel caso in cui il client vuole inviare i codici di un protocollo specifico, viene utilizzata l&apos;action send. Un&apos;action send è accompagnata da argomenti aggiuntivi specifici:</text:span></text:p>
+     <text:p text:style-name="P82"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">send</text:span></text:span><text:line-break/><text:span text:style-name="T63">Nel caso in cui il client vuole inviare i codici di un protocollo specifico, viene utilizzata l&apos;action send. Un&apos;action send è accompagnata da argomenti aggiuntivi specifici:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228376790896" text:continue-list="list144228244871027" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185434888753915" text:continue-list="list185436857982320" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1678,15 +1678,15 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228095660974" text:continue-list="list1823867975496971798" text:style-name="L4">
+   <text:list xml:id="list185436115201403" text:continue-list="list5965768930902299626" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P89">Questi sono fondamentalmente gli argomenti tipo comando. Se un argomento richiede un valore, allora il valore viene aggiunto all&apos;argomento (come con id e unit). Se l&apos;argomento non assume un valore, allora è impostato a al valore di default 1 (come con off). Il pilight-daemon verificherà se il codice è valido, e risponderà con un errore se non lo fosse.</text:p>
+     <text:p text:style-name="P84">Questi sono fondamentalmente gli argomenti tipo comando. Se un argomento richiede un valore, allora il valore viene aggiunto all&apos;argomento (come con id e unit). Se l&apos;argomento non assume un valore, allora è impostato a al valore di default 1 (come con off). Il pilight-daemon verificherà se il codice è valido, e risponderà con un errore se non lo fosse.</text:p>
     </text:list-header>
     <text:list-item>
-     <text:p text:style-name="P94"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">control</text:span></text:span><text:line-break/><text:span text:style-name="T64">Un&apos;action control è utilizzata per controllare dispositivi registrati utilizzando gli ID di dispositivo rispettivi. Il pilight-daemon verificherà se i valori sono validi e risponderà con un errore se non lo sono. Un esempio di oggetto control:</text:span></text:p>
+     <text:p text:style-name="P89"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">control</text:span></text:span><text:line-break/><text:span text:style-name="T64">Un&apos;action control è utilizzata per controllare dispositivi registrati utilizzando gli ID di dispositivo rispettivi. Il pilight-daemon verificherà se i valori sono validi e risponderà con un errore se non lo sono. Un esempio di oggetto control:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228444997032" text:continue-list="list144228376790896" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185436399875060" text:continue-list="list185434888753915" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1718,12 +1718,12 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144229684519053" text:continue-list="list144228095660974" text:style-name="L4">
+   <text:list xml:id="list185435588732219" text:continue-list="list185436115201403" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P88"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">registry</text:span></text:span><text:line-break/><text:span text:style-name="T64">La registry pilight può essere gestita dalla registry API. La registry è una soluzione di memorizzazione multifunzionale all&apos;interno di pilight. Gli sviluppatori possono memorizzarci tutte le informazioni che vogliono e recuperarle in seguito. La registry consente tre tipi di azione: set, get, remove. La sintassi per ognuno di loro è:</text:span></text:p>
+     <text:p text:style-name="P83"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">registry</text:span></text:span><text:line-break/><text:span text:style-name="T64">La registry pilight può essere gestita dalla registry API. La registry è una soluzione di memorizzazione multifunzionale all&apos;interno di pilight. Gli sviluppatori possono memorizzarci tutte le informazioni che vogliono e recuperarle in seguito. La registry consente tre tipi di azione: set, get, remove. La sintassi per ognuno di loro è:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228893573449" text:continue-list="list144228444997032" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435731244140" text:continue-list="list185436399875060" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1744,7 +1744,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"/>
-   <text:list xml:id="list144228840944952" text:continue-list="list144228893573449" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435641244993" text:continue-list="list185435731244140" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1762,7 +1762,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body"/>
-   <text:list xml:id="list144227905690411" text:continue-list="list144228840944952" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435933119910" text:continue-list="list185435641244993" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1779,12 +1779,12 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228304804948" text:continue-list="list144229684519053" text:style-name="L4">
+   <text:list xml:id="list185435335469586" text:continue-list="list185435588732219" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P89">La risposta al comando get è la seguente:</text:p>
+     <text:p text:style-name="P84">La risposta al comando get è la seguente:</text:p>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list144227626169056" text:continue-list="list144227905690411" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435798024211" text:continue-list="list185435933119910" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1801,15 +1801,15 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144227933883996" text:continue-list="list144228304804948" text:style-name="L4">
+   <text:list xml:id="list185436859036396" text:continue-list="list185435335469586" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P90">Vogliate notare che la registry di pilight può contenere solo tipi di stringhe e numeri JSON.</text:p>
+     <text:p text:style-name="P85">Vogliate notare che la registry di pilight può contenere solo tipi di stringhe e numeri JSON.</text:p>
     </text:list-header>
     <text:list-item>
-     <text:p text:style-name="P95"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">request config</text:span></text:span><text:line-break/><text:span text:style-name="T36">request config viene utilizzato per richiedere l&apos;oggetto di configurazione completo dal pilight-daemon:</text:span></text:p>
+     <text:p text:style-name="P90"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">request config</text:span></text:span><text:line-break/><text:span text:style-name="T36">request config viene utilizzato per richiedere l&apos;oggetto di configurazione completo dal pilight-daemon:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144227834874815" text:continue-list="list144227626169056" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435814491264" text:continue-list="list185435798024211" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1820,12 +1820,12 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144229557579229" text:continue-list="list144227933883996" text:style-name="L4">
+   <text:list xml:id="list185436069572534" text:continue-list="list185436859036396" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P90">Dopo questo comando, la pilight-daemon trasmetterà la configurazione JSON grezza come viene utilizzata internamente.</text:p>
+     <text:p text:style-name="P85">Dopo questo comando, la pilight-daemon trasmetterà la configurazione JSON grezza come viene utilizzata internamente.</text:p>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list144229666178105" text:continue-list="list144227834874815" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435934826104" text:continue-list="list185435814491264" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -1987,12 +1987,12 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"/></text:p>
-   <text:list xml:id="list144229176918354" text:continue-list="list144229557579229" text:style-name="L4">
+   <text:list xml:id="list185436989199214" text:continue-list="list185436069572534" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P96"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">request values</text:span></text:span></text:p>
+     <text:p text:style-name="P91"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T22">request values</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144229592362949" text:continue-list="list144229666178105" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185435674262472" text:continue-list="list185435934826104" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">{</text:p>
     </text:list-item>
@@ -2003,12 +2003,12 @@
      <text:p text:style-name="Code">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228020191441" text:continue-list="list144229176918354" text:style-name="L4">
+   <text:list xml:id="list185436954978642" text:continue-list="list185436989199214" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P90">pilight cerca di rendere lo sviluppo delle applicazioni il più semplice possibile. Ciò significa che le GUI deve solo analizzare l&apos;oggetto di configurazione GUI. Il rovescio della medaglia però è che l&apos;oggetto GUI non contiene i valori di dispositivo. Per risolvere questo problema, la GUI può richiedere i valori di tutti i dispositivi in una volta sola. L&apos;oggetto restituito avrà le stesse informazioni come quelle che il daemon comunica con l&apos;opzione config abilitata, ma qui per tutto l&apos;insime dei dispositivi. Un esempio:</text:p>
+     <text:p text:style-name="P85">pilight cerca di rendere lo sviluppo delle applicazioni il più semplice possibile. Ciò significa che le GUI deve solo analizzare l&apos;oggetto di configurazione GUI. Il rovescio della medaglia però è che l&apos;oggetto GUI non contiene i valori di dispositivo. Per risolvere questo problema, la GUI può richiedere i valori di tutti i dispositivi in una volta sola. L&apos;oggetto restituito avrà le stesse informazioni come quelle che il daemon comunica con l&apos;opzione config abilitata, ma qui per tutto l&apos;insime dei dispositivi. Un esempio:</text:p>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list144228867016328" text:continue-list="list144229592362949" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list185436267080023" text:continue-list="list185435674262472" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
      <text:p text:style-name="Code">[{</text:p>
     </text:list-item>
@@ -2058,22 +2058,22 @@
      <text:p text:style-name="Code">}]</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list144228750718362" text:continue-list="list144228020191441" text:style-name="L4">
+   <text:list xml:id="list185436208252949" text:continue-list="list185436954978642" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P91">Siate consapevoli che subito dopo l&apos;oggetto request values, viene inviato l&apos;oggetto version di pilight. Spetta alle GUI di ignorare o analizzare questa informazione.</text:p>
+     <text:p text:style-name="P86">Siate consapevoli che subito dopo l&apos;oggetto request values, viene inviato l&apos;oggetto version di pilight. Spetta alle GUI di ignorare o analizzare questa informazione.</text:p>
     </text:list-header>
    </text:list>
    <text:h text:style-name="P61" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc162_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T24">Webserver</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc162_547078094"/></text:h>
    <text:p text:style-name="P30">Il server web ha alcune pagine speciali:</text:p>
-   <text:list xml:id="list1736185429740725801" text:style-name="L5">
+   <text:list xml:id="list2393223269684966248" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P93">La pagina config mostra l&apos;ultimo oggetto di configurazione JSON.</text:p>
+     <text:p text:style-name="P88">La pagina config mostra l&apos;ultimo oggetto di configurazione JSON.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P93">La pagina values mostra gli ultimi valori di tutti i dispositivi.</text:p>
+     <text:p text:style-name="P88">La pagina values mostra gli ultimi valori di tutti i dispositivi.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">La pagina send può essere utilizzata per controllare dispositivi. Per utilizzare questa funzione chiamare la pagina send con un oggetto JSON send o regisrty <text:s/>codificato URL in questo modo:</text:p>
+     <text:p text:style-name="P87">La pagina send può essere utilizzata per controllare dispositivi. Per utilizzare questa funzione chiamare la pagina send con un oggetto JSON “send” o “regisrty” codificato URL in questo modo:</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P31"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="-0.102cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">

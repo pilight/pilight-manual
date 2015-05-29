@@ -994,7 +994,7 @@
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Open Source</text:h>
-   <text:p text:style-name="P22">Il codice sorgente di pilight si può trovare su internet all&apos;indirizzo <text:a xlink:type="simple" xlink:href="https://github.com/pilight/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/pilight/</text:a>. pilight dipende in gran parte da<text:span text:style-name="T32">ll&apos;</text:span>input della comunità, quindi se avete suggerimenti, miglioramenti e correzioni sentitevi liberi di esporli.</text:p>
+   <text:p text:style-name="P22">Il codice sorgente di pilight si può trovare su internet all&apos;indirizzo <text:a xlink:type="simple" xlink:href="https://www.github.com/pilight/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://GitHub.com/pilight/</text:a>. pilight dipende in gran parte da<text:span text:style-name="T32">ll&apos;</text:span>input della comunità, quindi se avete suggerimenti, miglioramenti e correzioni sentitevi liberi di esporli.</text:p>
    <text:h text:style-name="P53" text:outline-level="2">Open Hardware</text:h>
    <text:p text:style-name="P23">La sorgente e gli schemi di tutto l&apos;hardware di pilight sono aperti e gratuiti per tutti. Ciò significa che si può facilmente costruire l&apos;hardware per pilight. Tuttavia, con l&apos;acquisto dell&apos;hardware da pilight, sostenete anche il progetto.</text:p>
    <text:h text:style-name="P54" text:outline-level="2">Gratuito</text:h>

@@ -959,7 +959,7 @@
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Open Source</text:h>
-   <text:p text:style-name="Text_20_body">The pilight source <text:span text:style-name="T29">code </text:span>can be found on the internet at <text:a xlink:type="simple" xlink:href="https://github.com/pilight/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/pilight/</text:a>. pilight is largely dependent on community input so if you have any suggestions, improvements and fixes <text:span text:style-name="T28">feel free to provide them.</text:span></text:p>
+   <text:p text:style-name="Text_20_body">The pilight source <text:span text:style-name="T29">code </text:span>can be found on the internet at <text:a xlink:type="simple" xlink:href="https://www.github.com/pilight/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.github.com/pilight/</text:a>. pilight is largely dependent on community input so if you have any suggestions, improvements and fixes <text:span text:style-name="T28">feel free to provide them.</text:span></text:p>
    <text:h text:style-name="P45" text:outline-level="2">Open Hardware</text:h>
    <text:p text:style-name="P19">The source and schematics of all pilight hardware is open and free for everyone. This means that you can easily build the hardware pilight offers yourself. However, by buying the hardware from pilight, you also support the project.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Free</text:h>

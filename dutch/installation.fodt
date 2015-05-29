@@ -1289,7 +1289,7 @@
     <text:list-item>
      <text:p text:style-name="P39"><draw:frame draw:style-name="fr1" draw:name="Frame10" text:anchor-type="paragraph" svg:x="1.385cm" svg:y="0.707cm" svg:width="15.692cm" style:rel-width="85%" draw:z-index="8">
        <draw:text-box fo:min-height="0.4cm">
-        <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">root@pilight:~# git clone --depth 5 -b [branch] https://github.com/pilight/pilight.git</text:span></text:span></text:p>
+        <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">root@pilight:~# git clone --depth 5 -b [branch] https://www.github.com/pilight/pilight.git</text:span></text:span></text:p>
         <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T9">root@pilight:~# cd pilight</text:span></text:span></text:p>
        </draw:text-box>
       </draw:frame>Download vervolgens de pilight broncode:</text:p>

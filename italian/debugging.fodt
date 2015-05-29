@@ -1243,13 +1243,13 @@
    <text:p text:style-name="P28">In primo luogo, pilight offre un codice con diverse fasi di stabilità:</text:p>
    <text:list xml:id="list6354668012625170898" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">Stable repository apt e github master branch</text:span></text:span><text:span text:style-name="T53"><text:line-break/></text:span><text:span text:style-name="T59">Questo codice è stato testato come funzionante senza bug per diverse settimane da parte degli sviluppatori e da una grande comunità. Se vengono trovati dei bug in questa versione di pilight, il problema sarà probabilmente già stato risolto nel codice della versione development.</text:span></text:p>
+     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T55">Stable repository apt e GitHub master branch</text:span></text:span><text:span text:style-name="T53"><text:line-break/></text:span><text:span text:style-name="T59">Questo codice è stato testato come funzionante senza bug per diverse settimane da parte degli sviluppatori e da una grande comunità. Se vengono trovati dei bug in questa versione di pilight, il problema sarà probabilmente già stato risolto nel codice della versione development.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">Nightly apt repository e github development branch</text:span></text:span><text:span text:style-name="T54"><text:line-break/></text:span><text:span text:style-name="T56">Questo codice contiene sempre le ultime funzionalità e correzioni. Esso viene aggiornato più volte alla settimana. Tuttavia, ciò significa anche che non tutti i bugs sono già stati riscontrati quando un utente inizia ad usarlo.</text:span></text:p>
+     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T56">Nightly apt repository e GitHub development branch</text:span></text:span><text:span text:style-name="T54"><text:line-break/></text:span><text:span text:style-name="T56">Questo codice contiene sempre le ultime funzionalità e correzioni. Esso viene aggiornato più volte alla settimana. Tuttavia, ciò significa anche che non tutti i bugs sono già stati riscontrati quando un utente inizia ad usarlo.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29">In secondo luogo, questa pagina è fatta per gli utenti che utilizzano developmental github branch. Questo tutorial presuppone quanto segue:</text:p>
+   <text:p text:style-name="P29">In secondo luogo, questa pagina è fatta per gli utenti che utilizzano developmental GitHub branch. Questo tutorial presuppone quanto segue:</text:p>
    <text:list xml:id="list818206061340398602" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P87">Siete consapevoli della distinzione tra bugs e cambiamenti nelle funzionalità di pilight.</text:p>

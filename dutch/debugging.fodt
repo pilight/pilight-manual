@@ -1225,10 +1225,10 @@
    <text:p text:style-name="P28">Ten eerste, pilight biedt verschillende versie aan met verschillende niveau van stabiliteit:</text:p>
    <text:list xml:id="list2428796009409620065" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">De Stable apt repository en de github master branch<text:line-break/>De code is een aantal weken volledig getest in live omgevingen door de ontwikkelaars zelf en door een grote gemeenschap, en foutvrij bevonden. Als er toch fouten worden gevonden in deze versie van pilight, dan zijn ze zeer waarschijnlijk al opgelost in de ontwikkelversie.</text:span></text:span></text:p>
+     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">De Stable apt repository en de GitHub master branch<text:line-break/>De code is een aantal weken volledig getest in live omgevingen door de ontwikkelaars zelf en door een grote gemeenschap, en foutvrij bevonden. Als er toch fouten worden gevonden in deze versie van pilight, dan zijn ze zeer waarschijnlijk al opgelost in de ontwikkelversie.</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">Nightly</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58"> apt repository </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">en </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">github development branch</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T60">Deze code bevat altijd de laatste mogelijkheden en correcties. Deze code wordt meerdere keren per week bijgewerkt. Dit betekent echter dat niet alle fouten altijd al zijn waargenomen voordat gebruikers met de code aan de slag gaan.</text:span></text:p>
+     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">Nightly</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58"> apt repository </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">en </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">GitHub development branch</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T60">Deze code bevat altijd de laatste mogelijkheden en correcties. Deze code wordt meerdere keren per week bijgewerkt. Dit betekent echter dat niet alle fouten altijd al zijn waargenomen voordat gebruikers met de code aan de slag gaan.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P25"><text:span text:style-name="T55">Ten tweede</text:span>, <text:span text:style-name="T55">deze pagina is gemaakt voor gebruikers die de ontwikkel versie draaien van pilight. Deze handleiding gaat van het volgende uit:</text:span></text:p>
@@ -1237,7 +1237,7 @@
      <text:p text:style-name="P82">Je bent bewust van het verschil tussen een bug en aanpassingen in de pilight functionaliteit.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82">Je hebt de github commit berichten gelezen om er zeker van te zijn dat je een fout bent tegengekomen en geen verandering van functionaliteit.</text:p>
+     <text:p text:style-name="P82">Je hebt de GitHub commit berichten gelezen om er zeker van te zijn dat je een fout bent tegengekomen en geen verandering van functionaliteit.</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P82">Je hebt voldoende ervaring in het werken van je besturingssysteem.</text:p>

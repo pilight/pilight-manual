@@ -1018,7 +1018,7 @@
      <text:p text:style-name="P50">Het is werkelijk open source en goed gedocumenteerd.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50">Het is makkelijk te integreren in bestaande versie beheer systemen (in dit geval github).</text:p>
+     <text:p text:style-name="P50">Het is makkelijk te integreren in bestaande versie beheer systemen (in dit geval GitHub).</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P50">Het is te bewerken met gratis en open source software zoals LibreOffice.</text:p>
