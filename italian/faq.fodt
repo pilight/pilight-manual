@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.4.1$Windows_x86 LibreOffice_project/bc356b2f991740509f321d70e4512a6a54c5f243</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="87" meta:word-count="1081" meta:character-count="6377" meta:non-whitespace-character-count="5384"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.4.1$Windows_x86 LibreOffice_project/bc356b2f991740509f321d70e4512a6a54c5f243</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="87" meta:word-count="1102" meta:character-count="7297" meta:non-whitespace-character-count="6285"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">2752</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32704</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">15083</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">7121</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3380</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">24059</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">104868</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">2752</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32703</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">17833</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">15081</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -58,7 +58,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4378695</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4932312</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -136,11 +136,11 @@
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="it" fo:country="IT" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
    <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="12.51mm" style:writing-mode="page"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="it" fo:country="IT" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:default-style>
   <style:default-style style:family="table">
    <style:table-properties table:border-model="collapsing"/>
@@ -616,273 +616,317 @@
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="004a4fa8" officeooo:paragraph-rsid="004a4fa8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0036823a" officeooo:paragraph-rsid="0036823a"/>
+   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0036823a"/>
+   <style:text-properties officeooo:rsid="0036823a" officeooo:paragraph-rsid="0036823a"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="003791e1" officeooo:paragraph-rsid="003791e1"/>
+   <style:text-properties officeooo:paragraph-rsid="0036823a"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="003e3ef6"/>
+   <style:text-properties officeooo:rsid="003791e1" officeooo:paragraph-rsid="003791e1"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0040ac65" officeooo:paragraph-rsid="0040ac65"/>
+   <style:text-properties officeooo:paragraph-rsid="003e3ef6"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0040ac65"/>
+   <style:text-properties officeooo:rsid="0040ac65" officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
+   <style:text-properties officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0040f432"/>
+   <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="0040f432"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0042bb07" officeooo:paragraph-rsid="0042bb07"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0043f51c"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0045bd6f" officeooo:paragraph-rsid="0045bd6f"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00467cab" officeooo:paragraph-rsid="00467cab"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0047f433"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0049552b" officeooo:paragraph-rsid="0049552b"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="004a4fa8" officeooo:paragraph-rsid="004a4fa8"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="004a5dd4" officeooo:paragraph-rsid="004a5dd4"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0014498d"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0041002d" officeooo:paragraph-rsid="0041002d"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="184.61mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="179.62mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="000de7a4"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="00225b8a"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00277635"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="002f513f"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00034f41"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0036823a" officeooo:paragraph-rsid="0036823a"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="003791e1" officeooo:paragraph-rsid="003791e1"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0040ac65" officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0041002d" officeooo:paragraph-rsid="0041002d"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="0025304e"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="00271496"/>
   </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
   </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Notice">
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0043f51c" officeooo:paragraph-rsid="0043f51c"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0043f51c"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0045bd6f" officeooo:paragraph-rsid="0045bd6f"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004a4fa8" officeooo:paragraph-rsid="004a4fa8"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Notice">
    <style:text-properties fo:color="#ffffff"/>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0040ac65" officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0040ac65"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0042bb07" officeooo:paragraph-rsid="0042bb07" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0041002d" officeooo:paragraph-rsid="0041002d"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0042bb07" officeooo:paragraph-rsid="0042bb07"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="174.63mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="174.63mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="179.62mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
-  </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0040ac65" officeooo:paragraph-rsid="0040ac65"/>
-  </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
-  </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="184.61mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0040ac65" officeooo:paragraph-rsid="0040ac65"/>
-  </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
-  </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
-  </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0040ac65"/>
-  </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="004b42d8" officeooo:paragraph-rsid="004b42d8"/>
+  </style:style>
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="004a4fa8" officeooo:paragraph-rsid="004a4fa8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0040ac65" officeooo:paragraph-rsid="0040ac65"/>
+  </style:style>
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0041002d" officeooo:paragraph-rsid="0041002d"/>
+  </style:style>
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
+  </style:style>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0040f432" officeooo:paragraph-rsid="0040f432"/>
+  </style:style>
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0041002d" officeooo:paragraph-rsid="0041002d"/>
+  </style:style>
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0042bb07" officeooo:paragraph-rsid="0042bb07" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0042bb07" officeooo:paragraph-rsid="0042bb07"/>
+  </style:style>
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0041002d" officeooo:paragraph-rsid="0041002d"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00085391"/>
@@ -969,40 +1013,61 @@
    <style:text-properties fo:font-style="normal" officeooo:rsid="0040f432" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties officeooo:rsid="0036823a"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="003791e1"/>
+   <style:text-properties officeooo:rsid="0036823a"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="00397cd1"/>
+   <style:text-properties officeooo:rsid="003791e1"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="003c61be"/>
+   <style:text-properties officeooo:rsid="00397cd1"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="003ca7b1"/>
+   <style:text-properties officeooo:rsid="003c61be"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="003d062e"/>
+   <style:text-properties officeooo:rsid="003ca7b1"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="003e3ef6"/>
+   <style:text-properties officeooo:rsid="003d062e"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties officeooo:rsid="003fd1cc"/>
+   <style:text-properties officeooo:rsid="003e3ef6"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties officeooo:rsid="00408696"/>
+   <style:text-properties officeooo:rsid="003fd1cc"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties officeooo:rsid="0040ac65"/>
+   <style:text-properties officeooo:rsid="00408696"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties officeooo:rsid="0040f432"/>
+   <style:text-properties officeooo:rsid="0040ac65"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties officeooo:rsid="0042d047"/>
+   <style:text-properties officeooo:rsid="0040f432"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="0041002d"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties officeooo:rsid="0042bb07"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties officeooo:rsid="0043f51c"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties officeooo:rsid="0045bd6f"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties officeooo:rsid="0047f433"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties officeooo:rsid="004a5dd4"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties officeooo:rsid="004b42d8"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Terminal">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" loext:rel-width-rel="paragraph"/>
@@ -1136,7 +1201,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
-   <text:h text:style-name="P64" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc231_235806237"/>Frequently Asked Questions<text:bookmark-end text:name="__RefHeading___Toc231_235806237"/></text:h>
+   <text:h text:style-name="P77" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc231_235806237"/><text:span text:style-name="T41">Domande f</text:span>requent<text:span text:style-name="T41">i</text:span><text:bookmark-end text:name="__RefHeading___Toc231_235806237"/></text:h>
    <text:table-of-content text:style-name="Sect1" text:name="Inhoudsopgave1">
     <text:table-of-content-source text:outline-level="10" text:index-scope="chapter">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -1222,55 +1287,55 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc231_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Frequently Asked Questions<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P75"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc233_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">General<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc235_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Retrieving Running pilight Version<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc237_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Fixing SSDP Connection Issues<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc241_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Disabling SSDP Completely<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc243_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Using PHP Inside the pilight Webserver<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc245_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Using Other Devices Besides 433.92 MHz<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc247_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Fixing Broken Lirc and 1-wire Protocols<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc249_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Fixing the High CPU Usage after a Kernel Upgrade<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P75"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc239_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Sending &amp; Receiving<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc252_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">The GPIO Connected Received Does Not Work<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc254_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">I Only See Sent Codes, Not Received Ones<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc256_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Let Devices Learn New Codes Sent From pilight<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P75"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc258_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configuration<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc260_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">How to Use Raw Codes in the Configuration<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc262_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">How to Fix an Empty webGUI<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P75"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc265_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Compilation<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc267_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">How to Fix Errors About Missing Dependencies<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P75"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc269_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Myths<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc271_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">pilight Support for Domoticz and pimatic<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P74"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc273_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">The Raspberry Pi is Not Fast Enough To Handle Domotica Software<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P48"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc231_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Domande frequenti<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc233_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Generale<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc235_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Trovare la versione pilight in esecuzione<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc237_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Risoluzione del problema di connessione SSDP<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc241_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Disattivazione completa di SSDP<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc243_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Utilizzo di PHP all&apos;interno del webserver pilight<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc245_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Uso di altri dispositivi oltre a 433.92 MHz<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc247_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Risoluzione di protocolli Lirc e 1-wire interrotti<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc249_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Alto utilizzo della CPU dopo un aggiornamento del kernel<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc239_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Trasmissione e ricezione<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc252_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Il ricevitore connesso a GPIO non funziona<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc254_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Vedo solo i codici trasmessi e non quelli ricevuti<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc256_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Fare apprendere nuovi codici inviati da pilight<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc258_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurazione<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc260_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Come utilizzare i codici raw nella configurazione<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc262_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Come risolvere una WebGUI vuota<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc265_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Compilazione<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc267_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Come correggere gli errori relativi alle dipendenze mancanti<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P49"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc269_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Miti<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc271_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Supporto di pilight per Domoticz e pimatic<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P93"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc273_235806237" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Raspberry Pi non è sufficientemente veloce per gestire un software domotico<text:tab/>4</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc233_235806237"/>General<text:bookmark-end text:name="__RefHeading___Toc233_235806237"/></text:h>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc235_235806237"/>Retrieving Running pilight Version<text:bookmark-end text:name="__RefHeading___Toc235_235806237"/></text:h>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0mm" svg:y="6.99mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="0">
+   <text:h text:style-name="P64" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc233_235806237"/>General<text:span text:style-name="T41">e</text:span><text:bookmark-end text:name="__RefHeading___Toc233_235806237"/></text:h>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc235_235806237"/>Trovare la versione pilight in esecuzione<text:bookmark-end text:name="__RefHeading___Toc235_235806237"/></text:h>
+   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0mm" svg:y="6.99mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="0">
      <draw:text-box fo:min-height="0.41mm">
       <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">pi@pilight:~# pilight-daemon -V</text:span></text:p>
      </draw:text-box>
-    </draw:frame>You can use the following command to retrieve the pilight version:</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="0mm" svg:y="13.83mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="1">
+    </draw:frame>Si può utilizzare il seguente comando per ritrovare la versione pilight:</text:p>
+   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="0mm" svg:y="13.83mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="1">
      <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">pilight-daemon version </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38">v</text:span></text:span><text:span text:style-name="Source_20_Text">2.1</text:span></text:p>
+      <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">pilight-daemon version </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T39">v</text:span></text:span><text:span text:style-name="Source_20_Text">2.1</text:span></text:p>
      </draw:text-box>
-    </draw:frame>If you run a stable version, <text:span text:style-name="T38">only the version will be shown</text:span>:</text:p>
-   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0mm" svg:y="19.72mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="2">
+    </draw:frame>Se si esegue una versione stabile, verrà visualizzata solo la versione:</text:p>
+   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0mm" svg:y="19.72mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="2">
      <draw:text-box fo:min-height="0.41mm">
       <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">pilight-daemon version v2.1-58-ge6fd362</text:span></text:p>
      </draw:text-box>
-    </draw:frame>If you run a developmental version, the commit value wil<text:span text:style-name="T38">l</text:span> be different. It will point to the last commit included in your pilight compilation.</text:p>
-   <text:p text:style-name="Text_20_body">In this case, the 58th commit after version 2.1 with the SHA id ge6fd362 is running. To see which commit this is, check the <text:a xlink:type="simple" xlink:href="https://github.com/pilight/pilight/commits/development" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">git development commit list</text:a>.</text:p>
-   <text:h text:style-name="P86" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc237_235806237"/>Fixing SSDP Connection Issues<text:bookmark-end text:name="__RefHeading___Toc237_235806237"/></text:h>
-   <text:p text:style-name="Standard"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0mm" svg:y="7.18mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="3">
+    </draw:frame>Se si esegue una versione di sviluppo, il valore di commit sarà diverso. Indicherà l&apos;ultimo commit incluso nella vostra compilation di pilight.</text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T43">In questo caso è in esecuzione il 58°commit dopo la versione 2.1 con l&apos;id SHA ge6fd362. Per vedere di quale commit si tratta, consultare la lista </text:span><text:a xlink:type="simple" xlink:href="https://github.com/pilight/pilight/commits/development" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T43">git development commit</text:span></text:a><text:span text:style-name="T43">.</text:span></text:p>
+   <text:h text:style-name="P47" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc237_235806237"/>Risoluzione del problema di connessione SSDP<text:bookmark-end text:name="__RefHeading___Toc237_235806237"/></text:h>
+   <text:p text:style-name="P82"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0mm" svg:y="7.18mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="3">
      <draw:text-box fo:min-height="0.41mm">
       <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">pi@pilight:~# sudo iptables -A INPUT -s 127.0.0.1 -j ACCEPT</text:span></text:p>
      </draw:text-box>
-    </draw:frame>Make sure your iptables are set correctly:</text:p>
-   <text:p text:style-name="Standard">Also make sure your network interfaces are configured correctly in <text:span text:style-name="Strong_20_Emphasis">/etc/network/interfaces</text:span>:</text:p>
-   <text:list xml:id="list8977495915763926835" text:style-name="Code_20_Numbering">
+    </draw:frame>Assicuratevi che le vostre iptables siano impostate correttamente:</text:p>
+   <text:p text:style-name="P83"><text:span text:style-name="T43">Assicuratevi inoltre che le interfacce di rete siano configurate correttamente</text:span> in <text:span text:style-name="Strong_20_Emphasis">/etc/network/interfaces</text:span>:</text:p>
+   <text:list xml:id="list4355058441046179006" text:style-name="Code_20_Numbering">
     <text:list-item>
      <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text">auto lo</text:span></text:p>
     </text:list-item>
@@ -1296,51 +1361,51 @@
      <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text">gateway x.x.x.x</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard">Especially the <text:span text:style-name="Strong_20_Emphasis">iface lo inet loopback</text:span> part is essential for SSDP to work. A reboot could be <text:span text:style-name="T39">necessary</text:span> after making these changes.</text:p>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc241_235806237"/>Disabling SSDP Completely<text:bookmark-end text:name="__RefHeading___Toc241_235806237"/></text:h>
-   <text:p text:style-name="P22">Add the standalone setting in the <text:span text:style-name="T38">config</text:span>.json and set it to 1. However, because all pilight clients use SSDP to find the main pilight daemon, you need to pass the server and port arguments when you want to control this standalone running daemon.</text:p>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc243_235806237"/>Using PHP Inside the pilight Webserver<text:bookmark-end text:name="__RefHeading___Toc243_235806237"/></text:h>
-   <text:p text:style-name="P66"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="0mm" svg:y="6.99mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="4">
+   <text:p text:style-name="P82">Specialmente la parte <text:span text:style-name="T20">iface lo inet loopback</text:span> è essenziale per il funzionamento di SSDP. Dopo aver apportato queste modifiche può essere necessario eseguire un reboot.</text:p>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc241_235806237"/>Disattivazione completa di SSDP<text:bookmark-end text:name="__RefHeading___Toc241_235806237"/></text:h>
+   <text:p text:style-name="P28">Aggiungere l&apos;impostazione <text:span text:style-name="T29">&quot;standalone&quot;: 1</text:span> nel config.json. Tuttavia, siccome tutti i client pilight utilizzano SSDP per trovare il daemon pilight principale, quando si desidera controllare questo daemon in esecuzione standalone è necessario fornire gli argomenti server e porta.</text:p>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc243_235806237"/>Utilizzo di PHP all&apos;interno del webserver pilight<text:bookmark-end text:name="__RefHeading___Toc243_235806237"/></text:h>
+   <text:p text:style-name="P96"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="paragraph" svg:x="0mm" svg:y="6.99mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="4">
      <draw:text-box fo:min-height="0.41mm">
       <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">pilight-daemon: ERROR: php support disabled due to missing php-cgi executable</text:span></text:p>
      </draw:text-box>
-    </draw:frame>You probably encounter this message when running pilight in debug mode:</text:p>
-   <text:p text:style-name="P67">This means that you miss some packages to run PHP. The required packages pilight needs for PHP support are:</text:p>
-   <text:list xml:id="list7351323174873434110" text:style-name="L1">
+    </draw:frame>Avete probabilmente riscontrato questo messaggio durante l&apos;esecuzione di pilight in modalità debug:</text:p>
+   <text:p text:style-name="P84">Questo significa che mancano alcuni pacchetti per poter eseguire PHP. I pacchetti necessari a pilight per il supporto di PHP sono:</text:p>
+   <text:list xml:id="list2890998815804704065" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P87">php-cgi</text:p>
+     <text:p text:style-name="P94">php-cgi</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P87"><text:span text:style-name="T39">ba</text:span>se64</text:p>
+     <text:p text:style-name="P94"><text:span text:style-name="T40">ba</text:span>se64</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P87">cat</text:p>
+     <text:p text:style-name="P94">cat</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc245_235806237"/>Using Other Devices Besides 433.92 M<text:span text:style-name="T40">H</text:span>z<text:bookmark-end text:name="__RefHeading___Toc245_235806237"/></text:h>
-   <text:p text:style-name="P22">pilight was built with 433.92 M<text:span text:style-name="T40">H</text:span>z devices as a reference, but the code is not limited to this frequency. I actually always wrote the code with other frequencies in mind. The only reason no other frequencies like 868 M<text:span text:style-name="T40">H</text:span>z are supported is lack of time and the lack of other developers to do it for us. The hardware part of pilight is completely modular so adding support for other frequencies should be as easy as writing new protocols.</text:p>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc247_235806237"/>Fixing Broken Lirc and 1-wire Protocols<text:bookmark-end text:name="__RefHeading___Toc247_235806237"/></text:h>
-   <text:p text:style-name="P22">You probably installed the latest Raspberry Pi kernel. The new kernel works with device trees so the kernel knows what devices you want to use. <text:span text:style-name="T38">Check the Raspberry Pi documentation how to use this new device tree.</text:span></text:p>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc249_235806237"/>Fixing the High CPU Usage after a Kernel Upgrade<text:bookmark-end text:name="__RefHeading___Toc249_235806237"/></text:h>
-   <text:p text:style-name="P22">The wiringPi GPIO library used in pilight version 5.0 and lower contained a bug. This is fixed in pilight version 6 and up.</text:p>
-   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc239_235806237"/><text:soft-page-break/>Sending &amp; Receiving<text:bookmark-end text:name="__RefHeading___Toc239_235806237"/></text:h>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc252_235806237"/>The GPIO Connected Received Does Not Work<text:bookmark-end text:name="__RefHeading___Toc252_235806237"/></text:h>
-   <text:p text:style-name="P22">The most encountered reason for this problem is the quality of the receiver. A lot of users buy <text:span text:style-name="T38">unsupported (</text:span>cheap<text:span text:style-name="T38">)</text:span> receiver<text:span text:style-name="T38">s</text:span> from either e<text:span text:style-name="T38">B</text:span>ay, <text:span text:style-name="T38">D</text:span>eal<text:span text:style-name="T38">E</text:span>xtreme or similar sites <text:span text:style-name="T38">often referred to as FS1000A and XY-MK-5V</text:span>. However, these receivers have a terrible range. To make sure it <text:span text:style-name="T38">is</text:span> the receiver and not a fault in connecting the device to your Raspberry Pi, make sure to keep your remote next to the receiver. If it still fails, check then check your <text:span text:style-name="T38">connections.</text:span><text:line-break/><text:line-break/>If you do want to use pilight for controlling devices acro<text:span text:style-name="T38">s</text:span>s your house, consider buying a good quality receiver. Refer to the pilight <text:span text:style-name="T38">shop for supported peripherals.</text:span></text:p>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc254_235806237"/>I Only See Sent Codes, Not Received Ones<text:bookmark-end text:name="__RefHeading___Toc254_235806237"/></text:h>
-   <text:p text:style-name="P22">The pilight receive output always contains a<text:span text:style-name="T38">n</text:span> origin value. This means you can see from were the outputted code came from. Only if this field says <text:span text:style-name="Emphasis">receiver</text:span> you know that the code was picked up by the receiver. When it says <text:span text:style-name="Emphasis">sender</text:span> the codes has been created and processed internally. pilight processes these codes as if it was a received code so it can update the GUIs and config. Only if you see <text:span text:style-name="Emphasis">receiver</text:span> you know it was not generated by pilight. </text:p>
-   <text:h text:style-name="P70" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc256_235806237"/>Let Devices Learn New Codes Sent From pilight<text:bookmark-end text:name="__RefHeading___Toc256_235806237"/></text:h>
-   <text:p text:style-name="P21"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="0mm" svg:y="18.27mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="5">
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc245_235806237"/>Uso di altri dispositivi oltre a 433.92 M<text:span text:style-name="T44">H</text:span>z<text:bookmark-end text:name="__RefHeading___Toc245_235806237"/></text:h>
+   <text:p text:style-name="P29">pilight è stato realizzato con dispositivi a 433.92 MHz come riferimento, ma il codice non è limitato a questa frequenza. Io in realtà ho sempre scritto il codice pensando anche ad altre frequenze. L&apos;unica ragione per cui altre frequenze come ad esempio 868 MHz non sono supportate è la mancanza di tempo e la mancanza di altri sviluppatori che lo possano fare. La parte hardware di pilight completamente modulare, quindi, aggiungere il supporto per altre frequenze dovrebbe essere facile come scrivere nuovi protocolli.</text:p>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc247_235806237"/>Risoluzione di protocolli Lirc e 1-wire interrotti<text:bookmark-end text:name="__RefHeading___Toc247_235806237"/></text:h>
+   <text:p text:style-name="P29">Probabilmente avete installato l&apos;ultima versione del kernel di Raspberry Pi. Il nuovo kernel lavora con una struttura dei dispositivi ad albero in modo che il kernel sappia quali dispositivi si desideri utilizzare. Consultare la documentazione Raspberry Pi su come usare questa nuova struttura dei dispositivi.</text:p>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc249_235806237"/><text:span text:style-name="T46">A</text:span>lto utilizzo della CPU dopo un aggiornamento del kernel<text:bookmark-end text:name="__RefHeading___Toc249_235806237"/></text:h>
+   <text:p text:style-name="P29">La libreria wiringPi GPIO utilizzata in pilight versione 5.0 e inferiori conteneva un bug. Questo è stato risolto con le versioni 6 e superiori.</text:p>
+   <text:h text:style-name="P68" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc239_235806237"/><text:soft-page-break/>Trasmissione e ricezione<text:bookmark-end text:name="__RefHeading___Toc239_235806237"/></text:h>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc252_235806237"/>Il ricevitore connesso a GPIO non funziona<text:bookmark-end text:name="__RefHeading___Toc252_235806237"/></text:h>
+   <text:p text:style-name="P30"><text:span text:style-name="T45">La ragione più frequente di questo problema è la qualità del ricevitore. Molti utenti acquistano ricevitori non supportati (e a basso costo) spesso definiti come FS1000A e XY-MK-5V sia da eBay, DealExtreme o siti simili. Tuttavia, questi ricevitori hanno una portata terribilmente bassa. Per verificare che sia il ricevitore e non un difetto di collegamento al Raspberry Pi, assicurarsi di mantenere il telecomando vicino al ricevitore. Se il problema persiste, controllare i collegamenti.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T45">Desiderando utilizzare pilight per il controllo di dispositivi in tutta la vostra casa, considerate l&apos;acquisto di un ricevitore di buona qualità. Consultare lo shop pilight per le periferiche supportate.</text:span></text:p>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc254_235806237"/>Vedo solo i codici trasmessi e non quelli ricevuti<text:bookmark-end text:name="__RefHeading___Toc254_235806237"/></text:h>
+   <text:p text:style-name="P31">L&apos;output receive di pilight contiene sempre un valore di origine. Questo significa che è possibile stbilire da dove proviene il codice emesso. Solo se questo campo indica receiver si sa che il codice è stato raccolto dal ricevitore. Se indica sender i codici sono stati creati ed elaborati internamente. pilight elabora questi codici come se fosse<text:span text:style-name="T47">ro</text:span> codic<text:span text:style-name="T47">i</text:span> ricevut<text:span text:style-name="T47">i,</text:span> in modo <text:span text:style-name="T47">da potere </text:span>aggiornare le interfacce grafiche e di configurazione. Solo se è indicato receiver si sa che non <text:span text:style-name="T47">sono</text:span> stat<text:span text:style-name="T47">i</text:span> generat<text:span text:style-name="T47">i </text:span>da pilight.</text:p>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc256_235806237"/>Fare apprendere nuovi codici inviati da pilight<text:bookmark-end text:name="__RefHeading___Toc256_235806237"/></text:h>
+   <text:p text:style-name="P12"><draw:frame draw:style-name="fr1" draw:name="Frame6" text:anchor-type="paragraph" svg:x="0mm" svg:y="18.27mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="5">
      <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P47"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T38">pi@pilight: ~#pilight-send -p kaku_switch -i 1 -u 1 -t -l</text:span></text:span></text:p>
+      <text:p text:style-name="P58"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T39">pi@pilight: ~#pilight-send -p kaku_switch -i 1 -u 1 -t -l</text:span></text:span></text:p>
      </draw:text-box>
-    </draw:frame>Some protocols support the <text:span text:style-name="T27">learning. This learn feature temporarily sent an increasing amount of codes to the device. Check the protocol send arguments if your protocol support it. For example, the KlikAanKlikUit protocol does this as follows:</text:span></text:p>
-   <text:h text:style-name="P79" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc258_235806237"/>Configuration<text:bookmark-end text:name="__RefHeading___Toc258_235806237"/></text:h>
-   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc260_235806237"/>How to Use Raw Codes in the Configuration<text:bookmark-end text:name="__RefHeading___Toc260_235806237"/></text:h>
-   <text:p text:style-name="P89">This is not possible, because pilight cannot know what these codes mean and how to interpret them.</text:p>
-   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc262_235806237"/>How to Fix an Empty webGUI<text:bookmark-end text:name="__RefHeading___Toc262_235806237"/></text:h>
-   <text:p text:style-name="P89">You need to add devices to the &quot;GUI&quot; section of config.json as well, not just the &quot;devices&quot; section.</text:p>
-   <text:h text:style-name="P80" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc265_235806237"/>Compilation<text:bookmark-end text:name="__RefHeading___Toc265_235806237"/></text:h>
-   <text:h text:style-name="P84" text:outline-level="3"><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="paragraph" svg:x="0mm" svg:y="10.94mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="6">
+    </draw:frame>Alcuni protocolli supportano l&apos;apprendimento. Questa funzione di apprendimento invia temporaneamente una quantità crescente di codici al dispositivo. Controllare sender arguments nella sezione protocolli per vedere se la funzione è supportata. Ad esempio, con il protocollo KlikAanKlikUit si fa in questo modo:</text:p>
+   <text:h text:style-name="P67" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc258_235806237"/>Configura<text:span text:style-name="T41">zione</text:span><text:bookmark-end text:name="__RefHeading___Toc258_235806237"/></text:h>
+   <text:h text:style-name="P90" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc260_235806237"/>Come utilizzare i codici raw nella configurazione<text:bookmark-end text:name="__RefHeading___Toc260_235806237"/></text:h>
+   <text:p text:style-name="P12">Questo non è possibile, perché pilight non può conoscere il significato di questi codici e come interpretarl<text:span text:style-name="T47">i</text:span>.</text:p>
+   <text:h text:style-name="P90" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc262_235806237"/>Come risolvere una WebGUI vuota<text:bookmark-end text:name="__RefHeading___Toc262_235806237"/></text:h>
+   <text:p text:style-name="P12">È necessario aggiungere i dispositivi nella sezione &quot;GUI&quot; di config.json, non solo nella sezione &quot;devices&quot;.</text:p>
+   <text:h text:style-name="P45" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc265_235806237"/>Compila<text:span text:style-name="T42">zione</text:span><text:bookmark-end text:name="__RefHeading___Toc265_235806237"/></text:h>
+   <text:h text:style-name="P90" text:outline-level="3"><draw:frame draw:style-name="fr1" draw:name="Frame7" text:anchor-type="paragraph" svg:x="0mm" svg:y="10.94mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="6">
      <draw:text-box fo:min-height="0.41mm">
       <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">-- Looking for libunwind</text:span></text:p>
       <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">CMake Error at CMakeLists.txt:42 (message):</text:span></text:p>
@@ -1348,22 +1413,22 @@
       <text:p text:style-name="Terminal"/>
       <text:p text:style-name="Terminal"><text:span text:style-name="Source_20_Text">-- Configuring incomplete, errors occurred!</text:span></text:p>
      </draw:text-box>
-    </draw:frame><text:bookmark-start text:name="__RefHeading___Toc267_235806237"/>How to Fix Errors About Missing Dependencies<text:bookmark-end text:name="__RefHeading___Toc267_235806237"/></text:h>
-   <text:p text:style-name="P89">If you get this or a similar error, it means you are missing some of the required dependencies pilight needs. Currently, these dependencies are:</text:p>
-   <text:list xml:id="list8551249973610254921" text:style-name="L2">
+    </draw:frame><text:bookmark-start text:name="__RefHeading___Toc267_235806237"/>Come correggere gli errori relativi alle dipendenze mancanti<text:bookmark-end text:name="__RefHeading___Toc267_235806237"/></text:h>
+   <text:p text:style-name="P12">Se si ottiene un errore simile, significa che mancano alcune delle dipendenze richieste da pilight. Attualmente, queste dipendenze sono:</text:p>
+   <text:list xml:id="list6684946433861631068" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P88">libunwind</text:p>
+     <text:p text:style-name="P95">libunwind</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P88">libpcap</text:p>
+     <text:p text:style-name="P95">libpcap</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P68">It depends on your platform how to install these dependencies.</text:p>
-   <text:h text:style-name="P55" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc269_235806237"/>Myths<text:bookmark-end text:name="__RefHeading___Toc269_235806237"/></text:h>
-   <text:h text:style-name="P71" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc271_235806237"/>pilight Support for Domoticz and pimatic<text:bookmark-end text:name="__RefHeading___Toc271_235806237"/></text:h>
-   <text:p text:style-name="P24">The possibility is there, but it <text:span text:style-name="T39">is</text:span> up to the developer of Domoticz <text:span text:style-name="T39">and pimatic </text:span>to <text:span text:style-name="T39">(re-)</text:span>add support.</text:p>
-   <text:h text:style-name="P71" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc273_235806237"/>The Raspberry Pi is Not Fast Enough To Handle Domotica Software<text:bookmark-end text:name="__RefHeading___Toc273_235806237"/></text:h>
-   <text:p text:style-name="Text_20_body">Although almost all available <text:span text:style-name="T39">D</text:span>omotica solutions for the Raspberry Pi use external hardware such as the RFXCom and Tellstick. pilight proves that with even the most simple hardware, the Raspberry Pi can be turned into a full domotica solution. Even without filtering the receiver noise, the Raspberry Pi can easily process all pulses. Without low-pass filter, pilight currently uses around 40% CPU power. That leaves a lot of resources for other applications. However, the RF receivers can drain the GPIO buffers, so if you use pilight without some sort of hardware filtering, no other GPIO intensive applications can be used <text:span text:style-name="T39">simultaneously</text:span>, such as IR receiving with LIRC. </text:p>
+   <text:p text:style-name="P85">Come installare queste dipendenze dipende dalla vostra piattaforma.</text:p>
+   <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc269_235806237"/>M<text:span text:style-name="T42">iti</text:span><text:bookmark-end text:name="__RefHeading___Toc269_235806237"/></text:h>
+   <text:h text:style-name="P92" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc271_235806237"/>Supporto di pilight <text:span text:style-name="T46">per</text:span> Domoticz e pimatic<text:bookmark-end text:name="__RefHeading___Toc271_235806237"/></text:h>
+   <text:p text:style-name="P32">La possibilità c&apos;è, ma spetta agli sviluppatore di Domoticz e pimatic aggiungere (o aggiungere <text:span text:style-name="T47">nuovamente</text:span>) il supporto.</text:p>
+   <text:h text:style-name="P92" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc273_235806237"/>Raspberry Pi non è sufficientemente veloce per gestire un software domotico<text:bookmark-end text:name="__RefHeading___Toc273_235806237"/></text:h>
+   <text:p text:style-name="P33">Quasi tutte le soluzioni disponibili per la Domotica su Raspberry Pi utilizzano hardware esterno come RFXCom e Tellstick. pilight dimostra che anche con l&apos;hardware più semplice un Raspberry Pi può essere trasformato in una soluzione domotica completa. Anche senza dover filtrare il rumore del ricevitore, il Raspberry Pi può facilmente elaborare tutti gli impulsi. Senza filtro passa-basso, pilight utilizza circa il 40% della CPU. Questo lascia molte risorse per altre applicazioni. Tuttavia, i ricevitori RF possono svuotare i buffer GPIO, quindi se si utilizza pilight senza una sorta di filtraggio hardware, non si possono usare contemporaneamente altre applicazioni intensive GPIO, come ad esempio la ricezione di IR con LIRC.</text:p>
   </office:text>
  </office:body>
 </office:document>
