@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.4.1$Windows_x86 LibreOffice_project/bc356b2f991740509f321d70e4512a6a54c5f243</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="188" meta:word-count="2162" meta:character-count="14985" meta:non-whitespace-character-count="13009"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.4.1$Windows_x86 LibreOffice_project/bc356b2f991740509f321d70e4512a6a54c5f243</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="188" meta:word-count="2116" meta:character-count="14728" meta:non-whitespace-character-count="12798"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">2540</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32704</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">15083</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11206</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">196353</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7620</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3203</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">2540</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32703</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">15081</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">17621</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -58,7 +58,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">6812567</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7047475</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -1542,68 +1542,131 @@
   <style:style style:name="P317" style:family="paragraph" style:parent-style-name="Code" style:list-style-name="Code_20_Numbering">
    <style:text-properties fo:font-style="normal" officeooo:rsid="0044247e" officeooo:paragraph-rsid="0052f39d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P318" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="005c2ece" officeooo:paragraph-rsid="005c2ece"/>
-  </style:style>
-  <style:style style:name="P319" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P318" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="004497a8" officeooo:paragraph-rsid="004497a8"/>
   </style:style>
-  <style:style style:name="P320" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P319" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="005c2ece"/>
+  </style:style>
+  <style:style style:name="P320" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="it" fo:country="IT"/>
   </style:style>
   <style:style style:name="P321" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="it" fo:country="IT"/>
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="005c2ece" officeooo:paragraph-rsid="005c2ece"/>
   </style:style>
   <style:style style:name="P322" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="005c2ece" officeooo:paragraph-rsid="005c2ece"/>
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00452416" officeooo:paragraph-rsid="00452416"/>
   </style:style>
   <style:style style:name="P323" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00452416" officeooo:paragraph-rsid="00452416"/>
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb"/>
   </style:style>
   <style:style style:name="P324" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb"/>
-  </style:style>
-  <style:style style:name="P325" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P326" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P325" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="005c2ece" officeooo:paragraph-rsid="005c2ece"/>
+  </style:style>
+  <style:style style:name="P326" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="005c2ece" officeooo:paragraph-rsid="0069a71e"/>
+  </style:style>
+  <style:style style:name="P327" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="0069a71e" officeooo:paragraph-rsid="0069a71e"/>
+  </style:style>
+  <style:style style:name="P328" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="005dca9f" officeooo:paragraph-rsid="0069a71e"/>
+  </style:style>
+  <style:style style:name="P329" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="005f70fe" officeooo:paragraph-rsid="0069a71e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P330" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="005228cf" officeooo:paragraph-rsid="006b8933" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P331" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="006311df" officeooo:paragraph-rsid="006b8933" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P332" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="00639ca0" officeooo:paragraph-rsid="006b8933" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P333" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="0064e386" officeooo:paragraph-rsid="006b8933" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P334" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="006182f6" officeooo:paragraph-rsid="0069a71e"/>
+  </style:style>
+  <style:style style:name="P335" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="006182f6" officeooo:paragraph-rsid="006b8933"/>
+  </style:style>
+  <style:style style:name="P336" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00639ca0" officeooo:paragraph-rsid="006b8933"/>
+  </style:style>
+  <style:style style:name="P337" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#000000" fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="0069a71e" officeooo:paragraph-rsid="0069a71e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P338" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#000000" fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="005dca9f" officeooo:paragraph-rsid="0069a71e" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P339" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="006b8933"/>
+  </style:style>
+  <style:style style:name="P340" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT"/>
   </style:style>
-  <style:style style:name="P327" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P341" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P328" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P342" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" fo:font-style="italic" officeooo:rsid="0044247e" officeooo:paragraph-rsid="0044247e" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P329" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P343" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" fo:font-style="italic" officeooo:rsid="00452416" officeooo:paragraph-rsid="00452416" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P330" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P344" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" fo:font-style="italic" officeooo:rsid="00504cdb" officeooo:paragraph-rsid="00504cdb" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P331" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P345" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" officeooo:paragraph-rsid="004ca98c"/>
   </style:style>
-  <style:style style:name="P332" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P346" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="00470099" officeooo:paragraph-rsid="00470099"/>
   </style:style>
-  <style:style style:name="P333" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P347" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="004a231f" officeooo:paragraph-rsid="004a231f"/>
   </style:style>
-  <style:style style:name="P334" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P348" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="004a231f" officeooo:paragraph-rsid="004b6726"/>
   </style:style>
-  <style:style style:name="P335" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P349" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties fo:language="it" fo:country="IT" officeooo:rsid="004b6726" officeooo:paragraph-rsid="004b6726"/>
   </style:style>
-  <style:style style:name="P336" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P350" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="it" fo:country="IT"/>
+  </style:style>
+  <style:style style:name="P351" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="179.62mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P352" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="174.63mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P353" style:family="paragraph" style:parent-style-name="Contents_20_4">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="169.63mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00034f41"/>
@@ -1753,460 +1816,484 @@
    <style:text-properties fo:color="#000000" fo:font-style="normal" officeooo:rsid="0056e92a" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" officeooo:rsid="004ca98c" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" officeooo:rsid="0069a71e" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" officeooo:rsid="004ca98c" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="00483351" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004a231f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="00483351" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004fd3b8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004a231f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004ca98c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004fd3b8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004ca98c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004ca98c" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004ca98c" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="004ca98c" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="004497a8" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="004ca98c" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="00550d3c" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="004497a8" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="004a231f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="00550d3c" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-style="italic" style:text-underline-style="none" officeooo:rsid="004a231f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" fo:font-style="italic" officeooo:rsid="004a231f" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties fo:color="#000000" officeooo:rsid="00483351"/>
+   <style:text-properties fo:color="#000000" fo:font-style="italic" style:text-underline-style="none" officeooo:rsid="004a231f" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties fo:color="#000000" officeooo:rsid="004a231f"/>
+   <style:text-properties fo:color="#000000" officeooo:rsid="00483351"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties fo:color="#000000" officeooo:rsid="004b6726"/>
+   <style:text-properties fo:color="#000000" officeooo:rsid="004a231f"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:color="#000000" style:text-underline-style="none"/>
+   <style:text-properties fo:color="#000000" officeooo:rsid="004b6726"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:color="#000000" style:text-underline-style="none" officeooo:rsid="00483351"/>
+   <style:text-properties fo:color="#000000" style:text-underline-style="none"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:color="#000000" officeooo:rsid="00504cdb"/>
+   <style:text-properties fo:color="#000000" style:text-underline-style="none" officeooo:rsid="00483351"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="004b6726" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" officeooo:rsid="00504cdb"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="00504cdb" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="004b6726" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="005228cf" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="00504cdb" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="0052f39d" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="005228cf" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="00536698" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="0052f39d" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="it" fo:country="IT" fo:font-weight="normal" officeooo:rsid="004b6726" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" fo:font-weight="normal" officeooo:rsid="00536698" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties officeooo:rsid="00277635"/>
+   <style:text-properties fo:color="#000000" fo:language="it" fo:country="IT" fo:font-weight="normal" officeooo:rsid="004b6726" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties officeooo:rsid="00289ca6"/>
+   <style:text-properties officeooo:rsid="00277635"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="00289ca6"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties officeooo:rsid="002919b0"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties officeooo:rsid="00298cd8"/>
+   <style:text-properties officeooo:rsid="002919b0"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T84" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="0039f5ee" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties officeooo:rsid="002b886c"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0039f5ee" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
-   <style:text-properties fo:color="#ff3333"/>
+   <style:text-properties officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T87" style:family="text">
-   <style:text-properties fo:color="#ff3333" officeooo:rsid="00289ca6"/>
+   <style:text-properties fo:color="#ff3333"/>
   </style:style>
   <style:style style:name="T88" style:family="text">
-   <style:text-properties fo:color="#ff3333" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#ff3333" officeooo:rsid="00289ca6"/>
   </style:style>
   <style:style style:name="T89" style:family="text">
-   <style:text-properties fo:color="#ff3333" officeooo:rsid="00298cd8"/>
+   <style:text-properties fo:color="#ff3333" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T90" style:family="text">
-   <style:text-properties fo:color="#ff3333" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#ff3333" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T91" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
+   <style:text-properties fo:color="#ff3333" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T92" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
   </style:style>
   <style:style style:name="T93" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
+   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T94" style:family="text">
-   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T95" style:family="text">
-   <style:text-properties fo:color="#ffffff"/>
+   <style:text-properties fo:color="#ff3333" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T96" style:family="text">
-   <style:text-properties fo:color="#ffffff" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#ffffff"/>
   </style:style>
   <style:style style:name="T97" style:family="text">
-   <style:text-properties fo:color="#ffffff" officeooo:rsid="002b886c" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#ffffff" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T98" style:family="text">
-   <style:text-properties fo:color="#ffffff" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#ffffff" officeooo:rsid="002b886c" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T99" style:family="text">
-   <style:text-properties fo:color="#ffffff" officeooo:rsid="002bd75e"/>
+   <style:text-properties fo:color="#ffffff" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T100" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#ffffff" officeooo:rsid="002bd75e"/>
   </style:style>
   <style:style style:name="T101" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#ffffff" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T102" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002b886c" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T103" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002b886c" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T104" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
+   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T105" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
   </style:style>
   <style:style style:name="T106" style:family="text">
-   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T107" style:family="text">
-   <style:text-properties fo:color="#33ff99"/>
+   <style:text-properties fo:color="#ffffff" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T108" style:family="text">
-   <style:text-properties fo:color="#33ff99" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#33ff99"/>
   </style:style>
   <style:style style:name="T109" style:family="text">
-   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8"/>
+   <style:text-properties fo:color="#33ff99" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T110" style:family="text">
-   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T111" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB"/>
+   <style:text-properties fo:color="#33ff99" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T112" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T113" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T114" style:family="text">
-   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="002b886c"/>
   </style:style>
   <style:style style:name="T115" style:family="text">
-   <style:text-properties officeooo:rsid="002bd75e"/>
+   <style:text-properties fo:color="#33ff99" fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T116" style:family="text">
-   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="002bd75e"/>
   </style:style>
   <style:style style:name="T117" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T118" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="002d482f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T119" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00335d24" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="002d482f" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T120" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00345b93" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00335d24" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T121" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="004497a8" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00345b93" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T122" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="004fd3b8" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="004497a8" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T123" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00483351" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="004fd3b8" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T124" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0052f39d" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00483351" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T125" style:family="text">
-   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0052f39d" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T126" style:family="text">
-   <style:text-properties fo:font-style="italic" style:text-underline-style="none" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T127" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" style:text-underline-style="none" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T128" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T129" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T130" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T131" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00335d24" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T132" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00335d24" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T133" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T134" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="004497a8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T135" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00483351" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="004497a8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T136" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="004b6726" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00483351" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T137" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="004ca98c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="004b6726" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T138" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="004fd3b8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="004ca98c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T139" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="004fd3b8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T140" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="005228cf" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T141" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0052a094" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005228cf" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T142" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0052f39d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0052a094" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T143" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00536698" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0052f39d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T144" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="0054550d" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00536698" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T145" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="005c2ece" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0054550d" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T146" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00613765" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="005c2ece" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T147" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00653c36" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00613765" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T148" style:family="text">
-   <style:text-properties fo:font-style="normal" style:text-underline-style="none" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00653c36" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T149" style:family="text">
-   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004fd3b8" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0069a71e" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T150" style:family="text">
-   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="00550d3c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="006b8933" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T151" style:family="text">
-   <style:text-properties fo:font-style="normal" style:text-underline-style="dotted" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T152" style:family="text">
-   <style:text-properties fo:font-style="normal" style:text-underline-style="dotted" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="005228cf" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="004fd3b8" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T153" style:family="text">
-   <style:text-properties fo:font-style="normal" style:text-underline-style="dotted" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="00536698" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="00550d3c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T154" style:family="text">
-   <style:text-properties officeooo:rsid="002d482f"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" officeooo:rsid="0069a71e" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T155" style:family="text">
-   <style:text-properties officeooo:rsid="00319e73"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="dotted" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T156" style:family="text">
-   <style:text-properties officeooo:rsid="0032e547"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="dotted" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="005228cf" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T157" style:family="text">
-   <style:text-properties officeooo:rsid="00335d24"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="dotted" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="00536698" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T158" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:text-properties officeooo:rsid="002d482f"/>
   </style:style>
   <style:style style:name="T159" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
+   <style:text-properties officeooo:rsid="00319e73"/>
   </style:style>
   <style:style style:name="T160" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="0032e547"/>
   </style:style>
   <style:style style:name="T161" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="00335d24"/>
   </style:style>
   <style:style style:name="T162" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T163" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T164" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T165" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T166" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T167" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T168" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T169" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
   </style:style>
   <style:style style:name="T170" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
   </style:style>
   <style:style style:name="T171" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T172" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T173" style:family="text">
-   <style:text-properties officeooo:rsid="003792a9"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T174" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547"/>
   </style:style>
   <style:style style:name="T175" style:family="text">
-   <style:text-properties officeooo:rsid="00362983"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983"/>
   </style:style>
   <style:style style:name="T176" style:family="text">
-   <style:text-properties officeooo:rsid="00384f76"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76"/>
   </style:style>
   <style:style style:name="T177" style:family="text">
-   <style:text-properties fo:color="#3333ff"/>
+   <style:text-properties officeooo:rsid="003792a9"/>
   </style:style>
   <style:style style:name="T178" style:family="text">
-   <style:text-properties officeooo:rsid="0039f5ee"/>
+   <style:text-properties style:font-name="Liberation Mono2"/>
   </style:style>
   <style:style style:name="T179" style:family="text">
-   <style:text-properties officeooo:rsid="003e698d"/>
+   <style:text-properties officeooo:rsid="00362983"/>
   </style:style>
   <style:style style:name="T180" style:family="text">
-   <style:text-properties officeooo:rsid="00430678"/>
+   <style:text-properties officeooo:rsid="00384f76"/>
   </style:style>
   <style:style style:name="T181" style:family="text">
-   <style:text-properties officeooo:rsid="0044247e"/>
+   <style:text-properties fo:color="#3333ff"/>
   </style:style>
   <style:style style:name="T182" style:family="text">
-   <style:text-properties officeooo:rsid="004497a8"/>
+   <style:text-properties officeooo:rsid="0039f5ee"/>
   </style:style>
   <style:style style:name="T183" style:family="text">
-   <style:text-properties officeooo:rsid="00470099"/>
+   <style:text-properties officeooo:rsid="003e698d"/>
   </style:style>
   <style:style style:name="T184" style:family="text">
-   <style:text-properties officeooo:rsid="00483351"/>
+   <style:text-properties officeooo:rsid="00430678"/>
   </style:style>
   <style:style style:name="T185" style:family="text">
-   <style:text-properties officeooo:rsid="004a231f"/>
+   <style:text-properties officeooo:rsid="0044247e"/>
   </style:style>
   <style:style style:name="T186" style:family="text">
-   <style:text-properties officeooo:rsid="004b6726"/>
+   <style:text-properties officeooo:rsid="004497a8"/>
   </style:style>
   <style:style style:name="T187" style:family="text">
-   <style:text-properties officeooo:rsid="004ca98c"/>
+   <style:text-properties officeooo:rsid="00470099"/>
   </style:style>
   <style:style style:name="T188" style:family="text">
-   <style:text-properties officeooo:rsid="004fd3b8"/>
+   <style:text-properties officeooo:rsid="00483351"/>
   </style:style>
   <style:style style:name="T189" style:family="text">
-   <style:text-properties officeooo:rsid="00504cdb"/>
+   <style:text-properties officeooo:rsid="004a231f"/>
   </style:style>
   <style:style style:name="T190" style:family="text">
-   <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="004b6726"/>
   </style:style>
   <style:style style:name="T191" style:family="text">
-   <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="0052a094" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="004ca98c"/>
   </style:style>
   <style:style style:name="T192" style:family="text">
-   <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="00613765" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="004fd3b8"/>
   </style:style>
   <style:style style:name="T193" style:family="text">
-   <style:text-properties officeooo:rsid="005228cf"/>
+   <style:text-properties officeooo:rsid="00504cdb"/>
   </style:style>
   <style:style style:name="T194" style:family="text">
-   <style:text-properties officeooo:rsid="0052a094"/>
+   <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="00504cdb" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T195" style:family="text">
-   <style:text-properties officeooo:rsid="0052f39d"/>
+   <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="0052a094" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T196" style:family="text">
-   <style:text-properties officeooo:rsid="005c2ece"/>
+   <style:text-properties fo:color="#d15151" fo:font-style="normal" officeooo:rsid="00613765" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T197" style:family="text">
-   <style:text-properties officeooo:rsid="00613765"/>
+   <style:text-properties officeooo:rsid="005228cf"/>
   </style:style>
   <style:style style:name="T198" style:family="text">
-   <style:text-properties fo:language="it" fo:country="IT"/>
+   <style:text-properties officeooo:rsid="0052a094"/>
   </style:style>
   <style:style style:name="T199" style:family="text">
-   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="005c2ece" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="0052f39d"/>
   </style:style>
   <style:style style:name="T200" style:family="text">
-   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="00653c36" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="005c2ece"/>
   </style:style>
   <style:style style:name="T201" style:family="text">
+   <style:text-properties officeooo:rsid="00613765"/>
+  </style:style>
+  <style:style style:name="T202" style:family="text">
+   <style:text-properties fo:language="it" fo:country="IT"/>
+  </style:style>
+  <style:style style:name="T203" style:family="text">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="005c2ece" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T204" style:family="text">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="00653c36" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T205" style:family="text">
    <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="00536698" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T206" style:family="text">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" officeooo:rsid="006b8933" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T207" style:family="text">
+   <style:text-properties fo:language="it" fo:country="IT" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00653c36" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T208" style:family="text">
+   <style:text-properties officeooo:rsid="0069a71e"/>
+  </style:style>
+  <style:style style:name="T209" style:family="text">
+   <style:text-properties officeooo:rsid="006b8933"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Terminal">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" loext:rel-width-rel="paragraph"/>
@@ -2331,85 +2418,85 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P221"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc327_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Impostazioni<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P258"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc329_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduzione<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P258"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc331_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Core<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc333_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">port<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc335_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">standalone<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc339_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">pid-file<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc436_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-file<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc439_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-level<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc404_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">whitelist<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc432_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">stats-enable<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc434_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">watchdog-enable<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P258"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc343_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Percorsi dei moduli<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc350_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">action-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">function-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">hardware-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">operator-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc358_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">protocol-root<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P258"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc406_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Webserver<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc408_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webgui-websockets<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc410_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-authentication<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc412_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-cache<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc414_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-enable<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc416_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-http-port<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc418_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-https-port<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc420_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-root<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc422_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-user<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P258"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc953_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Firmware<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc955_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-miso<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc957_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-mosi<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc959_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-reset<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc961_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-sck<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P258"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc963_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">SMTP<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc965_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-sender<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc967_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-user<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc969_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-password<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc971_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-host<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc973_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-port<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P258"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Varia<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P281"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc994_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">ntp-servers<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P351"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc327_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Impostazioni<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P352"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc329_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introduzione<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P352"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc331_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Core<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc333_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">port<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc335_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">standalone<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc339_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">pid-file<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc436_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-file<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc439_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">log-level<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc404_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">whitelist<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc432_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">stats-enable<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc434_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">watchdog-enable<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P352"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc343_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Percorsi dei moduli<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc350_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">action-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc352_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">function-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc354_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">hardware-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc356_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">operator-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc358_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">protocol-root<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P352"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc406_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Webserver<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc408_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webgui-websockets<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc410_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-authentication<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc412_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-cache<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc414_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-enable<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc416_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-http-port<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc418_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-https-port<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc420_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-root<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc422_1192441429" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">webserver-user<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P352"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc953_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Firmware<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc955_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-miso<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc957_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-mosi<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc959_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-reset<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc961_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">firmware-gpio-sck<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P352"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc963_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">SMTP<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc965_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-sender<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc967_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-user<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc969_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-password<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc971_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-host<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc973_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">smtp-port<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P352"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Varia<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P353"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc994_447746535" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">ntp-servers<text:tab/>9</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P107"/>
-   <text:h text:style-name="P194" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc329_1192441429"/>Introdu<text:span text:style-name="T196">zione</text:span><text:bookmark-end text:name="__RefHeading___Toc329_1192441429"/></text:h>
-   <text:p text:style-name="P108">Le funzioni pilight possono essere alterate modificando varie impostazioni. Tutte le impostazioni pilight saranno descritte in questo capitolo raggruppate secondo la loro rispettiva categoria.</text:p>
+   <text:h text:style-name="P194" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc329_1192441429"/>Introdu<text:span text:style-name="T200">zione</text:span><text:bookmark-end text:name="__RefHeading___Toc329_1192441429"/></text:h>
+   <text:p text:style-name="P326">Le funzioni pilight possono essere alterate modificando varie impostazioni. <text:span text:style-name="T208">Tutte le impostazioni sono descritte in questo capitolo raggruppate secondo la loro categoria.</text:span></text:p>
    <text:h text:style-name="P145" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc331_1192441429"/>Core<text:bookmark-end text:name="__RefHeading___Toc331_1192441429"/></text:h>
-   <text:h text:style-name="P272" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc333_1192441429"/><text:span text:style-name="T181">p</text:span>ort<text:bookmark-end text:name="__RefHeading___Toc333_1192441429"/></text:h>
+   <text:h text:style-name="P272" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc333_1192441429"/><text:span text:style-name="T185">p</text:span>ort<text:bookmark-end text:name="__RefHeading___Toc333_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie1">
-    <text:p text:style-name="P65">Linux, *<text:span text:style-name="T186">BSD, e</text:span> Windows<text:line-break/><text:span text:style-name="T197">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list1446777566634085414" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P65">Linux, *<text:span text:style-name="T190">BSD, e</text:span> Windows<text:line-break/><text:span text:style-name="T201">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list3608326243305350378" text:style-name="Code_20_Numbering">
      <text:list-item>
-      <text:p text:style-name="P247"><text:span text:style-name="T8">&quot;port&quot;</text:span>: <text:span text:style-name="T184">5000</text:span></text:p>
+      <text:p text:style-name="P247"><text:span text:style-name="T8">&quot;port&quot;</text:span>: <text:span text:style-name="T188">5000</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P108"><text:span text:style-name="T130">Come impostazione predefinita, pilight utilizza un porta casuale per il suo server socket. Se si desidera un porta fisso utilizzare l&apos;impostazione </text:span><text:span text:style-name="T117">port</text:span><text:span text:style-name="T130">.</text:span></text:p>
+   <text:p text:style-name="P326"><text:span text:style-name="T131">Come impostazione predefinita, pilight utilizza un porta casuale per il suo </text:span><text:span text:style-name="T149">socket server</text:span><text:span text:style-name="T131">. Se si desidera un</text:span><text:span text:style-name="T149">a</text:span><text:span text:style-name="T131"> porta fiss</text:span><text:span text:style-name="T149">a</text:span><text:span text:style-name="T131"> utilizzare l&apos;impostazione </text:span><text:span text:style-name="T118">port</text:span><text:span text:style-name="T131">.</text:span></text:p>
    <text:h text:style-name="P273" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc335_1192441429"/>standalone<text:bookmark-end text:name="__RefHeading___Toc335_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie2">
-    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003339150936" text:continue-list="list1446777566634085414" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401442174238" text:continue-list="list3608326243305350378" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P247"><text:span text:style-name="T14">&quot;standalone&quot;</text:span><text:span text:style-name="T44">: 0</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P109"><text:span text:style-name="T138">All&apos;avvio pilight in primo luogo verifica se ci siano altre istanze pilight in esecuzione all&apos;interno della stessa rete. Se ci sono, si collegherà alle altre istanze pilight con una rete ad hoc se già esiste o ne creerà una nuova. Volendo forzare l&apos;esecuzione come &quot;standalone deamon&quot;, è possibile impostare </text:span><text:span text:style-name="T122">standalone</text:span><text:span text:style-name="T138"> a 1. Quando l&apos;esecuzione pilight é in modalità autonoma, il server SSDP sarà disabilitato. Ciò significa che altri client pilight non saranno in grado di individuarlo utilizzando SSDP.</text:span></text:p>
+   <text:p text:style-name="P327"><text:span text:style-name="T139">All&apos;avvio pilight in primo luogo verifica se ci sono altre istanze in esecuzione all&apos;interno della stessa rete. In caso affermativo, si collegherà alle altre istanze tramite una rete ad hoc se già esiste o ne creerà una nuova. Se si vuole forzare l&apos;esecuzione a deamon autonomo, impostare standalone a 1. Quando l&apos;esecuzione é in modalità autonoma, il server SSDP è disabilitato. Ciò significa che altri client pilight non saranno in grado di individuarlo utilizzando SSDP.</text:span></text:p>
    <text:h text:style-name="P272" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc339_1192441429"/>pid-file<text:bookmark-end text:name="__RefHeading___Toc339_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie3">
-    <text:p text:style-name="P66"><text:span text:style-name="T130">Linux </text:span><text:span text:style-name="T146">e</text:span><text:span text:style-name="T130"> *</text:span><text:span text:style-name="T136">BSD</text:span></text:p>
-    <text:list xml:id="list185003339175053" text:continue-list="list185003339150936" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P66"><text:span text:style-name="T131">Linux </text:span><text:span text:style-name="T147">e</text:span><text:span text:style-name="T131"> *</text:span><text:span text:style-name="T137">BSD</text:span></text:p>
+    <text:list xml:id="list112401458167970" text:continue-list="list112401442174238" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P233"><text:span text:style-name="T13">&quot;</text:span><text:span text:style-name="T14">pid-file</text:span><text:span text:style-name="T13">&quot;</text:span><text:span text:style-name="T42">: </text:span><text:span text:style-name="T14">&quot;/var/run/pilight.pid&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P80">Il <text:span text:style-name="T117">pid-file</text:span> è usato da pilight per salvare il numero id del processo del daemon pilight. pilight utilizza questa informazione come uno dei modi per determinare se pilight è già in esecuzione o meno. Questa impostazione deve contenere un percorso valido per memorizzare il file pid.</text:p>
+   <text:p text:style-name="P337">Il pid-file è usato per memorizzare il numero id del processo del daemon. Questa informazione costituisce uno dei modi per determinare se pilight sia già in esecuzione o meno. Questa impostazione deve contenere un percorso valido per memorizzare il file pid.</text:p>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc436_1192441429"/>log-file<text:bookmark-end text:name="__RefHeading___Toc436_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie4">
-    <text:p text:style-name="P66"><text:span text:style-name="T130">Linux </text:span><text:span text:style-name="T146">e</text:span><text:span text:style-name="T136"> </text:span><text:span text:style-name="T130">*</text:span><text:span text:style-name="T136">BSD</text:span><text:span text:style-name="T130"><text:line-break/></text:span><text:span text:style-name="T135">Windows</text:span></text:p>
-    <text:list xml:id="list185003339160450" text:continue-list="list185003339175053" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P66"><text:span text:style-name="T131">Linux </text:span><text:span text:style-name="T147">e</text:span><text:span text:style-name="T137"> </text:span><text:span text:style-name="T131">*</text:span><text:span text:style-name="T137">BSD</text:span><text:span text:style-name="T131"><text:line-break/></text:span><text:span text:style-name="T136">Windows</text:span></text:p>
+    <text:list xml:id="list112401458180639" text:continue-list="list112401458167970" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P248"><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T14">log-file</text:span><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T43">: </text:span><text:span text:style-name="T14">&quot;/var/log/pilight.log&quot;</text:span></text:p>
      </text:list-item>
@@ -2418,187 +2505,187 @@
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P80">Il <text:span text:style-name="T117">log-file</text:span> è usato da pilight per salvare le varie informazioni raccolte durante l&apos;esecuzione. Queste informazioni possono essere utilizzate per il debug di errori o per raccogliere informazioni sulle azioni attivate. Questa impostazione deve contenere un percorso valido per memorizzare il file di log.</text:p>
-   <text:h text:style-name="P276" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc439_1192441429"/>log-<text:span text:style-name="T187">level</text:span><text:bookmark-end text:name="__RefHeading___Toc439_1192441429"/></text:h>
+   <text:p text:style-name="P338">Il <text:span text:style-name="T118">log-file</text:span> è usato da pilight per salvare le varie informazioni raccolte durante l&apos;esecuzione. <text:span text:style-name="T208">Queste possono essere utilizzate per il debug di errori o per raccogliere informazioni sulle azioni attivate.</text:span> Questa impostazione deve contenere un percorso valido per memorizzare il file log.</text:p>
+   <text:h text:style-name="P276" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc439_1192441429"/>log-<text:span text:style-name="T191">level</text:span><text:bookmark-end text:name="__RefHeading___Toc439_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie21">
-    <text:p text:style-name="P67"><text:span text:style-name="T130">Linux, *</text:span><text:span text:style-name="T136">BSD, </text:span><text:span text:style-name="T146">e</text:span><text:span text:style-name="T137"> </text:span><text:span text:style-name="T135">Windows</text:span></text:p>
-    <text:list xml:id="list185003354167890" text:continue-list="list185003339160450" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P67"><text:span text:style-name="T131">Linux, *</text:span><text:span text:style-name="T137">BSD, </text:span><text:span text:style-name="T147">e</text:span><text:span text:style-name="T138"> </text:span><text:span text:style-name="T136">Windows</text:span></text:p>
+    <text:list xml:id="list112401458175934" text:continue-list="list112401458180639" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P249"><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T14">log-</text:span><text:span text:style-name="T16">level</text:span><text:span text:style-name="T15">&quot;</text:span><text:span text:style-name="T43">: </text:span><text:span text:style-name="T46">4</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P110"><text:span text:style-name="T48">Il </text:span><text:span text:style-name="T61">log-level</text:span><text:span text:style-name="T48"> indica a pilight quali messaggi deve registrare nel file di log. Più alto è il livello di log più messaggi vengono registrati. Il più alto log-level è 6 e il più basso è 0. Questi log-level corrispondono ai seguenti tipi di registrazione: 0 = emergenza, 1 = allarme, 2 = critico, 3 = errore, 4 = avvertimento, 5 = notifica e 6 = informazioni.</text:span></text:p>
+   <text:p text:style-name="P328"><text:span text:style-name="T48">Il </text:span><text:span text:style-name="T62">log-level</text:span><text:span text:style-name="T48"> indica a pilight quali messaggi deve registrare nel file log. </text:span><text:span text:style-name="T50">Maggiore è il valore di log-level, più messaggi vengono registrati.</text:span><text:span text:style-name="T48"> Il più alto log-level è 6 e il più basso è 0. Questi log-level corrispondono ai seguenti tipi di registrazione: 0 = emergenza, 1 = allarme, 2 = critico, 3 = errore, 4 = avvertimento, 5 = notifica e 6 = informazioni.</text:span></text:p>
    <text:h text:style-name="P201" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc404_1192441429"/>whitelist<text:bookmark-end text:name="__RefHeading___Toc404_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie18">
-    <text:p text:style-name="P69">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003354155336" text:continue-list="list185003354167890" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P69">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401458160144" text:continue-list="list112401458175934" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P303"><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">whitelist</text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T44">: </text:span><text:span text:style-name="T46">[ </text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">*.*.*.*</text:span><text:span text:style-name="T14">&quot; </text:span><text:span text:style-name="T50">]</text:span></text:p>
+      <text:p text:style-name="P303"><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">whitelist</text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T44">: </text:span><text:span text:style-name="T46">[ </text:span><text:span text:style-name="T14">&quot;</text:span><text:span text:style-name="T16">*.*.*.*</text:span><text:span text:style-name="T14">&quot; </text:span><text:span text:style-name="T51">]</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P110"><text:span text:style-name="T148">Tutto il software in grado di utilizzare connessioni socket può comunicare con pilight. Tale software può essere pilight-receive, un utente che visita la WebGUI, o plugin esterni come quelli forniti per esempio da FHEM. Se si desidera limitare i computer della rete che possono connettersi a pilight, si può impostare una </text:span><text:span text:style-name="T126">whitelist</text:span><text:span text:style-name="T148">. Questa impostazione deve contenere un elenco di indirizzi IPv4 validi che sono autorizzati alla connessione a pilight. Tutti gli altri IP saranno bloccati. Se si desidera autorizzare intervalli IPv4 , è possibile specificarli utilizzando caratteri jolly. Per esempio, se vogliamo permettere la connessione a tutti gli indirizzi IP che vanno da 192.168.1.0 a 192.168.1.254 possiamo aggiungere l&apos;indirizzo IP 192.168.1.* alla lista. Se vogliamo permettere la connessione a tutti gli indirizzi IP che vanno da 10.0.0.0 a 10.0.254.254 possiamo aggiungere l&apos;indirizzo IP 10.0.*.* alla lista. Ogni voce </text:span><text:span text:style-name="T126">whitelist</text:span><text:span text:style-name="T148"> deve contenere un indirizzo IPv4 valido con o senza l&apos;utilizzo di caratteri jolly.</text:span></text:p>
+   <text:p text:style-name="P328"><text:span text:style-name="T151">Tutto il software in grado di utilizzare connessioni socket può comunicare con pilight. Tale software può essere pilight-receive, un utente che visita la WebGUI, o plugin esterni come quelli forniti per esempio da FHEM. Se si desidera limitare i computer della rete che possono connettersi a pilight, si può impostare una </text:span><text:span text:style-name="T127">whitelist</text:span><text:span text:style-name="T151">. </text:span><text:span text:style-name="T154">Questa impostazione deve contenere un elenco di indirizzi IPv4 che sono autorizzati a connettersi con pilight.</text:span><text:span text:style-name="T151"> Tutti gli altri IP saranno bloccati. Se si desidera autorizzare intervalli IPv4 , è possibile specificarli utilizzando caratteri jolly. Per esempio, se vogliamo permettere la connessione a tutti gli indirizzi IP che vanno da </text:span><text:span text:style-name="T154">192.168.1.0 a 192.168.1.254 possiamo aggiungere alla lista l&apos;indirizzo IP 192.168.1.*.</text:span><text:span text:style-name="T151"> Se vogliamo permettere la connessione a tutti gli indirizzi IP che vanno da 10.0.0.0 a </text:span><text:span text:style-name="T154">10.0.254.254 possiamo aggiungere l&apos;indirizzo IP 10.0.*.*. Ogni voce whitelist deve contenere un indirizzo IPv4 valido con o senza caratteri jolly.</text:span></text:p>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc432_1192441429"/>stats-enable<text:bookmark-end text:name="__RefHeading___Toc432_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie19">
-    <text:p text:style-name="P69">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003354183206" text:continue-list="list185003354155336" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P69">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401473169146" text:continue-list="list112401458160144" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P303"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T19">stats-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T52">: </text:span><text:span text:style-name="T57">1</text:span></text:p>
+      <text:p text:style-name="P303"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T19">stats-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T53">: </text:span><text:span text:style-name="T58">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P111"><text:span text:style-name="T53">pilight controlla le risorse della CPU e della RAM. Queste informazioni possono essere condivise con clienti esterni ed è condivisa per default con le connessioni websockets. Se si desidera disabilitare la visualizzazione delle statistiche CPU e RAM e/o si vuole disattivare la comunicazione di queste statistiche sulla connessione websocket bisogna impostare </text:span><text:span text:style-name="T63">stats-enable</text:span><text:span text:style-name="T53"> a 0. Questa impostazione può essere 0 o 1.</text:span></text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T54">pilight controlla le risorse della CPU e della RAM. Queste informazioni possono essere condivise con clienti esterni ed è condivisa per default con le connessioni websockets. Se si desidera disabilitare la visualizzazione delle statistiche CPU e RAM e/o si vuole disattivare la comunicazione di queste statistiche sulla connessione websocket bisogna impostare </text:span><text:span text:style-name="T64">stats-enable</text:span><text:span text:style-name="T54"> a 0. Questa impostazione può essere 0 o 1.</text:span></text:p>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc434_1192441429"/>watchdog-enable<text:bookmark-end text:name="__RefHeading___Toc434_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie20">
-    <text:p text:style-name="P69">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003354152378" text:continue-list="list185003354183206" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P69">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401473166341" text:continue-list="list112401473169146" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P305"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T17">watchdog-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T52">: </text:span><text:span text:style-name="T56">1</text:span></text:p>
+      <text:p text:style-name="P305"><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T17">watchdog-enable</text:span><text:span text:style-name="T18">&quot;</text:span><text:span text:style-name="T53">: </text:span><text:span text:style-name="T57">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P111"><text:span text:style-name="T53">pilight controlla le risorse della CPU e della RAM. Queste informazioni vengono utilizzate per spegnere o terminare pilight quando utilizza troppa CPU o RAM. Se si desidera disattivare questa funzione watchdog e quindi l&apos;interruzione automatica di pilight quando è necessario, è possibile impostare </text:span><text:span text:style-name="T63">watchdog-enable</text:span><text:span text:style-name="T53"> a 0. Questa impostazione può essere 0 o 1.</text:span></text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T54">pilight controlla le risorse della CPU e della RAM. Queste informazioni vengono utilizzate per spegnere o terminare pilight quando utilizza troppa CPU o RAM. Se si desidera disattivare questa funzione watchdog e quindi l&apos;interruzione automatica di pilight quando è necessario, è possibile impostare </text:span><text:span text:style-name="T64">watchdog-enable</text:span><text:span text:style-name="T54"> a 0. Questa impostazione può essere 0 o 1.</text:span></text:p>
    <text:h text:style-name="P195" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc343_1192441429"/>Percorsi dei moduli<text:bookmark-end text:name="__RefHeading___Toc343_1192441429"/></text:h>
-   <text:p text:style-name="P112">pilight ha la possibilità di caricare diversi moduli esterni per migliorare la sua funzionalità. Questi moduli sono file singoli e devono essere collocati in cartelle fisse. Tuttavia, il percor<text:span text:style-name="T197">s</text:span>o di queste cartelle può essere cambiato modificando una delle seguenti impostazioni.</text:p>
+   <text:p text:style-name="P329">pilight ha la possibilità di caricare diversi moduli esterni per migliorare la sua funzionalità. Questi moduli sono file singoli e devono essere collocati in cartelle <text:span text:style-name="T208">determinate</text:span>. Tuttavia, il percor<text:span text:style-name="T201">s</text:span>o di queste cartelle può essere cambiato modificando una delle seguenti impostazioni.</text:p>
    <text:p text:style-name="P289">Non vi è generalmente alcun motivo per caricare moduli esterni. L&apos;ultima versione di pilight contiene sempre i più recenti protocolli, driver hardware, operatori degli eventi, funzioni e azioni.</text:p>
-   <text:h text:style-name="P273" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc350_1192441429"/>action-roo<text:span text:style-name="T182">t</text:span><text:bookmark-end text:name="__RefHeading___Toc350_1192441429"/></text:h>
+   <text:h text:style-name="P273" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc350_1192441429"/>action-roo<text:span text:style-name="T186">t</text:span><text:bookmark-end text:name="__RefHeading___Toc350_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie5">
-    <text:p text:style-name="P68">Linux <text:span text:style-name="T197">e </text:span>*BSD</text:p>
-    <text:list xml:id="list185003354163743" text:continue-list="list185003354152378" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux <text:span text:style-name="T201">e </text:span>*BSD</text:p>
+    <text:list xml:id="list112401473161852" text:continue-list="list112401473166341" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">action-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/action&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P81">Le azioni eventi pilight vengono caricati dalla cartella <text:span text:style-name="T117">action-root</text:span>. L&apos;impostazione <text:span text:style-name="T117">action-root</text:span> deve contenere un percorso valido.</text:p>
+   <text:p text:style-name="P81">Le azioni eventi pilight vengono caricati dalla cartella <text:span text:style-name="T118">action-root</text:span>. L&apos;impostazione <text:span text:style-name="T118">action-root</text:span> deve contenere un percorso valido.</text:p>
    <text:h text:style-name="P273" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc352_1192441429"/>function-root<text:bookmark-end text:name="__RefHeading___Toc352_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie6">
-    <text:p text:style-name="P68">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003370157693" text:continue-list="list185003354163743" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401473182403" text:continue-list="list112401473161852" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">function-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/function&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P81">Le funzioni di evento pilight vengono caricate dalla cartella <text:span text:style-name="T123">function-root</text:span>. L&apos;impostazione <text:span text:style-name="T123">function-root</text:span> deve contenere un percorso valido.</text:p>
+   <text:p text:style-name="P81">Le funzioni di evento pilight vengono caricate dalla cartella <text:span text:style-name="T124">function-root</text:span>. L&apos;impostazione <text:span text:style-name="T124">function-root</text:span> deve contenere un percorso valido.</text:p>
    <text:h text:style-name="P273" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc354_1192441429"/>hardware-root<text:bookmark-end text:name="__RefHeading___Toc354_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie7">
-    <text:p text:style-name="P68">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003370164204" text:continue-list="list185003370157693" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401473178007" text:continue-list="list112401473182403" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">hardware-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/hardware&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P81">I driver hardware esterni pilight vengono caricati dalla cartella <text:span text:style-name="T117">hardware-root</text:span>. L&apos;impostazione <text:span text:style-name="T117">hardware-root</text:span> deve contenere un percorso valido.</text:p>
+   <text:p text:style-name="P81">I driver hardware esterni pilight vengono caricati dalla cartella <text:span text:style-name="T118">hardware-root</text:span>. L&apos;impostazione <text:span text:style-name="T118">hardware-root</text:span> deve contenere un percorso valido.</text:p>
    <text:h text:style-name="P273" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc356_1192441429"/>operator-root<text:bookmark-end text:name="__RefHeading___Toc356_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie8">
-    <text:p text:style-name="P68">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003370175093" text:continue-list="list185003370164204" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401489160719" text:continue-list="list112401473178007" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">operator-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/operator&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P82">Gli operatori degli eventi pilight vengono caricati dalla cartella <text:span text:style-name="T117">operators-root</text:span>. L&apos;impostazione <text:span text:style-name="T117">operators-root</text:span> deve contenere un percorso valido.</text:p>
+   <text:p text:style-name="P82">Gli operatori degli eventi pilight vengono caricati dalla cartella <text:span text:style-name="T118">operators-root</text:span>. L&apos;impostazione <text:span text:style-name="T118">operators-root</text:span> deve contenere un percorso valido.</text:p>
    <text:h text:style-name="P273" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc358_1192441429"/>protocol-root<text:bookmark-end text:name="__RefHeading___Toc358_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie9">
-    <text:p text:style-name="P68">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003370179339" text:continue-list="list185003370175093" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401489158651" text:continue-list="list112401489160719" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">protocol-root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T20">&quot;/usr/local/lib/pilight/protocol&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P118"><text:span text:style-name="T42">I p</text:span><text:span text:style-name="T47">rotocolli pilight esterni vengono caricati dalla cartella </text:span><text:span text:style-name="T60">protocol-root</text:span><text:span text:style-name="T47">. L&apos;impostazione </text:span><text:span text:style-name="T60">protocol-root</text:span><text:span text:style-name="T47"> deve contenere un percorso valido.</text:span></text:p>
+   <text:p text:style-name="P118"><text:span text:style-name="T42">I p</text:span><text:span text:style-name="T47">rotocolli pilight esterni vengono caricati dalla cartella </text:span><text:span text:style-name="T61">protocol-root</text:span><text:span text:style-name="T47">. L&apos;impostazione </text:span><text:span text:style-name="T61">protocol-root</text:span><text:span text:style-name="T47"> deve contenere un percorso valido.</text:span></text:p>
    <text:h text:style-name="P196" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc406_1192441429"/>Webserver<text:bookmark-end text:name="__RefHeading___Toc406_1192441429"/></text:h>
-   <text:p text:style-name="P118">Le seguenti impostazioni modificano il modo in cui il web server interno serve la WebGUI pilight interna o può essere disabilitato completamente.</text:p>
-   <text:h text:style-name="P274" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc408_1192441429"/>webgui-<text:span text:style-name="T183">websockets</text:span><text:bookmark-end text:name="__RefHeading___Toc408_1192441429"/></text:h>
+   <text:p text:style-name="P327">Le seguenti impostazioni cambiano il modo in cui il webserver interno serve la WebGUI interna. Il webserver può anche essere disabilitato completamente.</text:p>
+   <text:h text:style-name="P274" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc408_1192441429"/>webgui-<text:span text:style-name="T187">websockets</text:span><text:bookmark-end text:name="__RefHeading___Toc408_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie10">
-    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003370179241" text:continue-list="list185003370179339" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401489156525" text:continue-list="list112401489158651" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">webgui-websockets</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T20">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P118"><text:span text:style-name="T45">Per default, la WebGUI comunica con pilight utilizzando WebSockets. Si tratta di una tecnica relativamente nuova che ci permette di ricevere tutti i cambiamenti da pilight invece di dover utilizzare il polling per le modifiche. Il problema è che alcuni vecchi dispositivi e browser non supportano WebSockets, ma supportano la tecnica del polling. Quindi, per disattivare i WebSockets e utilizzare il polling bisogna impostare </text:span><text:span text:style-name="T62">WebGUI-WebSockets</text:span><text:span text:style-name="T45"> a 0. Questa impostazione può essere 0 o 1.</text:span></text:p>
+   <text:p text:style-name="P118"><text:span text:style-name="T45">Per default, la WebGUI comunica con pilight utilizzando WebSockets. Si tratta di una tecnica relativamente nuova che ci permette di ricevere tutti i cambiamenti da pilight invece di dover utilizzare il polling per le modifiche. Il problema è che alcuni vecchi dispositivi e browser non supportano WebSockets, ma supportano la tecnica del polling. Quindi, per disattivare i WebSockets e utilizzare il polling bisogna impostare </text:span><text:span text:style-name="T63">WebGUI-WebSockets</text:span><text:span text:style-name="T45"> a 0. Questa impostazione può essere 0 o 1.</text:span></text:p>
    <text:h text:style-name="P277" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc410_1192441429"/>webserver-authentication<text:bookmark-end text:name="__RefHeading___Toc410_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie11">
-    <text:p text:style-name="P71"><text:span text:style-name="T136">Linux, *BSD, </text:span><text:span text:style-name="T146">e</text:span><text:span text:style-name="T136"> Windows</text:span><text:line-break/><text:span text:style-name="T197">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list185003386181086" text:continue-list="list185003370179241" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P71"><text:span text:style-name="T137">Linux, *BSD, </text:span><text:span text:style-name="T147">e</text:span><text:span text:style-name="T137"> Windows</text:span><text:line-break/><text:span text:style-name="T201">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list112401489157603" text:continue-list="list112401489156525" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">webserver-authentication</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T64">[ </text:span><text:span text:style-name="T20">&quot;username&quot;</text:span><text:span text:style-name="T64">, </text:span><text:span text:style-name="T20">&quot;password&quot;</text:span><text:span text:style-name="T64"> ]</text:span></text:p>
+      <text:p text:style-name="P312"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T20">webserver-authentication</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T65">[ </text:span><text:span text:style-name="T20">&quot;username&quot;</text:span><text:span text:style-name="T65">, </text:span><text:span text:style-name="T20">&quot;password&quot;</text:span><text:span text:style-name="T65"> ]</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P118"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0mm" svg:y="31.36mm" svg:width="184.61mm" style:rel-width="100%" draw:z-index="0">
      <draw:text-box fo:min-height="0.41mm">
-      <text:p text:style-name="P217">pi@pilight ~# pilight-<text:span text:style-name="T188">sha256</text:span> -p admin<text:line-break/><text:span text:style-name="T188">4f32102debed8dabd87e88cf84c752ccb23a74b29f90b42edde05cbc7be41f80</text:span></text:p>
+      <text:p text:style-name="P217">pi@pilight ~# pilight-<text:span text:style-name="T192">sha256</text:span> -p admin<text:line-break/><text:span text:style-name="T192">4f32102debed8dabd87e88cf84c752ccb23a74b29f90b42edde05cbc7be41f80</text:span></text:p>
      </draw:text-box>
-    </draw:frame><text:span text:style-name="T46">Per default, pilight può essere controllato dalla WebGUI da parte di chiunque possa accedervi. Se si desidera impedirlo, è possibile proteggere la WebGUI con un nome utente e una password. Il nome utente deve essere in formato testo, la password è criptata SHA256. Utilizzare </text:span><text:span text:style-name="T59">pilight-sha256</text:span><text:span text:style-name="T46"> per creare la password cifrata. Gli strumenti di crittografia SHA256 normali non funzionano perché pilight esegue l&apos;hashing della password diverse migliaia volte.</text:span></text:p>
+    </draw:frame><text:span text:style-name="T46">Per default, pilight può essere controllato dalla WebGUI da parte di chiunque possa accedervi. Se si desidera impedirlo, è possibile proteggere la WebGUI con un nome utente e una password. Il nome utente deve essere in formato testo, la password è criptata SHA256. Utilizzare </text:span><text:span text:style-name="T60">pilight-sha256</text:span><text:span text:style-name="T46"> per creare la password cifrata. Gli strumenti di crittografia SHA256 normali non funzionano perché pilight esegue l&apos;hashing della password diverse migliaia volte.</text:span></text:p>
    <text:p text:style-name="P117">Quindi, se vogliamo usare un utente con nome “user” e la password “admin” i valori devono essere questi:</text:p>
-   <text:list xml:id="list185003386167174" text:continue-list="list185003386181086" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list112401504179214" text:continue-list="list112401489157603" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P313"><text:span text:style-name="T68">[ </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T25">user</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T68">, </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T26">4f32102debed8dabd87e88cf84c752ccb23a74b29f90b42edde05cbc7be41f80</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T68"> ]</text:span></text:p>
+     <text:p text:style-name="P313"><text:span text:style-name="T69">[ </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T25">user</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T69">, </text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T26">4f32102debed8dabd87e88cf84c752ccb23a74b29f90b42edde05cbc7be41f80</text:span><text:span text:style-name="T24">&quot;</text:span><text:span text:style-name="T69"> ]</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P278" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc412_1192441429"/>webserver-cache<text:bookmark-end text:name="__RefHeading___Toc412_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie12">
-    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003386163303" text:continue-list="list185003386167174" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401504160474" text:continue-list="list112401504179214" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P314"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-cache</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T65">1</text:span></text:p>
+      <text:p text:style-name="P314"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-cache</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T66">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P82">pilight ha la capacità di memorizzare nella cache tutti i file utilizzati per la WebGUI. Questo riduce la quantità di letture fatte dalla scheda SD su dispositivi come Raspberry Pi e Hummingboard, e rende più veloce in caricamento della WebGUI da dispositivi con una memoria interna lenta come i router. Questa impostazione può essere 0 o 1.</text:p>
    <text:h text:style-name="P278" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc414_1192441429"/>webserver-enable<text:bookmark-end text:name="__RefHeading___Toc414_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie13">
-    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003386179876" text:continue-list="list185003386163303" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401504158913" text:continue-list="list112401504160474" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P314"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-enable</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T65">1</text:span></text:p>
+      <text:p text:style-name="P314"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-enable</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T66">1</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P83">Il server web pilight può essere spento completamente. Questo potrebbe essere utile se non si desidera utilizzare la WebGUI o se si desidera utilizzare la propria implementazione webserver. Questa impostazione può essere 0 o 1.</text:p>
    <text:p text:style-name="P175"/>
-   <text:h text:style-name="P278" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc416_1192441429"/>webserver-<text:span text:style-name="T186">http-</text:span>port<text:bookmark-end text:name="__RefHeading___Toc416_1192441429"/></text:h>
+   <text:h text:style-name="P278" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc416_1192441429"/>webserver-<text:span text:style-name="T190">http-</text:span>port<text:bookmark-end text:name="__RefHeading___Toc416_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie14">
-    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003386166781" text:continue-list="list185003386179876" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401504177367" text:continue-list="list112401504158913" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P314"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">http-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T65">5001</text:span></text:p>
+      <text:p text:style-name="P314"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">http-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T66">5001</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P118">Il server web pilight viene eseguito per default sulla porta non standard 5001. Questo viene fatto per evitare interferenze con altri web server in esecuzione sulla porta HTTP predefinita 80. Se si desidera eseguire il server web sulla porta 80 o qualsiasi altra porta, si può cambiare questa impostazione. La porta specificata deve essere una porta valida e non utilizzata.</text:p>
-   <text:h text:style-name="P279" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc418_1192441429"/><text:span text:style-name="T186">w</text:span>ebserver-<text:span text:style-name="T186">https-</text:span>port<text:bookmark-end text:name="__RefHeading___Toc418_1192441429"/></text:h>
+   <text:p text:style-name="P334"><text:span text:style-name="T208">Per default il webserver viene eseguito sulla porta non standard 5001. Questo per evitare interferenze con altri webserver in esecuzione sulla porta HTTP predefinita 80.</text:span> Se si desidera eseguire il <text:span text:style-name="T208">webserver</text:span> sulla porta 80 o qualsiasi altra porta, si può cambiare questa impostazione. La porta specificata deve essere una porta valida e non utilizzata.</text:p>
+   <text:h text:style-name="P279" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc418_1192441429"/><text:span text:style-name="T190">w</text:span>ebserver-<text:span text:style-name="T190">https-</text:span>port<text:bookmark-end text:name="__RefHeading___Toc418_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie16">
-    <text:p text:style-name="P72"><text:span text:style-name="T136">Linux, *BSD, </text:span><text:span text:style-name="T146">e</text:span><text:span text:style-name="T136"> Windows</text:span><text:line-break/><text:span text:style-name="T197">non supportato per default</text:span></text:p>
-    <text:list xml:id="list185003401154678" text:continue-list="list185003386166781" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P72"><text:span text:style-name="T137">Linux, *BSD, </text:span><text:span text:style-name="T147">e</text:span><text:span text:style-name="T137"> Windows</text:span><text:line-break/><text:span text:style-name="T201">non supportato per default</text:span></text:p>
+    <text:list xml:id="list112401504182566" text:continue-list="list112401504177367" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P315"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">https-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T65">500</text:span><text:span text:style-name="T66">2</text:span></text:p>
+      <text:p text:style-name="P315"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">https-</text:span><text:span text:style-name="T21">port</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T66">500</text:span><text:span text:style-name="T67">2</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P118">Il server web non permette connessioni protette per default. Attualmente l&apos;unico modo per ottenere il supporto HTTPS è compilare manualmente pilight. Il server web sicuro pilight viene eseguito per default sulla porta non standard 5002. Questo viene fatto per evitare interferenze con altri web server in esecuzione sulla porta HTTPS di default 443. Se si desidera eseguire il server web sicuro sulla porta 443 o qualsiasi altra porta si può cambiare questa impostazione. La porta specificato deve essere una porta valida e non utilizzata.</text:p>
+   <text:p text:style-name="P335"><text:span text:style-name="T208">Il webserver non permette connessioni protette per default. Attualmente l&apos;unico modo per avere il supporto HTTPS è compilare manualmente pilight.</text:span> Il <text:span text:style-name="T208">webserver</text:span> sicuro viene eseguito per default sulla porta non standard 5002. Questo viene fatto per evitare interferenze con altri web server in esecuzione sulla porta HTTPS di default 443. Se si desidera eseguire il <text:span text:style-name="T208">webserver</text:span> sicuro sulla porta 443 o qualsiasi altra porta si può cambiare questa impostazione. La porta specificat<text:span text:style-name="T209">a</text:span> deve essere una porta valida e non utilizzata.</text:p>
    <text:h text:style-name="P280" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc420_1192441429"/>webserver-root<text:bookmark-end text:name="__RefHeading___Toc420_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie15">
-    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T197">e</text:span> Windows</text:p>
-    <text:list xml:id="list185003401153325" text:continue-list="list185003401154678" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P68">Linux, *BSD, <text:span text:style-name="T201">e</text:span> Windows</text:p>
+    <text:list xml:id="list112401520154808" text:continue-list="list112401504182566" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P315"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">root</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T8">&quot;/</text:span><text:span text:style-name="T22">usr/local/share/pilight/</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P118">La <text:span text:style-name="T117">webserver-root</text:span> indica a pilight dove deve cercare tutti i file che devono essere serviti dal webserver. Questa impostazione deve contenere un percorso valido.</text:p>
+   <text:p text:style-name="P118"><text:span text:style-name="T118">webserver-root</text:span> indica a pilight dove deve cercare tutti i file che devono essere serviti dal webserver. Questa impostazione deve contenere un percorso valido.</text:p>
    <text:h text:style-name="P280" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc422_1192441429"/>webserver-user<text:bookmark-end text:name="__RefHeading___Toc422_1192441429"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie17">
-    <text:p text:style-name="P72">Linux<text:line-break/>*<text:span text:style-name="T186">BSD</text:span></text:p>
-    <text:list xml:id="list185003401174102" text:continue-list="list185003401153325" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P72">Linux<text:line-break/>*<text:span text:style-name="T190">BSD</text:span></text:p>
+    <text:list xml:id="list112401520175600" text:continue-list="list112401520154808" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
       <text:p text:style-name="P315"><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T21">webserver-</text:span><text:span text:style-name="T22">user</text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T40">: </text:span><text:span text:style-name="T8">&quot;</text:span><text:span text:style-name="T22">www-root</text:span><text:span text:style-name="T8">&quot;</text:span></text:p>
      </text:list-item>
@@ -2609,135 +2696,135 @@
    </text:section>
    <text:p text:style-name="P119">Il server web funziona per default come utente non root. Questo per evitare l&apos;esecuzione di codice dannoso. Se si vuole forzare il server web per l&apos;esecuzione come utente root o qualsiasi altro utente del sistema, è possibile modificare questa impostazione. Questa impostazione deve contenere un utente di sistema valido.</text:p>
    <text:h text:style-name="P197" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc953_447746535"/>Firmware<text:bookmark-end text:name="__RefHeading___Toc953_447746535"/></text:h>
-   <text:p text:style-name="P116">pilight fornisce uno strumento semplice per il flash del firmware di diversi microcontrollori sotto forma di pilight-flash. Per programmare microcontrollori con bitbanging sul GPIO sono necessari quattro GPIO. Questi GPIO sono per default configurati per l&apos;utilizzo su un Raspberry Pi. I pin GPIO, possono tuttavia essere modificati per altri GPIO a seconda del dispositivo che si desidera utilizzare. Ogni pin è denominato secondo i requisiti SPI, tuttavia qualsiasi GPIO può essere utilizzato perché non stiamo utilizzando SPI per comunicare con i nostri microcontrollori. In pilight le identificazioni MISO SPI, MOSI, Reset e SCK sono utilizzate solo per distinguere i vari pin.</text:p>
-   <text:p text:style-name="P113">Se si hanno dubbi su quali GPIO siano validi sulla vostra piattaforma, si prega di fare riferimento alla documentazione <text:a xlink:type="simple" xlink:href="http://www.wiringx.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.wiringx.org</text:a>.</text:p>
+   <text:p text:style-name="P330">pilight fornisce uno strumento semplice per il flash del firmware di diversi microcontrollori sotto forma di pilight-flash. Per programmare microcontrollori con bitbanging sul GPIO sono necessari quattro GPIO. Questi GPIO sono per default configurati per l&apos;utilizzo su un Raspberry Pi. <text:span text:style-name="T209">I pin GPIO, possono tuttavia essere modificati a seconda del dispositivo che si desidera utilizzare.</text:span> Ogni pin è denominato secondo i requisiti SPI, tuttavia qualsiasi GPIO può essere utilizzato perché non stiamo utilizzando SPI per comunicare con i nostri microcontrollori. <text:span text:style-name="T209">Le</text:span> identificazioni MISO SPI, MOSI, Reset e SCK sono utilizzate solo per distinguere i vari pin.</text:p>
+   <text:p text:style-name="P331"><text:span text:style-name="T209">Per individuare i GPIO validi per la vostra piattaforma, si prega di fare riferimento alla documentazione </text:span><text:a xlink:type="simple" xlink:href="http://www.wiringx.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.wiringx.org</text:a>.</text:p>
    <text:h text:style-name="P275" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc955_447746535"/>firmware-gpio-miso<text:bookmark-end text:name="__RefHeading___Toc955_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie22">
-    <text:p text:style-name="P70">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003401170214" text:continue-list="list185003401174102" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P70">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401520155181" text:continue-list="list112401520175600" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P316"><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T28">firmware-gpio-miso</text:span><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T66">: </text:span><text:span text:style-name="T69">13</text:span></text:p>
+      <text:p text:style-name="P316"><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T28">firmware-gpio-miso</text:span><text:span text:style-name="T22">&quot;</text:span><text:span text:style-name="T67">: </text:span><text:span text:style-name="T70">13</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P119">Questa impostazione definisce il pin GPIO da utilizzare come MISO. Qualsiasi GPIO valido per la piattaforma può essere utilizzato.</text:p>
    <text:h text:style-name="P275" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc957_447746535"/>firmware-gpio-mosi<text:bookmark-end text:name="__RefHeading___Toc957_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie23">
-    <text:p text:style-name="P294">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003417155908" text:continue-list="list185003401170214" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P294">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401520182967" text:continue-list="list112401520155181" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P306"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-m</text:span><text:span text:style-name="T31">o</text:span><text:span text:style-name="T30">s</text:span><text:span text:style-name="T31">i</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T71">12</text:span></text:p>
+      <text:p text:style-name="P306"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-m</text:span><text:span text:style-name="T31">o</text:span><text:span text:style-name="T30">s</text:span><text:span text:style-name="T31">i</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T72">12</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P119">Questa impostazione definisce il pin GPIO da utilizzare come MOSI. Qualsiasi GPIO valido per la piattaforma può essere utilizzato.</text:p>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc959_447746535"/>firmware-gpio-reset<text:bookmark-end text:name="__RefHeading___Toc959_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie24">
-    <text:p text:style-name="P295">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003417172717" text:continue-list="list185003417155908" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P295">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401520168585" text:continue-list="list112401520182967" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P307"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">reset</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T71">1</text:span><text:span text:style-name="T72">0</text:span></text:p>
+      <text:p text:style-name="P307"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">reset</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T72">1</text:span><text:span text:style-name="T73">0</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P113">Questa impostazione definisce il pin GPIO da utilizzare come Reset. Qualsiasi GPIO valido per la piattaforma può essere utilizzato.</text:p>
-   <text:h text:style-name="P275" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc961_447746535"/><text:span text:style-name="T193">f</text:span>irmware-gpio-sck<text:bookmark-end text:name="__RefHeading___Toc961_447746535"/></text:h>
+   <text:h text:style-name="P275" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc961_447746535"/><text:span text:style-name="T197">f</text:span>irmware-gpio-sck<text:bookmark-end text:name="__RefHeading___Toc961_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie25">
-    <text:p text:style-name="P295">Linux <text:span text:style-name="T197">e</text:span> *BSD</text:p>
-    <text:list xml:id="list185003417168598" text:continue-list="list185003417172717" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P295">Linux <text:span text:style-name="T201">e</text:span> *BSD</text:p>
+    <text:list xml:id="list112401536181040" text:continue-list="list112401520168585" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P307"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">sck</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T71">1</text:span><text:span text:style-name="T72">4</text:span></text:p>
+      <text:p text:style-name="P307"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T30">firmware-gpio-</text:span><text:span text:style-name="T31">sck</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T72">1</text:span><text:span text:style-name="T73">4</text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
    <text:p text:style-name="P113">Questa impostazione definisce il pin GPIO da utilizzare come SCK. Qualsiasi GPIO valido per la piattaforma può essere utilizzato.</text:p>
    <text:h text:style-name="P198" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc963_447746535"/>SMTP<text:bookmark-end text:name="__RefHeading___Toc963_447746535"/></text:h>
-   <text:p text:style-name="P120"><text:span text:style-name="T142">pilight ha la capacità di comunicare con diversi tipi di server di posta. Questo offre a pilight la possibilità di usare per esempio azioni di posta all&apos;interno di regole di eventi, in modo che messaggi e-mail possano essere inviati in caso di un determinato evento. La maggior parte degli utenti hanno un account di e-mail dal loro provider di hosting o si possono utilizzare soluzioni di posta elettronica gratuite come Gmail. In caso di un account gmail (inesistente) con nome: </text:span><text:span text:style-name="T124">pilight@gmail.com</text:span><text:span text:style-name="T142"> e con la password: </text:span><text:span text:style-name="T124">foobar</text:span><text:span text:style-name="T142">, le impostazioni SMTP devono essere configurate in questo modo:</text:span></text:p>
-   <text:list xml:id="list185003417154462" text:continue-list="list185003417168598" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P336"><text:span text:style-name="T143">pilight ha la capacità di comunicare con diversi tipi di server di posta. </text:span><text:span text:style-name="T150">Questo offre a pilight la possibilità di usare per esempio azioni e-mail all&apos;interno di regole eventi, in modo che possano essere inviati messaggi in caso di un determinato evento</text:span><text:span text:style-name="T143">. </text:span><text:span text:style-name="T150">La maggior parte degli utenti hanno un account e-mail fornito dal loro provider di hosting. Si possono anche utilizzare soluzioni di posta elettronica gratuite come Gmail. Per esempio nel caso di un account gmail con nome: pilight@gmail.com e con la password: foobar, le impostazioni SMTP devono essere configurate in questo modo:</text:span></text:p>
+   <text:list xml:id="list112401536182167" text:continue-list="list112401536181040" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P317"><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T36">smtp-sender</text:span><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T75">: </text:span><text:span text:style-name="T35">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">pilight</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T36">@</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">gmail</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T36">.com</text:span></text:a><text:span text:style-name="T35">&quot;,</text:span></text:p>
+     <text:p text:style-name="P317"><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T36">smtp-sender</text:span><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T76">: </text:span><text:span text:style-name="T35">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">pilight</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T36">@</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">gmail</text:span></text:a><text:a xlink:type="simple" xlink:href="mailto:pilihgt@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T36">.com</text:span></text:a><text:span text:style-name="T35">&quot;,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P308"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">smtp.gmail.com</text:span><text:span text:style-name="T29">&quot;,</text:span></text:p>
+     <text:p text:style-name="P308"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">smtp.gmail.com</text:span><text:span text:style-name="T29">&quot;,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P308"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">port</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T73">465,</text:span></text:p>
+     <text:p text:style-name="P308"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">port</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T74">465,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P317"><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T36">smtp-</text:span><text:span text:style-name="T37">user</text:span><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T75">: </text:span><text:span text:style-name="T35">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilight@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">pilight@gmail.com</text:span></text:a><text:span text:style-name="T35">&quot;,</text:span></text:p>
+     <text:p text:style-name="P317"><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T36">smtp-</text:span><text:span text:style-name="T37">user</text:span><text:span text:style-name="T35">&quot;</text:span><text:span text:style-name="T76">: </text:span><text:span text:style-name="T35">&quot;</text:span><text:a xlink:type="simple" xlink:href="mailto:pilight@gmail.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">pilight@gmail.com</text:span></text:a><text:span text:style-name="T35">&quot;,</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P308"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">foobar</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+     <text:p text:style-name="P308"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-</text:span><text:span text:style-name="T33">password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T33">foobar</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P275" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc965_447746535"/><text:span text:style-name="T194">s</text:span>mtp-sender<text:bookmark-end text:name="__RefHeading___Toc965_447746535"/></text:h>
+   <text:h text:style-name="P275" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc965_447746535"/><text:span text:style-name="T198">s</text:span>mtp-sender<text:bookmark-end text:name="__RefHeading___Toc965_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie26">
-    <text:p text:style-name="P299"><text:span text:style-name="T190">Linux, *BSD, </text:span><text:span text:style-name="T192">e</text:span><text:span text:style-name="T191"> Windows<text:line-break/></text:span><text:span text:style-name="T192">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list185003432152042" text:continue-list="list185003417154462" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P299"><text:span text:style-name="T194">Linux, *BSD, </text:span><text:span text:style-name="T196">e</text:span><text:span text:style-name="T195"> Windows<text:line-break/></text:span><text:span text:style-name="T196">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list112401551174909" text:continue-list="list112401536182167" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-sender</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-sender</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P99"/>
    </text:section>
-   <text:p text:style-name="P120"><text:span text:style-name="T117">smtp-sender</text:span> richiede un indirizzo e-mail valido. Quando la posta viene aperta, questo indirizzo e-mail è usato come indirizzo dal quale il messaggio è stato inviato.</text:p>
+   <text:p text:style-name="P336"><text:span text:style-name="T118">smtp-sender</text:span> richiede un indirizzo e-mail valido. <text:span text:style-name="T209">Questo indirizzo è usato per indicare al destinatario l&apos;indirizzo dal quale il messaggio è stato inviato.</text:span></text:p>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc967_447746535"/>smtp-user<text:bookmark-end text:name="__RefHeading___Toc967_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie27">
-    <text:p text:style-name="P299"><text:span text:style-name="T190">Linux, *BSD, </text:span><text:span text:style-name="T192">e</text:span><text:span text:style-name="T191"> Windows<text:line-break/></text:span><text:span text:style-name="T192">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list185003432158793" text:continue-list="list185003432152042" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P299"><text:span text:style-name="T194">Linux, *BSD, </text:span><text:span text:style-name="T196">e</text:span><text:span text:style-name="T195"> Windows<text:line-break/></text:span><text:span text:style-name="T196">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list112401551152041" text:continue-list="list112401551174909" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-user</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-user</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T29">&quot;...</text:span><text:span text:style-name="T32">@....com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P99"/>
    </text:section>
-   <text:p text:style-name="P114"><text:span text:style-name="T117">smtp-user</text:span> richiede un indirizzo e-mail valido. Questo indirizzo e-mail viene utilizzato per convalidare i dettagli dell&apos;account al provider di posta elettronica.</text:p>
+   <text:p text:style-name="P332"><text:span text:style-name="T118">smtp-user</text:span> richiede un indirizzo e-mail valido. <text:span text:style-name="T209">Questo indirizzo e-mail viene utilizzato per convalidare i dati dell&apos;account al provider di posta elettronica.</text:span></text:p>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc969_447746535"/>smtp-password<text:bookmark-end text:name="__RefHeading___Toc969_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie28">
-    <text:p text:style-name="P299"><text:span text:style-name="T190">Linux, *BSD, </text:span><text:span text:style-name="T192">e</text:span><text:span text:style-name="T191"> Windows<text:line-break/></text:span><text:span text:style-name="T192">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list185003432168211" text:continue-list="list185003432158793" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P299"><text:span text:style-name="T194">Linux, *BSD, </text:span><text:span text:style-name="T196">e</text:span><text:span text:style-name="T195"> Windows<text:line-break/></text:span><text:span text:style-name="T196">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list112401551179324" text:continue-list="list112401551152041" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">...</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-password</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">...</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P101"/>
    </text:section>
-   <text:p text:style-name="P115">smtp-password viene utilizzato per convalidare i dettagli dell&apos;account presso il provider di posta elettronica assieme all&apos;impostazione smtp-user. La password deve essere perciò una password valida per l&apos;account e-mail.</text:p>
+   <text:p text:style-name="P333"><text:span text:style-name="T118">smtp-password</text:span><text:span text:style-name="T209"> viene utilizzato assieme all&apos;impostazione smtp-user per la convalida presso il provider di posta elettronica . La password deve essere perciò una password valida per l&apos;account in questione.</text:span></text:p>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc971_447746535"/>smtp-host<text:bookmark-end text:name="__RefHeading___Toc971_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie29">
-    <text:p text:style-name="P299"><text:span text:style-name="T190">Linux, *BSD, </text:span><text:span text:style-name="T192">e</text:span><text:span text:style-name="T191"> Windows<text:line-break/></text:span><text:span text:style-name="T192">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list185003448179503" text:continue-list="list185003432168211" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P299"><text:span text:style-name="T194">Linux, *BSD, </text:span><text:span text:style-name="T196">e</text:span><text:span text:style-name="T195"> Windows<text:line-break/></text:span><text:span text:style-name="T196">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list112401551173745" text:continue-list="list112401551179324" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;<text:line-break/></text:span></text:p>
+      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;<text:line-break/></text:span></text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P115">L&apos;impostazione <text:span text:style-name="T117">smtp-host</text:span> deve contenere un server host di posta elettronica valido. Normalmente, il nome host è simile al nome del provider di web hosting.</text:p>
+   <text:p text:style-name="P115">L&apos;impostazione <text:span text:style-name="T118">smtp-host</text:span> deve contenere un server host di posta elettronica valido. Normalmente, il nome host è simile al nome del provider di web hosting.</text:p>
    <text:p text:style-name="P176"/>
    <text:h text:style-name="P271" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc973_447746535"/>smtp-port<text:bookmark-end text:name="__RefHeading___Toc973_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie30">
-    <text:p text:style-name="P299"><text:span text:style-name="T190">Linux, *BSD, </text:span><text:span text:style-name="T192">e</text:span><text:span text:style-name="T191"> Windows<text:line-break/></text:span><text:span text:style-name="T192">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list185003448181986" text:continue-list="list185003448179503" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P299"><text:span text:style-name="T194">Linux, *BSD, </text:span><text:span text:style-name="T196">e</text:span><text:span text:style-name="T195"> Windows<text:line-break/></text:span><text:span text:style-name="T196">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list112401551153909" text:continue-list="list112401551173745" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
+      <text:p text:style-name="P309"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp-host</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T32">smtp.foo.com</text:span><text:span text:style-name="T29">&quot;</text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P99"/>
    </text:section>
-   <text:p text:style-name="P115"><text:span text:style-name="T117">smtp-port</text:span> deve indicare una porta del server SMTP valida. Questa può essere 25, 465 o 587. Quando si utilizza la porta 465 pilight comunicherà tramite una connessione protetta, quando si utilizzano le porte 25 o 587 dipenderà dal server come verrà configurata la connessione.</text:p>
-   <text:h text:style-name="P144" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc992_447746535"/><text:span text:style-name="Emphasis"><text:span text:style-name="T199">Varia</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc992_447746535"/></text:h>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc994_447746535"/><text:span text:style-name="Emphasis"><text:span text:style-name="T198">ntp-servers</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc994_447746535"/></text:h>
+   <text:p text:style-name="P115"><text:span text:style-name="T118">smtp-port</text:span> deve indicare una porta del server SMTP valida. Questa può essere 25, 465 o 587. Quando si utilizza la porta 465 pilight comunicherà tramite una connessione protetta, quando si utilizzano le porte 25 o 587 dipenderà dal server come verrà configurata la connessione.</text:p>
+   <text:h text:style-name="P144" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc992_447746535"/><text:span text:style-name="Emphasis"><text:span text:style-name="T203">Varia</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc992_447746535"/></text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc994_447746535"/><text:span text:style-name="Emphasis"><text:span text:style-name="T202">ntp-servers</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc994_447746535"/></text:h>
    <text:section text:style-name="Sect2" text:name="Sectie31">
-    <text:p text:style-name="P299"><text:span text:style-name="T190">Linux, *BSD, </text:span><text:span text:style-name="T192">e</text:span><text:span text:style-name="T191"> Windows<text:line-break/></text:span><text:span text:style-name="T192">nessun valore di default</text:span></text:p>
-    <text:list xml:id="list185003448173925" text:continue-list="list185003448181986" text:style-name="Code_20_Numbering">
+    <text:p text:style-name="P299"><text:span text:style-name="T194">Linux, *BSD, </text:span><text:span text:style-name="T196">e</text:span><text:span text:style-name="T195"> Windows<text:line-break/></text:span><text:span text:style-name="T196">nessun valore di default</text:span></text:p>
+    <text:list xml:id="list112401567156015" text:continue-list="list112401551153909" text:style-name="Code_20_Numbering">
      <text:list-item text:start-value="1">
-      <text:p text:style-name="P310"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">ntp-servers</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T70">: </text:span><text:span text:style-name="T74">[ </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">eu.pool.ntp.org</text:span><text:span text:style-name="T29">&quot;, &quot;</text:span><text:span text:style-name="T34">uk.pool.ntp.org</text:span><text:span text:style-name="T29">&quot; </text:span><text:span text:style-name="T74">]</text:span><text:span text:style-name="T29"> </text:span></text:p>
+      <text:p text:style-name="P310"><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">ntp-servers</text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T71">: </text:span><text:span text:style-name="T75">[ </text:span><text:span text:style-name="T29">&quot;</text:span><text:span text:style-name="T34">eu.pool.ntp.org</text:span><text:span text:style-name="T29">&quot;, &quot;</text:span><text:span text:style-name="T34">uk.pool.ntp.org</text:span><text:span text:style-name="T29">&quot; </text:span><text:span text:style-name="T75">]</text:span><text:span text:style-name="T29"> </text:span></text:p>
      </text:list-item>
     </text:list>
     <text:p text:style-name="P100"/>
    </text:section>
-   <text:p text:style-name="P106"><text:span text:style-name="Emphasis"><text:span text:style-name="T200">Una caratteristica importante di qualsiasi installazione di automazione è la possibilità di attivare azioni basate sul tempo. Tuttavia, questi eventi si basano notevolmente su una data e un&apos;ora corrette. I problemi si verificano quando l&apos;ora di sistema non è impostata sull&apos;ora corretta (per il nostro fuso orario specifico). Questo può accadere in sistemi come il Raspberry Pi, che non dispongono di un RTC che consente di mantenere l&apos;ora e la data quando è spento. Per superare questo problema pilight ha la capacità di recuperare l&apos;ora corretta sincronizzandosi con i server NTP. È possibile scegliere qualsiasi server da http://www.pool.ntp.org/. Qualsiasi numero di server può essere aggiunto alla lista NTP-server. pilight prima cercherà di eseguire la sincronizzazione con il primo server. Se non funziona proverà il secondo server, ecc. Esso continuerà questo processo fino a quando una risposta effettiva sia pervenuta.</text:span></text:span></text:p>
-   <text:p text:style-name="P95"><text:span text:style-name="Emphasis"><text:span text:style-name="T201"/></text:span></text:p>
+   <text:p text:style-name="P339"><text:span text:style-name="Emphasis"><text:span text:style-name="T204">Una caratteristica importante di qualsiasi installazione di automazione è la possibilità di attivare azioni basate sul tempo. </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T206">Questi eventi si basano su una data e un&apos;ora corrette.</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T204"> I problemi si verificano quando l&apos;ora di sistema non è impostata sull&apos;ora corretta (per il nostro fuso orario). Questo può accadere in sistemi come il Raspberry Pi, che non dispongono di un RTC che consente di mantenere l&apos;ora e la data quando è spento. Per superare questo problema pilight ha la capacità di recuperare l&apos;ora corretta sincronizzandosi con i server NTP. È possibile scegliere qualsiasi server da http://www.pool.ntp.org/. Qualsiasi numero di server può essere aggiunto alla lista </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T207">NTP-server</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T204">. pilight prima cercherà di eseguire la sincronizzazione con il primo server. Se non funziona proverà il secondo server, ecc. </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T206">Questo processo continuerà fino a quando sarà pervenuta una una risposta valida.</text:span></text:span></text:p>
+   <text:p text:style-name="P95"><text:span text:style-name="Emphasis"><text:span text:style-name="T205"/></text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
