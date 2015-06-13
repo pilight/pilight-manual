@@ -1,5 +1,5 @@
 1|
-2|Informazioni su pilight|about-pilight
+2|Introduzione|about-pilight
 3|Installazione|installation
 4|Configurazione
 	4.1|Dispositivi (Devices)|configuration-devices
