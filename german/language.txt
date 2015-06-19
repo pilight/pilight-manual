@@ -1,0 +1,18 @@
+maintitle|pilight Handbuch
+openmenu|Hierhin bewegen um das Menü zu öffnen
+updating|Das Handbuch wird momentan aktualisiert. Bitte probieren Sie es in einem Moment nochmal.
+pdfdownload|Quell-PDF Herunterladen
+pdfgenerated|Seite generiert um 
+top|Nach Oben
+january|Januar
+february|Februar
+march|März
+april|April
+may|Mai
+june|Juni
+july|Juli
+august|August
+september|September
+october|Oktober
+november|November
+december|Dezember

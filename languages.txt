@@ -2,3 +2,4 @@
 english|English|en|gb
 italian|Italiano|it|it
 dutch|Nederlands|nl|nl
+german|Deutsch|de|de
