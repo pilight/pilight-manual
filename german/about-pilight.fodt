@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.7.2$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="25" meta:word-count="552" meta:character-count="3811" meta:non-whitespace-character-count="3289"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.7.2$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="25" meta:word-count="556" meta:character-count="3830" meta:non-whitespace-character-count="3304"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">22648</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">34925</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">24132</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">25825</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9931</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">46032</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">2835</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">46951</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">22648</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">34925</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">24130</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">48472</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">60748</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,9 +82,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">4502347</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4597859</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">iAH+/0hQcDIwNTVkbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUHAyMDU1ZG4AAAAAAAAAAAAAAAAAAAAAAAAWAAMArgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBwMjA1NWRuCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">owH+/0hQcDIwNTVkbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUHAyMDU1ZG4AAAAAAAAAAAAAAAAAAAAAAAAWAAMAyQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBwMjA1NWRuCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -814,16 +814,19 @@
   <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="00406db9" officeooo:paragraph-rsid="00406db9"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="de" fo:country="DE"/>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00462863"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:language="de" fo:country="DE"/>
   </style:style>
   <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003791e1" officeooo:paragraph-rsid="003791e1"/>
+   <style:text-properties fo:language="de" fo:country="DE"/>
   </style:style>
   <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003791e1" officeooo:paragraph-rsid="003791e1"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="00406db9" officeooo:paragraph-rsid="00406db9"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -952,39 +955,10 @@
   <style:style style:name="T42" style:family="text">
    <style:text-properties officeooo:rsid="0044b34b"/>
   </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties officeooo:rsid="00462863"/>
+  </style:style>
   <text:list-style style:name="L1">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L2">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
     <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-bullet>
@@ -1037,9 +1011,9 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
    <text:h text:style-name="P66" text:outline-level="1"><text:span text:style-name="T36">Über</text:span> <text:span text:style-name="T28">pilight</text:span></text:h>
-   <text:p text:style-name="P23">pilight ist eine freie, <text:span text:style-name="T41">umfassende</text:span>, open source domotica <text:span text:style-name="T41">Anwendung</text:span> die auf dem Raspberry Pi, Hummingboard, BananaPi <text:span text:style-name="T41">läuft</text:span>, aber auch auf *BSD, diversen Linux-<text:span text:style-name="T41">D</text:span>istributionen (<text:span text:style-name="T41">getestet auf </text:span>Arch, Ubuntu und Debian), Windows und <text:span text:style-name="T40">O</text:span>penWRT Routern. pilight kann mit einer großen Anzahl Geräten arbeiten und ist <text:span text:style-name="T41">f</text:span>requenzunabhängig, <text:span text:style-name="T41">d.h. </text:span>es <text:span text:style-name="T41">kann auf Grund </text:span>seines modularen Setups Geräte steuern die auf 315 MHz, 433 MHz und 868 MHz arbeiten. <text:span text:style-name="T41">Derzeit werden nur Geräte mit </text:span>433.92 MHz unterstützt. Support für andere Frequenzen und Geräte beruht auf <text:span text:style-name="T40">Input</text:span> und Hilfe der Community, da wir, <text:span text:style-name="T41">die</text:span> Entwickler, nicht alle Geräte selber besitzen. </text:p>
+   <text:p text:style-name="P23">pilight ist eine freie, <text:span text:style-name="T41">umfassende</text:span>, open source domotica <text:span text:style-name="T41">Anwendung</text:span> die auf dem Raspberry Pi, Hummingboard <text:span text:style-name="T43">und</text:span> BananaPi <text:span text:style-name="T41">läuft</text:span>, aber auch auf *BSD, diversen Linux-<text:span text:style-name="T41">D</text:span>istributionen (<text:span text:style-name="T41">getestet auf </text:span>Arch, Ubuntu und Debian), Windows und <text:span text:style-name="T40">O</text:span>penWRT Routern. pilight kann mit einer großen Anzahl Geräten arbeiten und ist <text:span text:style-name="T41">f</text:span>requenzunabhängig, <text:span text:style-name="T41">d.h. </text:span>es <text:span text:style-name="T41">kann auf Grund </text:span>seines modularen Setups Geräte steuern die auf 315 MHz, 433 MHz und 868 MHz arbeiten. <text:span text:style-name="T41">Derzeit werden allerdings nur Geräte mit </text:span>433.92 MHz unterstützt. Support für andere Frequenzen und Geräte beruht auf <text:span text:style-name="T40">Input</text:span> und Hilfe der Community, da wir, <text:span text:style-name="T41">die</text:span> Entwickler, nicht alle Geräte selber besitzen. </text:p>
    <text:p text:style-name="P23">Die Hauptfeatures von pilight sind:</text:p>
-   <text:list xml:id="list4251340720510993954" text:style-name="L1">
+   <text:list xml:id="list1788333403556279033" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P69">Open Source</text:p>
     </text:list-item>
@@ -1063,19 +1037,19 @@
     </text:list-item>
    </text:list>
    <text:h text:style-name="P55" text:outline-level="2">Open Source</text:h>
-   <text:p text:style-name="P28"><text:span text:style-name="T37">Der pilight Quellcode </text:span><text:span text:style-name="T39">ist </text:span><text:span text:style-name="T37">im Internet </text:span><text:span text:style-name="T39">verfügbar unter </text:span><text:a xlink:type="simple" xlink:href="https://www.github.com/pilight/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">https://www.github.com/pilight/</text:span></text:a><text:span text:style-name="T37">. pilight beruht zu großen Teilen auf </text:span><text:span text:style-name="T38">Input</text:span><text:span text:style-name="T37"> der Community, </text:span><text:span text:style-name="T39">daher können Sie gerne selbst </text:span><text:span text:style-name="T37">Vorschläge, Verbesserungen und </text:span><text:span text:style-name="T39">Problemlösungen</text:span><text:span text:style-name="T37"> bereit</text:span><text:span text:style-name="T39">stellen.</text:span></text:p>
+   <text:p text:style-name="P74"><text:span text:style-name="T37">Der pilight Quellcode </text:span><text:span text:style-name="T39">ist unter </text:span><text:a xlink:type="simple" xlink:href="https://www.github.com/pilight/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">https://www.github.com/pilight/</text:span></text:a><text:span text:style-name="T39"> </text:span><text:span text:style-name="T37">im Internet </text:span><text:span text:style-name="T39">verfügbar</text:span><text:span text:style-name="T37">. pilight beruht zu großen Teilen auf </text:span><text:span text:style-name="T38">Input</text:span><text:span text:style-name="T37"> der Community, </text:span><text:span text:style-name="T39">daher können Sie gerne selbst </text:span><text:span text:style-name="T37">Vorschläge, Verbesserungen und </text:span><text:span text:style-name="T39">Problemlösungen</text:span><text:span text:style-name="T37"> bereit</text:span><text:span text:style-name="T39">stellen.</text:span></text:p>
    <text:h text:style-name="P56" text:outline-level="2">O<text:span text:style-name="T36">ffene</text:span> Hardware</text:h>
-   <text:p text:style-name="P23">Die Schaltpläne aller pilight Hardware ist offen und <text:span text:style-name="T41">komplett kostenlos</text:span>. Dies bedeutet, da<text:span text:style-name="T41">s</text:span>s Sie die Hardware, die pilight anbietet, <text:span text:style-name="T41">jederzeit</text:span> selb<text:span text:style-name="T41">st</text:span> bauen können. <text:span text:style-name="T41">Jedoch unterstützen Sie durch den Kauf der </text:span>Hardware <text:span text:style-name="T41">über </text:span>pilight gleichzeitig das Projekt.</text:p>
+   <text:p text:style-name="P23">Die Schaltpläne aller pilight Hardware <text:span text:style-name="T43">sind</text:span> offen und <text:span text:style-name="T41">komplett kostenlos</text:span>. Dies bedeutet, da<text:span text:style-name="T41">s</text:span>s Sie die Hardware, die pilight anbietet, <text:span text:style-name="T41">jederzeit</text:span> selb<text:span text:style-name="T41">st</text:span> bauen können. <text:span text:style-name="T41">Jedoch unterstützen Sie durch den Kauf der </text:span>Hardware <text:span text:style-name="T41">über </text:span>pilight gleichzeitig das Projekt.</text:p>
    <text:h text:style-name="P55" text:outline-level="2">Fre<text:span text:style-name="T36">i</text:span></text:h>
-   <text:p text:style-name="P24">pilight ist „frei“ wie in „<text:span text:style-name="T40">Redefreiheit“</text:span>. Es ist unter der GPLv3 Lizenz <text:span text:style-name="T40">lizenziert.</text:span> Falls Sie etwas mit unserem Quellcode vorhaben, <text:span text:style-name="T41">machen Sie bitte ganz deutlich, </text:span>das<text:span text:style-name="T41">s</text:span> Sie nicht <text:span text:style-name="T41">direkt zum </text:span>pilight <text:span text:style-name="T41">Team gehören</text:span>. Wir möchten nicht in <text:span text:style-name="T41">die </text:span>Situation <text:span text:style-name="T41">kommen, </text:span>für <text:span text:style-name="T41">ein Produkt Support </text:span>leisten <text:span text:style-name="T41">zu </text:span>sollen, das wir <text:span text:style-name="T41">selbst </text:span>nicht <text:span text:style-name="T41">freigegeben haben</text:span>.</text:p>
+   <text:p text:style-name="P24">pilight ist „frei“ wie in „<text:span text:style-name="T40">Redefreiheit“</text:span>. Es ist unter der GPLv3 Lizenz <text:span text:style-name="T40">lizenziert.</text:span> Falls Sie etwas mit unserem Quellcode vorhaben, <text:span text:style-name="T41">machen Sie es bitte ganz deutlich, </text:span>das<text:span text:style-name="T41">s</text:span> Sie nicht <text:span text:style-name="T41">direkt zum </text:span>pilight <text:span text:style-name="T41">Team gehören</text:span>. Wir möchten nicht in <text:span text:style-name="T41">die </text:span>Situation <text:span text:style-name="T41">kommen, </text:span>für <text:span text:style-name="T41">ein Produkt Support </text:span>leisten <text:span text:style-name="T41">zu </text:span>sollen, das wir <text:span text:style-name="T41">selbst </text:span>nicht <text:span text:style-name="T41">freigegeben haben</text:span>.</text:p>
    <text:h text:style-name="P55" text:outline-level="2"><text:span text:style-name="T36">Komplett</text:span> Modular</text:h>
    <text:p text:style-name="P23">pilight ist komplett modular. Neue Protokolle <text:span text:style-name="T41">können </text:span>genauso einfach <text:span text:style-name="T41">hinzugefügt werden </text:span>wie <text:span text:style-name="T41">komplette </text:span>neue Hardwaremodule. Die API erlaubt es Benutzern neue Programme zu entwickeln, die mit pilight interagieren. Die Community hat bereits Smartphone Apps, Desktop Apps, und diverse Plug-ins für andere Projekte geschrieben.</text:p>
    <text:h text:style-name="P57" text:outline-level="2"><text:soft-page-break/>Qualitativ hochwertiger Code</text:h>
-   <text:p text:style-name="P23">Fast alles was pilight kann ist <text:span text:style-name="T41">von Grund auf neu </text:span>entwickelt, <text:span text:style-name="T41">daher wissen </text:span>die Entwickler genau was jeder <text:span text:style-name="T41">einzelne </text:span>Teil des pilight Quellcodes tut. Wenn neue Funktionalitäten gefragt sind, werden externe Bibliotheken nach der Qualität ihres Codes ausgewählt. Zum Beispiel verwendet pilight nicht openSSL, sondern polarSSL (genannt mbed TLS). OpenSSL hat einen schlechten Ruf <text:span text:style-name="T41">bezüglich der </text:span>Codequalität, während polarSSL viel robuster ist. pilight Entwickler überprüfen <text:span text:style-name="T41">fortwährend</text:span> ihren Code mit Werkzeugen wie valgrind oder gdb. Speicherzugriffsfehler und andere übliche Fehler sind daher in pilight zu 99% inexistent. Die hohe Qualität des Codes erlaubt es, pilight einfach auf anderen Plattformen laufen zulassen, wie <text:span text:style-name="T41">bereits gezeigt mit den Portierungen auf </text:span>Windows und OpenWRT.</text:p>
+   <text:p text:style-name="P23">Fast alles was pilight kann ist <text:span text:style-name="T41">von Grund auf neu </text:span>entwickelt, <text:span text:style-name="T41">daher wissen </text:span>die Entwickler genau was jeder <text:span text:style-name="T41">einzelne </text:span>Teil des pilight Quellcodes tut. Wenn neue Funktionalitäten gefragt sind, werden externe Bibliotheken nach der Qualität ihres Codes ausgewählt. Zum Beispiel verwendet pilight nicht openSSL, sondern polarSSL (genannt mbed TLS). OpenSSL hat einen schlechten Ruf <text:span text:style-name="T41">bezüglich der </text:span>Codequalität, während polarSSL viel robuster ist. pilight Entwickler überprüfen <text:span text:style-name="T41">fortwährend</text:span> ihren Code mit Werkzeugen wie valgrind oder gdb. Speicherzugriffsfehler und andere übliche Fehler sind daher in pilight zu <text:span text:style-name="T43">99 %</text:span> inexistent. Die hohe Qualität des Codes erlaubt es, pilight einfach auf anderen Plattformen laufen zulassen, wie <text:span text:style-name="T41">bereits gezeigt mit den Portierungen auf </text:span>Windows und OpenWRT.</text:p>
    <text:h text:style-name="P55" text:outline-level="2">Webserver <text:span text:style-name="T36">u</text:span>nd webGUI</text:h>
    <text:p text:style-name="P23">pilight hat einen integrierten Webserver und bietet eine integrierte webGUI an. Dies erlaubt es Benutzern sofort alle Features von pilight in Benutzung zu nehmen. Die webGUI macht es einfach Geräte zu steuern oder ihren Status <text:span text:style-name="T42">zu</text:span> <text:span text:style-name="T41">überwachen</text:span>. <text:span text:style-name="T41">Wer </text:span>keine Smartphone App installieren möchten <text:span text:style-name="T41">kann</text:span> auch einfach <text:span text:style-name="T41">seinen üblichen </text:span>Browser <text:span text:style-name="T41">zur Steuerung von pilight verwenden</text:span>.</text:p>
    <text:h text:style-name="P57" text:outline-level="2">Leichtgewichtig</text:h>
-   <text:p text:style-name="P23">Pilight ist in C programmiert. Dies bedeutet das es sehr schnell ist und wenig Ressourcen benötigt. Alle Plug-ins werden direkt in pilight hinein kompiliert, so dass der overhead der Plug-ins minimal bleibt. Dies ist auch ein Grund dafür wieso pilight au<text:span text:style-name="T41">f</text:span> low-power <text:span text:style-name="T40">Mainboards</text:span> wie <text:span text:style-name="T41">z.B. in </text:span>Routern laufen kann. </text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T43">p</text:span>ilight ist in C programmiert. Dies bedeutet das es sehr schnell ist und wenig Ressourcen benötigt. Alle Plug-ins werden direkt in pilight hinein kompiliert, so dass der overhead der Plug-ins minimal bleibt. Dies ist auch ein Grund dafür wieso pilight au<text:span text:style-name="T41">f</text:span> low-power <text:span text:style-name="T40">Mainboards</text:span> wie <text:span text:style-name="T41">z.B. in </text:span>Routern laufen kann. </text:p>
    <text:p text:style-name="P23">Die gesamte pilight Hardware wie der ATTiny <text:span text:style-name="T41">F</text:span>ilter und das Arduino Nano Interface sind auch in reinem C‑Code programmiert. Dies erlaubt es uns komplette Kontrolle über jeden Teil des Codes zu haben und verhindert <text:span text:style-name="T41">unnötigen O</text:span>verhead von <text:span text:style-name="T41">Tools</text:span> wie den Arduino Programmierungsbibliotheken.</text:p>
    <text:p text:style-name="P21"/>
   </office:text>
