@@ -11,7 +11,7 @@
 	4.7|Example|configuration
 5|Eventing|eventing
 6|AdHoc-Network|adhoc-network
-7|Häufig gestellte Fragen
+7|Häufig gestellte Fragen|faq
 8|
 9|Entwickler
 	9.1|API|api
