@@ -3,7 +3,7 @@
 3|Installation|installation
 4|Konfiguration
 	4.1|Geräte (Devices)|configuration-devices
-	4.2|Regeln (Rules) Rules|configuration-rules
+	4.2|Regeln (Rules)|configuration-rules
 	4.3|GUI|configuration-gui
 	4.4|Einstellungen (Settings)|configuration-settings
 	4.5|Hardware|configuration-hardware
