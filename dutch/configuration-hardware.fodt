@@ -4,7 +4,7 @@
  <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.4.1$Windows_x86 LibreOffice_project/bc356b2f991740509f321d70e4512a6a54c5f243</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="36" meta:word-count="194" meta:character-count="1158" meta:non-whitespace-character-count="985"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">2540</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">17145</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32704</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">15083</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">7620</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3203</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">24135</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">35373</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">2540</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">17145</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32703</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">17621</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">32226</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -58,7 +58,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4384516</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4431236</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -645,58 +645,37 @@
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003792a9"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003792a9"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e" officeooo:paragraph-rsid="003792a9"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003792a9"/>
+   <style:text-properties officeooo:paragraph-rsid="003792a9"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e" officeooo:paragraph-rsid="00424c3e"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="00424c3e"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e" officeooo:paragraph-rsid="00424c3e"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00362983" officeooo:paragraph-rsid="003834a4"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="179.62mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="174.63mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e" officeooo:paragraph-rsid="003792a9"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003792a9"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Contents_20_4">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="169.63mm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e" officeooo:paragraph-rsid="003792a9"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="003792a9"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="00424c3e"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e" officeooo:paragraph-rsid="00424c3e"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00362983" officeooo:paragraph-rsid="003834a4"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Liberation Sans1"/>
@@ -714,33 +693,36 @@
    <style:text-properties fo:color="#0000ff" fo:language="nl" fo:country="NL" officeooo:rsid="003792a9"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#0000ff" fo:language="nl" fo:country="NL" officeooo:rsid="00439d84"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties officeooo:rsid="003792a9"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2"/>
+   <style:text-properties officeooo:rsid="003792a9"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="00424c3e"/>
+   <style:text-properties style:font-name="Liberation Mono2"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
+   <style:text-properties officeooo:rsid="00424c3e"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00424c3e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003792a9"/>
+   <style:text-properties fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00424c3e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="003792a9"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00424c3e"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
    <style:text-properties officeooo:rsid="0042e704"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
@@ -854,89 +836,89 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc255_2105651063" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Hardware<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2449_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introductie<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2451_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Uitgezet<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2453_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">433.92 MHz<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P33"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2455_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Lirc kernel module<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P33"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2457_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Directe GPIO aansturing<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P33"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2459_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">pilight USB Nano<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P8"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc255_2105651063" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Hardware<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2449_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introductie<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2451_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Uitgezet<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2453_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">433.92 MHz<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P10"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2455_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Lirc kernel module<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P10"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2457_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Directe GPIO aansturing<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P10"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2459_1937404556" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">pilight USB Nano<text:tab/>2</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P15" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2449_1937404556"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T11">Introductie</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc2449_1937404556"/></text:h>
+   <text:h text:style-name="P15" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2449_1937404556"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T12">Introductie</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc2449_1937404556"/></text:h>
    <text:p text:style-name="P4">Sinds pilight 3.0 bestaat de mogelijkheid om te data te zenden en ontvangen van verschillende hardware modules. Dit betekent dat je verschillende apparaten kan bedienen op verschillende frequenties tegelijk. Er zal echter maar een module per frequentie per keer worden ondersteund. Elke hardware module heeft zijn eigen syntax zoals hieronder beschreven.</text:p>
    <text:h text:style-name="P17" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2451_1937404556"/>Uitgezet<text:bookmark-end text:name="__RefHeading___Toc2451_1937404556"/></text:h>
-   <text:list xml:id="list2895515643147461254" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list1438017170222018801" text:style-name="Code_20_Numbering">
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: {</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: {</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;none&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: { }</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;none&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: { }</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">}</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">}</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P16" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2453_1937404556"/>433.92 M<text:span text:style-name="T15">H</text:span>z<text:bookmark-end text:name="__RefHeading___Toc2453_1937404556"/></text:h>
-   <text:h text:style-name="P19" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2455_1937404556"/><text:span text:style-name="T7">Lirc k</text:span>ernel <text:span text:style-name="T9">m</text:span>odule<text:bookmark-end text:name="__RefHeading___Toc2455_1937404556"/></text:h>
-   <text:list xml:id="list142730979182019" text:continue-list="list2895515643147461254" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P16" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2453_1937404556"/>433.92 M<text:span text:style-name="T16">H</text:span>z<text:bookmark-end text:name="__RefHeading___Toc2453_1937404556"/></text:h>
+   <text:h text:style-name="P19" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2455_1937404556"/><text:span text:style-name="T8">Lirc k</text:span>ernel <text:span text:style-name="T10">m</text:span>odule<text:bookmark-end text:name="__RefHeading___Toc2455_1937404556"/></text:h>
+   <text:list xml:id="list112747058162092" text:continue-list="list1438017170222018801" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: {</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: {</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4"><text:tab/>&quot;433lirc&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: {</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4"><text:tab/>&quot;433lirc&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: {</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4"><text:tab/><text:tab/>&quot;socket&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;/dev/lirc0&quot;</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4"><text:tab/><text:tab/>&quot;socket&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;/dev/lirc0&quot;</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"><text:tab/>}</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13"><text:tab/>}</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">}</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">}</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P31" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2457_1937404556"/>Directe GPIO aansturing<text:bookmark-end text:name="__RefHeading___Toc2457_1937404556"/></text:h>
-   <text:list xml:id="list142730995153512" text:continue-list="list142730979182019" text:style-name="Code_20_Numbering">
+   <text:h text:style-name="P21" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2457_1937404556"/>Directe GPIO aansturing<text:bookmark-end text:name="__RefHeading___Toc2457_1937404556"/></text:h>
+   <text:list xml:id="list112747058170699" text:continue-list="list112747058162092" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: {</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: {</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;433gpio&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: {</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;433gpio&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: {</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;sender&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: 0,</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;sender&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: 0,</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;receiver&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: 1</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;receiver&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: 1</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/>}</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/>}</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">}</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">}</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P6"><text:span text:style-name="T13">De zender en ontvanger nummers corresponderen met de documentatie op </text:span><text:a xlink:type="simple" xlink:href="http://www.wiringx.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T13">http://www.wiringx.org</text:span></text:a><text:span text:style-name="T13">. Als je ofwel de zender ofwel de ontvanger wil uitzetten, zet dan deze dan op -1.</text:span></text:p>
-   <text:h text:style-name="P22" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2459_1937404556"/>pilight USB Nano<text:bookmark-end text:name="__RefHeading___Toc2459_1937404556"/></text:h>
-   <text:list xml:id="list142730995166428" text:continue-list="list142730995153512" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P6"><text:span text:style-name="T14">De zender en ontvanger nummers corresponderen met de documentatie op </text:span><text:a xlink:type="simple" xlink:href="http://www.wiringx.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T14">http://www.wiringx.org</text:span></text:a><text:span text:style-name="T14">. Als je ofwel de zender ofwel de ontvanger wil uitzetten, zet dan deze dan op -1.</text:span></text:p>
+   <text:h text:style-name="P23" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2459_1937404556"/>pilight USB Nano<text:bookmark-end text:name="__RefHeading___Toc2459_1937404556"/></text:h>
+   <text:list xml:id="list112747058161846" text:continue-list="list112747058170699" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: {</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;hardware&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: {</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;433Nano&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: {</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;433</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T6">n</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">ano&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: {</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;comport&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10">: </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;/dev/ttyUSB</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">0</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;comport&quot;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11">: </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;/dev/ttyUSB</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">0</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T4">&quot;</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/>}</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T11"><text:tab/>}</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">}</text:span></text:span></text:p>
+     <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T13">}</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P4">De <text:span text:style-name="T14">comport </text:span>dient een valide COM poort te bevatten voor je specifieke platform. Op Windows zal dit waarschijnlijk een <text:span text:style-name="T8">COM1 </text:span><text:span text:style-name="T1">variant zijn, op Linux waarschijnlijk </text:span><text:span text:style-name="T8">/dev/ttyUSB0</text:span><text:span text:style-name="T1"> en op FreeBSD </text:span><text:span text:style-name="T8">/dev/cuau0</text:span><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P4">De <text:span text:style-name="T15">comport </text:span>dient een valide COM poort te bevatten voor je specifieke platform. Op Windows zal dit waarschijnlijk een <text:span text:style-name="T9">COM1 </text:span><text:span text:style-name="T1">variant zijn, op Linux waarschijnlijk </text:span><text:span text:style-name="T9">/dev/ttyUSB0</text:span><text:span text:style-name="T1"> en op FreeBSD </text:span><text:span text:style-name="T9">/dev/cuau0</text:span><text:span text:style-name="T1">.</text:span></text:p>
    <text:p text:style-name="P3"/>
   </office:text>
  </office:body>
