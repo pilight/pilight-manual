@@ -11,12 +11,14 @@
 	4.7|Voorbeeld|configuration
 5|Eventing|eventing
 6|AdHoc-Netwerk|adhoc-network
-7|Veel gestelde vragen|faq
-8|
-9|Ontwikkeling
-	9.1|API|api
-	9.2|Foutopsporing|debugging
-10|
-11|Sitemap|sitemap
-12|
-13|Over de handleiding|about-manual
+7|Electronica
+	7.1|Bedrading|electronics-wiring
+8|Veel gestelde vragen|faq
+9|
+10|Ontwikkeling
+	10.1|API|api
+	10.2|Foutopsporing|debugging
+11|
+12|Sitemap|sitemap
+13|
+14|Over de handleiding|about-manual
