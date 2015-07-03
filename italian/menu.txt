@@ -11,12 +11,14 @@
 	4.7|Esempio|configuration
 5|Eventing|eventing
 6|Rete Ad-Hoc|adhoc-network
-7|Domande frequenti|faq
-8|
-9|Sviluppo
+7|Elettronica
+	7.1|Cablaggio|electronics-wiring
+8|Domande frequenti|faq
+9|
+10|Sviluppo
 	9.1|API|api
 	9.2|Debugging|debugging
-10|
-11|Sitemap|sitemap
-12|
-13|Informazioni sul manuale|about-manual
+11|
+12|Sitemap|sitemap
+13|
+14|Informazioni sul manuale|about-manual
