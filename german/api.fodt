@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.7.2$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="237" meta:word-count="1506" meta:character-count="9676" meta:non-whitespace-character-count="8185"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.3.7.2$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="237" meta:word-count="1518" meta:character-count="9786" meta:non-whitespace-character-count="8283"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">172891</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">169838</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">26813</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">28695</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">28693</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">6562</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">185415</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">18704</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">191572</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">172891</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">169838</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">26811</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">201584</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">198529</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -82,9 +82,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">3979683</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3996060</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">owH+/0hQcDIwNTVkbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUHAyMDU1ZG4AAAAAAAAAAAAAAAAAAAAAAAAWAAMAyQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBwMjA1NWRuCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">owH+/0hQcDIwNTVkbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUHAyMDU1ZG4AAAAAAAAAAAAAAAAAAAAAAAAWAAMAyQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SFBwMjA1NWRuCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -653,235 +653,241 @@
    <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
+   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
+   <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
   <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
+   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="000de7a4"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="00225b8a"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00277635"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00295a27"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="002f513f"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00034f41"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
+   <style:text-properties officeooo:rsid="00034f41"/>
   </style:style>
   <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:rsid="0032ac7d" officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
+   <style:text-properties officeooo:paragraph-rsid="0032ac7d"/>
   </style:style>
   <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a1967" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="00271496"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="en" fo:country="GB"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="de" fo:country="DE"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a1967" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="0025304e"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="00271496"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="en" fo:country="GB"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="de" fo:country="DE"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0031544d" officeooo:paragraph-rsid="0031544d"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Notice">
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0035744f" officeooo:paragraph-rsid="0035744f"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00329d12" officeooo:paragraph-rsid="00329d12"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Notice">
    <style:text-properties fo:color="#ffffff"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003cf99c"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
   </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
-   <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
-  </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
-  </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="de" fo:country="DE"/>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="003b84f7"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7" officeooo:paragraph-rsid="003b84f7"/>
+  </style:style>
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="003a1967"/>
   </style:style>
   <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="de" fo:country="DE"/>
+  </style:style>
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="003a1967"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:paragraph-rsid="003cf99c"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00085391"/>
@@ -971,130 +977,148 @@
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="00360203"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="003cf99c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="0037f680"/>
+   <style:text-properties officeooo:rsid="00360203"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="003a1967"/>
+   <style:text-properties officeooo:rsid="0037f680"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2"/>
+   <style:text-properties officeooo:rsid="003a1967"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB"/>
+   <style:text-properties style:font-name="Liberation Mono2"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="de" fo:country="DE" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2" fo:language="de" fo:country="DE" fo:font-style="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="de" fo:country="DE" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:text-properties style:font-name="Liberation Mono2" fo:language="de" fo:country="DE" fo:font-style="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a1967"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a1967"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" officeooo:rsid="003a9c5b" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" officeooo:rsid="003a9c5b" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003bc4cb" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" officeooo:rsid="003bc4cb" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003bc4cb"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a9c5b"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003bc4cb"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties officeooo:rsid="003a9c5b"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="003a9c5b"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties officeooo:rsid="003b84f7"/>
+   <style:text-properties officeooo:rsid="003a9c5b"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE"/>
+   <style:text-properties officeooo:rsid="003b84f7"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-weight="normal" officeooo:rsid="003a1967" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-weight="normal" officeooo:rsid="003cf99c" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="normal" officeooo:rsid="003cb9a3" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="italic" officeooo:rsid="003b84f7" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="normal" officeooo:rsid="003cb9a3" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="normal" officeooo:rsid="003cf99c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003cb9a3"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties style:font-name="Liberation Sans1" fo:language="de" fo:country="DE" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE" fo:font-style="italic" officeooo:rsid="003b84f7" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties style:font-name="Liberation Sans1" fo:language="de" fo:country="DE" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003b84f7"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003cb9a3"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties fo:language="de" fo:country="DE" officeooo:rsid="003cf99c"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans1" fo:language="de" fo:country="DE" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans1" fo:language="de" fo:country="DE" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003cf99c" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans1" fo:language="de" fo:country="DE" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="003b84f7" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
    <style:text-properties officeooo:rsid="003cb9a3"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties officeooo:rsid="003cf99c"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Terminal">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" loext:rel-width-rel="paragraph"/>
@@ -1304,7 +1328,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
-   <text:h text:style-name="P71" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc154_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">API</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc154_547078094"/></text:h>
+   <text:h text:style-name="P73" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc154_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">API</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc154_547078094"/></text:h>
    <text:table-of-content text:style-name="Sect1" text:name="Inhoudsopgave1">
     <text:table-of-content-source text:outline-level="10" text:index-scope="chapter">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -1390,735 +1414,735 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc154_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T58">API<text:tab/>1</text:span></text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc156_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T58">Identifizierung<text:tab/>1</text:span></text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc158_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T58">Optionen<text:tab/>2</text:span></text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc160_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T58">Aktionen<text:tab/>3</text:span></text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc162_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T58">Webserver<text:tab/>6</text:span></text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc164_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T58">Heartbeat<text:tab/>6</text:span></text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc166_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T58">Puffergrößen<text:tab/>7</text:span></text:a></text:p>
+     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc154_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T59">API<text:tab/>1</text:span></text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc156_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T59">Identifizierung<text:tab/>1</text:span></text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc158_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T59">Optionen<text:tab/>2</text:span></text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc160_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T59">Aktionen<text:tab/>3</text:span></text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc162_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T59">Webserver<text:tab/>6</text:span></text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc164_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T59">Heartbeat<text:tab/>6</text:span></text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc166_547078094" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T59">Puffergrößen<text:tab/>7</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P57" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc156_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">Identifizierung</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc156_547078094"/></text:h>
-   <text:p text:style-name="P26">Alle pilight Programme kommunizieren durch JSON miteinander. Der übliche Identifizierungsprozess sieht so aus:</text:p>
-   <text:list xml:id="list5370280418844629043" text:style-name="L1">
+   <text:h text:style-name="P59" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc156_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62">Identifizierung</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc156_547078094"/></text:h>
+   <text:p text:style-name="P27">Alle pilight Programme kommunizieren <text:span text:style-name="T77">durch</text:span> JSON-<text:span text:style-name="T77">Objekte</text:span> miteinander. Der übliche Identifizierungs-prozess sieht so aus:</text:p>
+   <text:list xml:id="list8453984964680229048" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P81"><text:span text:style-name="Emphasis"><text:span text:style-name="T63">Verbinden mit dem </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T66">pilight-daemon</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T63"> über die pilight IP und den pilight Port. Der Port ist entweder einen zufällig gewählte Zahl oder ein in den Einstellungen definierter Port. </text:span></text:span></text:p>
+     <text:p text:style-name="P76"><text:span text:style-name="Emphasis"><text:span text:style-name="T65">Verbinden mit dem </text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T69">pilight-daemon</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T65"> über die pilight IP und den pilight Port. Der Port ist entweder einen zufällig gewählte Zahl oder ein in den Einstellungen definierter Port. </text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P81"><text:span text:style-name="T67">Der </text:span><text:span text:style-name="T66">pilight-daemon</text:span><text:span text:style-name="T63"> wartet darauf das der Client sich durch das folgenden JSON </text:span><text:span text:style-name="T64">Objekt</text:span><text:span text:style-name="T63"> identifiziert:</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:list xml:id="list3697853321571663702" text:style-name="Code_20_Numbering">
-    <text:list-item>
-     <text:p text:style-name="P65">{</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65"><text:s text:c="4"/>&quot;action&quot;: &quot;identify&quot;</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P76"><text:span text:style-name="T70">Der </text:span><text:span text:style-name="T69">pilight-daemon</text:span><text:span text:style-name="T65"> wartet darauf das der Client sich durch das folgenden JSON </text:span><text:span text:style-name="T66">Objekt</text:span><text:span text:style-name="T65"> identifiziert:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452605823711" text:continue-list="list5370280418844629043" text:style-name="L1">
+   <text:list xml:id="list4241518645649394530" text:style-name="Code_20_Numbering">
     <text:list-item>
-     <text:p text:style-name="P75">Ein Client kann auch einige Optionen senden um dem Dämon mitzuteilen welche Informationen übertragen werden sollen. Eine komplette Identifikation sieht so aus:</text:p>
+     <text:p text:style-name="P67">{</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P67"><text:s text:c="4"/>&quot;action&quot;: &quot;identify&quot;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453103977064" text:continue-list="list3697853321571663702" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111899411403" text:continue-list="list8453984964680229048" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P77">Ein Client kann auch einige Optionen senden um dem Dämon mitzuteilen welche Informationen übertragen werden sollen. Eine komplette Identifikation sieht so aus:</text:p>
+    </text:list-item>
+   </text:list>
+   <text:list xml:id="list232112421852296" text:continue-list="list4241518645649394530" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;options&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;options&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;core&quot;: 1,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;core&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;receiver&quot;: 1,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;receiver&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;config&quot;: 1,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;config&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;forward&quot;: 0</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;forward&quot;: 0</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;media&quot;: &quot;all&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;media&quot;: &quot;all&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list3387424003125539187" text:style-name="L2">
+   <text:list xml:id="list1377015573385072424" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P76">Nach jeder Aktion sendet der Dämon eines der beiden Statuspaketen senden um mitzuteilen ob die Aktion (miss)glückt ist:</text:p>
+     <text:p text:style-name="P78">Nach jeder Aktion sendet der Dämon eines der beiden Statuspaketen, um mitzuteilen ob die Aktion <text:span text:style-name="T77">erfolgreich oder missglückt </text:span>ist:</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452478093891" text:continue-list="list145453103977064" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111418074094" text:continue-list="list232112421852296" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;status&quot;: &quot;success&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;status&quot;: &quot;success&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P24"/>
-   <text:list xml:id="list145452109332089" text:continue-list="list145452478093891" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232112049662251" text:continue-list="list232111418074094" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;status&quot;: &quot;failure&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;status&quot;: &quot;failure&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P39" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc158_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">Option</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">en</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc158_547078094"/></text:h>
-   <text:p text:style-name="P26">Die Identifikationsoptionen definieren welche Kommunikation zwischen dem Dämon und dem Client aufgebaut wird.</text:p>
-   <text:list xml:id="list1414387575955349670" text:style-name="L3">
+   <text:h text:style-name="P41" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc158_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">Option</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62">en</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc158_547078094"/></text:h>
+   <text:p text:style-name="P27">Die Identifikationsoptionen definieren welche <text:span text:style-name="T77">Daten</text:span> zwischen de<text:span text:style-name="T77">r</text:span> Dämon dem Client <text:span text:style-name="T77">übertragen soll.</text:span></text:p>
+   <text:list xml:id="list5629073164330264325" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P83"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">receiver</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T67">Wenn die receiver Option gesetzt ist, sendet der Dämon alle Signale an den Client:</text:span></text:p>
+     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">receiver</text:span></text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T70">Wenn die receiver Option gesetzt ist, sendet der Dämon alle </text:span><text:span text:style-name="T72">gesendeten und empfangen</text:span><text:span text:style-name="T70"> Signale an den Client:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452990030411" text:continue-list="list145452109332089" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111483086907" text:continue-list="list232112049662251" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;origin&quot;: &quot;receiver&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;origin&quot;: &quot;receiver&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;code&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;code&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;origin&quot;: &quot;sender&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;protocol&quot;: &quot;kaku_switch&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;code&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;code&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P66">}</text:p>
+     <text:p text:style-name="P68">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452333571215" text:continue-list="list1414387575955349670" text:style-name="L3">
+   <text:list xml:id="list232110504590501" text:continue-list="list5629073164330264325" text:style-name="L3">
     <text:list-header>
-     <text:p text:style-name="P77">In den empfangen JSON Objekten gibt der origin Schlüssel an, ob ein Signal ein empfangenes Signal ist oder von pilight selbst stammt.</text:p>
+     <text:p text:style-name="P79">In den empfangen JSON Objekten gibt der origin Schlüssel an, ob ein Signal ein empfangenes Signal ist <text:span text:style-name="T77">(„receiver“)</text:span> oder von pilight <text:span text:style-name="T77">gesendet wurde („sender“)</text:span>.</text:p>
     </text:list-header>
     <text:list-item>
-     <text:p text:style-name="P82"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">c</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">onfig<text:line-break/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">Wenn die config Option gesetzt ist, sendet der Dämon alle Änderungen der Konfiguration. Ein Beispiel:</text:span></text:span></text:p>
+     <text:p text:style-name="P84"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62">c</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">onfig<text:line-break/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62">Wenn die config Option gesetzt ist, </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T63">werden</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62"> alle Änderungen der Konfiguration </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T63">gesendet</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62">. Ein Beispiel:</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145451806981820" text:continue-list="list145452990030411" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111789094006" text:continue-list="list232111483086907" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;origin&quot;: &quot;config&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;origin&quot;: &quot;config&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;devices&quot;: [ &quot;mainlight&quot; ],</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;devices&quot;: [ &quot;mainlight&quot; ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;values&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;values&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453868126682" text:continue-list="list145452333571215" text:style-name="L3">
+   <text:list xml:id="list232111402038431" text:continue-list="list232110504590501" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P82"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">core</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T67">Wenn die core Option gesetzt ist, sendet der Dämon interne Informationen.</text:span></text:p>
+     <text:p text:style-name="P84"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">core</text:span></text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T70">Wenn die core Option gesetzt ist, sendet der Dämon interne Informationen.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P82"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">stats</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T67">Wenn die stats Option gesetzt ist, sendet der Dämon die RAM und CPU Auslastungsinformationen des Dämons.</text:span></text:p>
+     <text:p text:style-name="P84"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">stats</text:span></text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T70">Wenn die stats Option gesetzt ist, sendet der Dämon die RAM und CPU Auslastungsinformationen des Dämons.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452235116993" text:continue-list="list145451806981820" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232112204332633" text:continue-list="list232111789094006" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;origin&quot;: &quot;core&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;origin&quot;: &quot;core&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;values&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;values&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;cpu&quot;: 0.07822473698105643,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;cpu&quot;: 0.07822473698105643,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;ram&quot;: 0.1535397936955158</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;ram&quot;: 0.1535397936955158</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;type&quot;: -1,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;type&quot;: -1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453179940369" text:continue-list="list145453868126682" text:style-name="L3">
+   <text:list xml:id="list232111420938091" text:continue-list="list232111402038431" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P83"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">forward<text:line-break/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">Wenn die forward Option gesetzt ist, überträgt der Dämon alle (korrekten) Socket Pakete an den Client</text:span></text:span></text:p>
+     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">forward<text:line-break/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62">Wenn die forward Option gesetzt ist, überträgt der Dämon alle (korrekten) Socket Pakete an den Client</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P87">Das uuid Feld ist da, damit der Client seine UUID senden kann. </text:p>
-   <text:p text:style-name="P27"><text:span text:style-name="T58">Die media Einstellung teilt de</text:span><text:span text:style-name="T68">m </text:span><text:span text:style-name="T58">Dämon mit welche Informationen gesendet werden, basierend auf den unterschiedlichen Medien. Wie Sie in der GUI Konfiguration lesen können, können benutzter unterschiedliche GUIs erstellen die auf unterschiedlichen Geräten basiert sind. Zur Zeit sind die unterstützten GUI Typen </text:span><text:span text:style-name="T65">all</text:span><text:span text:style-name="T62">, </text:span><text:span text:style-name="T65">web</text:span><text:span text:style-name="T62">, </text:span><text:span text:style-name="T65">mobile</text:span><text:span text:style-name="T62"> und </text:span><text:span text:style-name="T65">desktop</text:span><text:span text:style-name="T62">. Wenn Sie einen ihrer Clients als einen dieser GUI Typen definieren, sendet pilight nur Informationen die mit Geräten, GUI Elementen, Konfigurationsänderungen und Regeln die für diesen GUI Typ sind. So müssen Sie nicht weiteres Parsing auf dem Client ausführen.</text:span></text:p>
-   <text:p text:style-name="P26">Diese Optionen können on-the-fly geändert werden während der Client läuft. Der Dämon fängt an oder hört auf gewisse Daten zu übertragen. Um diese Optionen zu ändern, senden Sie einfach eine neue Identifikationsanfrage. Ein Beispiel:</text:p>
-   <text:list xml:id="list145453869660617" text:continue-list="list145452235116993" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P36">Das uuid Feld ist da, damit der Client seine UUID senden kann. </text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T59">Die media Einstellung teilt de</text:span><text:span text:style-name="T71">m </text:span><text:span text:style-name="T59">Dämon mit, welche Informationen gesendet werden, basierend auf den unterschiedlichen Medien. Wie Sie in der GUI Konfiguration lesen können, können </text:span><text:span text:style-name="T72">B</text:span><text:span text:style-name="T59">enutzter unterschiedliche GUIs erstellen die auf unterschiedlichen Geräten basiert sind. Zur Zeit sind die unterstützten GUI Typen </text:span><text:span text:style-name="T68">all</text:span><text:span text:style-name="T64">, </text:span><text:span text:style-name="T68">web</text:span><text:span text:style-name="T64">, </text:span><text:span text:style-name="T68">mobile</text:span><text:span text:style-name="T64"> und </text:span><text:span text:style-name="T68">desktop</text:span><text:span text:style-name="T64">. Wenn Sie einen ihrer Clients als einen dieser GUI Typen definieren, sendet pilight nur Informationen die mit Geräten, GUI Elementen, Konfigurationsänderungen und Regeln die für diesen GUI Typ sind. So müssen Sie nicht weiteres Parsing auf dem Client ausführen.</text:span></text:p>
+   <text:p text:style-name="P27">Diese Optionen können on-the-fly geändert werden während der Client läuft. Der Dämon fängt an oder hört auf gewisse Daten zu übertragen. Um diese Optionen zu ändern, senden Sie einfach eine neue Identifikationsanfrage. Ein Beispiel:</text:p>
+   <text:list xml:id="list232112052697822" text:continue-list="list232112204332633" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;identify&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;options&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;options&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;stats&quot;: 1,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;stats&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;uuid&quot;: &quot;0000-d0-63-00-000000&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P58" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc160_547078094"/>Aktionen<text:bookmark-end text:name="__RefHeading___Toc160_547078094"/></text:h>
-   <text:p text:style-name="P26">Wie wir im Identifikationsprozess gesehen haben, kann pilight mehrere Aktionen ausführen. Die erste Aktion mit der wir zu tun hatten ist die <text:span text:style-name="T71">Identifizierung.</text:span> Die folgende Liste enthält alle möglichen Aktionen die mit dem pilight Dämon möglich sind. Auch hier antwortet der Dämon um mitzuteilen ob die Aktion (miss)glückt ist. </text:p>
-   <text:list xml:id="list4555750857010258374" text:style-name="L4">
+   <text:h text:style-name="P60" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc160_547078094"/>Aktionen<text:bookmark-end text:name="__RefHeading___Toc160_547078094"/></text:h>
+   <text:p text:style-name="P27">Wie wir im Identifikationsprozess gesehen haben, kann pilight mehrere Aktionen ausführen. Die erste Aktion mit der wir zu tun hatten ist die <text:span text:style-name="T76">Identifizierung.</text:span> Die folgende Liste enthält alle möglichen Aktionen die mit dem pilight Dämon möglich sind. Auch hier antwortet der Dämon um mitzuteilen ob die Aktion (miss)glückt ist. </text:p>
+   <text:list xml:id="list6915800698669592044" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P84"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">send</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T67">Falls der Client spezifische Protokollsignale senden will, wird die </text:span><text:span text:style-name="T66">send</text:span><text:span text:style-name="T63"> Aktion benutzt. Eine send Aktion wird von den benötigten Argumenten begleitetet:</text:span></text:p>
+     <text:p text:style-name="P86"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">send</text:span></text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T70">Falls der Client spezifische Protokollsignale senden will, wird die </text:span><text:span text:style-name="T69">send</text:span><text:span text:style-name="T65"> Aktion benutzt. Eine send Aktion wird von den benötigten Argumenten begleitetet:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453211811563" text:continue-list="list145453869660617" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232110771539459" text:continue-list="list232112052697822" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;send&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;send&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;code&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;code&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;kaku_switch&quot; ],</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;kaku_switch&quot; ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;id&quot;: 1234,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;unit&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;off&quot;: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452203044107" text:continue-list="list4555750857010258374" text:style-name="L4">
+   <text:list xml:id="list232112002124860" text:continue-list="list6915800698669592044" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P85"><text:span text:style-name="T67">Dies sind die Kommandoargumente. Falls ein Argument einen Wert benötigt, wird der Wert dem Argument hinzugefügt (so wie mit </text:span><text:span text:style-name="T66">id</text:span><text:span text:style-name="T63"> und </text:span><text:span text:style-name="T66">unit</text:span><text:span text:style-name="T63">). Falls ein Argument keinen Wert erhält, wird er automatisch auf 1 gesetzt (wie mit </text:span><text:span text:style-name="T66">off</text:span><text:span text:style-name="T63">). Der </text:span><text:span text:style-name="T66">pilight-daemon</text:span><text:span text:style-name="T63"> überprüft ob das Signal gültig war, und schickt eine Fehlermeldung zurück falls es nicht gültig ist. </text:span></text:p>
+     <text:p text:style-name="P87"><text:span text:style-name="T70">Dies sind die Kommandoargumente. Falls ein Argument einen Wert benötigt, wird der Wert dem Argument hinzugefügt (so wie mit </text:span><text:span text:style-name="T69">id</text:span><text:span text:style-name="T65"> und </text:span><text:span text:style-name="T69">unit</text:span><text:span text:style-name="T65">). Falls ein Argument keinen Wert erhält, wird er automatisch auf 1 gesetzt (wie mit </text:span><text:span text:style-name="T69">off</text:span><text:span text:style-name="T65">). Der </text:span><text:span text:style-name="T69">pilight-daemon</text:span><text:span text:style-name="T65"> überprüft ob das Signal gültig war, und schickt eine Fehlermeldung zurück falls es nicht gültig ist. </text:span></text:p>
     </text:list-header>
    </text:list>
    <text:p text:style-name="P24"/>
-   <text:list xml:id="list145453325434432" text:continue-numbering="true" text:style-name="L4">
+   <text:list xml:id="list232110919918571" text:continue-numbering="true" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P88"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">control</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T67">Die control Aktion wird benutzt um definierte Geräte über ihre Geräte-IDs zu steuern. Der </text:span><text:span text:style-name="T66">pilight-daemon</text:span><text:span text:style-name="T63"> überprüft ob die Werte gültig sind und meldet falls sie es nicht sind. Ein Beispiel eines control Objektes:</text:span></text:p>
+     <text:p text:style-name="P89"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">control</text:span></text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T70">Die control Aktion wird benutzt um definierte Geräte über ihre Geräte-IDs zu steuern. Der </text:span><text:span text:style-name="T69">pilight-daemon</text:span><text:span text:style-name="T65"> überprüft ob die Werte gültig sind und meldet falls sie es nicht sind. Ein Beispiel eines control Objektes:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453173143538" text:continue-list="list145453211811563" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232112479753331" text:continue-list="list232110771539459" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;control&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;control&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;code&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;code&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;device&quot;: &quot;mainlight&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;device&quot;: &quot;mainlight&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;state&quot;: &quot;on&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;values&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;values&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;dimlevel&quot;: 10</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;dimlevel&quot;: 10</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452450501525" text:continue-list="list145453325434432" text:style-name="L4">
+   <text:list xml:id="list232110678100783" text:continue-list="list232110919918571" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P85"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">registry</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T67">Die pilight Registry kann mit der Registry API bearbeitet werden. Die Registry ist eine interne Speichermöglichkeit in pilight. Entwickler können hier Informationen speichern die später wieder ausgelesen werden können. Die Registry unterstützt drei Aktionen: </text:span><text:span text:style-name="T66">set</text:span><text:span text:style-name="T63">, </text:span><text:span text:style-name="T66">get</text:span><text:span text:style-name="T63"> und </text:span><text:span text:style-name="T66">remove</text:span><text:span text:style-name="T63">. Die Syntax für sie sieht so aus:</text:span></text:p>
+     <text:p text:style-name="P87"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">registry</text:span></text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T70">Die pilight Registry kann mit der Registry API bearbeitet werden. Die Registry ist eine interne Speichermöglichkeit in pilight. Entwickler können hier Informationen speichern die später wieder ausgelesen werden können. Die Registry unterstützt drei Aktionen: </text:span><text:span text:style-name="T69">set</text:span><text:span text:style-name="T65">, </text:span><text:span text:style-name="T69">get</text:span><text:span text:style-name="T65"> und </text:span><text:span text:style-name="T69">remove</text:span><text:span text:style-name="T65">. Die Syntax für </text:span><text:span text:style-name="T67">d</text:span><text:span text:style-name="T65">ie </text:span><text:span text:style-name="T67">API </text:span><text:span text:style-name="T65">sieht so aus:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453143887712" text:continue-list="list145453173143538" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111374472213" text:continue-list="list232112479753331" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;type&quot;: &quot;set&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;type&quot;: &quot;set&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;value&quot;: &quot;6.0&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;value&quot;: &quot;6.0&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P24"/>
-   <text:list xml:id="list145451905249485" text:continue-list="list145453143887712" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232112463598349" text:continue-list="list232111374472213" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;type&quot;: &quot;get&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;type&quot;: &quot;get&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P24"/>
-   <text:list xml:id="list145451983275385" text:continue-list="list145451905249485" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111795923250" text:continue-list="list232112463598349" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;type&quot;: &quot;remove&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;type&quot;: &quot;remove&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453062463387" text:continue-list="list145452450501525" text:style-name="L4">
+   <text:list xml:id="list232112187558182" text:continue-list="list232110678100783" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P78">Die Antwort auf ein get Kommando sieht so aus:</text:p>
+     <text:p text:style-name="P80">Die Antwort auf ein get Kommando sieht so aus:</text:p>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list145453274448591" text:continue-list="list145451983275385" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111093340569" text:continue-list="list232111795923250" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;registry&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;value&quot;: &quot;6.0&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;value&quot;: &quot;6.0&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;key&quot;: &quot;pilight.version&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P98">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453377026973" text:continue-list="list145453062463387" text:style-name="L4">
+   <text:list xml:id="list232110779888538" text:continue-list="list232112187558182" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P78">Bitte bemerken Sie das die pilight Registry nur JSON string und number Typen enthalten kann.</text:p>
+     <text:p text:style-name="P80">Bitte be<text:span text:style-name="T77">achten</text:span> Sie, das<text:span text:style-name="T77">s</text:span> die pilight Registry nur <text:span text:style-name="T77">die</text:span> JSON string und number Typen enthalten kann.</text:p>
     </text:list-header>
     <text:list-item>
-     <text:p text:style-name="P88"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">request config</text:span></text:span><text:span text:style-name="T58"><text:line-break/></text:span><text:span text:style-name="T67">Die request config Aktion wird benutzt um die komplette Konfiguration vom </text:span><text:span text:style-name="T66">pilight-daemon</text:span><text:span text:style-name="T63"> anzufordern:</text:span></text:p>
+     <text:p text:style-name="P89"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">request config</text:span></text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T70">Die request config Aktion wird benutzt um die komplette Konfiguration vom </text:span><text:span text:style-name="T69">pilight-daemon</text:span><text:span text:style-name="T65"> anzufordern:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453504891923" text:continue-list="list145453274448591" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232112032048588" text:continue-list="list232111093340569" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;request config&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;request config&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145453279801033" text:continue-list="list145453377026973" text:style-name="L4">
+   <text:list xml:id="list232112247551664" text:continue-list="list232110779888538" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P84"><text:span text:style-name="T67">Nach diesem Kommando, sendet der </text:span><text:span text:style-name="T66">pilight-daemon</text:span><text:span text:style-name="T63"> die JSON Konfiguration wie sie intern benutzt wird.</text:span></text:p>
+     <text:p text:style-name="P86"><text:span text:style-name="T70">Nach diesem Kommando, sendet der </text:span><text:span text:style-name="T69">pilight-daemon</text:span><text:span text:style-name="T65"> die JSON Konfiguration wie sie intern </text:span><text:span text:style-name="T67">g</text:span><text:span text:style-name="T65">enutzt wird.</text:span></text:p>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list145452521349402" text:continue-list="list145453504891923" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232111395934718" text:continue-list="list232112032048588" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;devices&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;devices&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;<text:span text:style-name="T32">tv</text:span>&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;<text:span text:style-name="T33">tv</text:span>&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;uuid&quot;: &quot;0000-00-00-07-646b93&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;uuid&quot;: &quot;0000-00-00-07-646b93&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;origin&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;origin&quot;: &quot;0000-d0-63-00-000000&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;relay&quot; ],</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;protocol&quot;: [ &quot;relay&quot; ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;id&quot;: [{</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;id&quot;: [{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;gpio&quot;: 3</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;gpio&quot;: 3</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>}],</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>}],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;default&quot;: &quot;off&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;default&quot;: &quot;off&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;rules&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;rules&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;<text:span text:style-name="T32">tvswitch</text:span>&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;<text:span text:style-name="T33">tvswitch</text:span>&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;rule&quot;: &quot;IF <text:span text:style-name="T32">tv</text:span>.state IS on THEN switch DEVICE <text:span text:style-name="T32">tv</text:span> TO off&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;rule&quot;: &quot;IF <text:span text:style-name="T33">tv</text:span>.state IS on THEN switch DEVICE <text:span text:style-name="T33">tv</text:span> TO off&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;active&quot;: 1</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;active&quot;: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;gui&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;gui&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;television&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;television&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;type&quot;: 4,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;type&quot;: 4,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;order&quot;: 1,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;order&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;name&quot;: &quot;<text:span text:style-name="T32">tv</text:span>&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;name&quot;: &quot;<text:span text:style-name="T33">tv</text:span>&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;group&quot;: [ &quot;<text:span text:style-name="T32">Living</text:span>&quot; ],</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;group&quot;: [ &quot;<text:span text:style-name="T33">Living</text:span>&quot; ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;media&quot;: [ &quot;all&quot; ],</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;media&quot;: [ &quot;all&quot; ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;readonly&quot;: 0</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;readonly&quot;: 0</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;settings&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;settings&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;log-level&quot;: 4,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;log-level&quot;: 4,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;pid-file&quot;: &quot;/var/run/pilight.pid&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;pid-file&quot;: &quot;/var/run/pilight.pid&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;log-file&quot;: &quot;/var/log/pilight.log&quot;,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;log-file&quot;: &quot;/var/log/pilight.log&quot;,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;webserver-enable&quot;: 1,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;webserver-enable&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;webserver-http-port&quot;: 5001,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;webserver-http-port&quot;: 5001,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;webserver-cache&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;webserver-cache&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;webserver-root&quot;: &quot;/usr/local/share/pilight&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;webserver-root&quot;: &quot;/usr/local/share/pilight&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;hardware&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;hardware&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;433gpio&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;433gpio&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;sender&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;sender&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;receiver&quot;: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>},</text:p>
+     <text:p text:style-name="P67"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;registry&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;registry&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;pilight&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;pilight&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>&quot;version&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>&quot;version&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;current&quot;: &quot;6.0&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/><text:tab/>&quot;current&quot;: &quot;6.0&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T58"/></text:span></text:p>
-   <text:list xml:id="list145453494745676" text:continue-list="list145453279801033" text:style-name="L4">
+   <text:p text:style-name="P20"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59"/></text:span></text:p>
+   <text:list xml:id="list232111535904367" text:continue-list="list232112247551664" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P89"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T59">request values</text:span></text:span></text:p>
+     <text:p text:style-name="P90"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">request values</text:span></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452535162950" text:continue-list="list145452521349402" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232112326774733" text:continue-list="list232111395934718" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;action&quot;: &quot;request <text:span text:style-name="T32">values</text:span>&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;action&quot;: &quot;request <text:span text:style-name="T33">values</text:span>&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}</text:p>
+     <text:p text:style-name="P67">}</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145452802789453" text:continue-list="list145453494745676" text:style-name="L4">
+   <text:list xml:id="list232110782983851" text:continue-list="list232111535904367" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P85"><text:span text:style-name="T67">pilight versucht es, Appentwicklung so einfach wie möglich zu gestalten. Dies bedeutet das die GUIs nur die GUI Konfiguration auslesen müssten. Das Problem ist allerdings das die GUI Konfiguration keine Werte der Geräte enthält. Als Lösung können GUIs Daten für alle Geräte auf einmal anfordern. Das Antwortobjekt enthält dieselben Informationen wie der Dämon mir der </text:span><text:span text:style-name="T66">config</text:span><text:span text:style-name="T67"> Option übertragen würde, aber nun für alle Geräte auf einmal. Ein Beispiel:</text:span></text:p>
+     <text:p text:style-name="P87"><text:span text:style-name="T70">pilight versucht es, </text:span><text:span text:style-name="T72">die Entwicklung von Apps s</text:span><text:span text:style-name="T70">so einfach wie möglich zu gestalten. Dies bedeutet das die GUIs nur die GUI Konfiguration auslesen müssten. Das Problem ist allerdings das die GUI Konfiguration keine Werte der Geräte enthält. Als Lösung können GUIs Daten für alle Geräte auf einmal anfordern. Das Antwortobjekt enthält dieselben Informationen wie der Dämon mir der </text:span><text:span text:style-name="T69">config</text:span><text:span text:style-name="T70"> Option übertragen würde, aber nun für alle Geräte auf einmal. Ein Beispiel:</text:span></text:p>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list145452936637375" text:continue-list="list145452535162950" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list232112054288500" text:continue-list="list232112326774733" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P65">[{</text:p>
+     <text:p text:style-name="P67">[{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;type&quot;: 4,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;type&quot;: 4,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;devices&quot;: [ &quot;<text:span text:style-name="T32">tv</text:span>&quot; ],</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;devices&quot;: [ &quot;<text:span text:style-name="T33">tv</text:span>&quot; ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;values&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;values&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">},</text:p>
+     <text:p text:style-name="P67">},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">{</text:p>
+     <text:p text:style-name="P67">{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;type&quot;: 1,</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;type&quot;: 1,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;devices&quot;: [ &quot;bookShelfLight&quot; ],</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;devices&quot;: [ &quot;bookShelfLight&quot; ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>&quot;values&quot;: {</text:p>
+     <text:p text:style-name="P67"><text:tab/>&quot;values&quot;: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;timestamp&quot;: 0,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
+     <text:p text:style-name="P67"><text:tab/><text:tab/>&quot;state&quot;: &quot;off&quot;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65"><text:tab/>}</text:p>
+     <text:p text:style-name="P67"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P65">}]</text:p>
+     <text:p text:style-name="P67">}]</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list145451912972909" text:continue-list="list145452802789453" text:style-name="L4">
+   <text:list xml:id="list232111346155395" text:continue-list="list232110782983851" text:style-name="L4">
     <text:list-header>
-     <text:p text:style-name="P84"><text:span text:style-name="T67">Direkt nach den </text:span><text:span text:style-name="T66">request values</text:span><text:span text:style-name="T63"> Objekt, wird auch ein Objekt gesendet welches mitteilt welche pilight Version auf dem Dämon läuft. Die GUIs können selber entscheiden ob diese Informationen ausgewertet oder ignoriert werden.</text:span></text:p>
+     <text:p text:style-name="P86"><text:span text:style-name="T70">Direkt nach den </text:span><text:span text:style-name="T69">request values</text:span><text:span text:style-name="T65"> Objekt, wird auch ein Objekt gesendet welches </text:span><text:span text:style-name="T67">die</text:span><text:span text:style-name="T65"> pilight Version, </text:span><text:span text:style-name="T67">die</text:span><text:span text:style-name="T65"> auf dem Dämon läuft, </text:span><text:span text:style-name="T67">enthält</text:span><text:span text:style-name="T65">. Die GUIs können selber entscheiden ob diese Informationen ausgewertet oder ignoriert werden.</text:span></text:p>
     </text:list-header>
    </text:list>
-   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc162_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">Webserver</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc162_547078094"/></text:h>
-   <text:p text:style-name="P26">Der Webserver hat einige spezielle Seiten:</text:p>
-   <text:list xml:id="list5480577558821506844" text:style-name="L5">
+   <text:h text:style-name="P56" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc162_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">Webserver</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc162_547078094"/></text:h>
+   <text:p text:style-name="P27">Der Webserver hat einige spezielle Seiten:</text:p>
+   <text:list xml:id="list995959993603541964" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P79">Die config Seite enthält die neueste Konfiguration als JSON Objekt.</text:p>
+     <text:p text:style-name="P81">Die config Seite enthält die neueste Konfiguration als JSON Objekt.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P80">Die values Seite enthält die neuesten Werte aller Geräte.</text:p>
+     <text:p text:style-name="P82">Die values Seite enthält die neuesten Werte aller Geräte.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P86"><text:span text:style-name="T67">Die send Seite kann benutzt werden um Geräte zu steuern. Um diese Funktion zu benutzten, rufen Sie die mit einem URL-enkodiertem </text:span><text:span text:style-name="T66">send</text:span><text:span text:style-name="T63"> oder </text:span><text:span text:style-name="T66">registry</text:span><text:span text:style-name="T63"> JSON Objekt auf:</text:span></text:p>
+     <text:p text:style-name="P88"><text:span text:style-name="T70">Die send Seite kann benutzt werden um Geräte zu steuern. Um diese Funktion zu benutzten, rufen Sie die </text:span><text:span text:style-name="T72">Seite zusammen</text:span><text:span text:style-name="T70"> mit einem URL-enkodiertem </text:span><text:span text:style-name="T69">send</text:span><text:span text:style-name="T65"> oder </text:span><text:span text:style-name="T69">registry</text:span><text:span text:style-name="T65"> JSON Objekt auf:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="-0.102cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
+   <text:p text:style-name="P27"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="0cm" svg:y="-0.102cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="0">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="P50">send%3F%7B%0A%09%22action%22%3A%20%22control%22%2C%0A%09%22code%22%3A%20%7B%0A%09%09%22device%22%3A%20%22mainlight%22%2C%0A%09%09%22state%22%3A%20%22on%22%2C%0A%09%09%22values%22%3A%20%7B%0A%09%09%09%22dimlevel%22%3A%20%2210%22%0A%09%09%7D%0A%09%7D%0A%7D </text:p>
+      <text:p text:style-name="P52">send%3F%7B%0A%09%22action%22%3A%20%22control%22%2C%0A%09%22code%22%3A%20%7B%0A%09%09%22device%22%3A%20%22mainlight%22%2C%0A%09%09%22state%22%3A%20%22on%22%2C%0A%09%09%22values%22%3A%20%7B%0A%09%09%09%22dimlevel%22%3A%20%2210%22%0A%09%09%7D%0A%09%7D%0A%7D </text:p>
      </draw:text-box>
     </draw:frame>Dies sendet das Objekt wie früher beschrieben. </text:p>
    <text:p text:style-name="P23"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.263cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="3">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="P50">http://x.x.x.x:5001/config?media=all</text:p>
+      <text:p text:style-name="P52">http://x.x.x.x:5001/config?media=all</text:p>
      </draw:text-box>
-    </draw:frame><text:span text:style-name="T67">Die values und config Seiten enthalten normalerweise nur die Konfiguration die für den </text:span><text:span text:style-name="T66">web</text:span><text:span text:style-name="T63"> GUI Typ bestimmt ist. Um Informationen anderer GUI Typen auszulesen, benutzten Sie das </text:span><text:span text:style-name="T66">media</text:span><text:span text:style-name="T63"> Argument:</text:span></text:p>
-   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc164_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T60">Heartbeat</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc164_547078094"/></text:h>
-   <text:p text:style-name="P23"><text:span text:style-name="T67">Einen spezielle Funktion von pilight</text:span><text:span text:style-name="T63"> ist der heartbeat. Der heartbeat kann benutzt werden um zu überprüfen ob eine Verbindung noch besteht. Der Client muss ein </text:span><text:span text:style-name="T39">&quot;</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T38">HEART\n&quot;</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T69"> senden, worauf der </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T70">pilight-daemon</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T69"> mit einem </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T38">&quot;BEAT\n&quot;</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T69"> antwortet. Dies ist das einzige Mal in dem kein JSON Objekt gesendet wird.</text:span></text:span></text:p>
-   <text:h text:style-name="P39" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc166_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">Puffergrößen</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc166_547078094"/></text:h>
-   <text:p text:style-name="P26">pilight sendet alle Datenstreams in 1024 Bits. Falls ein Stream kleiner als 1024 Bits ist, wurde das ganze Signal auf einmal übertragen. Falls ein Stream größer als 1024 Bits ist, wissen Sie das er Teil eines größeren Streams ist. In diesem Falle, lesen Sie weiter bis Sie den <text:span text:style-name="T26">end of stream delimiter</text:span><text:span text:style-name="T29"> empfangen, der zur zeit aus zwei Leerzeilen besteht </text:span><text:span text:style-name="T37">&quot;\n\n&quot;</text:span><text:span text:style-name="T29">.</text:span></text:p>
-   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.256cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="1">
+    </draw:frame><text:span text:style-name="T70">Die values und config Seiten enthalten normalerweise nur die Konfiguration, die für den </text:span><text:span text:style-name="T69">web</text:span><text:span text:style-name="T65"> GUI Typ bestimmt ist. Um Informationen anderer GUI Typen auszulesen, benutzten Sie das </text:span><text:span text:style-name="T69">media</text:span><text:span text:style-name="T65"> Argument:</text:span></text:p>
+   <text:h text:style-name="P56" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc164_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T61">Heartbeat</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc164_547078094"/></text:h>
+   <text:p text:style-name="P23"><text:span text:style-name="T70">Einen spezielle Funktion von pilight</text:span><text:span text:style-name="T65"> ist der heartbeat. Der heartbeat kann benutzt werden um zu überprüfen ob eine Verbindung noch besteht. Der Client muss ein </text:span><text:span text:style-name="T40">&quot;</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T39">HEART\n&quot;</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T73"> senden, worauf der </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T75">pilight-daemon</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T73"> mit einem </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T39">&quot;BEAT\n&quot;</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T73"> antwortet. Dies ist d</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T74">ie</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T73"> einzige </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T74">Situation</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T73"> in de</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T74">r</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T73"> kein JSON Objekt gesendet wird.</text:span></text:span></text:p>
+   <text:h text:style-name="P41" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc166_547078094"/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T62">Puffergrößen</text:span></text:span><text:bookmark-end text:name="__RefHeading___Toc166_547078094"/></text:h>
+   <text:p text:style-name="P83">pilight sendet alle Datenstreams in 1024 Bits. Falls ein Stream kleiner als 1024 Bits ist, wurde das ganze Signal auf einmal übertragen. Falls ein Stream 1024 Bits <text:span text:style-name="T77">groß </text:span>ist, wissen Sie das<text:span text:style-name="T77">s</text:span> er Teil eines größeren Streams ist. In diesem Falle, lesen Sie weiter bis Sie den <text:span text:style-name="T26">end of stream delimiter</text:span><text:span text:style-name="T29"> empfangen, der </text:span><text:span text:style-name="T30">z. Zt.</text:span><text:span text:style-name="T29"> aus zwei Leerzeilen </text:span><text:span text:style-name="T30">(</text:span><text:span text:style-name="T38">&quot;\n\n&quot;</text:span><text:span text:style-name="T30">)</text:span><text:span text:style-name="T29"> besteht.</text:span></text:p>
+   <text:p text:style-name="P27"><draw:frame draw:style-name="fr1" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.256cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="1">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
-      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
-      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
+      <text:p text:style-name="P52">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
+      <text:p text:style-name="P52">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
+      <text:p text:style-name="P52">{&quot;message&quot;:&quot;test&quot;}\n\n</text:p>
      </draw:text-box>
     </draw:frame>Falls mehrere Streams gepuffert wurden, können Sie sie auch durch die doppelte Leerzeile voneinander trennen:</text:p>
-   <text:p text:style-name="P26">pilight wollte drei Signale senden, aber die TCP Sockets haben Sie zu einem Signal zusammengeführt. </text:p>
-   <text:p text:style-name="P26"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.836cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="2">
+   <text:p text:style-name="P27">pilight wollte drei Signale senden, aber die TCP Sockets haben Sie zu einem Signal zusammengefü<text:span text:style-name="T77">gt</text:span>. </text:p>
+   <text:p text:style-name="P27"><draw:frame draw:style-name="fr1" draw:name="Frame4" text:anchor-type="paragraph" svg:x="0cm" svg:y="1.836cm" svg:width="18.461cm" style:rel-width="100%" draw:z-index="2">
      <draw:text-box fo:min-height="0.041cm">
-      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
-      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
-      <text:p text:style-name="P50">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
+      <text:p text:style-name="P52">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
+      <text:p text:style-name="P52">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
+      <text:p text:style-name="P52">{&quot;message&quot;:&quot;test&quot;}\n</text:p>
      </draw:text-box>
-    </draw:frame>Die pilight socket_read Funktion bearbeitet diese gepufferten Signal um zu überprüfen ob wir mehrere zusammengeführte Streams haben. pilight konvertiert diese Signale dann zurück sodass die Ausgabe nur noch ein großer Stream der durch einzelne Leerzeilen getrennt ist:</text:p>
+    </draw:frame>Die pilight socket_read Funktion bearbeitet diese gepufferten Signal um zu überprüfen ob mehrere zusammengeführte Streams <text:span text:style-name="T77">empfangen wurden</text:span>. pilight konvertiert diese Signale dann zurück, sodass die Ausgabe nur noch ein großer Stream <text:span text:style-name="T77">ist,</text:span> der durch einzelne Leerzeilen getrennt <text:span text:style-name="T77">wird</text:span>:</text:p>
   </office:text>
  </office:body>
 </office:document>
