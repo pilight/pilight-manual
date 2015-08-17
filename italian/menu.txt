@@ -16,8 +16,8 @@
 8|Domande frequenti|faq
 9|
 10|Sviluppo
-	9.1|API|api
-	9.2|Debugging|debugging
+	10.1|API|api
+	10.2|Debugging|debugging
 11|
 12|Sitemap|sitemap
 13|
