@@ -8,9 +8,9 @@
 	4.4|Einstellungen (Settings)|configuration-settings
 	4.5|Hardware|configuration-hardware
 	4.6|Registry|configuration-registry
-	4.7|Example|configuration
+	4.7|Beispiel|configuration
 5|Eventing|eventing
-6|AdHoc-Network|adhoc-network
+6|AdHoc-Netzwerk|adhoc-network
 7|Elektronik
 	7.1|Verkabelung|electronics-wiring
 8|Häufig gestellte Fragen|faq
