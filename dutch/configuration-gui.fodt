@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="52" meta:word-count="434" meta:character-count="2500" meta:non-whitespace-character-count="2076"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-26T12:03:06.830000000</meta:creation-date><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2015-05-09T10:09:00.272000000</dc:date><meta:editing-duration>PT1H30M35S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="53" meta:word-count="448" meta:character-count="2599" meta:non-whitespace-character-count="2163"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">25188</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">23497</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21565</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11388</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">15887</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8274</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">39165</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">25188</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">23495</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21564</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">47572</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">158586</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4697612</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4732833</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -661,397 +661,401 @@
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00465080"/>
   </style:style>
   <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00414bf4"/>
   </style:style>
   <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00465080"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
   </style:style>
   <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="004519db" officeooo:paragraph-rsid="004519db"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00465080"/>
   </style:style>
   <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="004519db" officeooo:paragraph-rsid="004519db"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="00465080"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="00034f41"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
-  </style:style>
   <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:line-height="125%">
-    <style:tab-stops/>
-   </style:paragraph-properties>
    <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
   <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="002b886c" officeooo:paragraph-rsid="002b886c"/>
+   <style:paragraph-properties fo:line-height="125%">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
   <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="002bd75e"/>
+   <style:text-properties officeooo:rsid="002b886c" officeooo:paragraph-rsid="002b886c"/>
   </style:style>
   <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="002bd75e" officeooo:paragraph-rsid="002bd75e"/>
+   <style:text-properties officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
   <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="002bd75e" officeooo:paragraph-rsid="002bd75e"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:line-height="125%">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547" officeooo:paragraph-rsid="0032e547"/>
   </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002b886c" officeooo:paragraph-rsid="002b886c"/>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76" officeooo:paragraph-rsid="00384f76"/>
   </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00362983" officeooo:paragraph-rsid="00362983"/>
   </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="003792a9"/>
   </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="003792a9" officeooo:paragraph-rsid="003792a9"/>
   </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00384f76" officeooo:paragraph-rsid="00384f76"/>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0039f5ee" officeooo:paragraph-rsid="0039f5ee"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00465080"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00034f41"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
-  </style:style>
   <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:line-height="125%">
-    <style:tab-stops/>
-   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:line-height="125%">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties officeooo:paragraph-rsid="00300c13"/>
   </style:style>
   <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:paragraph-properties fo:line-height="125%">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="00300c13"/>
   </style:style>
   <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983" officeooo:paragraph-rsid="003834a4"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="003792a9" officeooo:paragraph-rsid="003792a9"/>
-  </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00384f76"/>
-  </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
-  </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
-  </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
-  </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="00289ca6"/>
-  </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983" officeooo:paragraph-rsid="00362983"/>
-  </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983" officeooo:paragraph-rsid="003834a4"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003834a4"/>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="003792a9" officeooo:paragraph-rsid="003792a9"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00384f76"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="00289ca6"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983" officeooo:paragraph-rsid="00362983"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983" officeooo:paragraph-rsid="003834a4"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="003834a4"/>
   </style:style>
   <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
   <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
+   <style:text-properties officeooo:rsid="0009fbca" officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
   <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
+   <style:text-properties officeooo:paragraph-rsid="0014498d"/>
   </style:style>
   <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="002919b0"/>
+   <style:text-properties officeooo:rsid="00034f41" officeooo:paragraph-rsid="00034f41"/>
   </style:style>
   <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="002bd75e" officeooo:paragraph-rsid="002bd75e"/>
+   <style:text-properties officeooo:paragraph-rsid="002919b0"/>
   </style:style>
   <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
+   <style:text-properties officeooo:rsid="002bd75e" officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
   <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00289ca6" officeooo:paragraph-rsid="00289ca6"/>
+   <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
   <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00300c13"/>
+   <style:text-properties officeooo:rsid="00289ca6" officeooo:paragraph-rsid="00289ca6"/>
   </style:style>
   <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00300c13"/>
   </style:style>
   <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0039f5ee" officeooo:paragraph-rsid="0039f5ee"/>
+   <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
   </style:style>
   <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
+   <style:text-properties officeooo:rsid="0039f5ee" officeooo:paragraph-rsid="0039f5ee"/>
   </style:style>
   <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00465080"/>
+   <style:text-properties officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
   </style:style>
-  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00465080"/>
   </style:style>
   <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="00300c13"/>
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00300c13"/>
+   <style:text-properties officeooo:paragraph-rsid="00300c13"/>
   </style:style>
-  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00300c13"/>
   </style:style>
   <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Code">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
   </style:style>
   <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Code">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
+   <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
   </style:style>
-  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Code">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
   <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
   <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="002bd75e"/>
+   <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="00298cd8"/>
   </style:style>
   <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="003792a9"/>
+   <style:text-properties officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
   <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00384f76" officeooo:paragraph-rsid="00384f76"/>
+   <style:text-properties officeooo:paragraph-rsid="003792a9"/>
   </style:style>
   <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00384f76" officeooo:paragraph-rsid="00384f76"/>
+  </style:style>
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0039f5ee"/>
   </style:style>
-  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="003792a9"/>
   </style:style>
-  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0009fbca"/>
   </style:style>
-  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00277635"/>
   </style:style>
-  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:rsid="00289ca6" officeooo:paragraph-rsid="002919b0"/>
   </style:style>
-  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00289ca6"/>
   </style:style>
-  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="002919b0"/>
   </style:style>
-  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="002b886c"/>
   </style:style>
-  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="002bd75e"/>
   </style:style>
-  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:rsid="00298cd8" officeooo:paragraph-rsid="002b886c"/>
   </style:style>
-  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:rsid="002b886c" officeooo:paragraph-rsid="002b886c"/>
   </style:style>
-  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="00300c13"/>
   </style:style>
-  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:paragraph-rsid="0032e547"/>
   </style:style>
-  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:rsid="00335d24" officeooo:paragraph-rsid="00335d24"/>
   </style:style>
-  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Terminal">
+  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Terminal">
    <style:text-properties officeooo:rsid="00335d24" officeooo:paragraph-rsid="00345b93"/>
   </style:style>
-  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.461cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.962cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="000bfc79"/>
   </style:style>
-  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="001dc3ec"/>
   </style:style>
-  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="0025304e"/>
   </style:style>
-  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties officeooo:paragraph-rsid="00271496"/>
   </style:style>
-  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Code">
+  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Code">
    <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
-  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="000de7a4"/>
   </style:style>
-  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Image">
+  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Image">
    <style:text-properties officeooo:paragraph-rsid="00225b8a"/>
   </style:style>
-  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.463cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:paragraph-rsid="003792a9"/>
   </style:style>
-  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Contents_20_4">
+  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Contents_20_4">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="16.963cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0.25cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:paragraph-rsid="00384f76"/>
   </style:style>
-  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
    <style:text-properties officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00430678"/>
   </style:style>
-  <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
-   <style:text-properties officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
-  </style:style>
   <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
+   <style:text-properties officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
   </style:style>
   <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="false" fo:line-height="100%"/>
-   <style:text-properties officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
   </style:style>
   <style:style style:name="P148" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="false" fo:line-height="100%"/>
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
+   <style:text-properties officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
   </style:style>
-  <style:style style:name="P149" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00465080"/>
+  <style:style style:name="P149" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
   </style:style>
   <style:style style:name="P150" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00414bf4" officeooo:paragraph-rsid="00414bf4"/>
   </style:style>
-  <style:style style:name="P151" style:family="paragraph" style:parent-style-name="Code">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
-  </style:style>
-  <style:style style:name="P152" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00414bf4"/>
-  </style:style>
-  <style:style style:name="P153" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P151" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00465080"/>
   </style:style>
-  <style:style style:name="P154" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P152" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00414bf4"/>
   </style:style>
-  <style:style style:name="P155" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P153" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
    <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
   </style:style>
-  <style:style style:name="P156" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P154" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="004837a1"/>
+  </style:style>
+  <style:style style:name="P155" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="false" fo:line-height="100%"/>
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="00430678"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00430678" officeooo:paragraph-rsid="004837a1"/>
+  </style:style>
+  <style:style style:name="P156" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="00465080" officeooo:paragraph-rsid="00465080"/>
+  </style:style>
+  <style:style style:name="P157" style:family="paragraph" style:parent-style-name="Code">
+   <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00034f41"/>
@@ -1237,115 +1241,121 @@
    <style:text-properties fo:font-style="italic" officeooo:rsid="00465080" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="004837a1" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00335d24" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00335d24" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00345b93" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00465080" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00384f76" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties officeooo:rsid="002d482f"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00465080" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties officeooo:rsid="00319e73"/>
+   <style:text-properties officeooo:rsid="002d482f"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties officeooo:rsid="0032e547"/>
+   <style:text-properties officeooo:rsid="00319e73"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties officeooo:rsid="00335d24"/>
+   <style:text-properties officeooo:rsid="0032e547"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB"/>
+   <style:text-properties officeooo:rsid="00335d24"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
+   <style:text-properties fo:language="en" fo:country="GB"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00298cd8"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="00298cd8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-weight="bold" officeooo:rsid="00298cd8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00289ca6"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="002bd75e"/>
   </style:style>
   <style:style style:name="T84" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002bd75e" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547"/>
+   <style:text-properties fo:language="en" fo:country="GB" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d482f" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T87" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="0032e547"/>
   </style:style>
   <style:style style:name="T88" style:family="text">
-   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00362983"/>
   </style:style>
   <style:style style:name="T89" style:family="text">
-   <style:text-properties officeooo:rsid="003792a9"/>
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:rsid="00384f76"/>
   </style:style>
   <style:style style:name="T90" style:family="text">
-   <style:text-properties style:font-name="Liberation Mono2"/>
+   <style:text-properties officeooo:rsid="003792a9"/>
   </style:style>
   <style:style style:name="T91" style:family="text">
-   <style:text-properties officeooo:rsid="00362983"/>
+   <style:text-properties style:font-name="Liberation Mono2"/>
   </style:style>
   <style:style style:name="T92" style:family="text">
-   <style:text-properties officeooo:rsid="00384f76"/>
+   <style:text-properties officeooo:rsid="00362983"/>
   </style:style>
   <style:style style:name="T93" style:family="text">
-   <style:text-properties fo:color="#3333ff"/>
+   <style:text-properties officeooo:rsid="00384f76"/>
   </style:style>
   <style:style style:name="T94" style:family="text">
-   <style:text-properties officeooo:rsid="0039f5ee"/>
+   <style:text-properties fo:color="#3333ff"/>
   </style:style>
   <style:style style:name="T95" style:family="text">
-   <style:text-properties officeooo:rsid="003e698d"/>
+   <style:text-properties officeooo:rsid="0039f5ee"/>
   </style:style>
   <style:style style:name="T96" style:family="text">
-   <style:text-properties officeooo:rsid="00430678"/>
+   <style:text-properties officeooo:rsid="003e698d"/>
   </style:style>
   <style:style style:name="T97" style:family="text">
-   <style:text-properties officeooo:rsid="0044255a"/>
+   <style:text-properties officeooo:rsid="00430678"/>
   </style:style>
   <style:style style:name="T98" style:family="text">
+   <style:text-properties officeooo:rsid="0044255a"/>
+  </style:style>
+  <style:style style:name="T99" style:family="text">
    <style:text-properties officeooo:rsid="00465080"/>
+  </style:style>
+  <style:style style:name="T100" style:family="text">
+   <style:text-properties officeooo:rsid="004837a1"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -1476,7 +1486,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Image"/>
    </text:sequence-decls>
-   <text:h text:style-name="P83" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2262_1017235475"/>GUI<text:bookmark-end text:name="__RefHeading___Toc2262_1017235475"/></text:h>
+   <text:h text:style-name="P84" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2262_1017235475"/>GUI<text:bookmark-end text:name="__RefHeading___Toc2262_1017235475"/></text:h>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Inhoudsopgave1">
     <text:table-of-content-source text:outline-level="10">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -1562,145 +1572,148 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="P132"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2262_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">GUI<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P140"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2264_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introductie<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P140"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2266_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Elementen<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P140"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2268_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Groepen<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P133"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2262_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">GUI<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2264_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Introductie<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2266_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Elementen<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P141"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2268_1017235475" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Groepen<text:tab/>2</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P72" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2264_1017235475"/>Introductie<text:bookmark-end text:name="__RefHeading___Toc2264_1017235475"/></text:h>
-   <text:p text:style-name="P51"><text:span text:style-name="T98">pilight heeft een uitgebreide API die ontwikkelaars de mogelijkheid geeft om zelf </text:span><text:span text:style-name="T61">graphical user interfaces</text:span><text:span text:style-name="T69"> (GUI) te schrijven. Een pilight GUI is eigenlijk niks meer dan een representatie van apparaten die een gebruiker wil kunnen bedienen. Dit betekent dat de GUI niet alle apparaten hoeft te tonen die een gebruiker heeft geconfigureerd in de apparaten sectie en dat niet alle GUIs dezelfde informatie hoeft te tonen. Er kan een compacte GUI gemaakt worden voor kleine schermen zoals een mobiele telefoon en een meer uitgebreide GUI voor computer schermen.</text:span></text:p>
-   <text:h text:style-name="P72" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2266_1017235475"/>Elementen<text:bookmark-end text:name="__RefHeading___Toc2266_1017235475"/></text:h>
+   <text:h text:style-name="P73" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2264_1017235475"/>Introductie<text:bookmark-end text:name="__RefHeading___Toc2264_1017235475"/></text:h>
+   <text:p text:style-name="P52"><text:span text:style-name="T99">pilight heeft een uitgebreide API die ontwikkelaars de mogelijkheid geeft om zelf </text:span><text:span text:style-name="T61">graphical user interfaces</text:span><text:span text:style-name="T70"> (GUI) te schrijven. Een pilight GUI is eigenlijk niks meer dan een representatie van apparaten die een gebruiker wil kunnen bedienen. Dit betekent dat de GUI niet alle apparaten hoeft te tonen die een gebruiker heeft geconfigureerd in de apparaten sectie en dat niet alle GUIs dezelfde informatie hoeft te tonen. Er kan een compacte GUI gemaakt worden voor kleine schermen zoals een mobiele telefoon en een meer uitgebreide GUI voor computer schermen.</text:span></text:p>
+   <text:h text:style-name="P73" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2266_1017235475"/>Elementen<text:bookmark-end text:name="__RefHeading___Toc2266_1017235475"/></text:h>
    <text:p text:style-name="P47">Laten we teruggrijpen op de apparaten die we eerder hebben geconfigureerd.</text:p>
-   <text:list xml:id="list7050887233874678723" text:style-name="Code_20_Numbering">
+   <text:list xml:id="list381343790506514231" text:style-name="Code_20_Numbering">
     <text:list-item>
-     <text:p text:style-name="P137"><text:span text:style-name="T93">&quot;devices&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P138"><text:span text:style-name="T94">&quot;devices&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/>&quot;<text:span text:style-name="T93">television&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P138"><text:tab/>&quot;<text:span text:style-name="T94">television&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T93">&quot;relay&quot;</text:span> ],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T94">&quot;relay&quot;</text:span> ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: [{</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;id&quot;</text:span>: [{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;gpio&quot;</text:span>: 3</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T94">&quot;gpio&quot;</text:span>: 3</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/>}],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/>}],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;state&quot;</text:span>: <text:span text:style-name="T93">&quot;off&quot;</text:span></text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;state&quot;</text:span>: <text:span text:style-name="T94">&quot;off&quot;</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/>},</text:p>
+     <text:p text:style-name="P138"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:span text:style-name="T93">&quot;bookShelfLight&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:span text:style-name="T94">&quot;bookShelfLight&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T93">&quot;kaku_switch&quot;</text:span> ],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;protocol&quot;</text:span>: [ <text:span text:style-name="T94">&quot;kaku_switch&quot;</text:span> ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: [{</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;id&quot;</text:span>: [{</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;id&quot;</text:span>: 123456,</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T94">&quot;id&quot;</text:span>: 123456,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T93">&quot;unit&quot;</text:span>: 1</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:tab/><text:span text:style-name="T94">&quot;unit&quot;</text:span>: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/>}],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/>}],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;state&quot;</text:span>: <text:span text:style-name="T93">&quot;off&quot;</text:span></text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;state&quot;</text:span>: <text:span text:style-name="T94">&quot;off&quot;</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/>}</text:p>
+     <text:p text:style-name="P138"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137">}</text:p>
+     <text:p text:style-name="P138">}</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P152">Om een van deze twee apparaten in de GUI te laten zien voegen we het apparaat toe aan de GUI configuratie zoals dit:</text:p>
-   <text:list xml:id="list185809447859579" text:continue-list="list7050887233874678723" text:style-name="Code_20_Numbering">
+   <text:p text:style-name="P48">Om een van deze twee apparaten in de GUI te laten zien voegen we het apparaat toe aan de GUI configuratie zoals dit:</text:p>
+   <text:list xml:id="list212537943164436" text:continue-list="list381343790506514231" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P137"><text:span text:style-name="T93">&quot;gui&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P138"><text:span text:style-name="T94">&quot;gui&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:span text:style-name="T93">&quot;television&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:span text:style-name="T94">&quot;television&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;name&quot;</text:span>: <text:span text:style-name="T93">&quot;Television&quot;</text:span>,</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;name&quot;</text:span>: <text:span text:style-name="T94">&quot;Television&quot;</text:span>,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;group&quot;</text:span>: [ <text:span text:style-name="T93">&quot;Living&quot;</text:span> ],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;group&quot;</text:span>: [ <text:span text:style-name="T94">&quot;Living&quot;</text:span> ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;media&quot;</text:span>: [ <text:span text:style-name="T93">&quot;web&quot;</text:span> ],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;media&quot;</text:span>: [ <text:span text:style-name="T94">&quot;web&quot;</text:span> ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;readonly&quot;</text:span>: 0</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;readonly&quot;</text:span>: 0</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/>},</text:p>
+     <text:p text:style-name="P138"><text:tab/>},</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:span text:style-name="T93">&quot;bookShelfLight&quot;</text:span>: {</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:span text:style-name="T94">&quot;bookShelfLight&quot;</text:span>: {</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;name&quot;</text:span>: <text:span text:style-name="T93">&quot;Book Shelve&quot;</text:span>,</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;name&quot;</text:span>: <text:span text:style-name="T94">&quot;Book Shelve&quot;</text:span>,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;group&quot;</text:span>: [ <text:span text:style-name="T93">&quot;Library&quot;</text:span> ],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;group&quot;</text:span>: [ <text:span text:style-name="T94">&quot;Library&quot;</text:span> ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;media&quot;</text:span>: [ <text:span text:style-name="T93">&quot;mobile&quot;</text:span> ],</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;media&quot;</text:span>: [ <text:span text:style-name="T94">&quot;mobile&quot;</text:span> ],</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/><text:tab/><text:span text:style-name="T93">&quot;readonly&quot;</text:span>: 1</text:p>
+     <text:p text:style-name="P138"><text:tab/><text:tab/><text:span text:style-name="T94">&quot;readonly&quot;</text:span>: 1</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137"><text:tab/>}</text:p>
+     <text:p text:style-name="P138"><text:tab/>}</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P137">}</text:p>
+     <text:p text:style-name="P138">}</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P48"/>
-   <text:p text:style-name="P101">Elk apparaat dat je wil toevoegen aan de GUI moet op zichzelf geconfigureerd zijn. Je kan alleen apparaten toevoegen die eerder al zijn toegevoegd aan het apparaten deel van de configuratie. Je hoeft echter niet alle apparaten toe te voegen aan de GUI. Er zijn voor elk GUI vermelding heeft een aantal vaste velden:</text:p>
-   <text:list xml:id="list5655716556782458473" text:style-name="L1">
+   <text:p text:style-name="P49"/>
+   <text:p text:style-name="P102">Elk apparaat dat je wil toevoegen aan de GUI moet op zichzelf geconfigureerd zijn. Je kan alleen apparaten toevoegen die eerder al zijn toegevoegd aan het apparaten deel van de configuratie. Je hoeft echter niet alle apparaten toe te voegen aan de GUI. Er zijn voor elk GUI vermelding heeft een aantal vaste velden:</text:p>
+   <text:list xml:id="list4015192705312171354" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P155"><text:span text:style-name="T57">name</text:span><text:line-break/><text:span text:style-name="T98">De naam die in de GUI getoond dient te worden.</text:span></text:p>
+     <text:p text:style-name="P153"><text:span text:style-name="T57">name</text:span><text:line-break/><text:span text:style-name="T99">De naam die in de GUI getoond dient te worden.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P155"><text:span text:style-name="T57">group</text:span><text:line-break/><text:span text:style-name="T98">Zie verderop.</text:span></text:p>
+     <text:p text:style-name="P153"><text:span text:style-name="T57">group</text:span><text:line-break/><text:span text:style-name="T99">Zie verderop.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P155"><text:span text:style-name="T61">m</text:span><text:span text:style-name="T57">edia</text:span><text:line-break/><text:span text:style-name="T98">Welke GUIs moeten dit apparaten laten zien: mobile, web, desktop, all (standaard).</text:span></text:p>
+     <text:p text:style-name="P153"><text:span text:style-name="T61">m</text:span><text:span text:style-name="T57">edia</text:span><text:line-break/><text:span text:style-name="T99">Welke GUIs moeten dit apparaten laten zien: mobile, web, desktop, all (standaard).</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P156"><text:span text:style-name="T57">readonly</text:span><text:line-break/><text:span text:style-name="T98">Dient het GUI element alleen lezen zijn (standaard 0).</text:span></text:p>
+     <text:p text:style-name="P154"><text:span text:style-name="T57">readonly</text:span><text:line-break/><text:span text:style-name="T99">Dient het GUI element alleen lezen zijn (standaard 0).</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P155"><text:span text:style-name="T62">confirm</text:span><text:line-break/><text:span text:style-name="T100">Moet een GUI vragen om confirmatie voordat veranderingen worden doorgevoerd (standaard 0)?</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P47">Om te weten wat de aanvullende opties zijn voor een specifiek protocol, kijk dan naar de protocollen sectie van deze handleiding.</text:p>
-   <text:h text:style-name="P72" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2268_1017235475"/>Groepen<text:bookmark-end text:name="__RefHeading___Toc2268_1017235475"/></text:h>
-   <text:p text:style-name="P49"><text:span text:style-name="T98">Het </text:span><text:span text:style-name="T61">group </text:span><text:span text:style-name="T69">veld maakt het mogelijk om GUI elementen te groeperen. pilight geeft de mogelijkheid om meerdere groepen toe te voegen, maar het is afhankelijk van de specifieke GUI wat er met deze groepen doet. Op dit moment, zal de pilight webGUI en de Android App Illumina alleen de eerste groep gebruiken om verschillende tabs mee te maken. Het kan echter mogelijk zijn om:</text:span></text:p>
-   <text:list xml:id="list4468385813787726581" text:style-name="L2">
+   <text:h text:style-name="P73" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2268_1017235475"/>Groepen<text:bookmark-end text:name="__RefHeading___Toc2268_1017235475"/></text:h>
+   <text:p text:style-name="P50"><text:span text:style-name="T99">Het </text:span><text:span text:style-name="T61">group </text:span><text:span text:style-name="T70">veld maakt het mogelijk om GUI elementen te groeperen. pilight geeft de mogelijkheid om meerdere groepen toe te voegen, maar het is afhankelijk van de specifieke GUI wat er met deze groepen doet. Op dit moment, zal de pilight webGUI en de Android App Illumina alleen de eerste groep gebruiken om verschillende tabs mee te maken. Het kan echter mogelijk zijn om:</text:span></text:p>
+   <text:list xml:id="list1333023558677185952" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P153">Elementen aan meerdere groepen toe te voegen.</text:p>
+     <text:p text:style-name="P151">Elementen aan meerdere groepen toe te voegen.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P154">Een boomstructuur van ouder / kind elementen.</text:p>
+     <text:p text:style-name="P152">Een boomstructuur van ouder / kind elementen.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P154">Pagina&apos;s maken van gegroepeerde widgets.</text:p>
+     <text:p text:style-name="P152">Pagina&apos;s maken van gegroepeerde widgets.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P51"/>
   </office:text>
  </office:body>
 </office:document>
