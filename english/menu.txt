@@ -13,7 +13,7 @@
 6|AdHoc-Network|adhoc-network
 7|Electronics
 	7.1|Wiring|electronics-wiring
-	7.2|PCB Soldering|electronics-soldering
+	7.2|PCB Soldering|electronics-pcbsoldering
 8|Frequently Asked Questions|faq
 9|
 10|Development
