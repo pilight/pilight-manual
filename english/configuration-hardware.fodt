@@ -836,7 +836,7 @@
      <text:p text:style-name="Code"><text:span text:style-name="Source_20_Text">}</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T10">The default configuration to be used with the pilight PCB. When using custom wiring, refer to </text:span><text:a xlink:type="simple" xlink:href="http://www.wirngx.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T10">http://www.wiringx.org</text:span></text:a><text:span text:style-name="T10"> for the pin numbering of the various supported devices</text:span>. If you want to disable the sender or receiver pin, set it to -1.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T10">The default configuration to be used with the pilight PCB. When using custom wiring, refer to </text:span><text:a xlink:type="simple" xlink:href="http://www.wiringx.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T10">http://www.wiringx.org</text:span></text:a><text:span text:style-name="T10"> for the pin numbering of the various supported devices</text:span>. If you want to disable the sender or receiver pin, set it to -1.</text:p>
    <text:h text:style-name="P11" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2459_1937404556"/>pilight USB Nano<text:bookmark-end text:name="__RefHeading___Toc2459_1937404556"/></text:h>
    <text:list xml:id="list195031571175474" text:continue-list="list195032759666874" text:style-name="Code_20_Numbering">
     <text:list-item text:start-value="1">
