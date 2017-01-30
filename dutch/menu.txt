@@ -13,6 +13,7 @@
 6|AdHoc-Netwerk|adhoc-network
 7|Electronica
 	7.1|Bedrading|electronics-wiring
+	7.2|Solderen|electronics-pcbsoldering
 8|Veel gestelde vragen|faq
 9|
 10|Ontwikkeling
